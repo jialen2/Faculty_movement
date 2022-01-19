@@ -1,0 +1,21 @@
+Many data are unrelated, like there's no record for some prof working in certain universities in the dataset.
+Solution: Ignore these data
+
+When working on the work_to_work relationship, it is hard to determine whether an institution a prof worked on is an academic institution or not.
+Solution: Download a list of universities and match whether each instition is in the list or not.
+Potential_fault: there could be some name mispelling causing some academic institution can not be matched
+
+For edu_to_edu and work_to_work edges, it is hard to determine whether there's no overlapping between two experience.
+Solution: Just compare by start time, assuming there's no overlap
+
+Some education data for some professor in the dataset has no record on when they attend a school. e.g. Elizabeth Gerber in Northwestern University.
+Solution: Ignore these records
+
+Missing education record for some professor. 
+Solution: Ignore data for these professor
+
+Some Universities have abbreviated names. 
+Solution: manually union different universities name
+Potential fault: there still could be some universities name unmatched
+
+

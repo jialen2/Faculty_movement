@@ -1,0 +1,5144 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]>
+<html class="iem7" lang="en" dir="ltr">
+<![endif]-->
+<!--[if lte IE 6]>
+<html class="lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr">
+<![endif]-->
+<!--[if (IE 7)&(!IEMobile)]>
+<html class="lt-ie9 lt-ie8" lang="en" dir="ltr">
+<![endif]-->
+<!--[if IE 8]>
+<html class="lt-ie9" lang="en" dir="ltr">
+<![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]>
+<!-->
+<html lang="en" dir="ltr">
+<!--
+<![endif]-->
+<head>
+<meta charset="utf-8" />
+<script type="text/javascript">
+<no_tag>
+(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"NRJS-1460c629cd2534ef86d",applicationID:"720617672"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i
+</no_tag>
+<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r
+<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?p("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&p("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>
+<no_tag>
+0){var r=n[n.length-1];if(f&&f
+</no_tag>
+<r.startTime)return;p("lcp",[r])}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||p("cls",[t])})}function a(t){if(t instanceof g&&!y){var e=Math.round(t.timeStamp),n={type:t.type};e
+<=l.now()?n.fid=l.now()-e:e>
+<no_tag>
+l.offset&&e
+</no_tag>
+<=Date.now()?(e-=l.offset,n.fid=l.now()-e):e=l.now(),y=!0,p("timing",["fi",e,n])}}function c(t){"hidden"===t&&(f=l.now(),p("pageHide",[f]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d,p=t("handle"),l=t("loader"),v=t(9),m=t(3),g=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){u=new PerformanceObserver(r);try{u.observe({entryTypes:["paint"]})}catch(h){}s=new PerformanceObserver(i);try{s.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}d=new PerformanceObserver(o);try{d.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var y=!1,w=["click","keydown","mousedown","pointerdown","touchstart"];w.forEach(function(t){document.addEventListener(t,a,m(!1))})}v(c)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a
+<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i
+<0?0:i);++r
+<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s
+<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){y[t]=m(t).concat(e)}function v(t,e){var n=y[t];if(n)for(var r=0;r
+<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function g(t){return p[t]=p[t]||i(n)}function h(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var y={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:h,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!T++){var t=P.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+P.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+P.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,h="addEventListener",y="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1212.min.js"},M=w&&b&&b[h]&&!/CriOS/.test(navigator.userAgent),P=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:M,userAgent:s,disabled:E};if(!E){t(1),t(7),g[h]?(g[h]("DOMContentLoaded",o,l(!1)),m[h]("load",r,l(!1))):(g[y]("onreadystatechange",i),m[y]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var T=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u
+<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n
+<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);
+</script>
+<link rel="shortcut icon" href="https://econ.washington.edu/sites/all/themes/uwnorthanger_zen_boundless/favicon.ico" type="image/vnd.microsoft.icon" />
+<title>
+People - Faculty | Department of Economics | University of Washington
+</title>
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width">
+<meta http-equiv="cleartype" content="on">
+<link type="text/css" rel="stylesheet" href="https://econ.washington.edu/sites/econ/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://econ.washington.edu/sites/econ/files/css/css_Q7R7Blo9EYqLDI5rIlO_T3uTFBjIXjLpcqMHjTvVdmg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://econ.washington.edu/sites/econ/files/css/css_ECxruSgwKoSFRlFwLPASekyaEuOPYgvTe8_8sPmjnbs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://econ.washington.edu/sites/econ/files/css/css_DkQoWkNmu_Sgc9cEASds723Ejqd0B-ZDR2sb6yH9H88.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://econ.washington.edu/sites/econ/files/css/css_X8v2iYOaSWiUa7VR_qznhH20RREB49jg1jaQcBSHAdU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://econ.washington.edu/sites/econ/files/css/css_2G5dkjetPWAPOu-JF3Agu6XhGW82QCav1xulazn2qrg.css" media="all" />
+<style>
+.background-layer{background-image:url('https://econ.washington.edu/sites/econ/files/econ-header-mobile.jpg') !important;}@media all and (min-width:768px){.background-layer{background-image:url('https://econ.washington.edu/sites/econ/files/econ-header-background.jpg') !important;}}.lt-ie9 .background-layer{background-image:url('https://econ.washington.edu/sites/econ/files/econ-header-background.jpg') !important;}
+
+</style>
+<script src="https://econ.washington.edu/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.2">
+</script>
+<script src="https://econ.washington.edu/misc/jquery-extend-3.4.0.js?v=1.7.2">
+</script>
+<script src="https://econ.washington.edu/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.7.2">
+</script>
+<script src="https://econ.washington.edu/misc/jquery.once.js?v=1.2">
+</script>
+<script src="https://econ.washington.edu/misc/drupal.js?r5sxxj">
+</script>
+<script src="https://econ.washington.edu/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2">
+</script>
+<script src="https://econ.washington.edu/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2">
+</script>
+<script src="https://econ.washington.edu/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.accordion.min.js?v=1.10.2">
+</script>
+<script src="https://econ.washington.edu/sites/all/modules/google_cse/google_cse.js?r5sxxj">
+</script>
+<script src="https://econ.washington.edu/sites/all/libraries/colorbox/jquery.colorbox-min.js?r5sxxj">
+</script>
+<script src="https://econ.washington.edu/sites/all/modules/colorbox/js/colorbox.js?r5sxxj">
+</script>
+<script src="https://econ.washington.edu/sites/all/modules/colorbox/js/colorbox_load.js?r5sxxj">
+</script>
+<script src="https://econ.washington.edu/sites/all/modules/ctools/js/auto-submit.js?r5sxxj">
+</script>
+<script src="https://econ.washington.edu/sites/all/modules/google_analytics/googleanalytics.js?r5sxxj">
+</script>
+<script>
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-25223004-30", {"cookieDomain":"auto"});ga("send", "pageview");ga('create', 'UA-25223004-20', 'auto', {'name': 'allSupportedSites'});
+ga('allSupportedSites.send', 'pageview');
+</script>
+<script src="https://econ.washington.edu/sites/all/modules/uwartsciutilities/exposedfilterstatus.js?r5sxxj">
+</script>
+<script>
+jQuery(document).ready(function() {jQuery(".content-accordion").accordion({autoHeight: false, collapsible: true, active: false});});
+</script>
+<script src="https://econ.washington.edu/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?r5sxxj">
+</script>
+<script src="https://econ.washington.edu/sites/all/libraries/superfish/sftouchscreen.js?r5sxxj">
+</script>
+<script src="https://econ.washington.edu/sites/all/libraries/superfish/superfish.js?r5sxxj">
+</script>
+<script src="https://econ.washington.edu/sites/all/libraries/superfish/supersubs.js?r5sxxj">
+</script>
+<script src="https://econ.washington.edu/sites/all/modules/superfish/superfish.js?r5sxxj">
+</script>
+<script src="https://econ.washington.edu/sites/all/themes/uwnorthanger_zen_boundless/js/script.js?r5sxxj">
+</script>
+<script src="https://econ.washington.edu/sites/all/themes/uwnorthanger_zen_boundless/js/responsive-tables.js?r5sxxj">
+</script>
+<script>
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"uwnorthanger_zen_boundless","theme_token":"MWT8wkUGVX6qsOWJy1N7AShCDUk8lgsH0OjRAUtUVE8","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/ctools\/js\/auto-submit.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/uwartsciutilities\/exposedfilterstatus.js":1,"1":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/uwnorthanger_zen_boundless\/js\/script.js":1,"sites\/all\/themes\/uwnorthanger_zen_boundless\/js\/responsive-tables.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/uwtrumba\/uwtrumba.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/libraries\/colorbox\/example5\/colorbox.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/addtoany\/addtoany.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/uwnorthanger_zen_boundless\/system.menus.css":1,"sites\/all\/themes\/uwnorthanger_zen_boundless\/css\/normalize.css":1,"sites\/all\/themes\/uwnorthanger_zen_boundless\/css\/wireframes.css":1,"sites\/all\/themes\/uwnorthanger_zen_boundless\/css\/layouts\/responsive-sidebars.css":1,"sites\/all\/themes\/uwnorthanger_zen_boundless\/css\/tabs.css":1,"sites\/all\/themes\/uwnorthanger_zen_boundless\/css\/pages.css":1,"sites\/all\/themes\/uwnorthanger_zen_boundless\/css\/blocks.css":1,"sites\/all\/themes\/uwnorthanger_zen_boundless\/css\/navigation.css":1,"sites\/all\/themes\/uwnorthanger_zen_boundless\/css\/views-styles.css":1,"sites\/all\/themes\/uwnorthanger_zen_boundless\/css\/nodes.css":1,"sites\/all\/themes\/uwnorthanger_zen_boundless\/css\/comments.css":1,"sites\/all\/themes\/uwnorthanger_zen_boundless\/css\/forms.css":1,"sites\/all\/themes\/uwnorthanger_zen_boundless\/css\/fields.css":1,"sites\/all\/themes\/uwnorthanger_zen_boundless\/css\/boundless-header.css":1,"sites\/all\/themes\/uwnorthanger_zen_boundless\/css\/responsive-tables.css":1,"sites\/all\/themes\/uwnorthanger_zen_boundless\/css\/print.css":1,"sites\/all\/themes\/uwnorthanger_zen_boundless\/css\/ethereal-purple.css":1,"0":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleCSE":{"cx":"001967960132951597331:04hcho0_drk","language":"en","resultsWidth":0,"domain":"www.google.com","showWaterMark":true},"urlIsAjaxTrusted":{"\/people\/faculty":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"superfish":{"1":{"id":"1","sf":{"pathLevels":"2","animation":{"opacity":"show"},"speed":"\u0027fast\u0027","autoArrows":true,"dropShadows":false,"disableHI":false},"plugins":{"touchscreen":{"mode":"useragent_predefined"},"supposition":false,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}}});
+</script>
+<!--[if lt IE 9]>
+<script src="/sites/all/themes/zen/js/html5-respond.js">
+</script>
+<![endif]-->
+
+ 
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-people page-people-faculty section-people page-views ethereal-purple " >
+<div style='display:none' id='sbbhscc'>
+</div>
+<script type="text/javascript">
+
+ var sbbvscc='';
+ var sbbgscc='';
+ function genPid() {return String.fromCharCode(102)+String.fromCharCode(115) ; };
+ 
+</script>
+<div id='sbbfrcc' style='position: absolute; top: -10px; left: 30px; font-size:1px'>
+</div>
+<script type="text/javascript">
+<no_tag>
+(function(XHR){var open=XHR.prototype.open;var send=XHR.prototype.send;var parser=document.createElement('a');XHR.prototype.open=function(method, url, async, user, pass){if(typeof async=='undefined'){async=true;}parser.href=url;if(parser.host==''){parser.href=parser.href;}this.ajax_hostname=parser.hostname;open.call(this, method, url, async, user, pass);};XHR.prototype.send=function(data){if(location.hostname==this.ajax_hostname)this.setRequestHeader("X-MOD-SBB-CTYPE", "xhr");send.call(this, data);}})(XMLHttpRequest);if(typeof(fetch)!="undefined"){var nsbbfetch=fetch;fetch=function(url, init){if(typeof(url)==="object" && typeof(url.url)==="string"){init={method: url.method, mode: url.mode, cache: url.cache, credentials: url.credentials, headers: url.headers, body: url.body};url=url.url;}function sbbSd(url, domain){var parser=document.createElement('a');parser.href=url;if(parser.host==''){parser.href=parser.href;}return parser.hostname==location.hostname;}if(sbbSd(url, document.domain)){init=typeof init !=='undefined' ? init :{};if(typeof(init.headers)==="undefined"){init.headers={};}init.headers['X-MOD-SBB-CTYPE']='fetch';}return nsbbfetch(url, init);};}function sbbgc(check_name){var start=document.cookie.indexOf(check_name+"=");var oVal='';var len=start+check_name.length+1;if((!start)&&(document.cookie.substring(0,check_name.length)!=check_name)){oVal='';}else if(start==-1){oVal='';}else{var end=document.cookie.indexOf(';',len);if(end==-1)end=document.cookie.length;var oVal=document.cookie.substring(len,end);};return oVal;}function addmg(inm,ext){var primgobj=document.createElement('IMG');primgobj.src=window.location.protocol+"//"+window.location.hostname+(window.location.port && window.location.port!=80 ? ':'+window.location.port: '')+"/sbbi/?sbbpg="+inm+(ext?"&"+ext:"");var sbbDiv=document.getElementById('sbbfrcc');sbbDiv.appendChild(primgobj);};function addprid(prid){var oldVal=sbbgc("PRLST");if((oldVal.indexOf(prid)==-1)&&(oldVal.split('/').length
+</no_tag>
+<5)){if(oldVal!=''){oldVal+='/';}document.cookie='PRLST='+oldVal+escape(prid)+';path=/; SameSite=Lax;';}}var sbbeccf=function(){this.sp3="jass";this.sf1=function(vd){return sf2(vd)+32;};var sf2=function(avd){return avd*12;};this.sf4=function(yavd){return yavd+2;};var strrp=function(str, key, value){if(str.indexOf('&'+key+'=')>
+<no_tag>
+ -1 || str.indexOf(key+'=')==0){var idx=str.indexOf('&'+key+'=');if(idx==-1)idx=str.indexOf(key+'=');var end=str.indexOf('&', idx+1);var newstr;if(end !=-1)newstr=str.substr(0, idx)+str.substr(end+(idx ? 0 : 1))+'&'+key+'='+value;else newstr=str.substr(0, idx)+'&'+key+'='+value;return newstr;}else return str+'&'+key+'='+value;};var strgt=function(name, text){if(typeof text !='string')return "";var nameEQ=name+"=";var ca=text.split(/[;&]/);for(var i=0;i 
+</no_tag>
+< ca.length;i++){var c=ca[i];while(c.charAt(0)==' ')c=c.substring(1, c.length);if(c.indexOf(nameEQ)==0)return c.substring(nameEQ.length, c.length);}return "";};this.sfecgs={sbbgh:function(){var domain=document.location.host;if(domain.indexOf('www.')==0)domain=domain.replace('www.', '');return domain;}, f:function(name, value){var fv="";if(window.globalStorage){var host=this.sbbgh();try{if(typeof(value)!="undefined")globalStorage[host][name]=value;else{fv=globalStorage[host][name];if(typeof(fv.toString)!="undefined")fv=fv.toString();}}catch(e){}}return fv;}, name:"sbbrf"};this.sfecls={f:function(name, value){var fv="";try{if(window.localStorage){if(typeof(value)!="undefined")localStorage.setItem(name, value);else{fv=localStorage.getItem(name);if(typeof(fv.toString)!="undefined")fv=fv.toString();}}}catch(e){}return fv;}, name:"sbbrf"};this.sbbcv=function(invl){try{var invalArr=invl.split("-");if(invalArr.length>
+<no_tag>
+1){if(invalArr[0]=="A"||invalArr[0]=="D"){invl=invalArr[1];}else invl="";}if(invl==null||typeof(invl)=="undefined"||invl=="falseImgUT"||invl=="undefined"||invl=="null"||invl!=encodeURI(invl))invl="";if(typeof(invl).toLowerCase()=="string")if(invl.length>
+</no_tag>
+<no_tag>
+20)if(invl.substr(0,2)!="h4")invl="";}catch(ex){invl="";}return invl;};this.sbbsv=function(fv){for(var elm in this){if(this[elm].name=="sbbrf"){this[elm].f("altutgv2",fv);}}document.cookie="UTGv2="+fv+';expires=Sun, 17-Jul-22 19:15:48 GMT;path=/; SameSite=Lax;';};this.sbbgv=function(){var valArr=Array();var currVal="";for(var elm in this){if(this[elm].name=="sbbrf"){currVal=this[elm].f("altutgv2");currVal=this.sbbcv(currVal);if(currVal!="")valArr[currVal]=(typeof(valArr[currVal])!="undefined"?valArr[currVal]+1:1);}}var lb=0;var fv="";for(var val in valArr){if(valArr[val]>
+</no_tag>
+<no_tag>
+lb){fv=val;lb=valArr[val]}}if(fv=="")fv=sbbgc("UTGv2");fv=this.sbbcv(fv);if(fv!="")this.sbbsv(fv);else this.sbbsv("D-h4d4ca1334346c1a93fff603fc14b9f50c90");return fv;};};function m2vr(m1,m2){var i=0;var rc="";var est="ghijklmnopqrstuvwyz";var rnum;var rpl;var charm1=m1.charAt(i);var charm2=m2.charAt(i);while(charm1!=""||charm2!=""){rnum=Math.floor(Math.random()* est.length);rpl=est.substring(rnum,rnum+1);rc+=(charm1==""?rpl:charm1)+(charm2==""?rpl:charm2);i++;charm1=m1.charAt(i);charm2=m2.charAt(i);}return rc;}function sbbls(prid){try{var eut=sbbgc("UTGv2");window.sbbeccfi=new sbbeccf();window.sbbgs=sbbeccfi.sbbgv();if(eut!=sbbgs && sbbgs!="" && typeof(sbbfcr)=="undefined"){addmg('utMedia',"vii="+m2vr("c75b8d2bda5c6b7c0ed2522a45ea4eae",sbbgs));}var sbbiframeObj=document.createElement('IFRAME');var dfx=new Date();sbbiframeObj.id='SBBCrossIframe';sbbiframeObj.title='SBBCrossIframe';sbbiframeObj.tabindex='-1';sbbiframeObj.lang='en';sbbiframeObj.style.visibility='hidden';sbbiframeObj.setAttribute('aria-hidden', 'true');sbbiframeObj.style.border='0px';if(document.all){sbbiframeObj.style.position='absolute';sbbiframeObj.style.top='-1px';sbbiframeObj.style.height='1px';sbbiframeObj.style.width='28px';}else{sbbiframeObj.style.height='1px';sbbiframeObj.style.width='0px';}sbbiframeObj.scrolling="NO";sbbiframeObj.src=window.location.protocol+"//"+window.location.hostname+(window.location.port && window.location.port!=80 ? ':'+window.location.port: '')+'/sbbi/?sbbpg=sbbShell&gprid='+prid + '&sbbgs='+sbbgs+'&ddl='+(Math.round(dfx.getTime()/1000)-1642533348)+'';var sbbDiv=document.getElementById('sbbfrcc');sbbDiv.appendChild(sbbiframeObj);}catch(ex){;}}try{var y=unescape(sbbvscc.replace(/^
+</no_tag>
+<\!\-\-\s*|\s*\-\->
+<no_tag>
+$/g,''));document.getElementById('sbbhscc').innerHTML=y;var x=unescape(sbbgscc.replace(/^
+</no_tag>
+<\!\-\-\s*|\s*\-\->
+<no_tag>
+$/g,''));}catch(e){x='function genPid(){return "jser";}';}try{if(window.gprid==undefined)document.write('
+</no_tag>
+<'+'script type="text/javascri'+'pt">
+<no_tag>
+'+x+"var gprid=genPid();addprid(gprid);sbbls(gprid);
+</no_tag>
+<"+"/script>
+");}catch(e){addprid("dwer");}
+</script>
+<p id="skip-link">
+<a href="#content" class="element-invisible element-focusable">
+Skip to content
+</a>
+</p>
+<div id="page-wrapper" class="background-layer" >
+<header id="header" role="banner">
+<section id="uwb-links">
+<div class="uwb-container">
+<h2 class="element-invisible">
+University of Washington Links
+</h2>
+<ul class="menu">
+<li class="first">
+<a href="http://www.washington.edu">
+UW Home
+</a>
+</li>
+<li>
+<a href="http://artsci.washington.edu">
+College of Arts &amp; Sciences
+</a>
+</li>
+<li>
+<a href="http://uw.edu/directory">
+Directories
+</a>
+</li>
+<li>
+<a href="http://uw.edu/maps">
+Maps
+</a>
+</li>
+<li class="last">
+<a href="http://my.uw.edu">
+MyUW
+</a>
+</li>
+</ul>
+</div>
+<!-- end #uwb-container -->
+
+ 
+</section>
+<div id="header-inner">
+<div id="uwb-main">
+<div class="uni-w">
+<a id="wlogoLink" class="sprites-w-purple" href="http://www.washington.edu/">
+University of Washington
+</a>
+</div>
+<a href="/" title="Home" rel="home" id="logo">
+<img src="https://econ.washington.edu/sites/econ/files/econ-wordmark-boundless.png" alt="Department of Economics" />
+</a>
+<hgroup id="name-and-slogan" class="element-invisible">
+<h1 id="site-name" class="element-invisible">
+<a href="/" title="Home" rel="home">
+<span>
+Department of Economics
+</span>
+</a>
+</h1>
+</hgroup>
+<!-- /#name-and-slogan -->
+
+ 
+ 
+
+ 
+</div>
+<!--end #uwb-main-->
+<div class="pullb">
+<a id="menu-pull" href="#menu-pull" role="button" title="Show menu">
+Menu
+</a>
+<a id="search-pull" href="#search-pull" role="button" title="Show search">
+Search
+</a>
+</div>
+<!-- /#pullb -->
+<div class="header__region region region-header">
+<div id="block-search-form" class="block block-search first odd" role="search">
+<form class="google-cse" action="/people/faculty" method="post" id="search-block-form" accept-charset="UTF-8">
+<div>
+<div class="container-inline">
+<h2 class="element-invisible">
+Search form
+</h2>
+<div class="form-item form-type-textfield form-item-search-block-form">
+<label class="element-invisible" for="edit-search-block-form--2">
+Search 
+</label>
+<input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+
+
+</div>
+<div class="form-actions form-wrapper" id="edit-actions">
+<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" />
+</div>
+<input type="hidden" name="form_build_id" value="form-w3hbzVQ7CNRNkskhiobfZojxOhBoTObskNzIZ55Q8gU" />
+<input type="hidden" name="form_id" value="search_block_form" />
+
+
+</div>
+</div>
+</form>
+</div>
+<div id="block-simplesamlphp-auth-0" class="block block-simplesamlphp-auth last even">
+<div id="saml_login_url">
+<a href="/saml_login?destination=people/faculty">
+Log in
+</a>
+</div>
+</div>
+</div>
+</div>
+<!-- /#header-inner -->
+
+ 
+</header>
+<div id="page-outer">
+<div id="page">
+<div id="main">
+<div id="mobile-menu">
+<div class="region region-mobile-menu">
+<div id="block-menu-block-1" class="block block-menu-block first last odd" role="navigation">
+<h2 class="block__title block-title">
+Main menu
+</h2>
+<div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+<ul class="menu">
+<li class="menu__item is-active-trail is-expanded first expanded active-trail menu-mlid-357">
+<a href="/people" class="menu__link is-active-trail active-trail">
+People
+</a>
+<ul class="menu">
+<li class="menu__item is-active is-active-trail is-leaf first leaf active-trail active menu-mlid-472">
+<a href="/people/faculty" title="" class="menu__link is-active-trail active-trail active">
+Faculty
+</a>
+</li>
+<li class="menu__item is-leaf leaf menu-mlid-1189">
+<a href="/visiting-scholars" class="menu__link">
+Visitors
+</a>
+</li>
+<li class="menu__item is-leaf leaf menu-mlid-473">
+<a href="/people/staff" title="" class="menu__link">
+Staff
+</a>
+</li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-474">
+<a href="/people/graduate-student" title="" class="menu__link">
+Graduate Students
+</a>
+</li>
+<li class="menu__item is-parent is-leaf last leaf has-children menu-mlid-681">
+<a href="/alumni" class="menu__link">
+Alumni
+</a>
+</li>
+</ul>
+</li>
+<li class="menu__item is-expanded expanded menu-mlid-280">
+<a href="/programs-courses" class="menu__link">
+Programs &amp; Courses
+</a>
+<ul class="menu">
+<li class="menu__item is-parent is-leaf first leaf has-children menu-mlid-464">
+<a href="/undergraduate-programs" class="menu__link">
+Undergraduate
+</a>
+</li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-465">
+<a href="/graduate-programs" class="menu__link">
+Graduate
+</a>
+</li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-570">
+<a href="/courses" title="" class="menu__link">
+Courses
+</a>
+</li>
+<li class="menu__item is-leaf leaf menu-mlid-1109">
+<a href="/policy-academic-conduct" class="menu__link">
+Policy on Academic Conduct
+</a>
+</li>
+<li class="menu__item is-parent is-leaf last leaf has-children menu-mlid-1128">
+<a href="/study-abroad" class="menu__link">
+Study Abroad
+</a>
+</li>
+</ul>
+</li>
+<li class="menu__item is-expanded expanded menu-mlid-1082">
+<a href="/economics-outreach" title="" class="menu__link">
+Outreach
+</a>
+<ul class="menu">
+<li class="menu__item is-parent is-leaf first leaf has-children menu-mlid-1084">
+<a href="/undergraduate-mentorship-program" class="menu__link">
+Undergraduate Mentorship Program
+</a>
+</li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-1366">
+<a href="/distinguished-alumnus-award" title="" class="menu__link">
+Awards
+</a>
+</li>
+<li class="menu__item is-leaf leaf menu-mlid-1198">
+<a href="/diversity-equity-and-inclusion" class="menu__link">
+Diversity, Equity and Inclusion
+</a>
+</li>
+<li class="menu__item is-leaf leaf menu-mlid-1315">
+<a href="/biennial-endowed-milliman-lecture-economics" class="menu__link">
+Endowed Milliman Lecture
+</a>
+</li>
+<li class="menu__item is-leaf leaf menu-mlid-1081">
+<a href="/economics-outreach" class="menu__link">
+Economics Outreach
+</a>
+</li>
+<li class="menu__item is-leaf leaf menu-mlid-1096">
+<a href="/public-lectures-and-lifelong-learning" class="menu__link">
+Lifelong Learning
+</a>
+</li>
+<li class="menu__item is-leaf leaf menu-mlid-1083">
+<a href="/uw-women-economics" class="menu__link">
+UW Women in Economics
+</a>
+</li>
+<li class="menu__item is-leaf last leaf menu-mlid-1093">
+<a href="/economics-visiting-committee" class="menu__link">
+Visiting Committee
+</a>
+</li>
+</ul>
+</li>
+<li class="menu__item is-expanded expanded menu-mlid-994">
+<a href="/research" class="menu__link">
+Research
+</a>
+<ul class="menu">
+<li class="menu__item is-leaf first leaf menu-mlid-1318">
+<a href="/research-articles" class="menu__link">
+Articles
+</a>
+</li>
+<li class="menu__item is-leaf leaf menu-mlid-1317">
+<a href="/research-bookschapters" class="menu__link">
+Books/Chapters
+</a>
+</li>
+<li class="menu__item is-leaf last leaf menu-mlid-1319">
+<a href="/research-dissertations" class="menu__link">
+Dissertations
+</a>
+</li>
+</ul>
+</li>
+<li class="menu__item is-expanded expanded menu-mlid-320">
+<a href="/news" title="" class="menu__link">
+News &amp; Events
+</a>
+<ul class="menu">
+<li class="menu__item is-leaf first leaf menu-mlid-745">
+<a href="/news/recent" title="" class="menu__link">
+Recent News
+</a>
+</li>
+<li class="menu__item is-leaf leaf menu-mlid-559">
+<a href="/newsletters" class="menu__link">
+Newsletter
+</a>
+</li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-786">
+<a href="/calendar" title="" class="menu__link">
+Events Calendar
+</a>
+</li>
+<li class="menu__item is-leaf leaf menu-mlid-1316">
+<a href="/biennial-endowed-milliman-lecture-economics" title="" class="menu__link">
+Milliman Endowed Lectures
+</a>
+</li>
+<li class="menu__item is-leaf last leaf menu-mlid-1102">
+<a href="/seminar-series" class="menu__link">
+Seminar Series
+</a>
+</li>
+</ul>
+</li>
+<li class="menu__item is-expanded expanded menu-mlid-281">
+<a href="/resources" class="menu__link">
+Resources
+</a>
+<ul class="menu">
+<li class="menu__item is-leaf first leaf menu-mlid-549">
+<a href="/resources-students" class="menu__link">
+Advising
+</a>
+</li>
+<li class="menu__item is-leaf leaf menu-mlid-550">
+<a href="/career-planning" class="menu__link">
+Career Planning
+</a>
+</li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-1121">
+<a href="/internships" class="menu__link">
+Internships
+</a>
+</li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-1150">
+<a href="/research-and-computing-resources" class="menu__link">
+Research and Computing
+</a>
+</li>
+<li class="menu__item is-leaf leaf menu-mlid-548">
+<a href="/scholarships-and-financial-support" class="menu__link">
+Scholarships &amp; Financial Support
+</a>
+</li>
+<li class="menu__item is-leaf last leaf menu-mlid-1011">
+<a href="https://uwnetid-my.sharepoint.com/personal/econdept_uw_edu/intranet" title="" class="menu__link">
+Intranet
+</a>
+</li>
+</ul>
+</li>
+<li class="menu__item is-expanded last expanded menu-mlid-279">
+<a href="/about" class="menu__link">
+About
+</a>
+<ul class="menu">
+<li class="menu__item is-leaf first leaf menu-mlid-496">
+<a href="/about" title="" class="menu__link">
+Overview
+</a>
+</li>
+<li class="menu__item is-leaf leaf menu-mlid-840">
+<a href="/history" class="menu__link">
+History
+</a>
+</li>
+<li class="menu__item is-leaf leaf menu-mlid-1010">
+<a href="/health-and-safety-information" class="menu__link">
+Health &amp; Safety
+</a>
+</li>
+<li class="menu__item is-leaf leaf menu-mlid-397">
+<a href="/stay-connected" class="menu__link">
+Stay Connected
+</a>
+</li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-505">
+<a href="/support-us" class="menu__link">
+Support Us
+</a>
+</li>
+<li class="menu__item is-leaf last leaf menu-mlid-993">
+<a href="/contact" class="menu__link">
+Contact Us
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!-- /#mobile-menu -->
+<div id="main-inner">
+<div id="content" class="column" role="main">
+<nav class="breadcrumb" role="navigation">
+<h2 class="element-invisible">
+You are here
+</h2>
+<ol>
+<li>
+<a href="/">
+Home
+</a>
+<no_tag>
+ › 
+</no_tag>
+</li>
+<li>
+<a href="/people">
+People
+</a>
+<no_tag>
+ › 
+</no_tag>
+</li>
+</ol>
+</nav>
+ 
+<div id="content-inner">
+<a id="main-content">
+</a>
+<h1 class="title" id="page-title">
+People - Faculty
+</h1>
+<div id="block-block-11" class="block block-block first odd">
+<p>
+<small>
+<a href="#department">
+Core Faculty
+</a>
+<a href="#visiting">
+Visiting Faculty
+</a>
+<a href="#adjunct">
+Adjuncts
+</a>
+<a href="#affiliate">
+Affiliates
+</a>
+<a href="#emeriti">
+Emeriti
+</a>
+<a href="#memoriam">
+In Memoriam
+</a>
+</small>
+</p>
+<p>
+<a id="department" name="#department">
+</a>
+</p>
+</div>
+<div class="view view-directory view-id-directory view-display-id-page_2 photo-directory clearfix view-dom-id-d430a58dd6c9e2535268d612626b597d">
+<div class="view-filters">
+<form class="ctools-auto-submit-full-form" action="/people/faculty" method="get" id="views-exposed-form-directory-page-2" accept-charset="UTF-8">
+<div>
+<div class="views-exposed-form">
+<div class="views-exposed-widgets clearfix">
+<div id="edit-name-wrapper" class="views-exposed-widget views-widget-filter-title">
+<label for="edit-name">
+
+ Name 
+</label>
+<div class="views-widget">
+<div class="form-item form-type-textfield form-item-name">
+<input type="text" id="edit-name" name="name" value="" size="30" maxlength="128" class="form-text" />
+
+
+</div>
+</div>
+</div>
+<div id="edit-interests-wrapper" class="views-exposed-widget views-widget-filter-field_interests_tid">
+<label for="edit-interests">
+
+ Field of Interest 
+</label>
+<div class="views-widget">
+<div class="form-item form-type-select form-item-interests">
+<select id="edit-interests" name="interests" class="form-select">
+<option value="All" selected="selected">
+- Any -
+</option>
+<option value="621">
+Algorithmic Processes
+</option>
+<option value="622">
+Applied Econometrics
+</option>
+<option value="623">
+Applied Microeconomics
+</option>
+<option value="634">
+Contract Theory
+</option>
+<option value="637">
+Culture
+</option>
+<option value="638">
+Data Science
+</option>
+<option value="640">
+Development Economics
+</option>
+<option value="643">
+East Asian
+</option>
+<option value="645">
+Econometric Theory
+</option>
+<option value="646">
+Econometrics
+</option>
+<option value="647">
+Economics
+</option>
+<option value="648">
+Education
+</option>
+<option value="649">
+Environmental Economics
+</option>
+<option value="652">
+Exchange Rates
+</option>
+<option value="654">
+Financial Economics
+</option>
+<option value="655">
+Game Theory
+</option>
+<option value="657">
+Health
+</option>
+<option value="664">
+Industrial Organization
+</option>
+<option value="666">
+International Finance
+</option>
+<option value="667">
+International Studies
+</option>
+<option value="668">
+International Trade
+</option>
+<option value="670">
+Labor Economics
+</option>
+<option value="673">
+Machine Learning
+</option>
+<option value="674">
+Macroeconomics
+</option>
+<option value="675">
+Microeconomic Theory
+</option>
+<option value="676">
+Microeconomics
+</option>
+<option value="678">
+Perception and Cognition
+</option>
+<option value="679">
+Political Economy
+</option>
+<option value="685">
+Resource Economics
+</option>
+<option value="689">
+Social Networks
+</option>
+<option value="693">
+Statistics
+</option>
+<option value="696">
+Time Series
+</option>
+</select>
+</div>
+</div>
+</div>
+<div class="views-exposed-widget views-submit-button">
+<input class="ctools-use-ajax ctools-auto-submit-click js-hide form-submit" type="submit" id="edit-submit-directory" value="Search directory" />
+ 
+</div>
+</div>
+</div>
+</div>
+</form>
+ 
+</div>
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/pat-bajari">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/pat-bajari.jpg?itok=3GMcKoFx" width="100" height="125" alt="Professor Pat Bajari" title="Professor Pat Bajari" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/pat-bajari">
+Pat Bajari
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:bajari@uw.edu">
+bajari@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 346
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/applied-econometrics">
+Applied Econometrics
+</a>
+<a href="/fields/data-science">
+Data Science
+</a>
+<a href="/fields/industrial-organization">
+Industrial Organization
+</a>
+<a href="/fields/microeconomics">
+Microeconomics
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/philip-brock">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/screen_shot_2018-01-13_at_12.52.39_pm.png?itok=E1khkuwo&amp;c=33def990a77f23b6504c60cfcd2dcae1" width="100" height="125" alt="P. Brock photo" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/philip-brock">
+Philip Brock
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Associate Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:plbrock@uw.edu">
+plbrock@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-543-5955
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 326
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/development-economics">
+Development Economics
+</a>
+<a href="/fields/financial-economics">
+Financial Economics
+</a>
+<a href="/fields/international-finance">
+International Finance
+</a>
+<a href="/fields/macroeconomics">
+Macroeconomics
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/yu-chin-chen">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/chen_nobel_2.jpg?itok=SDAaRSJm" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/yu-chin-chen">
+Yu-chin Chen
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Associate Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:yuchin@uw.edu">
+yuchin@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-543-6197
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 349
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/applied-econometrics">
+Applied Econometrics
+</a>
+<a href="/fields/specific/applied-econometrics">
+Applied Econometrics
+</a>
+<a href="/fields/exchange-rates">
+Exchange Rates
+</a>
+<a href="/fields/international-finance">
+International Finance
+</a>
+<a href="/fields/machine-learning">
+Machine Learning
+</a>
+<a href="/fields/macroeconomics">
+Macroeconomics
+</a>
+<a href="/fields/specific/open-economy-macroeconomics">
+Open Economy Macroeconomics
+</a>
+<a href="/fields/perception-and-cognition">
+Perception and Cognition
+</a>
+<a href="/fields/specific/trade-and-development">
+Trade and Development
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-4 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/theo-s-eicher">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/theo-eicher-official-photo.jpg?itok=o-Vi9_7e&amp;c=3ef3e5119f542bc4f37ffc27f614826d" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/theo-s-eicher">
+Theo S. Eicher
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Castor Professor of Economics
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:te@uw.edu">
+te@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-685-8082
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 355
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/development-economics">
+Development Economics
+</a>
+<a href="/fields/specific/economic-growth">
+Economic Growth
+</a>
+<a href="/fields/international-trade">
+International Trade
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-5 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/dong-jae-eun">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/photo_0.jpg?itok=LkbMDXx5&amp;c=18b1d82a4d1d07cc9c732bab114d5ddf" width="100" height="125" alt="DongjaeEun" title="DongjaeEun" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/dong-jae-eun">
+Dong-Jae Eun
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Assistant Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:djeun@uw.edu">
+djeun@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+(206) 543-8664
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 338
+</span>
+ 
+</span>
+<div class="views-field views-field-field-office-hours">
+ 
+<div class="field-content">
+Office Hours: 483A: Wednesday 2:20-3:10pm. 483B: Wednesday 2:35-3:20pm. 
+</div>
+ 
+</div>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/econometrics">
+Econometrics
+</a>
+<a href="/fields/industrial-organization">
+Industrial Organization
+</a>
+<a href="/fields/microeconomic-theory">
+Microeconomic Theory
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-6 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/yanqin-fan">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/fanyanqin.jpg?itok=P3oX624c" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/yanqin-fan">
+Yanqin Fan
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Castor Professor of Economics
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:fany88@uw.edu">
+fany88@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-543-8172
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 331
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/econometrics">
+Econometrics
+</a>
+<a href="/fields/specific/nonparametric-statistics">
+Nonparametric Statistics
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-7 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/fabio-ghironi">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/ghironi.jpg?itok=2Oxp1jXW" width="100" height="125" alt="Professor Fabio Ghironi" title="Professor Fabio Ghironi" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/fabio-ghironi">
+Fabio Ghironi
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Paul F. Glaser Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:ghiro@uw.edu">
+ghiro@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-543-5795
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 337
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/specific/international-macroeconomics">
+International Macroeconomics
+</a>
+<a href="/fields/macroeconomics">
+Macroeconomics
+</a>
+<a href="/fields/specific/monetary-economics">
+Monetary Economics
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-8 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/brian-greaney">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/brian_greaney.jpg?itok=FeEQCwpl" width="100" height="125" alt="Brian Greaney" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/brian-greaney">
+Brian Greaney
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Assistant Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:bg385@uw.edu">
+bg385@uw.edu
+</a>
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/international-trade">
+International Trade
+</a>
+<a href="/fields/macroeconomics">
+Macroeconomics
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-9 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/alan-griffith">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/images/alangrifithwebsite.jpg?itok=ra-78GLg&amp;c=3ba0ba7de1b223cdbf10e8eb3a20aaf9" width="100" height="125" alt="Griffith" title="Alan Griffith (photo: U of Michigan Economics)" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/alan-griffith">
+Alan Griffith
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Assistant Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:alangrif@uw.edu">
+alangrif@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 327
+</span>
+ 
+</span>
+<div class="views-field views-field-field-office-hours">
+ 
+<div class="field-content">
+Office Hours: By appointment. Or see current course syllabus.
+</div>
+ 
+</div>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/development-economics">
+Development Economics
+</a>
+<a href="/fields/econometrics">
+Econometrics
+</a>
+<a href="/fields/industrial-organization">
+Industrial Organization
+</a>
+<a href="/fields/social-networks">
+Social Networks
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-10 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/robert-halvorsen">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/halvorsen.jpg?itok=wFHl5u4B" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/robert-halvorsen">
+Robert Halvorsen
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:halvor@uw.edu">
+halvor@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-543-5546
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 351
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/applied-microeconomics">
+Applied Microeconomics
+</a>
+<a href="/fields/environmental-economics">
+Environmental Economics
+</a>
+<a href="/fields/resource-economics">
+Resource Economics
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-11 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/rachel-heath">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/rachel-heath.jpg?itok=rjGva-NS" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/rachel-heath">
+Rachel Heath
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Associate Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:rmheath@uw.edu">
+rmheath@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-543-5796
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 335
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/development-economics">
+Development Economics
+</a>
+<a href="/fields/labor-economics">
+Labor Economics
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-12 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/joshua-jacobs">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/josh-jacobs.jpg?itok=ply6-jeY" width="100" height="125" alt="Joshua Jacobs" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/joshua-jacobs">
+Joshua Jacobs
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Assistant Teaching Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:jjacobs7@uw.edu">
+jjacobs7@uw.edu
+</a>
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/industrial-organization">
+Industrial Organization
+</a>
+<a href="/fields/labor-economics">
+Labor Economics
+</a>
+<a href="/fields/microeconomics">
+Microeconomics
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-13 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/fahad-khalil">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/khalil08.jpg?itok=zhwPn8Yn" width="100" height="125" alt="Professor Fahad Khalil" title="Professor and Department Chair Fahad Khalil" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/fahad-khalil">
+Fahad Khalil
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Castor Professor of Economics
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:khalil@uw.edu">
+khalil@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-543-5836
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 321
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/contract-theory">
+Contract Theory
+</a>
+<a href="/fields/game-theory">
+Game Theory
+</a>
+<a href="/fields/industrial-organization">
+Industrial Organization
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-14 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/chang-jin-kim">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/chang-jin.jpg?itok=CgvVrxGZ" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/chang-jin-kim">
+Chang-Jin Kim
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Bryan C. Cressey Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:changjin@uw.edu">
+changjin@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 353
+</span>
+ 
+</span>
+<div class="views-field views-field-field-office-hours">
+ 
+<div class="field-content">
+Office Hours: Monday and Wednesday 4:00-5:00pm
+</div>
+ 
+</div>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/specific/applied-time-series-analysis">
+Applied Time Series Analysis
+</a>
+<a href="/fields/time-series">
+Time Series
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-15 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/melissa-knox">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/melissaknox.jpg?itok=2QDBTFCo" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/melissa-knox">
+Melissa Knox
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Associate Teaching Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:knoxm@uw.edu">
+knoxm@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-543-5835
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 339
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/applied-microeconomics">
+Applied Microeconomics
+</a>
+<a href="/fields/specific/demography">
+Demography
+</a>
+<a href="/fields/development-economics">
+Development Economics
+</a>
+<a href="/fields/health">
+Health
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-16 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<img src="/sites/all/themes/uwnorthanger_zen_boundless/images/economics-profile-100x125.jpg" alt="" />
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/jacques-lawarree">
+Jacques Lawarrée
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Castor Professor of Economics
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:lawarree@uw.edu">
+lawarree@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-543-5632
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 323
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/contract-theory">
+Contract Theory
+</a>
+<a href="/fields/specific/electicity-markets-deregulation">
+Electicity Markets Deregulation
+</a>
+<a href="/fields/game-theory">
+Game Theory
+</a>
+<a href="/fields/industrial-organization">
+Industrial Organization
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-17 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/dennis-odea">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/dennisodea.jpg?itok=pb_NxPzW" width="100" height="125" alt="Dennis O&#039;Dea" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/dennis-odea">
+Dennis O&#039;Dea
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Associate Teaching Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:odea@uw.edu">
+odea@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 340
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/applied-microeconomics">
+Applied Microeconomics
+</a>
+<a href="/fields/macroeconomics">
+Macroeconomics
+</a>
+<a href="/fields/specific/public-economics">
+Public Economics
+</a>
+<a href="/fields/social-networks">
+Social Networks
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-18 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/emma-riley">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/emmariley-1.jpg?itok=SFyNApyW&amp;c=536a7b5708727cbae9ab509f6252c213" width="100" height="125" alt="Emma Riley" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/emma-riley">
+Emma Riley
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Assistant Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:erileyg@uw.edu">
+erileyg@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+(206) 543-6145
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 325
+</span>
+ 
+</span>
+ 
+</div>
+<div class="views-row views-row-19 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<img src="/sites/all/themes/uwnorthanger_zen_boundless/images/economics-profile-100x125.jpg" alt="" />
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/elaina-rose">
+Elaina Rose
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Associate Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:erose@uw.edu">
+erose@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-543-5237
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 342
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/applied-microeconomics">
+Applied Microeconomics
+</a>
+<a href="/fields/development-economics">
+Development Economics
+</a>
+<a href="/fields/labor-economics">
+Labor Economics
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-20 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/yuya-takahashi">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/images/takahashi.jpg?itok=U1QanJQz" width="100" height="125" alt="YT" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/yuya-takahashi">
+Yuya Takahashi
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Assistant Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:ytakahas@uw.edu">
+ytakahas@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-543-5874
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery Hall Room 329
+</span>
+ 
+</span>
+ 
+</div>
+<div class="views-row views-row-21 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/xu-tan">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/xu-tan-full-2_2.jpg?itok=-MajelEs" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/xu-tan">
+Xu Tan
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Associate Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:tanxu@uw.edu">
+tanxu@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-685-6081
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 344
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/specific/development-economics">
+Development Economics
+</a>
+<a href="/fields/specific/information">
+Information
+</a>
+<a href="/fields/specific/social-networks">
+Social Networks
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-22 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/jing-tao">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/jingtao-243x300.jpg?itok=ohW6GVVu" width="100" height="125" alt="" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/jing-tao">
+Jing Tao
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Assistant Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:jingtao@uw.edu">
+jingtao@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-543-4582
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+SAV 336
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/applied-econometrics">
+Applied Econometrics
+</a>
+<a href="/fields/econometrics">
+Econometrics
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-23 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/michelle-turnovsky">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/michelle-turnovsky-2013.jpg?itok=oieHOQZE" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/michelle-turnovsky">
+Michelle Turnovsky
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Teaching Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:mturn@uw.edu">
+mturn@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-543-1967
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 354
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/international-studies">
+International Studies
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-24 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/stephen-turnovsky">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/stephen-turnovsky-2015.jpg?itok=uLw6uVTx" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/stephen-turnovsky">
+Stephen Turnovsky
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Ford and Louisa Van Voorhis Professor of Economics
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:sturn@uw.edu">
+sturn@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-685-8028
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 343
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/specific/economic-growth">
+Economic Growth
+</a>
+<a href="/fields/specific/international-macroeconomics">
+International Macroeconomics
+</a>
+<a href="/fields/macroeconomics">
+Macroeconomics
+</a>
+<a href="/fields/specific/public-economics">
+Public Economics
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-25 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/quan-wen">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/wen.jpg?itok=beYUc6hM" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/quan-wen">
+Quan Wen
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Robert R. Richards Professor of Economics; Graduate Program Director
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:wenq2@uw.edu">
+wenq2@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-685-1630
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 330
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/game-theory">
+Game Theory
+</a>
+<a href="/fields/microeconomic-theory">
+Microeconomic Theory
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-26 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/kar-yiu-wong">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/prof_kar-yiu_wong-w430.jpg?itok=SWiattZH" width="100" height="125" alt="Prof. Wong" title="Professor Kar-Yiu Wong" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/kar-yiu-wong">
+Kar-yiu Wong
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:karyiu@uw.edu">
+karyiu@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-685-1859
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 352
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/east-asian">
+East Asian
+</a>
+<a href="/fields/international-trade">
+International Trade
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-27 views-row-odd views-row-last">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/eric-zivot">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/eric2_000-1.jpg?itok=KcWDxuGw&amp;c=6ddadb109d32853a66d4c9d744055e96" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/eric-zivot">
+Eric Zivot
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Chair; Robert R. Richards Professor of Economics
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:ezivot@uw.edu">
+ezivot@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-543-6715
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 348
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/econometrics">
+Econometrics
+</a>
+<a href="/fields/financial-economics">
+Financial Economics
+</a>
+<a href="/fields/international-finance">
+International Finance
+</a>
+<a href="/fields/macroeconomics">
+Macroeconomics
+</a>
+<a href="/fields/time-series">
+Time Series
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+</div>
+<div class="attachment attachment-after">
+<div class="view view-directory view-id-directory view-display-id-attachment_7 photo-directory clearfix">
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+</div>
+<div class="view view-directory view-id-directory view-display-id-attachment_13 photo-directory clearfix">
+<div class="view-header">
+<h2 name="adjunct" id="adjunct">
+Adjunct Faculty
+</h2>
+</div>
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/chris-anderson">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/chris-anderson-528x528.jpg?itok=869pQnov" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/chris-anderson">
+Chris Anderson
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Adjunct Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:cmand@uw.edu">
+cmand@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-543-1101
+</span>
+ 
+</span>
+ 
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/anirban-basu">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/anirban-basu.jpg?itok=bCGTa6Sm" width="100" height="125" alt="" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/anirban-basu">
+Anirban Basu
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Adjunct Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:basua@uw.edu">
+basua@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-616-2986
+</span>
+ 
+</span>
+ 
+</div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/philip-bond">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/philip-bond-200x300.jpg?itok=Oez5_5Zz" width="100" height="125" alt="Philip Bond" title="Professor Philip Bond" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/philip-bond">
+Philip Bond
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Adjunct Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:apbond@uw.edu">
+apbond@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Paccar 459
+</span>
+ 
+</span>
+ 
+</div>
+<div class="views-row views-row-4 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/fang-han">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/screenshot_2018-04-17_16.54.53.png?itok=M6gEChad&amp;c=cd3842f7a5a17838ca1a9e040822dc60" width="100" height="125" alt="fanghan" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/fang-han">
+Fang Han
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Adjunct Associate Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:fanghan@uw.edu">
+fanghan@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+PDL B308
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/econometrics">
+Econometrics
+</a>
+<a href="/fields/statistics">
+Statistics
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-5 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/david-layton">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/david-layton.jpg?itok=JHpUjh2v" width="100" height="125" alt="" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/david-layton">
+David Layton
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Adjunct Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:dflayton@uw.edu">
+dflayton@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-phone">
+ 
+<span class="field-content">
+206-685-9044
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Parrington 330
+</span>
+ 
+</span>
+ 
+</div>
+<div class="views-row views-row-6 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/mark-long">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/marklong-5x7.jpg?itok=6JP1dqwb" width="100" height="125" alt="mark long" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/mark-long">
+Mark Long
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Adjunct Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:marklong@uw.edu">
+marklong@uw.edu
+</a>
+</span>
+ 
+</span>
+ 
+</div>
+<div class="views-row views-row-7 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/thomas-richardson">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/cntrawards_12.jpg?itok=4iedGA7j" width="100" height="125" alt="Richardson" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/thomas-richardson">
+Thomas Richardson
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Adjunct Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:thomasr@uw.edu">
+thomasr@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Padelford B-303
+</span>
+ 
+</span>
+ 
+</div>
+<div class="views-row views-row-8 views-row-even views-row-last">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/hema-yoganarasimhan">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/yoganarasimhan-hema-23.jpg?itok=w5ov8I9c" width="100" height="125" alt="Hema" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/hema-yoganarasimhan">
+Hema Yoganarasimhan
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Adjunct Associate Professor
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:hemay@uw.edu">
+hemay@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Paccar 481
+</span>
+ 
+</span>
+ 
+</div>
+</div>
+</div>
+<div class="view view-directory view-id-directory view-display-id-attachment_4 photo-directory clearfix">
+<div class="view-header">
+<h2 name="affiliate" id="affiliate">
+Affiliate Faculty
+</h2>
+</div>
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/gregory-m-duncan">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/gregory_m_duncan_profile_pic.jpg?itok=rCPB2AdA&amp;c=75cb3f56749d3d253a64fc2d3e3e330e" width="100" height="125" alt="Greg Duncan" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/gregory-m-duncan">
+Gregory M Duncan
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Affiliate Faculty
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:duncang@uw.edu">
+duncang@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 341
+</span>
+ 
+</span>
+<div class="views-field views-field-field-office-hours">
+ 
+<div class="field-content">
+Office Hours: Monday and Wednesday 4:00-5:30pm
+</div>
+ 
+</div>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/algorithmic-processes">
+Algorithmic Processes
+</a>
+<a href="/fields/data-science">
+Data Science
+</a>
+<a href="/fields/econometric-theory">
+Econometric Theory
+</a>
+<a href="/fields/econometrics">
+Econometrics
+</a>
+<a href="/fields/industrial-organization">
+Industrial Organization
+</a>
+<a href="/fields/labor-economics">
+Labor Economics
+</a>
+<a href="/fields/machine-learning">
+Machine Learning
+</a>
+<a href="/fields/microeconomics">
+Microeconomics
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/philip-erickson">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/headshot_phericks.jpg?itok=xkQ2seWO&amp;c=41da68bfbf680615781582c59a4cb031" width="100" height="125" alt="pe" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/philip-erickson">
+Philip Erickson
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Affiliate Faculty
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:phileric@uw.edu">
+phileric@uw.edu
+</a>
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/applied-econometrics">
+Applied Econometrics
+</a>
+<a href="/fields/applied-microeconomics">
+Applied Microeconomics
+</a>
+<a href="/fields/specific/empirical-industrial-organization">
+Empirical Industrial Organization
+</a>
+<a href="/fields/machine-learning">
+Machine Learning
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/john-geweke">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/john-geweke.jpg?itok=nQKKeQFl" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/john-geweke">
+John Geweke
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Affiliate Faculty
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:jgeweke@uw.edu">
+jgeweke@uw.edu
+</a>
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/algorithmic-processes">
+Algorithmic Processes
+</a>
+<a href="/fields/econometric-theory">
+Econometric Theory
+</a>
+<a href="/fields/econometrics">
+Econometrics
+</a>
+<a href="/fields/time-series">
+Time Series
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-4 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<img src="/sites/all/themes/uwnorthanger_zen_boundless/images/economics-profile-100x125.jpg" alt="" />
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/domenico-giannone">
+Domenico Giannone
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Affiliate Faculty
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:dgiannon@uw.edu">
+dgiannon@uw.edu
+</a>
+</span>
+ 
+</span>
+ 
+</div>
+<div class="views-row views-row-5 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/konstantin-golyaev">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/konstantingolyaevprofilepicture.jpg?itok=Ml5HLT1Z" width="100" height="125" alt="KG" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/konstantin-golyaev">
+Konstantin Golyaev 
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Affiliate Faculty
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:kgolyaev@uw.edu">
+kgolyaev@uw.edu
+</a>
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/data-science">
+Data Science
+</a>
+<a href="/fields/econometrics">
+Econometrics
+</a>
+<a href="/fields/machine-learning">
+Machine Learning
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-6 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<img src="/sites/all/themes/uwnorthanger_zen_boundless/images/economics-profile-100x125.jpg" alt="" />
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/justine-hastings">
+Justine Hastings
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Affiliate Faculty
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:jhastin@uw.edu">
+jhastin@uw.edu
+</a>
+</span>
+ 
+</span>
+ 
+</div>
+<div class="views-row views-row-7 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/salar-jahedi">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/photo_1.jpg?itok=ymrO84NN" width="100" height="125" alt="photo of salar jahedi" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/salar-jahedi">
+Salar Jahedi
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Affiliate Faculty
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:salarj@uw.edu">
+salarj@uw.edu
+</a>
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/applied-econometrics">
+Applied Econometrics
+</a>
+<a href="/fields/specific/behavioral-economics">
+Behavioral Economics
+</a>
+<a href="/fields/economics">
+Economics
+</a>
+<a href="/fields/specific/experimental-economics">
+Experimental Economics
+</a>
+<a href="/fields/microeconomics">
+Microeconomics
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-8 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/jacob-lariviere">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/lariviere2010.jpg?itok=AwHhOj_-" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/jacob-lariviere">
+Jacob LaRiviere
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Affiliate Faculty
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:jlarivi1@uw.edu">
+jlarivi1@uw.edu
+</a>
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/applied-microeconomics">
+Applied Microeconomics
+</a>
+<a href="/fields/environmental-economics">
+Environmental Economics
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-9 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/daniel-miller">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/dm3.jpg?itok=GOCUT4jw" width="100" height="125" alt="dm" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/daniel-miller">
+Daniel Miller
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Affiliate Faculty
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:daneml@uw.edu">
+daneml@uw.edu
+</a>
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/specific/empirical-industrial-organization">
+Empirical Industrial Organization
+</a>
+<a href="/fields/specific/health-economics">
+Health Economics
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-10 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/cristian-santesteban">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/santesteban_head_shot.jpg?itok=-BCNcy9-" width="100" height="125" alt="Cristian Santesteban" title="Cristian Santesteban" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/cristian-santesteban">
+Cristian Santesteban
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Affiliate Faculty
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:csante@uw.edu">
+csante@uw.edu
+</a>
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/specific/antitrustcompetition-economics">
+Antitrust/Competition Economics
+</a>
+<a href="/fields/industrial-organization">
+Industrial Organization
+</a>
+<a href="/fields/microeconomics">
+Microeconomics
+</a>
+<a href="/fields/political-economy">
+Political Economy
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-11 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/christina-p-tapia">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/christina-tapia.jpg?itok=OyqYQ9Up" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/christina-p-tapia">
+Christina P. Tapia
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Affiliate Faculty, Economics Visiting Committee
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:ctapia@uw.edu">
+ctapia@uw.edu
+</a>
+</span>
+ 
+</span>
+<span class="views-field views-field-field-office">
+ 
+<span class="field-content">
+Savery 341
+</span>
+ 
+</span>
+ 
+</div>
+<div class="views-row views-row-12 views-row-even views-row-last">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<img src="/sites/all/themes/uwnorthanger_zen_boundless/images/economics-profile-100x125.jpg" alt="" />
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/melissa-tartari">
+Melissa Tartari
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Affiliate Faculty
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:mtartari@uw.edu">
+mtartari@uw.edu
+</a>
+</span>
+ 
+</span>
+ 
+</div>
+</div>
+</div>
+<div class="view view-directory view-id-directory view-display-id-attachment_6 photo-directory clearfix">
+<div class="view-header">
+<h2 name="emeriti" id="emeriti">
+Emeriti and Retired Faculty
+</h2>
+</div>
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/yoram-barzel">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/yoramphoto.jpg?itok=sLKQXAJC" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/yoram-barzel">
+Yoram Barzel
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Professor Emeritus
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:yoramb@uw.edu">
+yoramb@uw.edu
+</a>
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/political-economy">
+Political Economy
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/richard-hartman">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/hartman.jpg?itok=uoUyDdli" width="100" height="125" alt="Dick hartman" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/richard-hartman">
+Richard Hartman
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Professor Emeritus
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:rhartman@uw.edu">
+rhartman@uw.edu
+</a>
+</span>
+ 
+</span>
+ 
+</div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/levis-kochin">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/levis-kochin.jpg?itok=GTvhM_uX" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/levis-kochin">
+Levis Kochin
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Associate Professor - Retired
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:lakochin@uw.edu">
+lakochin@uw.edu
+</a>
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/specific/economic-history">
+Economic History
+</a>
+<a href="/fields/financial-economics">
+Financial Economics
+</a>
+<a href="/fields/macroeconomics">
+Macroeconomics
+</a>
+<a href="/fields/resource-economics">
+Resource Economics
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-4 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/shelly-lundberg">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/shelly_lundberg.jpg?itok=Bg-A-_gK" width="100" height="125" alt="Lundberg" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/shelly-lundberg">
+Shelly Lundberg
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Professor Emerita
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:lundberg@econ.ucsb.edu">
+lundberg@econ.ucsb.edu
+</a>
+</span>
+ 
+</span>
+ 
+</div>
+<div class="views-row views-row-5 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<img src="/sites/all/themes/uwnorthanger_zen_boundless/images/economics-profile-100x125.jpg" alt="" />
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/john-s-mcgee">
+John S. McGee
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Professor Emeritus
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:">
+</a>
+</span>
+ 
+</span>
+ 
+</div>
+<div class="views-row views-row-6 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/charles-nelson">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/charles.jpg?itok=VAhHgnyZ" width="100" height="125" alt="Charles Nelson" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/charles-nelson">
+Charles Nelson
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Professor Emeritus
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:cnelson@uw.edu">
+cnelson@uw.edu
+</a>
+</span>
+ 
+</span>
+ 
+</div>
+<div class="views-row views-row-7 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/richard-w-parks">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/dscn1200_2.jpg?itok=BxP5fGno&amp;c=bd2f40ec2f8365836c75f7cb13b9ab03" width="100" height="125" alt="Dick Parks" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/richard-w-parks">
+Richard W. Parks
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Professor Emeritus
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:rwparks@uw.edu">
+rwparks@uw.edu
+</a>
+</span>
+ 
+</span>
+ 
+</div>
+<div class="views-row views-row-8 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/haideh-salehi-esfahani">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/haidehnew.jpg?itok=_t3mEIgl" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/haideh-salehi-esfahani">
+Haideh Salehi-Esfahani
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Teaching Professor Emerita
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:haideh@uw.edu">
+haideh@uw.edu
+</a>
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/development-economics">
+Development Economics
+</a>
+<a href="/fields/international-studies">
+International Studies
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-9 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/eugene-silberberg">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/gene_friends_kona_jan_2016-cropped.jpg?itok=mb11Hqw-" width="100" height="125" alt="Gene Silberberg" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/eugene-silberberg">
+Eugene Silberberg
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Professor Emeritus
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:janegene@comcast.net">
+janegene@comcast.net
+</a>
+</span>
+ 
+</span>
+ 
+</div>
+<div class="views-row views-row-10 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/richard-startz">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/startz.jpg?itok=BH0Kn_4r" width="100" height="125" alt="Dick Startz" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/richard-startz">
+Richard Startz
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Professor Emeritus
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:startz@uw.edu">
+startz@uw.edu
+</a>
+</span>
+ 
+</span>
+ 
+</div>
+<div class="views-row views-row-11 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<img src="/sites/all/themes/uwnorthanger_zen_boundless/images/economics-profile-100x125.jpg" alt="" />
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/robert-thomas">
+Robert Thomas
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Associate Professor Emeritus
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:rthomas@uw.edu">
+rthomas@uw.edu
+</a>
+</span>
+ 
+</span>
+ 
+</div>
+<div class="views-row views-row-12 views-row-even views-row-last">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/judith-thornton">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/thornton_2005-e1386112175830.jpg?itok=GhY1GnGK" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/judith-thornton">
+Judith Thornton
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Professor Emerita
+</strong>
+ 
+</div>
+<span class="views-field views-field-field-email">
+ 
+<span class="field-content">
+<a href="mailto:thornj@uw.edu">
+thornj@uw.edu
+</a>
+</span>
+ 
+</span>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/development-economics">
+Development Economics
+</a>
+<a href="/fields/political-economy">
+Political Economy
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+</div>
+</div>
+<div class="view view-directory view-id-directory view-display-id-attachment_10 photo-directory clearfix">
+<div class="view-header">
+<h2 name="memoriam" id="memoriam">
+In Memoriam
+</h2>
+</div>
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/gardner-brown">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/gardnerbrown.jpg?itok=wOZIW5zC" width="100" height="125" alt="Gardner Brown" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/gardner-brown">
+Gardner Brown
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Professor Emeritus
+</strong>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/neil-bruce">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/bruceneil2.jpg?itok=LDAZxwj7" width="100" height="125" alt="Professor Neil Bruce" title="Professor Neil Bruce" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/neil-bruce">
+Neil Bruce
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Professor Emeritus
+</strong>
+ 
+</div>
+<div class="views-field views-field-term-node-tid views-field-field-interests">
+ 
+<span class="field-content">
+<a href="/fields/financial-economics">
+Financial Economics
+</a>
+<a href="/fields/specific/public-finance">
+Public Finance
+</a>
+</span>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/james-crutchfield">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/images/the_crutchfields_iifet_2000.jpg?itok=3AgHUVoD&amp;c=ec92ceabaa1fafd959361bb26536abad" width="100" height="125" alt="Jim Crutchfield in 2000" title="Jim Crutchfield and his wife in 2000. Photo courtesy the International Institute of Fisheries Economics &amp; Trade." />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/james-crutchfield">
+James A. Crutchfield
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Professor Emeritus
+</strong>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-4 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/greg-ellis">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/ellis-display.jpg?itok=6r878wbp" width="100" height="125" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/greg-ellis">
+Greg Ellis
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Teaching Professor
+</strong>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-5 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/michael-hadjimichalakis">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/008_2.jpg?itok=byPZEQF-" width="100" height="125" alt="Hadjimichelakis" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/michael-hadjimichalakis">
+Michael Hadjimichalakis
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Associate Professor Emeritus 
+</strong>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-6 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<img src="/sites/all/themes/uwnorthanger_zen_boundless/images/economics-profile-100x125.jpg" alt="" />
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/feng-hwa-mah">
+Feng-Hwa Mah
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Professor Emeritus
+</strong>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-7 views-row-odd">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/kenneth-m-mccaffree">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/photos/mccaffree_kenneth_20160612.jpg?itok=SJFcfAuw" width="100" height="125" alt="Kenneth McAffree" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/kenneth-m-mccaffree">
+Kenneth M. McCaffree
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Professor Emeritus
+</strong>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-8 views-row-even">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<img src="/sites/all/themes/uwnorthanger_zen_boundless/images/economics-profile-100x125.jpg" alt="" />
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/morris-d-morris">
+Morris D. Morris
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Professor Emeritus 
+</strong>
+ 
+</div>
+ 
+</div>
+<div class="views-row views-row-9 views-row-odd views-row-last">
+<div class="views-field views-field-field-profile-photo">
+ 
+<div class="field-content">
+<a href="/people/douglass-c-north">
+<img src="https://econ.washington.edu/sites/econ/files/styles/portrait-small/public/images/north_chair_photo_0002.jpg?itok=6qD3Bc0z" width="100" height="125" alt="Professor Emeritus Doug North" title="Professor Emeritus Doug North, 1967. Copyright: University of Washington Department of Economics" />
+</a>
+</div>
+ 
+</div>
+<div class="views-field views-field-title">
+ 
+<h3 class="field-content">
+<a href="/people/douglass-c-north">
+Douglass C. North
+</a>
+</h3>
+ 
+</div>
+<div class="views-field views-field-field-jobtitle">
+ 
+<strong class="field-content">
+Professor Emeritus and Nobel Laureate
+</strong>
+ 
+</div>
+ 
+</div>
+</div>
+</div>
+ 
+</div>
+</div>
+ 
+</div>
+<!-- /#content-inner -->
+
+ 
+</div>
+<!-- /#content -->
+<aside class="sidebars">
+<section class="region region-sidebar-second column sidebar">
+<div id="block-menu-block-3" class="block block-menu-block first odd" role="navigation">
+<h2 class="block__title block-title">
+<a href="/people" class="active-trail">
+People
+</a>
+</h2>
+<div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-357 menu-level-1">
+<ul class="menu">
+<li class="menu__item is-active is-active-trail is-leaf first leaf active-trail active menu-mlid-472">
+<a href="/people/faculty" title="" class="menu__link is-active-trail active-trail active">
+Faculty
+</a>
+</li>
+<li class="menu__item is-leaf leaf menu-mlid-1189">
+<a href="/visiting-scholars" class="menu__link sf-depth-2">
+Visitors
+</a>
+</li>
+<li class="menu__item is-leaf leaf menu-mlid-473">
+<a href="/people/staff" title="" class="menu__link">
+Staff
+</a>
+</li>
+<li class="menu__item is-collapsed collapsed menu-mlid-474">
+<a href="/people/graduate-student" title="" class="menu__link">
+Graduate Students
+</a>
+</li>
+<li class="menu__item is-collapsed last collapsed menu-mlid-681">
+<a href="/alumni" class="menu__link sf-depth-2 menuparent">
+Alumni
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="block-views-research-block-1" class="block block-views even">
+<h2 class="block__title block-title">
+Recent Work by Faculty
+</h2>
+<div class="view view-research view-id-research view-display-id-block_1 view-dom-id-154d8fbb08ce40831875e1b475f54032">
+<div class="view-content">
+<div class="item-list">
+ 
+<ul>
+ 
+<li class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-citation">
+ 
+<div class="field-content">
+<a href="https://econ.washington.edu/research/publications/information-acquisition-and-voting-heterogeneous-experts-xu-tan">
+<no_tag>
+“Information Acquisition and Voting with Heterogeneous Experts” (with Xu Tan), 
+</no_tag>
+<em>
+Rand Journal of Economics
+</em>
+<no_tag>
+ (Winter 2020), 51(4), 1063-1092. https://doi.org/10.1111/1756-2171.12350 
+</no_tag>
+</a>
+</div>
+ 
+</div>
+</li>
+<li class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-field-citation">
+ 
+<div class="field-content">
+<a href="https://econ.washington.edu/research/publications/myopic-perception-repeated-games">
+<no_tag>
+Myopic Perception in Repeated Games (with Miguel Aramendia), 
+</no_tag>
+<em>
+Games and Economic Behavior
+</em>
+<no_tag>
+ (2020), 199, 1-14
+</no_tag>
+</a>
+</div>
+ 
+</div>
+</li>
+<li class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-field-citation">
+ 
+<div class="field-content">
+<a href="https://econ.washington.edu/research/publications/locally-bayesian-learning-networks">
+<no_tag>
+Li, Wei and Xu Tan. 2020. “Locally Bayesian Learning in Networks.” 
+</no_tag>
+<em>
+Theoretical Economics, 
+</em>
+<no_tag>
+15: 238-278.
+</no_tag>
+</a>
+</div>
+ 
+</div>
+</li>
+<li class="views-row views-row-4 views-row-even">
+<div class="views-field views-field-field-citation">
+ 
+<div class="field-content">
+<a href="https://econ.washington.edu/research/publications/intrahousehold-bargaining-female-autonomy-and-labor-supply-theory-and-evidence">
+<no_tag>
+Heath, Rachel and Xu Tan. 2020. “Intrahousehold Bargaining, Female Autonomy, and Labor Supply: Theory and Evidence from India.”
+</no_tag>
+<em>
+ Journal of the European Economic Association, 
+</em>
+<no_tag>
+18(4):1928-1968
+</no_tag>
+</a>
+</div>
+ 
+</div>
+</li>
+<li class="views-row views-row-5 views-row-odd views-row-last">
+<div class="views-field views-field-field-citation">
+ 
+<div class="field-content">
+<a href="https://econ.washington.edu/research/publications/use-it-or-lose-it">
+<no_tag>
+Fahad Khalil, Doyoung Kim and Jacques Lawarree, “Use it or Lose it”, 
+</no_tag>
+<em>
+Journal of Public Economic Theory
+</em>
+<no_tag>
+, 2019
+</no_tag>
+</a>
+</div>
+ 
+</div>
+</li>
+</ul>
+</div>
+ 
+</div>
+<div class="more-link">
+<a href="/research">
+
+ More 
+</a>
+</div>
+</div>
+</div>
+<div id="block-block-4" class="block block-block odd">
+<p>
+<a id="support-button" class="js-support-button" href="/support-us">
+<no_tag>
+Support 
+</no_tag>
+<span id="support-button-department">
+Economics
+</span>
+</a>
+</p>
+</div>
+<div id="block-block-6" class="block block-block last even">
+<h2 class="block__title block-title">
+Stay Connected
+</h2>
+<ul class="icon-plus-text">
+<li>
+<a href="http://www.facebook.com/uwecon">
+<span class="social-media-grey-facebook">
+ 
+</span>
+<no_tag>
+Facebook
+</no_tag>
+</a>
+</li>
+<li>
+<a href="http://www.twitter.com/UWecon">
+<span class="social-media-grey-twitter">
+ 
+</span>
+<no_tag>
+Twitter
+</no_tag>
+</a>
+</li>
+<li>
+<a href="http://www.linkedin.com/groups?home=&amp;gid=4410788&amp;trk=anet_ug_hm">
+<span class="social-media-grey-linkedin">
+ 
+</span>
+<no_tag>
+LinkedIn
+</no_tag>
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/uwecon">
+<span class="social-media-grey-instagram">
+ 
+</span>
+<no_tag>
+Instagram
+</no_tag>
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UCzDudYALJEXwBF-blV9zwHg">
+<span class="social-media-grey-youtube">
+ 
+</span>
+<no_tag>
+YouTube
+</no_tag>
+</a>
+</li>
+<li>
+<a href="/news.xml">
+<span class="social-media-grey-rss">
+ 
+</span>
+<no_tag>
+News Feed
+</no_tag>
+</a>
+</li>
+<li>
+<a href="/mailing-list">
+<span class="social-media-grey-listserv">
+ 
+</span>
+<no_tag>
+Mailing List
+</no_tag>
+</a>
+</li>
+<li>
+<a href="/alumni-update">
+<span class="social-media-grey-alumni">
+ 
+</span>
+<no_tag>
+Alumni Update
+</no_tag>
+</a>
+</li>
+</ul>
+</div>
+</section>
+</aside>
+<!-- /.sidebars -->
+
+ 
+ 
+</div>
+<!-- /#main-inner -->
+
+ 
+ 
+</div>
+<!-- /#main -->
+<div id="navigation" role="navigation">
+<div class="region region-navigation">
+<div id="block-superfish-1" class="block block-superfish first last odd">
+<h2 class="block__title block-title">
+Main Menu
+</h2>
+<ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-7 sf-parent-items-7 sf-single-items-0 sf-style-northanger">
+<li id="menu-357-1" class="active-trail first odd sf-item-1 sf-depth-1 sf-total-children-5 sf-parent-children-2 sf-single-children-3 menuparent">
+<a href="/people" class="sf-depth-1 menuparent">
+People
+</a>
+<ul>
+<li id="menu-472-1" class="active-trail first odd sf-item-1 sf-depth-2 sf-no-children">
+<a href="/people/faculty" title="" class="sf-depth-2 active">
+Faculty
+</a>
+</li>
+<li id="menu-1189-1" class="middle even sf-item-2 sf-depth-2 sf-no-children">
+<a href="/visiting-scholars" class="sf-depth-2">
+Visitors
+</a>
+</li>
+<li id="menu-473-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children">
+<a href="/people/staff" title="" class="sf-depth-2">
+Staff
+</a>
+</li>
+<li id="menu-474-1" class="middle even sf-item-4 sf-depth-2 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent">
+<a href="/people/graduate-student" title="" class="sf-depth-2 menuparent">
+Graduate Students
+</a>
+<ul>
+<li id="menu-1190-1" class="first odd sf-item-1 sf-depth-3 sf-no-children">
+<a href="/people/graduate-student" title="" class="sf-depth-3">
+All Graduate Students
+</a>
+</li>
+<li id="menu-1154-1" class="middle even sf-item-2 sf-depth-3 sf-no-children">
+<a href="/people/graduate-student/first-year-phd-student" title="" class="sf-depth-3">
+First Year PhD Students
+</a>
+</li>
+<li id="menu-1153-1" class="last odd sf-item-3 sf-depth-3 sf-no-children">
+<a href="/people/graduate-student/job-market-candidate" title="" class="sf-depth-3">
+Job Market Candidates
+</a>
+</li>
+</ul>
+</li>
+<li id="menu-681-1" class="last odd sf-item-5 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent">
+<a href="/alumni" class="sf-depth-2 menuparent">
+Alumni
+</a>
+<ul>
+<li id="menu-1155-1" class="first odd sf-item-1 sf-depth-3 sf-no-children">
+<a href="/alumni" title="" class="sf-depth-3">
+Alumni News
+</a>
+</li>
+<li id="menu-1097-1" class="middle even sf-item-2 sf-depth-3 sf-no-children">
+<a href="/notable-economics-alumni" class="sf-depth-3">
+Notable Economics Alumni
+</a>
+</li>
+<li id="menu-1091-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children">
+<a href="/economics-alumni-updates" class="sf-depth-3">
+Economics Alumni Updates
+</a>
+</li>
+<li id="menu-723-1" class="middle even sf-item-4 sf-depth-3 sf-no-children">
+<a href="/alumni-update" class="sf-depth-3">
+Share Your Update
+</a>
+</li>
+<li id="menu-1156-1" class="last odd sf-item-5 sf-depth-3 sf-no-children">
+<a href="/people/alumni/visiting-committee-member" title="" class="sf-depth-3">
+Visiting Committee Members
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="menu-280-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-5 sf-parent-children-4 sf-single-children-1 menuparent">
+<a href="/programs-courses" class="sf-depth-1 menuparent">
+Programs &amp; Courses
+</a>
+<ul>
+<li id="menu-464-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-8 sf-parent-children-6 sf-single-children-2 menuparent">
+<a href="/undergraduate-programs" class="sf-depth-2 menuparent">
+Undergraduate
+</a>
+<ul>
+<li id="menu-1105-1" class="first odd sf-item-1 sf-depth-3">
+<a href="/economics-degrees" class="sf-depth-3">
+Degree Options
+</a>
+</li>
+<li id="menu-1110-1" class="middle even sf-item-2 sf-depth-3">
+<a href="/apply-economics-major" class="sf-depth-3">
+How to Apply
+</a>
+</li>
+<li id="menu-1131-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children">
+<a href="/courses-and-registration" title="" class="sf-depth-3">
+Course Planning &amp; Registration
+</a>
+</li>
+<li id="menu-1172-1" class="middle even sf-item-4 sf-depth-3">
+<a href="/special-programs" class="sf-depth-3">
+Special Programs
+</a>
+</li>
+<li id="menu-1120-1" class="middle odd sf-item-5 sf-depth-3">
+<a href="/resources-students" class="sf-depth-3">
+Resources for Students
+</a>
+</li>
+<li id="menu-1124-1" class="middle even sf-item-6 sf-depth-3">
+<a href="/information-graduating-seniors" class="sf-depth-3">
+Graduation
+</a>
+</li>
+<li id="menu-1173-1" class="middle odd sf-item-7 sf-depth-3">
+<a href="/internships-careers" class="sf-depth-3">
+Internships &amp; Careers
+</a>
+</li>
+<li id="menu-1104-1" class="last even sf-item-8 sf-depth-3 sf-no-children">
+<a href="/economics-undergraduate-board" class="sf-depth-3">
+Economics Undergraduate Board
+</a>
+</li>
+</ul>
+</li>
+<li id="menu-465-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-8 sf-parent-children-1 sf-single-children-7 menuparent">
+<a href="/graduate-programs" class="sf-depth-2 menuparent">
+Graduate
+</a>
+<ul>
+<li id="menu-1015-1" class="first odd sf-item-1 sf-depth-3 sf-no-children">
+<a href="/graduate-program-overview" class="sf-depth-3">
+Overview
+</a>
+</li>
+<li id="menu-1018-1" class="middle even sf-item-2 sf-depth-3 sf-no-children">
+<a href="/graduate-application-procedure-forms" class="sf-depth-3">
+How to Apply
+</a>
+</li>
+<li id="menu-1017-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children">
+<a href="/graduate-admission-requirements" class="sf-depth-3">
+Admission Requirements
+</a>
+</li>
+<li id="menu-1022-1" class="middle even sf-item-4 sf-depth-3">
+<a href="/academic-student-employees" class="sf-depth-3">
+Academic Student Employees
+</a>
+</li>
+<li id="menu-1019-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children">
+<a href="/graduate-student-financial-assistance" class="sf-depth-3">
+Financial Assistance
+</a>
+</li>
+<li id="menu-1020-1" class="middle even sf-item-6 sf-depth-3 sf-no-children">
+<a href="/job-placement" class="sf-depth-3">
+Job Placement
+</a>
+</li>
+<li id="menu-1296-1" class="middle odd sf-item-7 sf-depth-3 sf-no-children">
+<a href="/news/2016/11/14/selected-publications-recent-phd-graduates" title="" class="sf-depth-3">
+Recent Publications
+</a>
+</li>
+<li id="menu-1188-1" class="last even sf-item-8 sf-depth-3 sf-no-children">
+<a href="/admission-faqs" class="sf-depth-3">
+FAQs
+</a>
+</li>
+</ul>
+</li>
+<li id="menu-570-1" class="middle odd sf-item-3 sf-depth-2 sf-total-children-4 sf-parent-children-1 sf-single-children-3 menuparent">
+<a href="/courses" title="" class="sf-depth-2 menuparent">
+Courses
+</a>
+<ul>
+<li id="menu-1130-1" class="first odd sf-item-1 sf-depth-3 sf-no-children">
+<a href="/courses" title="" class="sf-depth-3">
+Current &amp; Upcoming
+</a>
+</li>
+<li id="menu-1111-1" class="middle even sf-item-2 sf-depth-3 sf-no-children">
+<a href="/courses-and-registration" class="sf-depth-3">
+Registering for Courses
+</a>
+</li>
+<li id="menu-1113-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children">
+<a href="/add-code-requests-policy" class="sf-depth-3">
+Add Code Requests Policy
+</a>
+</li>
+<li id="menu-1112-1" class="last even sf-item-4 sf-depth-3">
+<a href="/undergraduate-course-syllabi" class="sf-depth-3">
+Undergraduate Course Syllabi
+</a>
+</li>
+</ul>
+</li>
+<li id="menu-1109-1" class="middle even sf-item-4 sf-depth-2 sf-no-children">
+<a href="/policy-academic-conduct" class="sf-depth-2">
+Policy on Academic Conduct
+</a>
+</li>
+<li id="menu-1128-1" class="last odd sf-item-5 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent">
+<a href="/study-abroad" class="sf-depth-2 menuparent">
+Study Abroad
+</a>
+<ul>
+<li id="menu-1192-1" class="first odd sf-item-1 sf-depth-3 sf-no-children">
+<a href="/study-abroad" title="" class="sf-depth-3">
+General Information
+</a>
+</li>
+<li id="menu-1129-1" class="last even sf-item-2 sf-depth-3 sf-no-children">
+<a href="/study-abroad-program-course-equivalents" class="sf-depth-3">
+Course Equivalents
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="menu-1082-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-8 sf-parent-children-2 sf-single-children-6 menuparent">
+<a href="/economics-outreach" title="" class="sf-depth-1 menuparent">
+Outreach
+</a>
+<ul>
+<li id="menu-1084-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent">
+<a href="/undergraduate-mentorship-program" class="sf-depth-2 menuparent">
+Undergraduate Mentorship Program
+</a>
+<ul>
+<li id="menu-1088-1" class="first odd sf-item-1 sf-depth-3 sf-no-children">
+<a href="/department-economics-mentors" class="sf-depth-3">
+Department of Economics Mentors
+</a>
+</li>
+<li id="menu-1085-1" class="middle even sf-item-2 sf-depth-3 sf-no-children">
+<a href="/mentor-resource-library" class="sf-depth-3">
+Mentor Resource Library
+</a>
+</li>
+<li id="menu-1086-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children">
+<a href="/mentors-faqs" class="sf-depth-3">
+Mentors&#039; FAQs
+</a>
+</li>
+<li id="menu-1087-1" class="middle even sf-item-4 sf-depth-3 sf-no-children">
+<a href="/mentorship-program-information-students" class="sf-depth-3">
+Mentorship Info for Students
+</a>
+</li>
+<li id="menu-1089-1" class="last odd sf-item-5 sf-depth-3 sf-no-children">
+<a href="/resources-mentoring-international-students" class="sf-depth-3">
+Resources for Mentoring International Students
+</a>
+</li>
+</ul>
+</li>
+<li id="menu-1366-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent">
+<a href="/distinguished-alumnus-award" title="" class="sf-depth-2 menuparent">
+Awards
+</a>
+<ul>
+<li id="menu-1095-1" class="first odd sf-item-1 sf-depth-3 sf-no-children">
+<a href="/distinguished-alumnus-award" class="sf-depth-3">
+Distinguished Alumnus
+</a>
+</li>
+<li id="menu-1367-1" class="middle even sf-item-2 sf-depth-3 sf-no-children">
+<a href="/henry-t-buechel-awards" class="sf-depth-3">
+Henry T. Buechel
+</a>
+</li>
+<li id="menu-1101-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children">
+<a href="/kathy-gehrt-memorial-economics-volunteer-service-award" class="sf-depth-3">
+Kathy Gehrt Memorial
+</a>
+</li>
+<li id="menu-1368-1" class="middle even sf-item-4 sf-depth-3 sf-no-children">
+<a href="/undergraduate-scholarship-recipients" class="sf-depth-3">
+Undergraduate Scholarship Recipients
+</a>
+</li>
+<li id="menu-1369-1" class="last odd sf-item-5 sf-depth-3 sf-no-children">
+<a href="/graduate-student-awards" class="sf-depth-3">
+Graduate Student Awards
+</a>
+</li>
+</ul>
+</li>
+<li id="menu-1198-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children">
+<a href="/diversity-equity-and-inclusion" class="sf-depth-2">
+Diversity, Equity and Inclusion
+</a>
+</li>
+<li id="menu-1315-1" class="middle even sf-item-4 sf-depth-2 sf-no-children">
+<a href="/biennial-endowed-milliman-lecture-economics" class="sf-depth-2">
+Endowed Milliman Lecture
+</a>
+</li>
+<li id="menu-1081-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children">
+<a href="/economics-outreach" class="sf-depth-2">
+Economics Outreach
+</a>
+</li>
+<li id="menu-1096-1" class="middle even sf-item-6 sf-depth-2 sf-no-children">
+<a href="/public-lectures-and-lifelong-learning" class="sf-depth-2">
+Lifelong Learning
+</a>
+</li>
+<li id="menu-1083-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children">
+<a href="/uw-women-economics" class="sf-depth-2">
+UW Women in Economics
+</a>
+</li>
+<li id="menu-1093-1" class="last even sf-item-8 sf-depth-2 sf-no-children">
+<a href="/economics-visiting-committee" class="sf-depth-2">
+Visiting Committee
+</a>
+</li>
+</ul>
+</li>
+<li id="menu-994-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent">
+<a href="/research" class="sf-depth-1 menuparent">
+Research
+</a>
+<ul>
+<li id="menu-1318-1" class="first odd sf-item-1 sf-depth-2 sf-no-children">
+<a href="/research-articles" class="sf-depth-2">
+Articles
+</a>
+</li>
+<li id="menu-1317-1" class="middle even sf-item-2 sf-depth-2 sf-no-children">
+<a href="/research-bookschapters" class="sf-depth-2">
+Books/Chapters
+</a>
+</li>
+<li id="menu-1319-1" class="last odd sf-item-3 sf-depth-2 sf-no-children">
+<a href="/research-dissertations" class="sf-depth-2">
+Dissertations
+</a>
+</li>
+</ul>
+</li>
+<li id="menu-320-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-5 sf-parent-children-1 sf-single-children-4 menuparent">
+<a href="/news" title="" class="sf-depth-1 menuparent">
+News &amp; Events
+</a>
+<ul>
+<li id="menu-745-1" class="first odd sf-item-1 sf-depth-2 sf-no-children">
+<a href="/news/recent" title="" class="sf-depth-2">
+Recent News
+</a>
+</li>
+<li id="menu-559-1" class="middle even sf-item-2 sf-depth-2 sf-no-children">
+<a href="/newsletters" class="sf-depth-2">
+Newsletter
+</a>
+</li>
+<li id="menu-786-1" class="middle odd sf-item-3 sf-depth-2 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent">
+<a href="/calendar" title="" class="sf-depth-2 menuparent">
+Events Calendar
+</a>
+<ul>
+<li id="menu-1162-1" class="first odd sf-item-1 sf-depth-3 sf-no-children">
+<a href="/brownbag-seminars" class="sf-depth-3">
+Brownbag Seminars
+</a>
+</li>
+<li id="menu-1158-1" class="middle even sf-item-2 sf-depth-3 sf-no-children">
+<a href="/econometrics-seminar-series" class="sf-depth-3">
+Econometrics Seminars
+</a>
+</li>
+<li id="menu-1201-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children">
+<a href="/economics-major-info-session" class="sf-depth-3">
+Economics Major Info Sessions
+</a>
+</li>
+<li id="menu-1161-1" class="middle even sf-item-4 sf-depth-3 sf-no-children">
+<a href="/international-economics-and-macroeconomics-seminar-series" class="sf-depth-3">
+International and Macroeconomics Seminars
+</a>
+</li>
+<li id="menu-1159-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children">
+<a href="/joint-seminar-development-economics-series" class="sf-depth-3">
+Joint Seminar in Development Economics
+</a>
+</li>
+<li id="menu-1160-1" class="last even sf-item-6 sf-depth-3 sf-no-children">
+<a href="/microeconomics-seminar-series" class="sf-depth-3">
+Microeconomics Seminars
+</a>
+</li>
+</ul>
+</li>
+<li id="menu-1316-1" class="middle even sf-item-4 sf-depth-2 sf-no-children">
+<a href="/biennial-endowed-milliman-lecture-economics" title="" class="sf-depth-2">
+Milliman Endowed Lectures
+</a>
+</li>
+<li id="menu-1102-1" class="last odd sf-item-5 sf-depth-2 sf-no-children">
+<a href="/seminar-series" class="sf-depth-2">
+Seminar Series
+</a>
+</li>
+</ul>
+</li>
+<li id="menu-281-1" class="middle even sf-item-6 sf-depth-1 sf-total-children-6 sf-parent-children-2 sf-single-children-4 menuparent">
+<a href="/resources" class="sf-depth-1 menuparent">
+Resources
+</a>
+<ul>
+<li id="menu-549-1" class="first odd sf-item-1 sf-depth-2 sf-no-children">
+<a href="/resources-students" class="sf-depth-2">
+Advising
+</a>
+</li>
+<li id="menu-550-1" class="middle even sf-item-2 sf-depth-2 sf-no-children">
+<a href="/career-planning" class="sf-depth-2">
+Career Planning
+</a>
+</li>
+<li id="menu-1121-1" class="middle odd sf-item-3 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent">
+<a href="/internships" class="sf-depth-2 menuparent">
+Internships
+</a>
+<ul>
+<li id="menu-1122-1" class="first odd sf-item-1 sf-depth-3 sf-no-children">
+<a href="/econ-399-economics-internship" class="sf-depth-3">
+Econ 399: Internship Credit
+</a>
+</li>
+<li id="menu-1123-1" class="last even sf-item-2 sf-depth-3 sf-no-children">
+<a href="/undergraduate-internship-information-employers" class="sf-depth-3">
+Employers Internship Info
+</a>
+</li>
+</ul>
+</li>
+<li id="menu-1150-1" class="middle even sf-item-4 sf-depth-2 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent">
+<a href="/research-and-computing-resources" class="sf-depth-2 menuparent">
+Research and Computing
+</a>
+<ul>
+<li id="menu-1151-1" class="firstandlast odd sf-item-1 sf-depth-3 sf-no-children">
+<a href="/terminal-server-information" class="sf-depth-3">
+Terminal Server Information
+</a>
+</li>
+</ul>
+</li>
+<li id="menu-548-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children">
+<a href="/scholarships-and-financial-support" class="sf-depth-2">
+Scholarships &amp; Financial Support
+</a>
+</li>
+<li id="menu-1011-1" class="last even sf-item-6 sf-depth-2 sf-no-children">
+<a href="https://uwnetid-my.sharepoint.com/personal/econdept_uw_edu/intranet" title="" class="sf-depth-2">
+Intranet
+</a>
+</li>
+</ul>
+</li>
+<li id="menu-279-1" class="last odd sf-item-7 sf-depth-1 sf-total-children-6 sf-parent-children-1 sf-single-children-5 menuparent">
+<a href="/about" class="sf-depth-1 menuparent">
+About
+</a>
+<ul>
+<li id="menu-496-1" class="first odd sf-item-1 sf-depth-2 sf-no-children">
+<a href="/about" title="" class="sf-depth-2">
+Overview
+</a>
+</li>
+<li id="menu-840-1" class="middle even sf-item-2 sf-depth-2 sf-no-children">
+<a href="/history" class="sf-depth-2">
+History
+</a>
+</li>
+<li id="menu-1010-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children">
+<a href="/health-and-safety-information" class="sf-depth-2">
+Health &amp; Safety
+</a>
+</li>
+<li id="menu-397-1" class="middle even sf-item-4 sf-depth-2 sf-no-children">
+<a href="/stay-connected" class="sf-depth-2">
+Stay Connected
+</a>
+</li>
+<li id="menu-505-1" class="middle odd sf-item-5 sf-depth-2 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent">
+<a href="/support-us" class="sf-depth-2 menuparent">
+Support Us
+</a>
+<ul>
+<li id="menu-1013-1" class="first odd sf-item-1 sf-depth-3 sf-no-children">
+<a href="/giving-faqs" class="sf-depth-3">
+Giving FAQs
+</a>
+</li>
+<li id="menu-1012-1" class="middle even sf-item-2 sf-depth-3 sf-no-children">
+<a href="/support-our-faculty" class="sf-depth-3">
+Support Our Faculty
+</a>
+</li>
+<li id="menu-1014-1" class="last odd sf-item-3 sf-depth-3 sf-no-children">
+<a href="/support-our-students" class="sf-depth-3">
+Support Our Students
+</a>
+</li>
+</ul>
+</li>
+<li id="menu-993-1" class="last even sf-item-6 sf-depth-2 sf-no-children">
+<a href="/contact" class="sf-depth-2">
+Contact Us
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!-- /#navigation -->
+
+
+ 
+</div>
+<!-- /#page -->
+
+
+
+</div>
+<!-- /#page-outer -->
+<div role="contentinfo">
+<footer id="footer" class="region region-footer">
+<div id="block-block-2" class="block block-block first last odd">
+<p style="text-align: center;">
+<no_tag>
+Department of Economics · University of Washington · 305 Savery Hall, Box 353330 · Seattle, WA 98195-3330
+</no_tag>
+<br />
+<no_tag>
+Telephone: (206) 543-5955 · Fax (206) 685-7477 · Email: 
+</no_tag>
+<a href="mailto:econdept@uw.edu">
+econdept@uw.edu
+</a>
+</p>
+<p style="text-align: center;">
+<no_tag>
+Copyright © 2012-2020 
+</no_tag>
+<a title="University of Washington" href="http://www.washington.edu">
+University of Washington
+</a>
+<no_tag>
+ · 
+</no_tag>
+<a title="UW Privacy Policy" href="http://www.washington.edu/online/privacy">
+Privacy
+</a>
+<no_tag>
+ · 
+</no_tag>
+<a title="UW Terms of Use" href="http://www.washington.edu/online/terms">
+Terms
+</a>
+<no_tag>
+ · 
+</no_tag>
+<a title="Site Map" href="/sitemap">
+Site Map
+</a>
+<no_tag>
+ · 
+</no_tag>
+<a title="Contact information" href="/contact">
+Contact Us
+</a>
+<br />
+<small>
+<no_tag>
+Header background adapted from 
+</no_tag>
+<a href="https://www.flickr.com/photos/razvanorendovici/4753520451" target="_blank" rel="noopener noreferrer">
+<no_tag>
+Razvan Orendovici's 
+</no_tag>
+<em>
+Mt Rainier reflecting in Drumheller Fountain
+</em>
+</a>
+<a href="https://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener noreferrer">
+CC SA
+</a>
+</small>
+</p>
+</div>
+</footer>
+</div>
+</div>
+<!-- /#page-wrapper -->
+<!-- Display the UW alert banner -->
+<script src="//www.washington.edu/static/alert.js" type="text/javascript" >
+</script>
+<script type="text/javascript">
+window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-1460c629cd2534ef86d","applicationID":"720617672","transactionName":"Y1JaMRFTDUJZUxANCloYbRcKHQpfXFUcShVcRw==","queueTime":0,"applicationTime":26,"atts":"TxVZR1lJHkw=","errorBeacon":"bam.nr-data.net","agent":""}
+</script>
+</body>
+</html>
+
+

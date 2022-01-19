@@ -1,0 +1,642 @@
+{
+    "Leila Agha": {
+        "status": "success",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 – 2011"
+                ]
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 – 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 7 mos"
+                ]
+            ],
+            [
+                "Faculty Research Fellow",
+                [
+                    "Company Name",
+                    "National Bureau of Economic Research"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2013 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 9 mos"
+                ]
+            ],
+            [
+                "Assistant Professor of Markets, Public Policy, and Law",
+                [
+                    "Company Name",
+                    "Boston University Questrom School of Business"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 – Jun 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow in Health and Aging",
+                [
+                    "Company Name",
+                    "National Bureau of Economic Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2011 – Jun 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ]
+            ]
+        ]
+    },
+    "Treb Allen": {
+        "status": "fail",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 – 2011"
+                ]
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 – 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 7 mos"
+                ]
+            ],
+            [
+                "Faculty Research Fellow",
+                [
+                    "Company Name",
+                    "National Bureau of Economic Research"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2013 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 9 mos"
+                ]
+            ],
+            [
+                "Assistant Professor of Markets, Public Policy, and Law",
+                [
+                    "Company Name",
+                    "Boston University Questrom School of Business"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 – Jun 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow in Health and Aging",
+                [
+                    "Company Name",
+                    "National Bureau of Economic Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2011 – Jun 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ]
+            ]
+        ]
+    },
+    "Patricia M. Anderson": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1991 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "30 yrs 7 mos"
+                ]
+            ]
+        ]
+    },
+    "David Graham Blanchflower": {
+        "status": "fail",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1991 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "30 yrs 7 mos"
+                ]
+            ]
+        ]
+    },
+    "Elizabeth U. Cascio": {
+        "status": "success",
+        "Education": [
+            [
+                "Franklin &amp; Marshall College"
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Total Duration",
+                    "15 yrs 7 mos"
+                ],
+                [
+                    "Title",
+                    "DeWalt H. 1921 and Marie H. Ankeny Professorship in Economic Policy"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jul 2021 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "Hanover, New Hampshire, United States"
+                ],
+                [
+                    "Title",
+                    "Professor of Economics"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jul 2021 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "Hanover, New Hampshire, United States"
+                ],
+                [
+                    "Title",
+                    "Associate Professor of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 – Jul 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 1 mo"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2006 – Jun 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs"
+                ]
+            ]
+        ]
+    },
+    "Eric T. Chyn": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 – 2016"
+                ]
+            ],
+            [
+                "University of Maryland",
+                [
+                    "Degree Name",
+                    "Non-Degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 – 2008"
+                ]
+            ],
+            [
+                "Baylor University",
+                [
+                    "Degree Name",
+                    "BBA"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Hanover, New Hampshire, United States"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Virginia"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2017 – Jul 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Charlottesville, Virginia Area"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2008 – Aug 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 9 mos"
+                ],
+                [
+                    "Location",
+                    "New Haven"
+                ],
+                "Affiliate, sponsored by the National Bureau of Economic Research."
+            ],
+            [
+                "Special Assistant to the Director and Trade Analyst",
+                [
+                    "Company Name",
+                    "The U.S. International Trade Commission"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 – Sep 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Washington D.C. Metro Area"
+                ]
+            ]
+        ]
+    },
+    "Diego Comin": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Elisabeth Curtis": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Maura Doyle": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Eric V. Edmonds": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "James Feyrer": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Matthew W. Grant": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Apoorv Gupta": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Alan L. Gustman": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Douglas A. Irwin": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Meir Gregory Kohn": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Andrew Levin": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Ethan Gatewood Lewis": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Erzo F.P. Luttmer": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Erin Mansur": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Madeline McKelway": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Ellen R. Meara": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Steven M. Mello": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Paul Novosad": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Claudia Olivetti": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Nina Pavcnik": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Melinda Petre": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Diego Ramos-Toro": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Marjorie B. Rose": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Bruce I. Sacerdote": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Andrew A. Samwick": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Na'ama Shenhav": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Christopher Snyder": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Douglas O. Staiger": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Robert W. Staiger": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Meredith Startz": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "John W. Welborn": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Charles J. Wheelan": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Jonathan Zinman": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Eric W. Zitzewitz": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Nathan G. Zorzi": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "William A. Fischel": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Nancy Peregrim Marion": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "John Troy Scott": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Jonathan Skinner": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Steven F. Venti": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    }
+}

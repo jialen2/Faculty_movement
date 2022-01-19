@@ -1,0 +1,50 @@
+// IMPORT EDU_TO_EDU
+LOAD CSV WITH HEADERS FROM "file:///edu_to_edu.csv" AS row
+MERGE (last_edu:EDU {name:row.last_edu})
+MERGE (next_edu:EDU {name:row.next_edu})
+MERGE (last_edu)-[move:EDU_TO_EDU]->(next_edu)
+SET move.weight=row.weight;
+
+// IMPORT EDU_TO_WORK
+LOAD CSV WITH HEADERS FROM "file:///edu_to_work.csv" AS row
+MERGE (last_edu:EDU {name:row.last_edu})
+MERGE (first_work:EDU {name:row.first_work})
+MERGE (last_edu)-[move:EDU_TO_WORK]->(first_work)
+SET move.weight=row.weight;
+
+// IMPORT WORK_TO_WORK
+LOAD CSV WITH HEADERS FROM "file:///work_to_work.csv" AS row
+MERGE (last_work:EDU {name:row.last_work})
+MERGE (next_work:EDU {name:row.next_work})
+MERGE (last_work)-[move:WORK_TO_WORK]->(next_work)
+SET move.weight=row.weight;
+
+// DELETE ALL
+MATCH (n:EDU)-[r:EDU_TO_EDU]->(m:EDU)
+DELETE r;
+MATCH (n:EDU)-[r:EDU_TO_WORK]->(m:EDU)
+DELETE r;
+MATCH (n:EDU)-[r:WORK_TO_WORK]->(m:EDU)
+DELETE r;
+MATCH (n:EDU)
+DELETE n;
+
+// TESTING
+MATCH (edu3:EDU)<-[move2:EDU_TO_WORK]-(edu1:EDU)-[move1:EDU_TO_EDU]->(edu2:EDU)
+WHERE edu1.name = "University of Illinois Urbana-Champaign"
+RETURN edu1,edu2,edu3,move1,move2;
+
+MATCH (edu3:EDU)<-[move2:EDU_TO_WORK]-(edu1:EDU)-[move1:EDU_TO_EDU]->(edu2:EDU)
+WHERE edu1.name = "Northwestern University"
+RETURN edu1,edu2,edu3,move1,move2;
+
+// CHANGE WEIGHT TO INTEGER
+MATCH (n:EDU)-[e]->(m:EDU)
+SET e.weight = toInteger(e.weight)
+
+// CHANGE EDU_TO_WORK DIRECTION
+MATCH (n:EDU)-[e:EDU_TO_WORK]->(m:EDU)
+WITH e.weight as w, e as e, m as m, n as n
+DELETE e
+MERGE (m)-[e1:EDU_TO_WORK]->(n)
+SET e1.weight = w

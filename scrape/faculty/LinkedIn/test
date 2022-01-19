@@ -1,0 +1,160 @@
+{
+    "Sarita V. Adve": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 – 1993"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Bombay",
+                [
+                    "Degree Name",
+                    "B. Tech."
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Rice University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1993 – Aug 1999"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 1 mo"
+                ]
+            ]
+        ]
+    },
+    "Vikram Adve": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 – 1993"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Bombay",
+                [
+                    "Degree Name",
+                    "Bachelor of Technology (B.Tech.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1983 – 1987"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Director, AIFARMS National AI Institute",
+                [
+                    "Company Name",
+                    "Univer"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 5 mos"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of Illinois at Urbana-Champaign"
+                ],
+                [
+                    "Total Duration",
+                    "22 yrs 6 mos"
+                ],
+                [
+                    "Title",
+                    "Co-Founder and Co-Director, Center for Digital Agriculture"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2018 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 4 mos"
+                ],
+                [
+                    "Title",
+                    "Donald B. Gillies Professor of Computer Science"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2018 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Urbana, IL"
+                ],
+                "Show 2 more roles"
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "Rice University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1993 – Jul 1999"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
+                ],
+                [
+                    "Location",
+                    "Houston, TX"
+                ]
+            ]
+        ]
+    }
+}
