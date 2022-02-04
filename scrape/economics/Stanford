@@ -17,37 +17,907 @@
     "B. Douglas Bernheim": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                "Full-time"
+            ]
+        ]
     },
     "Nicholas Bloom": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "UCL",
+                [
+                    "Degree Name",
+                    "Economics, PhD"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 – 2001"
+                ]
+            ],
+            [
+                "University of Oxford",
+                [
+                    "Degree Name",
+                    "Economics, MPhil"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 – 1996"
+                ]
+            ],
+            [
+                "University of Cambridge",
+                [
+                    "Degree Name",
+                    "Economics, BA"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 – 1994"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Public Speaking",
+                [
+                    "Company Name",
+                    "Stern Strategy Group"
+                ],
+                "Part-time",
+                [
+                    "Dates Employed",
+                    "Mar 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 11 mos"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Total Duration",
+                    "16 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Professor of Economics"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Sep 2012 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Professor Of Economics"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Sep 2009 – Aug 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                "Show 1 more role"
+            ],
+            [
+                "Research Officer",
+                [
+                    "Company Name",
+                    "The London School of Economics and Political Science (LSE)"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Dec 2003 – Aug 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 9 mos"
+                ]
+            ],
+            [
+                "Associate Consultant",
+                [
+                    "Company Name",
+                    "McKinsey &amp; Company"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "May 2002 – Dec 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ]
+            ],
+            [
+                "Business Tax Policy Advisor (secondment from the IFS)",
+                [
+                    "Company Name",
+                    "HM Treasury"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jun 2001 – May 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ]
+        ]
     },
     "Luigi Bocola": {
         "status": "fail",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "UCL",
+                [
+                    "Degree Name",
+                    "Economics, PhD"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 – 2001"
+                ]
+            ],
+            [
+                "University of Oxford",
+                [
+                    "Degree Name",
+                    "Economics, MPhil"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 – 1996"
+                ]
+            ],
+            [
+                "University of Cambridge",
+                [
+                    "Degree Name",
+                    "Economics, BA"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 – 1994"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Public Speaking",
+                [
+                    "Company Name",
+                    "Stern Strategy Group"
+                ],
+                "Part-time",
+                [
+                    "Dates Employed",
+                    "Mar 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 11 mos"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Total Duration",
+                    "16 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Professor of Economics"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Sep 2012 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Professor Of Economics"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Sep 2009 – Aug 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                "Show 1 more role"
+            ],
+            [
+                "Research Officer",
+                [
+                    "Company Name",
+                    "The London School of Economics and Political Science (LSE)"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Dec 2003 – Aug 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 9 mos"
+                ]
+            ],
+            [
+                "Associate Consultant",
+                [
+                    "Company Name",
+                    "McKinsey &amp; Company"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "May 2002 – Dec 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ]
+            ],
+            [
+                "Business Tax Policy Advisor (secondment from the IFS)",
+                [
+                    "Company Name",
+                    "HM Treasury"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jun 2001 – May 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ]
+        ]
     },
     "Michael J. Boskin": {
         "status": "fail",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "UCL",
+                [
+                    "Degree Name",
+                    "Economics, PhD"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 – 2001"
+                ]
+            ],
+            [
+                "University of Oxford",
+                [
+                    "Degree Name",
+                    "Economics, MPhil"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 – 1996"
+                ]
+            ],
+            [
+                "University of Cambridge",
+                [
+                    "Degree Name",
+                    "Economics, BA"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 – 1994"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Public Speaking",
+                [
+                    "Company Name",
+                    "Stern Strategy Group"
+                ],
+                "Part-time",
+                [
+                    "Dates Employed",
+                    "Mar 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 11 mos"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Total Duration",
+                    "16 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Professor of Economics"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Sep 2012 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Professor Of Economics"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Sep 2009 – Aug 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                "Show 1 more role"
+            ],
+            [
+                "Research Officer",
+                [
+                    "Company Name",
+                    "The London School of Economics and Political Science (LSE)"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Dec 2003 – Aug 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 9 mos"
+                ]
+            ],
+            [
+                "Associate Consultant",
+                [
+                    "Company Name",
+                    "McKinsey &amp; Company"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "May 2002 – Dec 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ]
+            ],
+            [
+                "Business Tax Policy Advisor (secondment from the IFS)",
+                [
+                    "Company Name",
+                    "HM Treasury"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jun 2001 – May 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ]
+        ]
     },
     "Arun G. Chandrasekhar": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Innovation and Entrepreneurship Program"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2020 – 2022"
+                ],
+                "The Stanford Innovation and Entrepreneurship Program teaches essential skills and effective strategies for working in and managing innovative organizations – and for starting new ones."
+            ],
+            [
+                "Nanyang Technological University (NTU)",
+                [
+                    "Degree Name",
+                    "MBA"
+                ],
+                [
+                    "Field Of Study",
+                    "Strategy"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 – 2006"
+                ],
+                "Nanyang Business School is located in Singapore. It was rated as the best business school in Asia (2021) by Economist and amongst the top 40 business schools worldwide (2021)."
+            ],
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Certificate Program in Leadership and Professional Communication"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 – 2017"
+                ],
+                "Completed a part-time program at the UC Berkeley campus on effective leadership and professional communication skills."
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Gartner"
+                ],
+                [
+                    "Total Duration",
+                    "10 yrs 1 mo"
+                ],
+                [
+                    "Title",
+                    "Distinguished Vice President, Analyst - Innovation, Cloud, and AI"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Apr 2018 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ],
+                "I advise CTOs and CIOs on effective strategies for Innovation, Cloud, and artificial intelligence (AI).",
+                [
+                    "Title",
+                    "Research Vice President - Storage, Cloud and Big Data &amp; Agenda Manager - Infrastructure Agility"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2014 – Mar 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ],
+                "I am a Research Vice President and Agenda Manager at Gartner, where my research focus is on providing strategic advice to CIOs and IT leaders on infrastructure agility, with an emphasis on emerging technologies. My coverage areas include microservices and containers, Hadoop/Spark/ML infrastructure, Cloud IaaS/PaaS, Blockchain, Quantum computing, solid-state storage, hyper-converged infrastructures, and Web-scale IT.",
+                "In addition to my research role, I function as an agenda manager for Gartner's data center research practice. My role involves deciding what research to produce, managing volume and format to fulfill an agenda storyline, planning when to deliver research and identifying analyst resources, managing research through to completion, and measuring and improving to meet new market and client demands.",
+                "I specialized in the following technology segments:",
+                "a) Enterprise SSD/Flash",
+                "b) Hybrid cloud storage",
+                "c) Big Data Infrastructure (including Hadoop, Spark)",
+                "d) Scale-out storage architectures - Distributed file systems, Object storage",
+                "e) Microservices &amp; Containers",
+                "f) Open source infrastructure",
+                "g) Web-scale IT",
+                "…",
+                "see more",
+                [
+                    "Title",
+                    "Research Director - Data Centre Infrastructure, Cloud and Big Data"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2012 – May 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                "My primary focus was on advising CIOs and IT leaders on data center infrastructure, Cloud and Big Data strategies. My responsibilities included identifying new research areas, mobilizing team members and managing research projects in emerging technologies that enhance our thought leadership.",
+                "I specialized in the following technology segments:",
+                "a) Public cloud storage",
+                "b) Big Data Infrastructure (including Hadoop)",
+                "c) Scale-out storage architectures",
+                "d) Distributed file systems",
+                "e) NAS",
+                "f) Private cloud strategies",
+                "g) Backup &amp; archiving",
+                "h) Object storage",
+                "i) Open source storage",
+                "j) Web-scale IT",
+                "I helped end-users in the following areas:",
+                "a) Help them identify the differences in vendors' offerings that are relevant to their environments",
+                "b) Help them understand the maturity of various data center infrastructure technologies,and their vendors",
+                "c) Help them with a transition plan from current data center technologies to the future",
+                "The major initiatives on which I help customers are:",
+                "a) Data centre modernization &amp; consolidation",
+                "b) Cloud computing strategies (infrastructure)",
+                "c) Addressing “Big Data” opportunities",
+                "d) Addressing information growth",
+                "…",
+                "see more"
+            ],
+            [
+                [
+                    "Company Name",
+                    "Frost &amp; Sullivan"
+                ],
+                [
+                    "Total Duration",
+                    "6 yrs 3 mos"
+                ],
+                [
+                    "Title",
+                    "Research Director - Cloud Computing and Data center Practice"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2011 – Dec 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "12 mos"
+                ],
+                "Research Head for Cloud computing, Data center equipment and services research practice offering consulting and research services to the leading vendors and service providers in the Asia-pacific region. Managed a team of 10+ analysts located worldwide.",
+                "Research areas of focus include Cloud computing, Managed services, Information Security, Network infrastructure, Virtualization and Storage.",
+                "Well versed in secondary &amp; primary research ,data analysis,preparation of reports, presentations and white papers.",
+                "Author of more than 100 research reports, strategic insights in the areas of information security, networking, managed services, data centers, storage, virtualization, cloud computing and business communication services.",
+                "Frequent speaker at industry events in the information security, Cloud computing, and data center arena, having spoken at more than 75 industry events.",
+                "Expert views and analysis have been featured in BBC, New York Times, Reuters, Channel NewsAsia,  CIO magazine, ZDNet Asia, MIS Asia, Computerworld, The Australian and Singapore’s Business Times.",
+                "…",
+                "see more",
+                [
+                    "Title",
+                    "Research Manager, Data Center &amp; Information Security Practice"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2005 – Dec 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 3 mos"
+                ],
+                "Research Head for Cloud computing, Data center equipment and services research practice offering consulting and research services to the leading vendors and service providers in the Asia-pacific region. Managed a team of 10+ analysts located worldwide.",
+                "Research areas of focus include Cloud computing, Managed services, Information Security, Network infrastructure, Virtualization and Storage.",
+                "Well versed in secondary &amp; primary research ,data analysis,preparation of reports, presentations and white papers.",
+                "Author of more than 100 research reports, strategic insights in the areas of information security, networking, managed services, data centers, storage, virtualization, cloud computing and business communication services.",
+                "Frequent speaker at industry events in the information security, Cloud computing, and data center arena, having spoken at more than 75 industry events.",
+                "Expert views and analysis have been featured in BBC, New York Times, Reuters, Channel NewsAsia, CIO magazine, ZDNet Asia, MIS Asia, Computerworld, The Australian and Singapore’s Business Times.",
+                "…",
+                "see more"
+            ],
+            [
+                "Senior Network Engineer",
+                [
+                    "Company Name",
+                    "CSC ( Computer Sciences Corp)"
+                ],
+                [
+                    "Dates Employed",
+                    "2003 – 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                "Remote support engineer to CSC’s US based datacenters, supporting their Fortune 500 clients in areas of storage , disaster recovery , and IT security.",
+                "Interface with customers to resolve technical problems, adhere to SLA’s (Service level agreements) &amp;amp; ensure client satisfaction.",
+                "Team lead in quality processes &amp;amp; procedure implementation .",
+                "Trained in english accent neutralisation &amp;amp; communication skills .",
+                "…",
+                "see more"
+            ],
+            [
+                "Senior Consultant",
+                [
+                    "Company Name",
+                    "Fusion Technologies"
+                ],
+                [
+                    "Dates Employed",
+                    "2002 – 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                "Team lead for the IT Security &amp;amp; infrastructure support division.",
+                "Spearheaded the security implementation initiatives such as OS security,anti-virus, patch management,updates,remote monitoring,software licensing &amp;amp; spam prevention of our corporate network.",
+                "Liaison with vendors for quotes and follow bid processes to evaluate and procure new software, hardware as well as services.",
+                "…",
+                "see more"
+            ],
+            [
+                "IT Consultant",
+                [
+                    "Company Name",
+                    "SSI Technologies"
+                ],
+                [
+                    "Dates Employed",
+                    "1998 – 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                "Team lead for the IT infrastructure support team – western India.",
+                "Pre-sales engineer responsible for client presentations and in aiding the sales team .",
+                "Offered post-sales support and managed a team of 10 support engineers.",
+                "Promoted to the US office  after two years of service . Member of technical staff at the silicon valley office, US providing consulting &amp;amp; system integration.",
+                "Provided technical support at the datacenter and to end-users by carrying an on-call RIM pager.",
+                "…",
+                "see more"
+            ]
+        ]
     },
     "Jose Ignacio Cuesta": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of Chicago",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 – 2019"
+                ]
+            ],
+            [
+                "Pontificia Universidad Católica de Chile",
+                [
+                    "Degree Name",
+                    "Master of Arts - MA"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 – 2010"
+                ]
+            ],
+            [
+                "Pontificia Universidad Católica de Chile",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts - BA"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 – 2010"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 7 mos"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "Stanford Institute for Economic Policy Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Jun 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ]
+        ]
     },
     "Mark Duggan": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 – 1999"
+                ]
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 – 1994"
+                ]
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1988 – 1992"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Total Duration",
+                    "7 yrs 7 mos"
+                ],
+                [
+                    "Title",
+                    "The Trione Director of the Stanford Institute for Economic Policy Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Stanford, CA"
+                ],
+                [
+                    "Title",
+                    "The Wayne and Jodi Cooperman Professor of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 7 mos"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "The Wharton School"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2011 – Jun 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ]
+            ],
+            [
+                "Professor and Associate Professor",
+                [
+                    "Company Name",
+                    "University of Maryland"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2003 – Jun 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1999 – Jun 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ]
+            ]
+        ]
     },
     "Pascaline Dupas": {
         "status": "success",
@@ -67,141 +937,2219 @@
     "Matthew Gentzkow": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ]
+            ]
+        ]
     },
     "Lawrence H. Goulder": {
         "status": "fail",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ]
+            ]
+        ]
     },
     "Robert Hall": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "MIT",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1964 – 1967"
+                ]
+            ],
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (BA)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1961 – 1964"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor and Senior Fellow (Hoover Institution)",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1978 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "43 yrs 5 mos"
+                ],
+                "Research"
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "MIT"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1970 – Aug 1978"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs"
+                ],
+                "Research"
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "UC Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "1967 – 1970"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                "Research"
+            ]
+        ]
     },
     "Han Hong": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Dates attended or expected graduation",
+                    "1993 – 1998"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ]
+            ]
+        ]
     },
     "Caroline Hoxby": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Econommics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 – 1994"
+                ]
+            ],
+            [
+                "University of Oxford",
+                [
+                    "Degree Name",
+                    "Master of Philosophy (M.Phil.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1988 – 1990"
+                ]
+            ],
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "A.B. summa cum laude"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 – 1988"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Scott and Donya Bommer Professor of Economics",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "2007 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "15 yrs"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Total Duration",
+                    "6 yrs"
+                ],
+                [
+                    "Title",
+                    "Harvard College Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "2005 – 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Cambridge, Massachusetts"
+                ],
+                [
+                    "Title",
+                    "Allie S. Freed Professor of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "2001 – 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
+                ],
+                [
+                    "Location",
+                    "Cambridge, Massachusetts"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Total Duration",
+                    "6 yrs"
+                ],
+                [
+                    "Title",
+                    "Morris Kahn Associate Professor of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "1997 – 2000"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "Cambridge, Massachusetts"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "1994 – 1997"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "Cambridge, Massachusetts"
+                ]
+            ]
+        ]
     },
     "Guido W Imbens": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Brown University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 – 1991"
+                ]
+            ],
+            [
+                "Erasmus University Rotterdam"
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Stanford University Graduate School of Business"
+                ],
+                [
+                    "Total Duration",
+                    "9 yrs 7 mos"
+                ],
+                [
+                    "Title",
+                    "Professor, Graduate School of Business, Stanford University"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jul 2012 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Stanford, California, United States"
+                ],
+                [
+                    "Title",
+                    "Professor at Graduate School of Business, Stanford University"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jul 2012 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Stanford, California, United States"
+                ]
+            ],
+            [
+                "professor",
+                [
+                    "Company Name",
+                    "Harvard University"
+                ]
+            ]
+        ]
     },
     "Matthew O. Jackson": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 – 1988"
+                ]
+            ],
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1980 – 1984"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "William D. Eberle Professor of Economics",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ]
+            ],
+            [
+                "Advisory Board Member",
+                [
+                    "Company Name",
+                    "Altana AI"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 1 mo"
+                ]
+            ],
+            [
+                "Edie and Lew Wasserman Professor of Economics",
+                [
+                    "Company Name",
+                    "California Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1997 – Jun 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 11 mos"
+                ]
+            ],
+            [
+                "IBM Distinguished Professor of Regulatory and Competitive Practices",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1988 – Aug 1997"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 3 mos"
+                ]
+            ]
+        ]
     },
     "Patrick Kehoe": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 – 1986"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Minnesota"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Total Duration",
+                    "6 yrs 8 mos"
+                ],
+                [
+                    "Title",
+                    "Professor of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Stanford, CA, USA"
+                ],
+                [
+                    "Title",
+                    "Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Stanford, CA"
+                ]
+            ]
+        ]
     },
     "Pete Klenow": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 – 1991"
+                ]
+            ],
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    "Business"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 – 1986"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2003 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "18 yrs 5 mos"
+                ]
+            ],
+            [
+                "Senior Economist",
+                [
+                    "Company Name",
+                    "Federal Reserve Bank of Minneaopolis"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2000 – Aug 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 2 mos"
+                ]
+            ],
+            [
+                "Assistant/Associate Professor of Economics",
+                [
+                    "Company Name",
+                    "University of Chicago Booth School of Business"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1991 – Jun 2000"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs"
+                ]
+            ]
+        ]
     },
     "Brad Larsen": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 – 2013"
+                ],
+                "National Science Foundation Graduate Research Fellowship"
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "BA / BS"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics / Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 – 2008"
+                ],
+                "Summa Cum Laude, Economics Department Valedictorian"
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Stanford, California"
+                ]
+            ],
+            [
+                "Postdoctoral Research Economist",
+                [
+                    "Company Name",
+                    "eBay Research Labs"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 – Jul 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "San Jose, CA"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "MIT"
+                ],
+                [
+                    "Dates Employed",
+                    "2008 – 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                "Research assistant for Josh Angrist, Parag Pathak, Nancy Rose, Whitney Newey."
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "2006 – 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                "Research assistant for James McDonald"
+            ],
+            [
+                "Summer Analyst",
+                [
+                    "Company Name",
+                    "Goldman Sachs"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2007 – Aug 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                "Summer analyst at Quantitative Investment Strategies"
+            ]
+        ]
     },
     "Jonathan Levin": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 – 1999"
+                ]
+            ],
+            [
+                "Oxford University",
+                [
+                    "Degree Name",
+                    "M.Phil."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 – 1996"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "BA, BS"
+                ],
+                [
+                    "Field Of Study",
+                    "English, Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 – 1994"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Dean, Stanford Graduate School of Business",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2000 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "21 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Stanford, California"
+                ],
+                "Philip H. Knight Professor and Dean, 2016-",
+                "Holbrook Working Professor of Price Theory, 2011-",
+                "Chair, Department of Economics 2011-2014",
+                "Professor by Courtesy, Graduate School of Business, 2010-",
+                "Senior Fellow, Stanford Institute for Economic Policy Research, 2009-"
+            ]
+        ]
     },
     "Thomas E. MaCurdy": {
         "status": "fail",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 – 1999"
+                ]
+            ],
+            [
+                "Oxford University",
+                [
+                    "Degree Name",
+                    "M.Phil."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 – 1996"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "BA, BS"
+                ],
+                [
+                    "Field Of Study",
+                    "English, Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 – 1994"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Dean, Stanford Graduate School of Business",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2000 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "21 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Stanford, California"
+                ],
+                "Philip H. Knight Professor and Dean, 2016-",
+                "Holbrook Working Professor of Price Theory, 2011-",
+                "Chair, Department of Economics 2011-2014",
+                "Professor by Courtesy, Graduate School of Business, 2010-",
+                "Senior Fellow, Stanford Institute for Economic Policy Research, 2009-"
+            ]
+        ]
     },
     "Neale Mahoney": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "The University of Chicago Booth School of Business",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Business Administration, Management and Operations"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2018 – 2023"
+                ],
+                "-Kamyar Jabbari Graduate Fellowship Recipient",
+                "-John and Serena Liew Fama-Miller PhD Fellowship Recipient"
+            ],
+            [
+                "Bilkent University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    "Industrial Engineering"
+                ],
+                [
+                    "Grade",
+                    "3.98/4.00"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 – 2018"
+                ],
+                "Activities and Societies:",
+                "Operational Research Club/Active Member, GazeteBilkent Society/Author, Official Newsletter of Bilkent University Industrial Engineering Department/News Editor, TDP (Social Awareness Projects)/ Volunteer &amp; Photographer, Bilkent Photograpy Club Member",
+                "Full Scholarship, High Honors Student, CGPA: 3.98/4.00 (1st in cohort out of 224)"
+            ],
+            [
+                "National University of Singapore",
+                [
+                    "Degree Name",
+                    "Non-Graduating Exchange Student"
+                ],
+                [
+                    "Field Of Study",
+                    "Industrial and Systems Engineering"
+                ],
+                [
+                    "Grade",
+                    "4.6/5.0"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2017 – 2017"
+                ],
+                "Activities and Societies:",
+                "NUSPS (Photographic Society of NUS)"
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "The University of Chicago Booth School of Business"
+                ],
+                [
+                    "Total Duration",
+                    "3 yrs 6 mos"
+                ],
+                [
+                    "Title",
+                    "PHD Candidate"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ],
+                "Research Project Title: Machine Learning and Queueing Theory for Improving the Housing Allocation to the Homeless Population in Chicago",
+                [
+                    "Title",
+                    "Teaching Assistant for Pricing Strategies (Executive MBA &amp; MBA)"
+                ],
+                [
+                    "Dates Employed",
+                    "2020 – 2022"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                "• The course combines cases and analytic assignments to teach students how to design and execute pricing strategies.",
+                "• Assisted the Marketing Professor Jean Pierre Dube design the course material. I held review sessions and office hours, helped students with their assignments and graded the assignments. I was the first point of contact for student questions.",
+                "• Earned a performance bonus for exceptional service.",
+                "…",
+                "see more",
+                [
+                    "Title",
+                    "Teaching Assistant for Supply Chain Management (MBA)"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2019 – Dec 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                "The course covers how supply chains work, discusses the supply chain challenges and emerging supply chain business opportunities due to recent technological advances such as blockchain and IoT. I helped the Operations Management Professor Hyoduk Shin with teaching responsibilities. I graded the assignments, helped students with their questions and resolved conflicts about regrade requests.",
+                "…",
+                "see more"
+            ],
+            [
+                "Senior System Design Project Engineer",
+                [
+                    "Company Name",
+                    "Coca-Cola İçecek"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2017 – Jun 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Location",
+                    "Istanbul, Turkey"
+                ],
+                "• Developed a proactive and sustainable logistics system to respond to the urban delivery needs of Coca‐Cola İçecek A.Ş. in Istanbul and addressed",
+                "the regulations faced by the company in collaboration with six team members .",
+                "• Designed an innovative distribution model by synthesizing and applying relevant insights from the literature on city logistics, last mile supply chain,",
+                "broad spectrum of optimization problems such as FLP (Facility Location Problem) and VRP (Vehicle Routing Problem).",
+                "• Solved the mathematical program using CPLEX. Developed a heuristic algorithm to address long computation times.",
+                "• Used Google API in Java to calculate real distances. Used KNN clustering algorithm in R to cluster customers.",
+                "• Achieved 20% improvement in total route length. Advised Coca Cola on the action plan to implement the solution. Developed decision support",
+                "system for Coca Cola using Excel VBA.",
+                "• Successfully communicated the results to both expert and non‐expert audiences.",
+                "• Won the best poster award and second place in Bilkent University Senior Design Project Competition.",
+                "…",
+                "see more"
+            ],
+            [
+                [
+                    "Company Name",
+                    "GazeteBilkent"
+                ],
+                [
+                    "Total Duration",
+                    "2 yrs 10 mos"
+                ],
+                [
+                    "Title",
+                    "Art &amp; Culture Author"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 – Jun 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 10 mos"
+                ],
+                "http://www.gazetebilkent.com/author/tuzcuoglu/",
+                "Columnist, who writes for publication once a month, on art and culture",
+                [
+                    "Title",
+                    "Hobby &amp; Life Author"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 – Jun 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 10 mos"
+                ],
+                "Columnist, who writes for publication once a month, on hobby &amp; life with topics ranging from travel, fashion, gastronomy to entrepreneurhip"
+            ],
+            [
+                "Undergraduate Researcher",
+                [
+                    "Company Name",
+                    "Bilkent University"
+                ],
+                [
+                    "Dates Employed",
+                    "2017 – 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                "Research Project Title: Forecasting Meal Participation through Data Analysis",
+                "• Addressed the increased incidences of over‐ and under‐production of menu items at the university dining hall in collaboration with Professor Savas",
+                "Dayanik and Bilkent Catering Center (BCC).",
+                "• Collected, manipulated and analyzed the data through statistical methods and developed a forecasting model to predict the meal participation.",
+                "• Used machine learning techniques to build the forecasting model (linear regression, tree‐based models) and for model/feature selection (lasso,",
+                "ridge, stepwise regression). Tested the model using cross validation and achieved 81‐95% out of sample accuracy (adjusted r‐squared).",
+                "• Developed an interface using Shiny package in R. The interface outputs the meal participation forecast based on the inputs (weather forecasts, menu",
+                "contents, exam dates, academic calendar and holiday).",
+                "• Through extensive data visualization in R, successfully communicated the quantitative analysis to non‐technical audience at BCC.",
+                "• Earned the Bilkent University Undergraduate Research Award.",
+                "…",
+                "see more"
+            ],
+            [
+                "News Editor",
+                [
+                    "Company Name",
+                    "BİZ E‐Bülten, Official Newsletter of Bilkent University IE Department"
+                ],
+                "Freelance",
+                [
+                    "Dates Employed",
+                    "2015 – 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                "• Conducted interviews with Bilkent University Industrial Engineering alumni, prepared the interview articles for publication."
+            ]
+        ]
     },
     "Paul Milgrom": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics, Business"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1975 – 1978"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Chairman and Co-Founder",
+                [
+                    "Company Name",
+                    "Auctionomics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2009 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "13 yrs 1 mo"
+                ],
+                "Auctionomics supplies auction software and services for multi-product auctions. Our advanced online software products  and cutting-edge auction designs give Auctionomics an unprecedented and unparalleled ability to design efficient markets for trading multiple goods, maximizing the gains from trade and creating win-win solutions for our clients, whether buying, selling, or swapping."
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "1987 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "35 yrs"
+                ]
+            ],
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "Yahoo"
+                ],
+                [
+                    "Dates Employed",
+                    "2007 – Jun 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ],
+            [
+                "Senior Consultant",
+                [
+                    "Company Name",
+                    "Charles River Associates"
+                ],
+                [
+                    "Dates Employed",
+                    "1995 – 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "12 yrs"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Perfect Commerce"
+                ],
+                [
+                    "Total Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Title",
+                    "Chief Economists"
+                ],
+                [
+                    "Dates Employed",
+                    "1998 – 2000"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Title",
+                    "Chief Economists"
+                ],
+                [
+                    "Dates Employed",
+                    "1998 – 2000"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ]
+        ]
     },
     "Melanie Morten": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Yale University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 – 2013"
+                ]
+            ],
+            [
+                "Budapest Corvinus University",
+                [
+                    "Dates attended or expected graduation",
+                    "2002 – 2003"
+                ],
+                "Activities and Societies:",
+                "Erasmus exchange"
+            ],
+            [
+                "University of Auckland",
+                [
+                    "Degree Name",
+                    "Bachelor's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "2014 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs"
+                ]
+            ],
+            [
+                "Junior Scholar",
+                [
+                    "Company Name",
+                    "Federal Reserve Bank of Minneapolis"
+                ],
+                [
+                    "Dates Employed",
+                    "2013 – 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ]
+        ]
     },
     "Muriel Niederle": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ]
+            ]
+        ]
     },
     "Petra Persson": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Columbia University in the City of New York",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 – 2013"
+                ]
+            ],
+            [
+                "Columbia University in the City of New York",
+                [
+                    "Degree Name",
+                    "Master of Arts (M.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 – 2009"
+                ]
+            ],
+            [
+                "Stockholm School of Economics",
+                [
+                    "Degree Name",
+                    "Master of Science (MSc)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Total Duration",
+                    "8 yrs 7 mos"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 7 mos"
+                ],
+                [
+                    "Title",
+                    "Postdoctoral Scholar"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 – Jun 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Stanford, CA"
+                ]
+            ],
+            [
+                "Research Fellow",
+                [
+                    "Company Name",
+                    "Harvard Kennedy School of Government"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 – Jun 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Cambridge, MA"
+                ]
+            ],
+            [
+                "Research Associate",
+                [
+                    "Company Name",
+                    "The World Bank"
+                ],
+                [
+                    "Dates Employed",
+                    "2006 – 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Beijing City, China"
+                ]
+            ],
+            [
+                "Summer Analyst",
+                [
+                    "Company Name",
+                    "Goldman Sachs"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 – Sep 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "London, United Kingdom"
+                ]
+            ]
+        ]
     },
     "Monika Piazzesi": {
         "status": "fail",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Columbia University in the City of New York",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 – 2013"
+                ]
+            ],
+            [
+                "Columbia University in the City of New York",
+                [
+                    "Degree Name",
+                    "Master of Arts (M.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 – 2009"
+                ]
+            ],
+            [
+                "Stockholm School of Economics",
+                [
+                    "Degree Name",
+                    "Master of Science (MSc)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Total Duration",
+                    "8 yrs 7 mos"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 7 mos"
+                ],
+                [
+                    "Title",
+                    "Postdoctoral Scholar"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 – Jun 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Stanford, CA"
+                ]
+            ],
+            [
+                "Research Fellow",
+                [
+                    "Company Name",
+                    "Harvard Kennedy School of Government"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 – Jun 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Cambridge, MA"
+                ]
+            ],
+            [
+                "Research Associate",
+                [
+                    "Company Name",
+                    "The World Bank"
+                ],
+                [
+                    "Dates Employed",
+                    "2006 – 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Beijing City, China"
+                ]
+            ],
+            [
+                "Summer Analyst",
+                [
+                    "Company Name",
+                    "Goldman Sachs"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 – Sep 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "London, United Kingdom"
+                ]
+            ]
+        ]
     },
     "Luigi Pistaferri": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University College London",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 – 1999"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1999 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "22 yrs 5 mos"
+                ]
+            ]
+        ]
     },
     "Joseph P. Romano": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                "Full-time"
+            ]
+        ]
     },
     "Alvin Roth": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                "Full-time"
+            ]
+        ]
     },
     "Martin Schneider": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "ETH Zurich",
+                [
+                    "Degree Name",
+                    "Doctor of Sciences"
+                ],
+                [
+                    "Field Of Study",
+                    "Molecular Imaging"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 – 2018"
+                ],
+                "In Vivo Imaging",
+                "Two-Photon Microscopy",
+                "Photoacoustic Imaging - optical excitation / ultrasound emission",
+                "Angiogenesis",
+                "Lentiviral Transduction",
+                "In Vivo Drug Testing",
+                "Collaborated on multiple projects with clinicians and veterinarians to further explore the use of photoacoustic imaging for clinical applications"
+            ],
+            [
+                "University of Tübingen",
+                [
+                    "Degree Name",
+                    "Dr.med."
+                ],
+                [
+                    "Field Of Study",
+                    "Medicine"
+                ],
+                [
+                    "Grade",
+                    "MAGNA CUM LAUDE"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 – 2013"
+                ],
+                "EMMPRIN and its ligand Cyclophilin A as a novel diagnostic markers in inflammatory cardiomyopathy"
+            ],
+            [
+                "University of Tübingen",
+                [
+                    "Degree Name",
+                    "Doctor of Medicine (MD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Medicine"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 – 2011"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Stanford Byers Center for Biodesign"
+                ],
+                [
+                    "Total Duration",
+                    "2 yrs 4 mos"
+                ],
+                [
+                    "Title",
+                    "Biodesign Innovation: Concept Development and Implementation"
+                ],
+                "Part-time",
+                [
+                    "Dates Employed",
+                    "Jan 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Stanford, California, United States"
+                ],
+                " Biodesign Summer Extension Award - Home Oxygen",
+                " Identifying and exploring medical needs",
+                " Design and prototyping of new medical devices",
+                " Evaluating regulatory pathways (FDA) and reimbursement options",
+                [
+                    "Title",
+                    "Biodesign for Digital Health"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2019 – Dec 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Stanford"
+                ],
+                "Mentor of one of the winning teams - Home Dialysis",
+                [
+                    "Stanford Byers Center for Biodesign on LinkedIn: #DigitalHealth",
+                    "Stanford Byers Center for Biodesign on LinkedIn: #DigitalHealth"
+                ],
+                [
+                    "Stanford Byers Center for Biodesign | LinkedIn",
+                    "Stanford Byers Center for Biodesign | LinkedIn"
+                ]
+            ],
+            [
+                "Postdoctoral Research Fellow",
+                [
+                    "Company Name",
+                    "Stanford University School of Medicine"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Feb 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ]
+            ],
+            [
+                "Resident Physician - Nuclear Medicine",
+                [
+                    "Company Name",
+                    "Klinikum Rechts der Isar der Technischen Universität München"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2012 – Sep 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ],
+                [
+                    "Location",
+                    "Munich Area, Germany"
+                ],
+                "Nuclear Medicine"
+            ]
+        ]
     },
     "Ilya Segal": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 – 1995"
+                ]
+            ],
+            [
+                "Moscow Institute of Physics and Technology (State University) (MIPT)"
+            ]
+        ],
+        "Experience": [
+            [
+                "professor",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ]
+            ]
+        ]
     },
     "Isaac Sorkin": {
         "status": "fail",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 – 1995"
+                ]
+            ],
+            [
+                "Moscow Institute of Physics and Technology (State University) (MIPT)"
+            ]
+        ],
+        "Experience": [
+            [
+                "professor",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ]
+            ]
+        ]
     },
     "John B. Taylor": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "MBA"
+                ],
+                [
+                    "Field Of Study",
+                    "Finance"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1966 – 1968"
+                ]
+            ],
+            [
+                "Yale University",
+                [
+                    "Degree Name",
+                    "BSEE"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1961 – 1965"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "President, Taylor Research",
+                [
+                    "Dates Employed",
+                    "2002 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "20 yrs"
+                ]
+            ]
+        ]
     },
     "Alessandra Voena": {
         "status": "fail",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "MBA"
+                ],
+                [
+                    "Field Of Study",
+                    "Finance"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1966 – 1968"
+                ]
+            ],
+            [
+                "Yale University",
+                [
+                    "Degree Name",
+                    "BSEE"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1961 – 1965"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "President, Taylor Research",
+                [
+                    "Dates Employed",
+                    "2002 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "20 yrs"
+                ]
+            ]
+        ]
     },
     "Heidi Williams": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Field Of Study",
+                    "Stanford Executive Institute '08"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 – 2008"
+                ]
+            ],
+            [
+                "Brown University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 – 1995"
+                ]
+            ],
+            [
+                "Middlesex School",
+                [
+                    "Dates attended or expected graduation",
+                    "1987 – 1991"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Head of Engineering for B2B &amp; Platform",
+                [
+                    "Company Name",
+                    "Grammarly"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jul 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 7 mos"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ]
+            ],
+            [
+                "Advisor",
+                [
+                    "Company Name",
+                    "CaregivingHQ"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ],
+            [
+                "Advisor",
+                [
+                    "Company Name",
+                    "Raise for Good"
+                ],
+                [
+                    "Dates Employed",
+                    "2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ],
+            [
+                "Founding Member",
+                [
+                    "Company Name",
+                    "Dreamers &amp; Doers"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 11 mos"
+                ],
+                "Dreamers // Doers is a highly curated, female-focused, collaboration and co-mentorship community, consisting of an ever-growing powerful network of entrepreneurs, investors and advisors."
+            ],
+            [
+                "Founder",
+                [
+                    "Company Name",
+                    "WEST Diversity &amp; Inclusion, LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 7 mos"
+                ],
+                "WEST is a dynamic learning community designed by and for women in technology. There is another leak in the pipeline for women in tech: Women are leaving technical roles in the mid-point of their careers at a much higher rate than men. Community and mentorship have been found to help. WEST's mission is to help more women enter &amp; flourish in technical roles through 1:1 mentorships and community development.",
+                "…",
+                "see more"
+            ]
+        ]
     },
     "Frank Wolak": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "S.M."
+                ],
+                [
+                    "Field Of Study",
+                    "Applied Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 – 1985"
+                ]
+            ],
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 – 1985"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Director",
+                [
+                    "Company Name",
+                    "Program on Energy and Sustainable Development"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2009 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "12 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Stanford University"
+                ]
+            ],
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1986 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "35 yrs 6 mos"
+                ]
+            ],
+            [
+                "Member",
+                [
+                    "Company Name",
+                    "Emissions Market Assessment Committee, California Air Resources Board"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2012 – Mar 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Sacramento, California"
+                ]
+            ],
+            [
+                "Chair, Market Surveillance Committee",
+                [
+                    "Company Name",
+                    "California ISO"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 1998 – Mar 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "13 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Folsom, CA"
+                ]
+            ]
+        ]
     }
 }

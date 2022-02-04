@@ -11,7 +11,8 @@ def get_experience(html):
         # sign of experience field
         if 'pv-entity__position-group-pager pv-profile-section__list-item ember-view' in line:
             education_area = True
-
+        if education_area:
+            print("found")
         if education_area:
             if line[:4] == '<img' or line[:3] == '<br' or line[:2] == '<!':
                 continue
@@ -50,6 +51,8 @@ def get_education(html):
     for line in html:
         if 'pv-profile-section__list-item pv-education-entity pv-profile-section__card-item ember-view' in line:
             education_area = True
+        if education_area:
+            print("found")
         if education_area:
             if line[:4] == '<img' or line[:3] == '<br' or line[:2] == '<!':
                 continue

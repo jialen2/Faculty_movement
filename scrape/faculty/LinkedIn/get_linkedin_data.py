@@ -30,7 +30,6 @@ from get_html import parse_html_string, get_links_on_google
 #   ...
 # }
 
-
 def get_background_on_linkedin(file, university, linkedin_email, linkedin_password, store_file_path):
     education = []
     experience = []
@@ -78,7 +77,8 @@ def get_background_on_linkedin(file, university, linkedin_email, linkedin_passwo
             json.dump(file_data, file, indent=4,ensure_ascii=False)
     # res = {}
     for name in file:
-        name = name.replace("\n","")
+        count += 1
+        name = name.replace("\n","").strip()
         # print(name)
         time.sleep(1)
         try:
@@ -91,7 +91,6 @@ def get_background_on_linkedin(file, university, linkedin_email, linkedin_passwo
             # res[name] = {'status': 'fail', 'Education': [], 'Experience': []}
             write_to_file("fail")
             print('fail to get url for {}'.format(name))
-            print()
             continue
 
         print(url)
@@ -104,20 +103,23 @@ def get_background_on_linkedin(file, university, linkedin_email, linkedin_passwo
             continue
 
         driver.get(url)
-        time.sleep(random.randint(60, 120))
         html_string = str(driver.page_source)
         html = parse_html_string(html_string)
+        # print(html)
         education = get_education(html)
         print('Education:')
         print(education)
         experience = get_experience(html)
         print('Experience:')
         print(experience)
+        time.sleep(random.randint(120, 150))
 
         # res[name] = {'status': 'success', 'education': education, 'experience': experience}
         # res[name] = {'status': 'success', 'Education': education, 'Experience': experience}
         write_to_file("success")
-        if count % 23 == 0:
+        time.sleep(3)
+        if count % 17 == 0:
+            print("###############long sleep#################")
             time.sleep(random.randint(300, 600))
     driver.quit()
     # return res
@@ -133,6 +135,7 @@ def get_background_on_linkedin(file, university, linkedin_email, linkedin_passwo
 # # '''
 
 # l = '''
+# Sarita V. Adve
 # Vikram Adve
 # '''
 # # before running this function, please go to LinkedIn and sign in with the following account
@@ -140,6 +143,6 @@ def get_background_on_linkedin(file, university, linkedin_email, linkedin_passwo
 # print(l)
 # # print(l)
 # # exit()
-# result = get_background_on_linkedin(l, 'uiuc', 'jj3446380@gmail.com', 'qwerty12@',"./test")
+# result = get_background_on_linkedin(l, 'uiuc', 'beckmanzhang3@outlook.com', '319133abcd',"./test")
 # print(json.dumps(result, indent=4))
 

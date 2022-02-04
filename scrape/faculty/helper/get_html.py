@@ -101,4 +101,6 @@ def get_links_on_google(query, forbidden=[]):
 
 
 # a = get_html('https://cs.illinois.edu/about/people/all-faculty', 's')
-# print(a)
+
+# html = get_links_on_google("Charles Manski Northwestern University linkedin")
+# print(html)

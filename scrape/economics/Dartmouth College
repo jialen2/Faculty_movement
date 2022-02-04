@@ -441,153 +441,3049 @@
     },
     "Diego Comin": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 – 2000"
+                ]
+            ],
+            [
+                "Universitat Pompeu Fabra",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 – 1995"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 7 mos"
+                ]
+            ],
+            [
+                "Co-Founder",
+                [
+                    "Company Name",
+                    "Linktia"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ]
+            ],
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "World Bank Group"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 6 mos"
+                ]
+            ],
+            [
+                "Research Fellow",
+                [
+                    "Company Name",
+                    "Center for Economic Policy Research (CEPR)"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 6 mos"
+                ]
+            ],
+            [
+                "Faculty Research Fellow",
+                [
+                    "Company Name",
+                    "NBER"
+                ],
+                [
+                    "Dates Employed",
+                    "2004 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "18 yrs"
+                ]
+            ]
+        ]
     },
     "Elisabeth Curtis": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Indiana University Bloomington",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Lecturer",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2006 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "15 yrs 5 mos"
+                ]
+            ],
+            [
+                "Adjunct Professor",
+                [
+                    "Company Name",
+                    "New England College"
+                ],
+                "Part-time",
+                [
+                    "Dates Employed",
+                    "Sep 2003 – May 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Henniker, New Hampshire"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Drexel University's LeBow College of Business"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Aug 1997 – Mar 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, Pennsylvania"
+                ]
+            ]
+        ]
     },
     "Maura Doyle": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Merrimack College",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.), Cum Laude"
+                ],
+                [
+                    "Field Of Study",
+                    "Mass Communications, Psychology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 – 2017"
+                ],
+                "Activities and Societies:",
+                "Merrimack College Division II Field Hockey Team, Lambda Pi Eta Secretary, Campus Ministry Council Member, Resident Assistant, Alternative Spring Break Community Service Volunteer, Jamaica International Service Immersion Leader"
+            ],
+            [
+                "Kimball Union Academy",
+                [
+                    "Dates attended or expected graduation",
+                    "2009 – 2013"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Director Of Admissions",
+                [
+                    "Company Name",
+                    "Sun Valley Community School"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Dec 2021 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ],
+                [
+                    "Location",
+                    "Sun Valley, Idaho, United States"
+                ],
+                "Sun Valley Community School is a pre-k through twelfth grade day and boarding school in Sun Valley, Idaho. From our campus to the wilderness, our mission is to inspire students to think critically, engage confidently, embrace challenges, and lead impactful, purposeful lives.",
+                "…",
+                "see more"
+            ],
+            [
+                "Field Instructor",
+                [
+                    "Company Name",
+                    "Second Nature Wilderness Family Therapy"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Aug 2021 – Dec 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "Utah, United States"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Kimball Union Academy"
+                ],
+                [
+                    "Total Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Title",
+                    "Advancement Officer"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 – Jul 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Meriden, New Hampshire, United States"
+                ],
+                [
+                    "Title",
+                    "Assistant Director of Admission"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Jul 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Meriden, NH"
+                ],
+                "Show 1 more role"
+            ],
+            [
+                "Americorps Member/ Program Coordinator at Rod's House",
+                [
+                    "Company Name",
+                    "Jesuit Volunteer Corps (JVC) Northwest"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 – Jul 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Yakima, Washington Area"
+                ],
+                "As an Americorps/Jesuit Volunteer Corps Northwest member, Maura was the Program Coordinator at Rod's House. Rod's House is a drop in center for at-risk and homeless youth providing Case management and daily living  essentials.",
+                "-Volunteer Coordination and Operations Management",
+                "-Created a Youth Leadership Program with a full Curriculum and training",
+                "- Planned on and off-site programming for educational, employment, and self enrichment",
+                "-Worked with the Executive Director to connect with other non-profits and local and state representatives in improving the the state of homelessness.",
+                "-Attended WA state's RISE Case Management conference training on Mental Illness and Domestic Violence",
+                "-HMIS Certified (Homeless Management Info. System)",
+                "-Motivational Interviewing and Trauma informed care trained",
+                "-Mental Health First Aid Certified by National Board of Behavioral Health",
+                "…",
+                "see more"
+            ],
+            [
+                "Public Relations Intern",
+                [
+                    "Company Name",
+                    "451 Marketing"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2016 – Aug 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Boston, MA"
+                ],
+                "451 Marketing is an award-winning, fully integrated marketing, advertising, and communications agency that specializes in creative design, advertising, public relations, digital marketing, media buying, experiential events, and content marketing. Headquartered in Boston with offices in New York and Los Angeles, 451 Marketing brings the big ideas that help Ignite Brand Love.",
+                "- Used software including CisionPoint and Compete PRO.",
+                "- Created and edited media lists for national brands including Yankee Candle, HOOD Cottage Cheese, and Heluva Good Dip in addition to briefing sheets for media kits.",
+                "-Wrote press releases for clients including The Cooperative Bank and The Greater Boston Food Bank.",
+                "-Scanned for and clipped online publications mentioning clients for coverage reports, including Unique Monthly Visitors and overall impressions.",
+                "-Assisted PR team with events for clients including Bob's Discount Furniture.",
+                "- Collaborated with a team of interns from the Internal Marketing, SEO, Social, and Creative departments to create a complete PR/digital marketing strategy for a non-profit client The Startup Leadership Program including 18 pages of PR deliverables",
+                "-Conducted industry research for clients to create an advertising strategy",
+                "…",
+                "see more"
+            ]
+        ]
     },
     "Eric V. Edmonds": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 – 1999"
+                ]
+            ],
+            [
+                "University of Chicago",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 – 1993"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1999 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "22 yrs 8 mos"
+                ]
+            ],
+            [
+                "Editor In Chief",
+                [
+                    "Company Name",
+                    "World Bank Economic Review"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 6 mos"
+                ]
+            ],
+            [
+                "Research Associate",
+                [
+                    "Company Name",
+                    "National Bureau of Economic Research"
+                ],
+                [
+                    "Dates Employed",
+                    "2012 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs"
+                ]
+            ],
+            [
+                "Fellow",
+                [
+                    "Company Name",
+                    "BUREAU FOR RESEARCH AND ECONOMIC ANALYSIS OF DEVELOPMENT INC"
+                ],
+                [
+                    "Dates Employed",
+                    "2014 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs"
+                ]
+            ]
+        ]
     },
     "James Feyrer": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Brown University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 – 2001"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Mechanical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 – 1990"
+                ],
+                "Activities and Societies:",
+                "Air Force ROTC"
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor Of Economics",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Aug 2001 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "20 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Hanover, New Hampshire, United States"
+                ]
+            ],
+            [
+                "Mechanical Engineering Lab Manager",
+                [
+                    "Company Name",
+                    "University of Wisconsin Milwaukee"
+                ],
+                [
+                    "Dates Employed",
+                    "1992 – 1996"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ],
+            [
+                "Quality Assurance Engineer",
+                [
+                    "Company Name",
+                    "Symantec"
+                ],
+                [
+                    "Dates Employed",
+                    "1990 – 1992"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ]
+        ]
     },
     "Matthew W. Grant": {
         "status": "success",
-        "Education": [],
+        "Education": [
+            [
+                "United Stuntmens Association International Stunt School.",
+                [
+                    "Degree Name",
+                    "Apprentice"
+                ],
+                [
+                    "Field Of Study",
+                    "High falls. Car hits. Air ratchet. Fire burn. Fighting."
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 – 2011"
+                ]
+            ],
+            [
+                "Alberta Solicitor General Public Security Staff College",
+                [
+                    "Dates attended or expected graduation",
+                    "2012"
+                ]
+            ]
+        ],
         "Experience": []
     },
     "Apoorv Gupta": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Northwestern University - Kellogg School of Management",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Finance"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 – 2020"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    "Financial Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 – 2012"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Guwahati",
+                [
+                    "Degree Name",
+                    "B.Tech"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics &amp; Computing"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 – 2010"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor Of Economics",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jul 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 7 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Boston"
+                ]
+            ],
+            [
+                "Quantitative Researcher, Algorithmic Trading",
+                [
+                    "Company Name",
+                    "Quadeye Securities"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2014 – Sep 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Location",
+                    "Gurgaon, India"
+                ]
+            ],
+            [
+                "Analyst, Quantitative Analytics",
+                [
+                    "Company Name",
+                    "Citi"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 – Mar 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 9 mos"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "GRETA"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2009 – Jul 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Venice Area, Italy"
+                ]
+            ],
+            [
+                "Research Analyst, Technical Analysis Team",
+                [
+                    "Company Name",
+                    "Motilal Oswal Securities Ltd"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2008 – Jul 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Mumbai Area, India"
+                ]
+            ]
+        ]
     },
     "Alan L. Gustman": {
         "status": "fail",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Northwestern University - Kellogg School of Management",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Finance"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 – 2020"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    "Financial Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 – 2012"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Guwahati",
+                [
+                    "Degree Name",
+                    "B.Tech"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics &amp; Computing"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 – 2010"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor Of Economics",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jul 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 7 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Boston"
+                ]
+            ],
+            [
+                "Quantitative Researcher, Algorithmic Trading",
+                [
+                    "Company Name",
+                    "Quadeye Securities"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2014 – Sep 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Location",
+                    "Gurgaon, India"
+                ]
+            ],
+            [
+                "Analyst, Quantitative Analytics",
+                [
+                    "Company Name",
+                    "Citi"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 – Mar 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 9 mos"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "GRETA"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2009 – Jul 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Venice Area, Italy"
+                ]
+            ],
+            [
+                "Research Analyst, Technical Analysis Team",
+                [
+                    "Company Name",
+                    "Motilal Oswal Securities Ltd"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2008 – Jul 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Mumbai Area, India"
+                ]
+            ]
+        ]
     },
     "Douglas A. Irwin": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Columbia University in the City of New York",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1988"
+                ]
+            ],
+            [
+                "Dartmouth College"
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "1997 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "25 yrs"
+                ],
+                [
+                    "Location",
+                    "Hanover, NH"
+                ],
+                "I teach Econ 39 - International Trade - and I'm proud of all the Dartmouth alums who have taken my course!"
+            ],
+            [
+                "Assistant and Associate Professor",
+                [
+                    "Company Name",
+                    "University of Chicago Booth School of Business"
+                ],
+                [
+                    "Dates Employed",
+                    "1991 – 1997"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ]
+            ],
+            [
+                "Economist",
+                [
+                    "Company Name",
+                    "Federal Reserve Board"
+                ],
+                [
+                    "Dates Employed",
+                    "1988 – 1991"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "Washington D.C. Metro Area"
+                ]
+            ],
+            [
+                "Junior Staff Economist",
+                [
+                    "Company Name",
+                    "Council of Economic Advisors, The White House"
+                ],
+                [
+                    "Dates Employed",
+                    "1987 – 1988"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Washington D.C. Metro Area"
+                ]
+            ]
+        ]
     },
     "Meir Gregory Kohn": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1970 – 1973"
+                ]
+            ],
+            [
+                "The Hebrew University of Jerusalem",
+                [
+                    "Degree Name",
+                    "B. Sc., M.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    "Agriculture, Agricultural economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1965 – 1970"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "1978 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "44 yrs"
+                ]
+            ],
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "The Hebrew University of Jerusalem"
+                ],
+                [
+                    "Dates Employed",
+                    "1973 – 1978"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ]
+        ]
     },
     "Andrew Levin": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 5 mos"
+                ]
+            ]
+        ]
     },
     "Ethan Gatewood Lewis": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 – 2003"
+                ]
+            ],
+            [
+                "Williams College",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 – 1995"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Total Duration",
+                    "15 yrs 7 mos"
+                ],
+                [
+                    "Title",
+                    "Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Hanover, New Hampshire, United States"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 – Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs"
+                ],
+                [
+                    "Location",
+                    "Hanover, NH"
+                ],
+                "teaching and research",
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2006 – Jul 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 1 mo"
+                ],
+                "Teach statistics and econometrics and do research!"
+            ],
+            [
+                [
+                    "Company Name",
+                    "National Bureau of Economic Research"
+                ],
+                [
+                    "Total Duration",
+                    "10 yrs 9 mos"
+                ],
+                [
+                    "Title",
+                    "Research Associate"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2013 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, MA"
+                ],
+                [
+                    "Title",
+                    "Faculty Research Fellow"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2011 – Sep 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, MA"
+                ]
+            ],
+            [
+                "External Research Fellow",
+                [
+                    "Company Name",
+                    "University College London"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2007 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "15 yrs 1 mo"
+                ]
+            ],
+            [
+                "Economist, Research Department",
+                [
+                    "Company Name",
+                    "Federal Reserve Bank of Philadelphia"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2003 – Jun 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Philadelphia Area"
+                ],
+                "Research"
+            ]
+        ]
     },
     "Erzo F.P. Luttmer": {
         "status": "fail",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 – 2003"
+                ]
+            ],
+            [
+                "Williams College",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 – 1995"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Total Duration",
+                    "15 yrs 7 mos"
+                ],
+                [
+                    "Title",
+                    "Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Hanover, New Hampshire, United States"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 – Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs"
+                ],
+                [
+                    "Location",
+                    "Hanover, NH"
+                ],
+                "teaching and research",
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2006 – Jul 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 1 mo"
+                ],
+                "Teach statistics and econometrics and do research!"
+            ],
+            [
+                [
+                    "Company Name",
+                    "National Bureau of Economic Research"
+                ],
+                [
+                    "Total Duration",
+                    "10 yrs 9 mos"
+                ],
+                [
+                    "Title",
+                    "Research Associate"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2013 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, MA"
+                ],
+                [
+                    "Title",
+                    "Faculty Research Fellow"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2011 – Sep 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, MA"
+                ]
+            ],
+            [
+                "External Research Fellow",
+                [
+                    "Company Name",
+                    "University College London"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2007 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "15 yrs 1 mo"
+                ]
+            ],
+            [
+                "Economist, Research Department",
+                [
+                    "Company Name",
+                    "Federal Reserve Bank of Philadelphia"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2003 – Jun 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Philadelphia Area"
+                ],
+                "Research"
+            ]
+        ]
     },
     "Erin Mansur": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 – 2002"
+                ]
+            ],
+            [
+                "Colby College",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Biology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 – 1995"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Tuck School of Business at Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "2014 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "National Bureau of Economic Research"
+                ],
+                [
+                    "Total Duration",
+                    "15 yrs 7 mos"
+                ],
+                [
+                    "Title",
+                    "Research Associate"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2011 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 7 mos"
+                ],
+                [
+                    "Title",
+                    "Faculty Research Fellow"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2006 – Jun 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ],
+            [
+                "Associate Professor of Economics",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "2010 – 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Yale School of Management"
+                ],
+                [
+                    "Total Duration",
+                    "8 yrs"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "2007 – 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "2002 – 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Yale School of Forestry &amp; Environmental Studies"
+                ],
+                [
+                    "Dates Employed",
+                    "2002 – 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ]
+        ]
     },
     "Madeline McKelway": {
         "status": "fail",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 – 2002"
+                ]
+            ],
+            [
+                "Colby College",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Biology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 – 1995"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Tuck School of Business at Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "2014 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "National Bureau of Economic Research"
+                ],
+                [
+                    "Total Duration",
+                    "15 yrs 7 mos"
+                ],
+                [
+                    "Title",
+                    "Research Associate"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2011 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 7 mos"
+                ],
+                [
+                    "Title",
+                    "Faculty Research Fellow"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2006 – Jun 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ],
+            [
+                "Associate Professor of Economics",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "2010 – 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Yale School of Management"
+                ],
+                [
+                    "Total Duration",
+                    "8 yrs"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "2007 – 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "2002 – 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Yale School of Forestry &amp; Environmental Studies"
+                ],
+                [
+                    "Dates Employed",
+                    "2002 – 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ]
+        ]
     },
     "Ellen R. Meara": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 – 1999"
+                ]
+            ],
+            [
+                "Northwestern University",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematical Methods for the Social Sciences and Political Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 – 1991"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Elsevier"
+                ],
+                [
+                    "Total Duration",
+                    "8 yrs"
+                ],
+                [
+                    "Title",
+                    "Editorial Board Member, Journal of Health Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 1 mo"
+                ],
+                [
+                    "Title",
+                    "Co Editor, Journal of Health Eonomics"
+                ],
+                [
+                    "Dates Employed",
+                    "2014 – Dec 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ],
+            [
+                "Professor (2016-present), Associate Professor (2010-2016)",
+                [
+                    "Company Name",
+                    "Dartmouth College - The Dartmouth Institute for Health Policy &amp; Clinical Practice"
+                ],
+                [
+                    "Dates Employed",
+                    "2016 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
+                ],
+                [
+                    "Location",
+                    "Hanover, New Hampshire"
+                ],
+                "I am an economist engaged in research and education on health economics and policy at Dartmouth College.  I teach health economics and policy to undergraduates in the economics department and to health professionals in Dartmouth’s hybrid online Master of Health Care Delivery Science program. Since 2016, I have been co-faculty director of the Master of Health Care Delivery Science program. My research focuses on non-medical determinants of health care use, health, and employment.  This work examines how non-clinical factors like education, health insurance coverage, and the design of public insurance programs shape health care, health, and employment. Much of my research focuses on disabled populations and on populations with mental illness or substance use disorders.  The results of this research have been published in the Journal of the American Medical Association, the New England Journal of Medicine, the Journal of Health Economics, Health Affairs and numerous other peer-reviewed publications.",
+                "…",
+                "see more"
+            ],
+            [
+                "Research Associate (2016 - present), Faculty Research Fellow (2000-2016)",
+                [
+                    "Company Name",
+                    "National Bureau of Economic Research"
+                ],
+                [
+                    "Dates Employed",
+                    "2000 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "22 yrs"
+                ],
+                [
+                    "Location",
+                    "Cambridge, Massachusetts"
+                ],
+                "Since 2000 I have been a member of the Health Care and Aging programs at the NBER, and I currently serve on the Institutional Review Board of the NBER.",
+                "…",
+                "see more"
+            ],
+            [
+                "Associate Professor of Health Care Policy (2008-2010), Assistant Professor (1999-2008)",
+                [
+                    "Company Name",
+                    "Harvard Medical School"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2008 – Jun 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 10 mos"
+                ]
+            ]
+        ]
     },
     "Steven M. Mello": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 – 2019"
+                ]
+            ],
+            [
+                "Hamilton College",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 – 2011"
+                ],
+                "Activities and Societies:",
+                "Varsity Football, Delta Upsilon"
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 7 mos"
+                ],
+                [
+                    "Location",
+                    "Hanover, NH"
+                ]
+            ],
+            [
+                "Postdoctoral Research Fellow",
+                [
+                    "Company Name",
+                    "NYU Furman Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Jun 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "New York, NY"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 – Jun 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Stanford Law School"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2011 – Jun 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ]
+            ]
+        ]
     },
     "Paul Novosad": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 – 2013"
+                ]
+            ],
+            [
+                "Harvard Kennedy School of Government",
+                [
+                    "Degree Name",
+                    "Master of Public Administration / International Development"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 – 2004"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Total Duration",
+                    "5 yrs 11 mos"
+                ],
+                [
+                    "Title",
+                    "PhD Candidate in Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 – Jul 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 11 mos"
+                ],
+                [
+                    "Title",
+                    "Teaching Fellow"
+                ],
+                [
+                    "Dates Employed",
+                    "2009 – 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                "Capital Markets (Ec1723)"
+            ],
+            [
+                "Microeconomics Instructor",
+                [
+                    "Company Name",
+                    "Harvard Kennedy School of Government"
+                ],
+                [
+                    "Dates Employed",
+                    "2011 – 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ],
+            [
+                "Lead EHR Developer",
+                [
+                    "Company Name",
+                    "Baylor College of Medicine"
+                ],
+                [
+                    "Dates Employed",
+                    "2005 – 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Maseru, Lesotho"
+                ],
+                "Developed a PHP/MySQL Electronic Medical Record System for management of pediatric HIV, currently in use for over 10,000 children in 6 African countries.",
+                "…",
+                "see more"
+            ],
+            [
+                "Consultant, Economic Policy",
+                [
+                    "Company Name",
+                    "Ministry of Finance, Lesotho"
+                ],
+                [
+                    "Dates Employed",
+                    "2005 – 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Maseru, Lesotho"
+                ]
+            ],
+            [
+                "Policy Analyst",
+                [
+                    "Company Name",
+                    "Environment Canada"
+                ],
+                [
+                    "Dates Employed",
+                    "2004 – 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Ottawa, Canada Area"
+                ]
+            ]
+        ]
     },
     "Claudia Olivetti": {
         "status": "fail",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 – 2013"
+                ]
+            ],
+            [
+                "Harvard Kennedy School of Government",
+                [
+                    "Degree Name",
+                    "Master of Public Administration / International Development"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 – 2004"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Total Duration",
+                    "5 yrs 11 mos"
+                ],
+                [
+                    "Title",
+                    "PhD Candidate in Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 – Jul 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 11 mos"
+                ],
+                [
+                    "Title",
+                    "Teaching Fellow"
+                ],
+                [
+                    "Dates Employed",
+                    "2009 – 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                "Capital Markets (Ec1723)"
+            ],
+            [
+                "Microeconomics Instructor",
+                [
+                    "Company Name",
+                    "Harvard Kennedy School of Government"
+                ],
+                [
+                    "Dates Employed",
+                    "2011 – 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ],
+            [
+                "Lead EHR Developer",
+                [
+                    "Company Name",
+                    "Baylor College of Medicine"
+                ],
+                [
+                    "Dates Employed",
+                    "2005 – 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Maseru, Lesotho"
+                ],
+                "Developed a PHP/MySQL Electronic Medical Record System for management of pediatric HIV, currently in use for over 10,000 children in 6 African countries.",
+                "…",
+                "see more"
+            ],
+            [
+                "Consultant, Economic Policy",
+                [
+                    "Company Name",
+                    "Ministry of Finance, Lesotho"
+                ],
+                [
+                    "Dates Employed",
+                    "2005 – 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Maseru, Lesotho"
+                ]
+            ],
+            [
+                "Policy Analyst",
+                [
+                    "Company Name",
+                    "Environment Canada"
+                ],
+                [
+                    "Dates Employed",
+                    "2004 – 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Ottawa, Canada Area"
+                ]
+            ]
+        ]
     },
     "Nina Pavcnik": {
         "status": "fail",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 – 2013"
+                ]
+            ],
+            [
+                "Harvard Kennedy School of Government",
+                [
+                    "Degree Name",
+                    "Master of Public Administration / International Development"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 – 2004"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Total Duration",
+                    "5 yrs 11 mos"
+                ],
+                [
+                    "Title",
+                    "PhD Candidate in Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 – Jul 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 11 mos"
+                ],
+                [
+                    "Title",
+                    "Teaching Fellow"
+                ],
+                [
+                    "Dates Employed",
+                    "2009 – 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                "Capital Markets (Ec1723)"
+            ],
+            [
+                "Microeconomics Instructor",
+                [
+                    "Company Name",
+                    "Harvard Kennedy School of Government"
+                ],
+                [
+                    "Dates Employed",
+                    "2011 – 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ],
+            [
+                "Lead EHR Developer",
+                [
+                    "Company Name",
+                    "Baylor College of Medicine"
+                ],
+                [
+                    "Dates Employed",
+                    "2005 – 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Maseru, Lesotho"
+                ],
+                "Developed a PHP/MySQL Electronic Medical Record System for management of pediatric HIV, currently in use for over 10,000 children in 6 African countries.",
+                "…",
+                "see more"
+            ],
+            [
+                "Consultant, Economic Policy",
+                [
+                    "Company Name",
+                    "Ministry of Finance, Lesotho"
+                ],
+                [
+                    "Dates Employed",
+                    "2005 – 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Maseru, Lesotho"
+                ]
+            ],
+            [
+                "Policy Analyst",
+                [
+                    "Company Name",
+                    "Environment Canada"
+                ],
+                [
+                    "Dates Employed",
+                    "2004 – 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Ottawa, Canada Area"
+                ]
+            ]
+        ]
     },
     "Melinda Petre": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "The University of Texas at Austin",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 – 2014"
+                ]
+            ],
+            [
+                "The University of Texas at Austin",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 – 2011"
+                ]
+            ],
+            [
+                "Swarthmore College",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics and Statistics, Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 – 2009"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ]
+            ],
+            [
+                "Visiting Assistant Professor",
+                [
+                    "Company Name",
+                    "Williams College"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 – Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Williamstown, MA"
+                ]
+            ],
+            [
+                "Instructor",
+                [
+                    "Company Name",
+                    "University of California, Los Angeles"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2017 – Jun 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Postdoctoral Research Fellow",
+                [
+                    "Company Name",
+                    "UC Irvine"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 – Jun 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ]
+            ],
+            [
+                "National Poverty Fellow",
+                [
+                    "Company Name",
+                    "University of Wisconsin Institute for Research on Poverty"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 – Jul 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 2 mos"
+                ],
+                [
+                    "Location",
+                    "Administration for Children and Families, Washington, DC"
+                ]
+            ]
+        ]
     },
     "Diego Ramos-Toro": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Brown University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 – 2020"
+                ]
+            ],
+            [
+                "Brown University",
+                [
+                    "Degree Name",
+                    "Master of Arts - MA"
+                ],
+                [
+                    "Field Of Study",
+                    "History"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2016 – 2019"
+                ]
+            ],
+            [
+                "Brown University",
+                [
+                    "Degree Name",
+                    "Master of Arts (M.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 – 2016"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor Of Economics",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 7 mos"
+                ],
+                [
+                    "Location",
+                    "Hanover, Nueva Hampshire, Estados Unidos"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Brown University"
+                ],
+                [
+                    "Total Duration",
+                    "5 yrs 1 mo"
+                ],
+                [
+                    "Title",
+                    "Ph.D. Candidate in Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2018 – Jul 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Providence y alrededores, Rhode Island, Estados Unidos"
+                ],
+                [
+                    "Title",
+                    "Economics PhD Student"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 – Jul 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Universidad de los Andes"
+                ],
+                [
+                    "Total Duration",
+                    "4 yrs 9 mos"
+                ],
+                [
+                    "Title",
+                    "Teaching Assistant"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2012 – May 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 5 mos"
+                ],
+                "Teaching Assistant for the following classes:",
+                "Game Theory",
+                "Introductory Microeconomics",
+                "Introductory Macroeconomics",
+                "…",
+                "see more",
+                [
+                    "Title",
+                    "Research Assistant"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 – Dec 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 4 mos"
+                ],
+                [
+                    "Location",
+                    "Bogotá"
+                ],
+                "Projects:\tExport Dynamics in Colombia // Scarring Recessions and Credit Constraints // Business’ Cycles and Regulations Effects on Labor and Productivity",
+                "…",
+                "see more"
+            ],
+            [
+                "Analyst",
+                [
+                    "Company Name",
+                    "Delta Partners"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 – Apr 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "9 mos"
+                ],
+                [
+                    "Location",
+                    "Bogotá"
+                ],
+                "-Coordinated different business areas for the launch of 4G mobile services of a major telecom company in Colombia, identifying and mitigating risks throughout the process",
+                "-Led and implemented the HR strategy that facilitated the launch of 4G mobile services of a major telecom company in Colombia.",
+                "…",
+                "see more"
+            ]
+        ]
     },
     "Marjorie B. Rose": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Senior Lecturer",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ]
+            ]
+        ]
     },
     "Bruce I. Sacerdote": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ]
+            ]
+        ]
     },
     "Andrew A. Samwick": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 – 1993"
+                ]
+            ],
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "A.B."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Grade",
+                    "summa cum laude"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 – 1990"
+                ],
+                "Activities and Societies:",
+                "The Harvard Crimson"
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Total Duration",
+                    "27 yrs 7 mos"
+                ],
+                [
+                    "Title",
+                    "Chairman, Department of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2021 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Title",
+                    "Sandra L. and Arthur L. Irving '72a P'10 Professor of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1994 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "27 yrs 7 mos"
+                ],
+                "I teach courses in economics and public policy and conduct research in applied microeconomics. Courses include: Theory of Finance, Topics in Money and Finance, Local Public Policy, and Social Entrepreneurship. Research interests include: education finance, executive compensation, pensions and saving, social security and health care, and taxation and portfolio choice.",
+                "…",
+                "see more",
+                [
+                    "Title",
+                    "Director, Nelson A. Rockefeller Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2004 – Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "15 yrs"
+                ],
+                "The Rockefeller Center aims to educate, train, and inspire the next generation of public policy leaders.  At the Rockefeller Center, we have developed several innovative programs that integrate the curricular and co-curricular elements of a student’s education, including the First-Year Fellows Program, the Policy Research Shop, and the Management and Leadership Development Program.",
+                "…",
+                "see more"
+            ],
+            [
+                "Vice Chairman Of The Board",
+                [
+                    "Company Name",
+                    "Ledyard Financial Group, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2006 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "15 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Hanover, New Hampshire"
+                ],
+                "Chair of the Compensation and Personnel Committee. Vice Chair of the Investment and Trust Committee. Current or Prior Service on the Audit, Finance &amp; Shareholder Relations, Governance and Nominating, Loan, and Real Estate Committees.",
+                "…",
+                "see more"
+            ],
+            [
+                "Member Board Of Directors",
+                [
+                    "Company Name",
+                    "National Tax Association"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2012 – Nov 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Washington, DC"
+                ]
+            ],
+            [
+                "Member Board Of Trustees",
+                [
+                    "Company Name",
+                    "Montshire Museum of Science"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2009 – Sep 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Norwich, VT"
+                ],
+                "Served as a member of the Museum's Board of Trustees and Finance Committee. Co-chaired a $1 million+ fundraising effort to enhance and expand the museum's permanent exhibit collection.",
+                "…",
+                "see more"
+            ],
+            [
+                "Editor",
+                [
+                    "Company Name",
+                    "Economics Letters"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 – Dec 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 4 mos"
+                ],
+                "Handled all applied microeconomics submissions for the journal as part of a 4-5 member editorial team."
+            ]
+        ]
     },
     "Na'ama Shenhav": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "UC Davis",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 – 2016"
+                ]
+            ],
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics, Political Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 – 2008"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 7 mos"
+                ]
+            ],
+            [
+                "Research Assistant, Teaching Assistant",
+                [
+                    "Company Name",
+                    "UC Davis"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 – Jun 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 10 mos"
+                ]
+            ],
+            [
+                "Financial Analyst",
+                [
+                    "Company Name",
+                    "Aspire Public Schools"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2010 – Jul 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Senior Analyst",
+                [
+                    "Company Name",
+                    "Analysis Group"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2008 – Aug 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 2 mos"
+                ]
+            ]
+        ]
     },
     "Christopher Snyder": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                "Full-time"
+            ]
+        ]
     },
     "Douglas O. Staiger": {
         "status": "fail",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                "Full-time"
+            ]
+        ]
     },
     "Robert W. Staiger": {
         "status": "fail",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                "Full-time"
+            ]
+        ]
     },
     "Meredith Startz": {
         "status": "fail",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                "Full-time"
+            ]
+        ]
     },
     "John W. Welborn": {
         "status": "success",
@@ -596,47 +3492,704 @@
     },
     "Charles J. Wheelan": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of Chicago",
+                [
+                    "Dates attended or expected graduation",
+                    "1993 – 1998"
+                ]
+            ],
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "MPA"
+                ],
+                [
+                    "Field Of Study",
+                    "Public Policy"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 – 1993"
+                ]
+            ],
+            [
+                "Dartmouth College",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    "Asian Studies"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 – 1988"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Total Duration",
+                    "12 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Senior Lecturer and Policy Fellow, Rockefeller Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2012 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Hanover, New Hampshire"
+                ],
+                [
+                    "Title",
+                    "Visiting Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2009 – Sep 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 1 mo"
+                ]
+            ],
+            [
+                "Senior Lecturer",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2004 – Jun 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 10 mos"
+                ]
+            ],
+            [
+                "Candidate",
+                [
+                    "Company Name",
+                    "Congressional Candiate, IL-5th"
+                ],
+                [
+                    "Dates Employed",
+                    "2008 – 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Candidate",
+                [
+                    "Company Name",
+                    "Wheelan for Congress"
+                ],
+                [
+                    "Dates Employed",
+                    "2008 – 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Contributor",
+                [
+                    "Company Name",
+                    "Motley Fool"
+                ],
+                [
+                    "Dates Employed",
+                    "2004 – 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ]
+        ]
     },
     "Jonathan Zinman": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "Doctor of Law (JD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Law"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 – 2007"
+                ]
+            ],
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "Master of Business Administration (MBA)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 – 2007"
+                ]
+            ],
+            [
+                "Duke University",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 – 2002"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Analyst",
+                [
+                    "Company Name",
+                    "Silver Point Capital"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 3 mos"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Solus Alternative Asset Management LP"
+                ],
+                [
+                    "Total Duration",
+                    "7 yrs 4 mos"
+                ],
+                [
+                    "Title",
+                    "Managing Director"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2017 – Nov 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 11 mos"
+                ],
+                "Specializes in restructurings and distressed situations",
+                [
+                    "Title",
+                    "Director, Restructuring Specialist"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 – Nov 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 4 mos"
+                ]
+            ],
+            [
+                "Restructuring Associate",
+                [
+                    "Company Name",
+                    "Kirkland &amp; Ellis LLP"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 – Aug 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ]
+        ]
     },
     "Eric W. Zitzewitz": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "MIT",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 – 2001"
+                ]
+            ],
+            [
+                "Harvard College",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 – 1993"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "14 yrs 5 mos"
+                ]
+            ],
+            [
+                "Visiting Scientist",
+                [
+                    "Company Name",
+                    "Google"
+                ],
+                [
+                    "Dates Employed",
+                    "2008"
+                ],
+                [
+                    "Employment Duration",
+                    "less than a year"
+                ]
+            ],
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "Stanford Graduate School of Business"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2001 – Aug 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 2 mos"
+                ]
+            ],
+            [
+                "Business Analyst",
+                [
+                    "Company Name",
+                    "McKinsey &amp; Co."
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1993 – Aug 1997"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 1 mo"
+                ]
+            ]
+        ]
     },
     "Nathan G. Zorzi": {
         "status": "fail",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "MIT",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 – 2001"
+                ]
+            ],
+            [
+                "Harvard College",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 – 1993"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "14 yrs 5 mos"
+                ]
+            ],
+            [
+                "Visiting Scientist",
+                [
+                    "Company Name",
+                    "Google"
+                ],
+                [
+                    "Dates Employed",
+                    "2008"
+                ],
+                [
+                    "Employment Duration",
+                    "less than a year"
+                ]
+            ],
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "Stanford Graduate School of Business"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2001 – Aug 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 2 mos"
+                ]
+            ],
+            [
+                "Business Analyst",
+                [
+                    "Company Name",
+                    "McKinsey &amp; Co."
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1993 – Aug 1997"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 1 mo"
+                ]
+            ]
+        ]
     },
     "William A. Fischel": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1973 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "48 yrs 5 mos"
+                ]
+            ]
+        ]
     },
     "Nancy Peregrim Marion": {
         "status": "fail",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1973 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "48 yrs 5 mos"
+                ]
+            ]
+        ]
     },
     "John Troy Scott": {
         "status": "fail",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1973 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "48 yrs 5 mos"
+                ]
+            ]
+        ]
     },
     "Jonathan Skinner": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of California, Los Angeles",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1977 – 1981"
+                ]
+            ],
+            [
+                "University of Rochester",
+                [
+                    "Degree Name",
+                    "B.A."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics and Political Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1973 – 1977"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "1995 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "27 yrs"
+                ]
+            ],
+            [
+                "Researcher",
+                [
+                    "Company Name",
+                    "The Dartmouth Institute for Health Policy &amp; Clinical Practice"
+                ],
+                [
+                    "Dates Employed",
+                    "1995 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "27 yrs"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Geisel School of Medicine at Dartmouth"
+                ],
+                [
+                    "Dates Employed",
+                    "1995 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "27 yrs"
+                ]
+            ],
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "University of Virginia"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1981 – Jun 1995"
+                ],
+                [
+                    "Employment Duration",
+                    "13 yrs 10 mos"
+                ]
+            ]
+        ]
     },
     "Steven F. Venti": {
         "status": "fail",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of California, Los Angeles",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1977 – 1981"
+                ]
+            ],
+            [
+                "University of Rochester",
+                [
+                    "Degree Name",
+                    "B.A."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics and Political Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1973 – 1977"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Dartmouth College"
+                ],
+                [
+                    "Dates Employed",
+                    "1995 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "27 yrs"
+                ]
+            ],
+            [
+                "Researcher",
+                [
+                    "Company Name",
+                    "The Dartmouth Institute for Health Policy &amp; Clinical Practice"
+                ],
+                [
+                    "Dates Employed",
+                    "1995 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "27 yrs"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Geisel School of Medicine at Dartmouth"
+                ],
+                [
+                    "Dates Employed",
+                    "1995 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "27 yrs"
+                ]
+            ],
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "University of Virginia"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1981 – Jun 1995"
+                ],
+                [
+                    "Employment Duration",
+                    "13 yrs 10 mos"
+                ]
+            ]
+        ]
     }
 }

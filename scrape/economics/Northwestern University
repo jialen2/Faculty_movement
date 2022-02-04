@@ -1,0 +1,3376 @@
+{
+    "Eric Auerbach": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Lori Beaman": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                "Full-time"
+            ]
+        ]
+    },
+    "Vivek Bhattacharya": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Federico Bugni": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Ivan Canay": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Dates attended or expected graduation",
+                    "2003 – 2008"
+                ]
+            ],
+            [
+                "University of Buenos Aires",
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 – 2001"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Total Duration",
+                    "13 yrs 8 mos"
+                ],
+                [
+                    "Title",
+                    "Professor"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Aug 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 6 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Aug 2015 – Jul 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jun 2008 – Jul 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 2 mos"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "UADE"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2000 – Jul 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 9 mos"
+                ]
+            ]
+        ]
+    },
+    "Lawrence Christiano": {
+        "status": "success",
+        "Education": [
+            [
+                "Columbia University in the City of New York",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1979 – 1981"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Chair, Department of Economics",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1992 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "29 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Evanston, Illinois"
+                ]
+            ]
+        ]
+    },
+    "Eddie Dekel": {
+        "status": "fail",
+        "Education": [
+            [
+                "Columbia University in the City of New York",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1979 – 1981"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Chair, Department of Economics",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1992 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "29 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Evanston, Illinois"
+                ]
+            ]
+        ]
+    },
+    "Matthias Doepke": {
+        "status": "fail",
+        "Education": [
+            [
+                "Columbia University in the City of New York",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1979 – 1981"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Chair, Department of Economics",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1992 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "29 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Evanston, Illinois"
+                ]
+            ]
+        ]
+    },
+    "Piotr Dworczak": {
+        "status": "fail",
+        "Education": [
+            [
+                "Columbia University in the City of New York",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1979 – 1981"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Chair, Department of Economics",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1992 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "29 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Evanston, Illinois"
+                ]
+            ]
+        ]
+    },
+    "Martin Eichenbaum": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Minnesota-Twin Cities",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1976 – 1981"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Total Duration",
+                    "33 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1988 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "33 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Charles Moskos Professor of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1988 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "33 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Charles Moskos Professor of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1988 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "33 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Evanston Illinois"
+                ]
+            ]
+        ]
+    },
+    "Jeffrey Ely": {
+        "status": "fail",
+        "Education": [
+            [
+                "University of Minnesota-Twin Cities",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1976 – 1981"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Total Duration",
+                    "33 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1988 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "33 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Charles Moskos Professor of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1988 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "33 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Charles Moskos Professor of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1988 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "33 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Evanston Illinois"
+                ]
+            ]
+        ]
+    },
+    "Joseph Ferrie": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor of Economics and History",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ]
+            ]
+        ]
+    },
+    "Ben Golub": {
+        "status": "success",
+        "Education": [
+            [
+                "Stanford University Graduate School of Business",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Business/Managerial Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 – 2012"
+                ]
+            ],
+            [
+                "Caltech",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 – 2007"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Total Duration",
+                    "8 yrs 7 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Professor of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 – Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                [
+                    "Title",
+                    "Junior Fellow, Society of Fellows"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 – Jun 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow at Abdul Latif Jameel Poverty Action Lab (J-PAL)",
+                [
+                    "Company Name",
+                    "Massachusetts Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 – Jun 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 10 mos"
+                ]
+            ],
+            [
+                "Economist",
+                [
+                    "Company Name",
+                    "Quora"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2011 – Aug 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ]
+            ]
+        ]
+    },
+    "Robert Gordon": {
+        "status": "success",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Dates attended or expected graduation",
+                    "1964 – 1967"
+                ]
+            ],
+            [
+                "University of Oxford",
+                [
+                    "Degree Name",
+                    "Master's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Philosophy, Politics, and Economics"
+                ],
+                [
+                    "Grade",
+                    "First Class Honors"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1962 – 1964"
+                ],
+                "Activities and Societies:",
+                "Marshall Scholarship, 1962-64"
+            ],
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Bachelor's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Grade",
+                    "Magna Cum Laude"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1958 – 1962"
+                ],
+                "Activities and Societies:",
+                "WHRB radio station, founded Quincy House internal newspaper",
+                "Won the George Webb Medley Senior Prize for the Best Senior Thesis in the Economics Department."
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Total Duration",
+                    "48 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Professor of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1973 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "48 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Stanley G. Harris Professor in the Social Sciences"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1973 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "48 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Evanston IL"
+                ],
+                "My main activity is research into the past and future of economic growth, innovation, technical change, and headwinds facing the American economy such as workers leaving the labor force, the stagnation of American educational attainment, rising inequality, and the implications of growing government debt for future welfare.",
+                "A subsidiary set of research papers addresses the role of supply and demand in the American inflation process, and the distinction between trend and cyclical movements of productivity and labor-force participation",
+                "…",
+                "see more"
+            ]
+        ]
+    },
+    "Yingni Guo": {
+        "status": "success",
+        "Education": [
+            [
+                "Yale University",
+                [
+                    "Dates attended or expected graduation",
+                    "2009 – 2014"
+                ]
+            ]
+        ],
+        "Experience": []
+    },
+    "W. Walker Hanlon": {
+        "status": "success",
+        "Education": [
+            [
+                "Columbia University",
+                [
+                    "Dates attended or expected graduation",
+                    "2006 – 2012"
+                ]
+            ]
+        ],
+        "Experience": []
+    },
+    "Igal Hendel": {
+        "status": "success",
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 – 1994"
+                ]
+            ],
+            [
+                "Escuela Integral, Montevideo Uruguay"
+            ]
+        ],
+        "Experience": [
+            [
+                "Chief Economist",
+                [
+                    "Company Name",
+                    "Amazon Web Services"
+                ],
+                [
+                    "Dates Employed",
+                    "2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ]
+            ],
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "2004 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "18 yrs"
+                ]
+            ]
+        ]
+    },
+    "Sara Hernández-Saborit": {
+        "status": "fail",
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 – 1994"
+                ]
+            ],
+            [
+                "Escuela Integral, Montevideo Uruguay"
+            ]
+        ],
+        "Experience": [
+            [
+                "Chief Economist",
+                [
+                    "Company Name",
+                    "Amazon Web Services"
+                ],
+                [
+                    "Dates Employed",
+                    "2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ]
+            ],
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "2004 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "18 yrs"
+                ]
+            ]
+        ]
+    },
+    "James Hornsten": {
+        "status": "fail",
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 – 1994"
+                ]
+            ],
+            [
+                "Escuela Integral, Montevideo Uruguay"
+            ]
+        ],
+        "Experience": [
+            [
+                "Chief Economist",
+                [
+                    "Company Name",
+                    "Amazon Web Services"
+                ],
+                [
+                    "Dates Employed",
+                    "2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ]
+            ],
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "2004 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "18 yrs"
+                ]
+            ]
+        ]
+    },
+    "Joel Horowitz": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Gaston Illanes": {
+        "status": "success",
+        "Education": [
+            [
+                "MIT",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 – 2016"
+                ]
+            ],
+            [
+                "Pontificia Universidad Católica de Chile",
+                [
+                    "Degree Name",
+                    "Master"
+                ],
+                [
+                    "Field Of Study",
+                    "Economia"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 – 2008"
+                ]
+            ],
+            [
+                "Pontificia Universidad Católica de Chile",
+                [
+                    "Degree Name",
+                    "Ingeniero Comercial, Mencion Economia"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 – 2008"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor Of Economics",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 7 mos"
+                ]
+            ],
+            [
+                "Faculty Research Fellow",
+                [
+                    "Company Name",
+                    "National Bureau of Economic Research"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 9 mos"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Massachusetts Institute of Technology"
+                ],
+                [
+                    "Total Duration",
+                    "6 yrs"
+                ],
+                [
+                    "Title",
+                    "Postdoctoral Research Associate in Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2016 – Jun 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Title",
+                    "Ph.D. Candidate, Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "2010 – Jan 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
+                ]
+            ]
+        ]
+    },
+    "Elisa Jacome": {
+        "status": "success",
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 – 2021"
+                ]
+            ],
+            [
+                "Georgetown University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science in Foreign Service"
+                ],
+                [
+                    "Field Of Study",
+                    "International Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 – 2013"
+                ]
+            ],
+            [
+                "Walt Whitman High School",
+                [
+                    "Dates attended or expected graduation",
+                    "2004 – 2009"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Stanford Institute for Economic Policy Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2021 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ]
+            ],
+            [
+                "PHD Candidate",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 – May 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 10 mos"
+                ],
+                "Department of Economics"
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "The Brookings Institution"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 – Jun 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "The World Bank"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2012 – Aug 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ]
+            ],
+            [
+                "Social Policy Intern",
+                [
+                    "Company Name",
+                    "Inter-American Dialogue"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2011 – Aug 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ]
+            ]
+        ]
+    },
+    "Seema Jayachandran": {
+        "status": "success",
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 – 2004"
+                ]
+            ],
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Masters"
+                ],
+                [
+                    "Field Of Study",
+                    "Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 – 1999"
+                ]
+            ],
+            [
+                "University of Oxford",
+                [
+                    "Degree Name",
+                    "Master's"
+                ],
+                [
+                    "Field Of Study",
+                    "Physics and Philosophy"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 – 1995"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 5 mos"
+                ]
+            ],
+            [
+                "Assistant Professor Of Economics",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2006 – Aug 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 2 mos"
+                ]
+            ],
+            [
+                "Postdoctoral Scholar",
+                [
+                    "Company Name",
+                    "University of California, Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2004 – Jun 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ],
+            [
+                "Management Consultant",
+                [
+                    "Company Name",
+                    "McKinsey &amp; Company"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1995 – Aug 1997"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ]
+            ]
+        ]
+    },
+    "Dean Karlan": {
+        "status": "success",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 – 2002"
+                ]
+            ],
+            [
+                "The University of Chicago Booth School of Business",
+                [
+                    "Degree Name",
+                    "MBA"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 – 1997"
+                ]
+            ],
+            [
+                "University of Chicago",
+                [
+                    "Degree Name",
+                    "MPP"
+                ],
+                [
+                    "Field Of Study",
+                    "Public Policy"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 – 1997"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics and Finance",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Evanston, Illinois"
+                ]
+            ],
+            [
+                "Co-Founder and Chairman",
+                [
+                    "Company Name",
+                    "ImpactMatters"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 7 mos"
+                ]
+            ],
+            [
+                "President and Founder",
+                [
+                    "Company Name",
+                    "Innovations for Poverty Action"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2002 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "19 yrs 4 mos"
+                ]
+            ],
+            [
+                "co-Founder",
+                [
+                    "Company Name",
+                    "stickK.com, LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "2007 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "15 yrs"
+                ]
+            ],
+            [
+                "Non-Resident Fellow",
+                [
+                    "Company Name",
+                    "Center for Global Development"
+                ],
+                [
+                    "Dates Employed",
+                    "2006 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "16 yrs"
+                ]
+            ]
+        ]
+    },
+    "Jeffrey Lewis": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Annie Liang": {
+        "status": "success",
+        "Education": [
+            [
+                "DePaul University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Real Estate"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2018 – 2022"
+                ]
+            ],
+            [
+                "City Colleges of Chicago-Harry S Truman College",
+                [
+                    "Degree Name",
+                    "Approved of Paralegal Studies"
+                ],
+                [
+                    "Field Of Study",
+                    "Paralegal Studies"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 – 2013"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Residential Real Estate Paralegal",
+                [
+                    "Company Name",
+                    "Rosenberg LPA"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Sep 2021 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "Cincinnati, Ohio, United States"
+                ]
+            ],
+            [
+                "Residential Real Estate Paralegal",
+                [
+                    "Company Name",
+                    "Conrad O. Duncker Counselor at Law"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2009 – Sep 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs"
+                ],
+                [
+                    "Location",
+                    "259 W. 31st Street. Chicago, IL 60616"
+                ],
+                "Reviewed real estate contracts and title commitments. Tracked contingency dates and obtained extensions when necessary. Drafted correspondence to address inspection issues. Ordered payoffs, association letters, prepared closing documents and reviewed Settlement Statements prior to closing. Required the ability to work independently to ensure meetings deadlines. Maintained an excellent working relationship with other law firms, bank clients, lending and loan officers, and processors as well as realtors.",
+                "Ability to prepare and schedule Notices, Motions, and Orders for Eviction cases.",
+                "Calendaring Hearings/Notice Packets/Courtesy Copies/Attorney Packets.",
+                "Prepares and sends out Notice Packets/Courtesy Copies/Attorney Packets.",
+                "Follows up on Court Results immediately after hearings have taken place.",
+                "Requests billing fees for document preparation, appearances at hearings, and third party invoices.",
+                "Prepares Amended Complaint Petitions and Summons to add party defendants.",
+                "…",
+                "see more"
+            ],
+            [
+                "Immigration Paralegal/ case manager",
+                [
+                    "Company Name",
+                    "Law Offices of Yongbing Zhang"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 – Jan 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "67 E Madison Street. Suite 1616, Chiago, IL 60603"
+                ],
+                "Managing client relations; serving as a first point-of-contact with clients. Communicate with clients regarding case processing and procedural issues. Assist attorneys with I-589 and all kinds family base applications process. Draft job description and minimum requirements for attorney review.",
+                "Draft motions with the Immigration Court. Prepare legal documents, Summarizing Asylum cases, Investigate the facts and law of cases and search pertinent sources.",
+                "Good Experiencing to communicate with USCIS,  Asylum Office and Immigration Court",
+                "Prepare affidavits or other documents, such as legal correspondence, and organize and maintain documents in paper or electronic filing system.",
+                "Gather and analyze research data, such as statutes, decisions, and legal articles, codes, and documents.",
+                "Responsible for all ongoing residential real estate closing transactions.",
+                "Direct and coordinate law office activity, including delivery of subpoenas.",
+                "Keep and monitor legal volumes to ensure that law library is up-to-date.",
+                "Supervise and train junior assistants.",
+                "…",
+                "see more"
+            ],
+            [
+                "Teller",
+                [
+                    "Company Name",
+                    "South Central Bank"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2010 – Dec 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                "Handle Check cashing, depositing, transfers, wire transfers",
+                "Savings deposits, withdrawals",
+                "Issuing negotiable items (cashier's checks, traveler's cheques, money orders, federal draft issuances, etc.)",
+                "Payment collecting",
+                "Promotion of the financial institution's products (loans, mortgages, etc.)",
+                "Cash advances",
+                "Resolving customer issues",
+                "Balancing the vault, cash drawers, ATMs, and TAUs",
+                "Batching and Processing Proof Work (On-Us/Not-On-Us Checks, Payment Coupons, Counter Slips, etc.)",
+                "May include ordering products for the customer (checks, deposit slips, etc.)",
+                "…",
+                "see more"
+            ]
+        ]
+    },
+    "Guido Lorenzoni": {
+        "status": "fail",
+        "Education": [
+            [
+                "DePaul University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Real Estate"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2018 – 2022"
+                ]
+            ],
+            [
+                "City Colleges of Chicago-Harry S Truman College",
+                [
+                    "Degree Name",
+                    "Approved of Paralegal Studies"
+                ],
+                [
+                    "Field Of Study",
+                    "Paralegal Studies"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 – 2013"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Residential Real Estate Paralegal",
+                [
+                    "Company Name",
+                    "Rosenberg LPA"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Sep 2021 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "Cincinnati, Ohio, United States"
+                ]
+            ],
+            [
+                "Residential Real Estate Paralegal",
+                [
+                    "Company Name",
+                    "Conrad O. Duncker Counselor at Law"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2009 – Sep 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs"
+                ],
+                [
+                    "Location",
+                    "259 W. 31st Street. Chicago, IL 60616"
+                ],
+                "Reviewed real estate contracts and title commitments. Tracked contingency dates and obtained extensions when necessary. Drafted correspondence to address inspection issues. Ordered payoffs, association letters, prepared closing documents and reviewed Settlement Statements prior to closing. Required the ability to work independently to ensure meetings deadlines. Maintained an excellent working relationship with other law firms, bank clients, lending and loan officers, and processors as well as realtors.",
+                "Ability to prepare and schedule Notices, Motions, and Orders for Eviction cases.",
+                "Calendaring Hearings/Notice Packets/Courtesy Copies/Attorney Packets.",
+                "Prepares and sends out Notice Packets/Courtesy Copies/Attorney Packets.",
+                "Follows up on Court Results immediately after hearings have taken place.",
+                "Requests billing fees for document preparation, appearances at hearings, and third party invoices.",
+                "Prepares Amended Complaint Petitions and Summons to add party defendants.",
+                "…",
+                "see more"
+            ],
+            [
+                "Immigration Paralegal/ case manager",
+                [
+                    "Company Name",
+                    "Law Offices of Yongbing Zhang"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 – Jan 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "67 E Madison Street. Suite 1616, Chiago, IL 60603"
+                ],
+                "Managing client relations; serving as a first point-of-contact with clients. Communicate with clients regarding case processing and procedural issues. Assist attorneys with I-589 and all kinds family base applications process. Draft job description and minimum requirements for attorney review.",
+                "Draft motions with the Immigration Court. Prepare legal documents, Summarizing Asylum cases, Investigate the facts and law of cases and search pertinent sources.",
+                "Good Experiencing to communicate with USCIS,  Asylum Office and Immigration Court",
+                "Prepare affidavits or other documents, such as legal correspondence, and organize and maintain documents in paper or electronic filing system.",
+                "Gather and analyze research data, such as statutes, decisions, and legal articles, codes, and documents.",
+                "Responsible for all ongoing residential real estate closing transactions.",
+                "Direct and coordinate law office activity, including delivery of subpoenas.",
+                "Keep and monitor legal volumes to ensure that law library is up-to-date.",
+                "Supervise and train junior assistants.",
+                "…",
+                "see more"
+            ],
+            [
+                "Teller",
+                [
+                    "Company Name",
+                    "South Central Bank"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2010 – Dec 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                "Handle Check cashing, depositing, transfers, wire transfers",
+                "Savings deposits, withdrawals",
+                "Issuing negotiable items (cashier's checks, traveler's cheques, money orders, federal draft issuances, etc.)",
+                "Payment collecting",
+                "Promotion of the financial institution's products (loans, mortgages, etc.)",
+                "Cash advances",
+                "Resolving customer issues",
+                "Balancing the vault, cash drawers, ATMs, and TAUs",
+                "Batching and Processing Proof Work (On-Us/Not-On-Us Checks, Payment Coupons, Counter Slips, etc.)",
+                "May include ordering products for the customer (checks, deposit slips, etc.)",
+                "…",
+                "see more"
+            ]
+        ]
+    },
+    "Charles Manski": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Kiminori Matsuyama": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Sidonia McKenzie": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Joel Mokyr": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Scott Ogawa": {
+        "status": "success",
+        "Education": [
+            [
+                "Northwestern University",
+                [
+                    "Dates attended or expected graduation",
+                    "2008 – 2013"
+                ]
+            ]
+        ],
+        "Experience": []
+    },
+    "Wojciech Olszewski": {
+        "status": "fail",
+        "Education": [
+            [
+                "Northwestern University",
+                [
+                    "Dates attended or expected graduation",
+                    "2008 – 2013"
+                ]
+            ]
+        ],
+        "Experience": []
+    },
+    "Alessandro Pavan": {
+        "status": "success",
+        "Education": [
+            [
+                "TOULOSE SCHOOL OF ECONOMICS",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 – 2001"
+                ]
+            ],
+            [
+                "Toulouse School of Economics",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Grade",
+                    "Highest Honors"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 – 2001"
+                ]
+            ],
+            [
+                "Università Commerciale 'Luigi Bocconi'",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 – 1997"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "2001 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "21 yrs"
+                ],
+                "Research + teaching"
+            ]
+        ]
+    },
+    "Harry Pei": {
+        "status": "success",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 – 2018"
+                ],
+                "Robert Solow Prize of Graduate Student Excellence in Teaching and Research,",
+                "2018 Review of Economic Studies European Tour"
+            ],
+            [
+                "Toulouse School of Economics",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Ecoomics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 – 2013"
+                ]
+            ],
+            [
+                "Tsinghua University",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 – 2011"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor in Economics",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2018 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Evanston, IL"
+                ],
+                [
+                    "Harry Pei: Department of Economics - Northwestern University",
+                    "Harry Pei: Department of Economics - Northwestern University"
+                ]
+            ]
+        ]
+    },
+    "Robert Porter": {
+        "status": "success",
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1976 – 1980"
+                ]
+            ],
+            [
+                "Western University",
+                [
+                    "Degree Name",
+                    "Honours BA"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics and Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1972 – 1976"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1987 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "34 yrs 5 mos"
+                ]
+            ],
+            [
+                "Associate Professor of Economics",
+                [
+                    "Company Name",
+                    "Stony Brook University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1984 – Aug 1987"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ]
+            ],
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "University of Minnesota"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1980 – Aug 1984"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ]
+        ]
+    },
+    "Giorgio Primiceri": {
+        "status": "fail",
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1976 – 1980"
+                ]
+            ],
+            [
+                "Western University",
+                [
+                    "Degree Name",
+                    "Honours BA"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics and Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1972 – 1976"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1987 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "34 yrs 5 mos"
+                ]
+            ],
+            [
+                "Associate Professor of Economics",
+                [
+                    "Company Name",
+                    "Stony Brook University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1984 – Aug 1987"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ]
+            ],
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "University of Minnesota"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1980 – Aug 1984"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ]
+        ]
+    },
+    "Mar Reguant": {
+        "status": "success",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 – 2011"
+                ],
+                "Specialization in Industrial Organization",
+                "Thesis title: \"Essays in Energy and Environmental Markets\""
+            ],
+            [
+                "Universitat Autònoma de Barcelona",
+                [
+                    "Degree Name",
+                    "B.A."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 – 2006"
+                ]
+            ],
+            [
+                "University of Mannheim",
+                [
+                    "Field Of Study",
+                    "VWL"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 – 2005"
+                ],
+                "Multi-regional International Business Program - Exchange Year"
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Total Duration",
+                    "6 yrs 7 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Professor Of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Evanston, IL"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor Of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 – Aug 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Evanston, IL"
+                ]
+            ],
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "Stanford Graduate School of Business"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2011 – Jun 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                [
+                    "Location",
+                    "Stanford, CA"
+                ]
+            ],
+            [
+                "Visiting Assistant Professor",
+                [
+                    "Company Name",
+                    "Toulouse School of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2013 – Jun 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Location",
+                    "Toulouse, France"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "MIT"
+                ],
+                [
+                    "Total Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Title",
+                    "Ph.D. Student in Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "2006 – 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "Cambridge, MA"
+                ],
+                [
+                    "Title",
+                    "Research Assistant"
+                ],
+                [
+                    "Dates Employed",
+                    "2007 – 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Cambridge, MA"
+                ]
+            ]
+        ]
+    },
+    "William Rogerson": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ]
+            ]
+        ]
+    },
+    "Matthew Rognlie": {
+        "status": "success",
+        "Education": [
+            [
+                "Temple College",
+                [
+                    "Dates attended or expected graduation",
+                    "2012 – 2015"
+                ]
+            ]
+        ],
+        "Experience": []
+    },
+    "Ian Savage": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Leeds",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 – 1984"
+                ]
+            ],
+            [
+                "The University of Sheffield",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts - BA"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978 – 1981"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics and Transportation",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1986 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "35 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Evanston, Illinois"
+                ]
+            ]
+        ]
+    },
+    "Morton Schapiro": {
+        "status": "success",
+        "Education": [
+            [
+                "Columbia University College of Dental Medicine",
+                [
+                    "Degree Name",
+                    "PG program at CU school of Dental Mediine"
+                ],
+                [
+                    "Field Of Study",
+                    "PG Dental Medicine"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1946 – 1950"
+                ]
+            ],
+            [
+                "Willamette University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    "Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1943 – 1945"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "retired",
+                [
+                    "Company Name",
+                    "laguna woods"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1999 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "22 yrs 8 mos"
+                ]
+            ],
+            [
+                "long island, NY",
+                [
+                    "Company Name",
+                    "self employed"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1953 – Feb 1990"
+                ],
+                [
+                    "Employment Duration",
+                    "36 yrs 9 mos"
+                ]
+            ]
+        ]
+    },
+    "Molly Schnell": {
+        "status": "success",
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 – 2017"
+                ]
+            ],
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "Master of Arts (MA)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 – 2014"
+                ]
+            ],
+            [
+                "University of Chicago",
+                [
+                    "Field Of Study",
+                    "Mathematics (BS), Economics (BA), Statistics (BA)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 – 2011"
+                ],
+                "Activities and Societies:",
+                "Neighborhood Schools Program",
+                "• Graduated with Honors in Economics and General Honors in the College",
+                "• Received the David S. Hu Award for Excellence in Economics (2011)"
+            ]
+        ],
+        "Experience": [
+            [
+                "Staff Officer of Research",
+                [
+                    "Company Name",
+                    "Columbia University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2011 – Jun 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "The University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 – Jun 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ]
+            ],
+            [
+                "Investment Banking Summer Analyst",
+                [
+                    "Company Name",
+                    "J.P. Morgan"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2010 – Aug 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ],
+                "• Received an offer for full-time employment"
+            ],
+            [
+                "Jeff Metcalf Fellow",
+                [
+                    "Company Name",
+                    "Accion Emprendedora"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2009 – Sep 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Santiago, Chile"
+                ]
+            ]
+        ]
+    },
+    "Eric Schulz": {
+        "status": "success",
+        "Education": [
+            [
+                "Northwestern University - Kellogg School of Management",
+                [
+                    "Degree Name",
+                    "MBA"
+                ],
+                [
+                    "Field Of Study",
+                    "Finance, Strategy, Management &amp; Organizations, International Business"
+                ],
+                [
+                    "Grade",
+                    "3.83 GPA"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 – 2011"
+                ],
+                "Activities and Societies:",
+                "Beta Gamma Sigma",
+                "Graduated With Distinction (top 10%)"
+            ],
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "BBA"
+                ],
+                [
+                    "Field Of Study",
+                    "Real Estate &amp; Urban Land Economics, Risk Management"
+                ],
+                [
+                    "Grade",
+                    "3.72 GPA"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 – 2005"
+                ],
+                "Activities and Societies:",
+                "UW-Madison Real Estate Club, 2005 winner of Balanced Man Scholarship awarded by Sigma Phi Epsilon, National Merit Scholarship recipient",
+                "Graduated With Distinction (top 10%)",
+                "Kappa Sigma Fraternity"
+            ],
+            [
+                "Hong Kong University of Science and Technology - School of Business and Management",
+                [
+                    "Degree Name",
+                    "MBA Exchange Program"
+                ],
+                [
+                    "Field Of Study",
+                    "Finance, Chinese Business"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 – 2011"
+                ],
+                "Attended HKUST on an international exchange program"
+            ]
+        ],
+        "Experience": [
+            [
+                "Vice President of Acquisitions",
+                [
+                    "Company Name",
+                    "Neighborhood Property Group"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jul 2021 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "New York, United States"
+                ],
+                "New Oaktree-backed venture with $300M of committed equity formed to acquire, own and operate parking facilities in major U.S. cities.  Business plan is to improve core parking operations while supplementing with last-mile logistics applications and other innovative uses.",
+                "…",
+                "see more"
+            ],
+            [
+                "Independent Consultant",
+                [
+                    "Company Name",
+                    "Self-employed"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2020 – Jul 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 7 mos"
+                ],
+                [
+                    "Location",
+                    "New York, United States"
+                ],
+                "Provided independent consulting services for real estate acquisitions and asset management assignments.  Select clients include: middle-market firm investing within California’s Central Valley; Chicago-based family office investing in development projects in gateway cities throughout U.S.",
+                "…",
+                "see more"
+            ],
+            [
+                [
+                    "Company Name",
+                    "Shorenstein Realty Services"
+                ],
+                [
+                    "Total Duration",
+                    "7 yrs 7 mos"
+                ],
+                [
+                    "Title",
+                    "Vice President"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jan 2016 – Mar 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "New York, New York, United States"
+                ],
+                "- Hybrid role responsible for asset management and investment transactions",
+                "- Oversaw asset management of value-add portfolio totaling 3.0 million s.f. / $700 million",
+                "- Negotiated over 500,000 s.f. of leases to office, retail, restaurant and data center tenants",
+                "- Managed $50+ million of capital improvements including new storefronts, lobbies, roof decks, fitness centers, tenant lounges and common areas",
+                "- Executed $2.0 billion of acquisitions, including setting business plan and deal structure, negotiating legal agreements, leading underwriting team, coordinating due diligence and presenting to I.C.",
+                "- Executed $1.3 billion of dispositions; oversaw hold-sell analysis, marketing, negotiation and closing",
+                "- Maintained key relationships with JV partners, brokers, lenders, property managers and vendors",
+                "- Worked closely with internal debt team on acquisition financings and refinancings",
+                "- Mentored and directed four-person team of junior colleagues",
+                "…",
+                "see more",
+                [
+                    "Title",
+                    "Senior Associate"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Sep 2011 – Dec 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "New York, New York, United States"
+                ],
+                "Underwrote and executed office acquisitions across Eastern U.S."
+            ],
+            [
+                "Summer Associate",
+                [
+                    "Company Name",
+                    "Pacific Coast Capital Partners (PCCP, LLC)"
+                ],
+                "Internship",
+                [
+                    "Dates Employed",
+                    "Jun 2010 – Aug 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "New York, New York, United States"
+                ],
+                "- Evaluated investments in value-added office, retail, and multifamily properties via senior loan originations, note purchases and joint venture equity positions",
+                "…",
+                "see more"
+            ],
+            [
+                [
+                    "Company Name",
+                    "LaSalle Investment Management"
+                ],
+                [
+                    "Total Duration",
+                    "4 yrs 2 mos"
+                ],
+                [
+                    "Title",
+                    "Associate | Portfolio Management"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jul 2007 – Jul 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Chicago, Illinois, United States"
+                ],
+                "- Oversaw portfolio analytics, financial forecasting and valuations for a $1.2 billion core-plus equity fund investing in office, medical office, retail, industrial, multifamily and student housing properties",
+                "- Designed and managed the quarterly performance review for the fund’s 42-property portfolio",
+                "- Managed the quarterly valuation process that determined NAV",
+                "- Led beta-testing and implementation of a pioneering portfolio analytics system used to forecast the fund's dividend and NAV",
+                "- Composed quarterly investor letter for an audience of 1,500 shareholders",
+                "…",
+                "see more",
+                [
+                    "Title",
+                    "Analyst | Asset Management"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jun 2005 – Jun 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Chicago, Illinois, United States"
+                ],
+                "- Performed cash flow projections, valuations and other quantitative analyses on individual property investments and overall portfolio",
+                "- Analyzed portfolio risk metrics including investment exposures by sector and geography, lease expirations, tenant concentrations, tenant credits and debt maturities",
+                "- Produced reports and memoranda including annual strategic plan, marketing documents, client presentations and reports distributed to board of directors",
+                "- Assisted Fund President with investor relations",
+                "…",
+                "see more"
+            ]
+        ]
+    },
+    "Marciano Siniscalchi": {
+        "status": "success",
+        "Education": [
+            [
+                "Stanford University Graduate School of Business",
+                [
+                    "Dates attended or expected graduation",
+                    "1994 – 1998"
+                ]
+            ],
+            [
+                "Università Bocconi",
+                [
+                    "Degree Name",
+                    "Laurea"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 – 1992"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Amazon Scholar",
+                [
+                    "Company Name",
+                    "Amazon"
+                ],
+                "Part-time",
+                [
+                    "Dates Employed",
+                    "Feb 2021 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2002 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "19 yrs 5 mos"
+                ]
+            ],
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1998 – Aug 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ]
+        ]
+    },
+    "Maxim Sinitsyn": {
+        "status": "success",
+        "Education": [
+            [
+                "Bauman Moscow&nbsp;State Technical University",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Mechanical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 – 2005"
+                ]
+            ],
+            [
+                "Bauman Moscow&nbsp;State Technical University",
+                [
+                    "Degree Name",
+                    "Master's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 – 2005"
+                ],
+                "Activities and Societies:",
+                "Served as a steward",
+                "M4: High-precision flying vehicles",
+                "Thesis: Computer system to simulate application of the kinetic non-lethal weapon."
+            ]
+        ],
+        "Experience": [
+            [
+                "Director, Presales &amp; Delivery",
+                [
+                    "Company Name",
+                    "Akvelon, Inc."
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Mar 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Valant"
+                ],
+                [
+                    "Total Duration",
+                    "1 yr 3 mos"
+                ],
+                [
+                    "Title",
+                    "Sr Manager, Software Delivery"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Oct 2018 – Mar 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ],
+                [
+                    "Title",
+                    "Sr Technical Project Manager"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jan 2018 – Oct 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ]
+            ],
+            [
+                "Consulting Engagement Manager",
+                [
+                    "Company Name",
+                    "Globant"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Mar 2015 – Jul 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Dallas/Fort Worth Area"
+                ],
+                "Managed diverse IT professional services operations within assigned portfolios including operating model, services delivery, tools, visas, staffing, resources allocation and forecasting for Southwest Airlines account. Partnered with technology managers and directors, product owners and client release managers, ensuring that direction from company executives are met and expectations are clear.",
+                "Portfolios:",
+                "Southwest Airlines: Aircraft Maintenance, Workforce Solutions, Revenue Management, Crew Operations, Air Operations",
+                "Key Achievements:",
+                "♣\tActively grew account to more than twice its size in less than two years, partnering with Client’s leadership team to establish trust in assigned portfolios.",
+                "♣\tUtilized Scrum SWA Agile Delivery Machine as core methodology in leading a team of scrum masters and project managers.",
+                "♣\tGenerated three new portfolios with 9 Agile Pods.",
+                "♣\tEnsured smart resource allocation and smooth delivery resulting in exceeding revenue targets.",
+                "…",
+                "see more"
+            ],
+            [
+                "Information Technology Consultant",
+                [
+                    "Company Name",
+                    "Southwest Airlines"
+                ],
+                "Contract",
+                [
+                    "Dates Employed",
+                    "Mar 2015 – Jul 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Dallas/Fort Worth Area"
+                ],
+                "Managing vendor side of Professional Services (Java development)  within Product Solutions."
+            ],
+            [
+                "Senior Delivery Manager",
+                [
+                    "Company Name",
+                    "EPAM Systems"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Aug 2008 – Mar 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Dallas/Fort Worth Area"
+                ],
+                "Was responsible for managing projects from pre-sales stage to completion while overseeing and driving entire life-cycle of requirements gathering, inception, scoping and identifying the technical team, as well as day-to-day delivery activities of professional services teams. Served as liaison between Clients and Company.",
+                "Managing IT solutions delivery for EPAM clients on-site:",
+                "- Markit",
+                "- QVC",
+                "- Chevron",
+                "- IHG",
+                "- The Coca-Cola Company",
+                "- Thompson Reuters",
+                "- Takeda Pharmaceuticals NA",
+                "…",
+                "see more"
+            ]
+        ]
+    },
+    "Bruno Strulovici": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Full Professor",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Sep 2016 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago, Illinois, United States"
+                ],
+                "Economic Theory, Political Economics, Contract Theory, Law and Economics, Finance."
+            ]
+        ]
+    },
+    "Christopher Udry": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ]
+            ]
+        ]
+    },
+    "Silvia Vannutelli": {
+        "status": "success",
+        "Education": [
+            [
+                "Università di Roma Tor Vergata",
+                [
+                    "Degree Name",
+                    "Master of Science in European Economy and Business Law"
+                ],
+                [
+                    "Field Of Study",
+                    "Economia applicata"
+                ],
+                [
+                    "Grade",
+                    "110 cum laude"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 – 2014"
+                ]
+            ],
+            [
+                "Università degli Studi di Roma Tre",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    "International Relations and European Studies"
+                ],
+                [
+                    "Grade",
+                    "110/110 cum laude"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 – 2013"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "PhD Economics",
+                [
+                    "Company Name",
+                    "Boston University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Boston, Stati Uniti"
+                ]
+            ],
+            [
+                "Research Fellow",
+                [
+                    "Company Name",
+                    "Banca d'Italia - Eurosistema"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 – Sep 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Roma, Italia"
+                ]
+            ],
+            [
+                "Procurement Section - Internship",
+                [
+                    "Company Name",
+                    "International Fund for Agricultural Development"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2014 – Jun 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "Roma, Italia"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Proxenter - Procurement and Supply Chain Research Center, University of Rome Tor Vergata"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2013 – Oct 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "11 mos"
+                ],
+                [
+                    "Location",
+                    "Roma, Italia"
+                ]
+            ]
+        ]
+    },
+    "Richard Walker": {
+        "status": "success",
+        "Education": [
+            [
+                "The London School of Economics and Political Science (LSE)",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 – 2002"
+                ]
+            ],
+            [
+                "The London School of Economics and Political Science (LSE)",
+                [
+                    "Degree Name",
+                    "M.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 – 1995"
+                ]
+            ],
+            [
+                "The London School of Economics and Political Science (LSE)",
+                [
+                    "Degree Name",
+                    "B.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 – 1994"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Total Duration",
+                    "14 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Professor of Instruction"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor of Instruction"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2014 – Aug 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Title",
+                    "Senior Lecturer"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2013 – Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Title",
+                    "Lecturer"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 – Aug 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
+                ]
+            ],
+            [
+                "Consultant Economist",
+                [
+                    "Company Name",
+                    "The Cambridge Group"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2006 – Sep 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                "Provided advice on an occasional basis."
+            ],
+            [
+                "British Academy Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "The London School of Economics and Political Science (LSE)"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2003 – Sep 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ]
+            ],
+            [
+                "Stipendiary Lecturer",
+                [
+                    "Company Name",
+                    "University College, Oxford"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2002 – Sep 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Research And Teaching Assistant",
+                [
+                    "Company Name",
+                    "The London School of Economics and Political Science (LSE)"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 1995 – Jun 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 9 mos"
+                ]
+            ]
+        ]
+    },
+    "Mark Witte": {
+        "status": "success",
+        "Education": [
+            [
+                "Northwestern University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 – 1997"
+                ]
+            ],
+            [
+                "Washington University in St. Louis",
+                [
+                    "Dates attended or expected graduation",
+                    "1980 – 1984"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Economist",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ]
+            ],
+            [
+                "Community member",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "1985 – 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "25 yrs"
+                ]
+            ]
+        ]
+    },
+    "Asher Wolinsky": {
+        "status": "fail",
+        "Education": [
+            [
+                "Northwestern University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 – 1997"
+                ]
+            ],
+            [
+                "Washington University in St. Louis",
+                [
+                    "Dates attended or expected graduation",
+                    "1980 – 1984"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Economist",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ]
+            ],
+            [
+                "Community member",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "1985 – 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "25 yrs"
+                ]
+            ]
+        ]
+    }
+}

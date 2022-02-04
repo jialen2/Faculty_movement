@@ -1,57 +1,15 @@
 {
     "Sarita V. Adve": {
         "status": "success",
-        "Education": [
-            [
-                "University of Wisconsin-Madison",
-                [
-                    "Degree Name",
-                    "Doctor of Philosophy - PhD"
-                ],
-                [
-                    "Field Of Study",
-                    "Computer Science"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "1987 – 1993"
-                ]
-            ],
-            [
-                "Indian Institute of Technology, Bombay",
-                [
-                    "Degree Name",
-                    "B. Tech."
-                ],
-                [
-                    "Field Of Study",
-                    "Electrical Engineering"
-                ]
-            ]
-        ],
-        "Experience": [
-            [
-                "Assistant Professor",
-                [
-                    "Company Name",
-                    "Rice University"
-                ],
-                [
-                    "Dates Employed",
-                    "Aug 1993 – Aug 1999"
-                ],
-                [
-                    "Employment Duration",
-                    "6 yrs 1 mo"
-                ]
-            ]
-        ]
+        "Education": [],
+        "Experience": []
     },
     "Vikram Adve": {
         "status": "success",
-        "Education": [
-            [
-                "University of Wisconsin-Madison",
+        "Education": [],
+        "Experience": []
+    }
+}versity of Wisconsin-Madison",
                 [
                     "Degree Name",
                     "Ph.D."

@@ -17,47 +17,556 @@
     "Orazio Attanasio": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "UCL"
+                ]
+            ]
+        ]
     },
     "Dirk Bergemann": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 – 1994"
+                ]
+            ],
+            [
+                "Goethe University",
+                [
+                    "Degree Name",
+                    "Vordiplom"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 – 1989"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Scholar",
+                [
+                    "Company Name",
+                    "Amazon"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2021 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1995 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "26 yrs 7 mos"
+                ]
+            ],
+            [
+                "professor",
+                [
+                    "Company Name",
+                    "Columbia University"
+                ],
+                [
+                    "Dates Employed",
+                    "2004 – 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ]
+        ]
     },
     "Steven Berry": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 – 1988"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Yale University"
+                ]
+            ]
+        ]
     },
     "Xiaohong Chen": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Yale University"
+                ]
+            ]
+        ]
     },
     "Eduardo Davila": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 – 2014"
+                ]
+            ],
+            [
+                "Universitat Pompeu Fabra",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 – 2008"
+                ]
+            ],
+            [
+                "Universidad de Las Palmas de Gran Canaria",
+                [
+                    "Degree Name",
+                    "BA (1st Cycle)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 – 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "New Haven, Connecticut, United States"
+                ]
+            ],
+            [
+                "Assistant Professor of Finance",
+                [
+                    "Company Name",
+                    "NYU Stern School of Business"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 – Jul 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ]
+            ]
+        ]
     },
     "Jose-Antonio Espin-Sanchez": {
         "status": "fail",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 – 2014"
+                ]
+            ],
+            [
+                "Universitat Pompeu Fabra",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 – 2008"
+                ]
+            ],
+            [
+                "Universidad de Las Palmas de Gran Canaria",
+                [
+                    "Degree Name",
+                    "BA (1st Cycle)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 – 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "New Haven, Connecticut, United States"
+                ]
+            ],
+            [
+                "Assistant Professor of Finance",
+                [
+                    "Company Name",
+                    "NYU Stern School of Business"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 – Jul 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ]
+            ]
+        ]
     },
     "Ray Fair": {
         "status": "fail",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 – 2014"
+                ]
+            ],
+            [
+                "Universitat Pompeu Fabra",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 – 2008"
+                ]
+            ],
+            [
+                "Universidad de Las Palmas de Gran Canaria",
+                [
+                    "Degree Name",
+                    "BA (1st Cycle)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 – 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "New Haven, Connecticut, United States"
+                ]
+            ],
+            [
+                "Assistant Professor of Finance",
+                [
+                    "Company Name",
+                    "NYU Stern School of Business"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 – Jul 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ]
+            ]
+        ]
     },
     "Mira Frick": {
         "status": "fail",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 – 2014"
+                ]
+            ],
+            [
+                "Universitat Pompeu Fabra",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 – 2008"
+                ]
+            ],
+            [
+                "Universidad de Las Palmas de Gran Canaria",
+                [
+                    "Degree Name",
+                    "BA (1st Cycle)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 – 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "New Haven, Connecticut, United States"
+                ]
+            ],
+            [
+                "Assistant Professor of Finance",
+                [
+                    "Company Name",
+                    "NYU Stern School of Business"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 – Jul 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ]
+            ]
+        ]
     },
     "John Geanakoplos": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "City Colleges of Chicago-Harry S Truman College",
+                [
+                    "Dates attended or expected graduation",
+                    "1982 – 1984"
+                ]
+            ],
+            [
+                "Loyola Academy",
+                [
+                    "Dates attended or expected graduation",
+                    "1978 – 1982"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Sales Professional",
+                [
+                    "Company Name",
+                    "Zeigler Automotive Group"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2007 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "14 yrs 10 mos"
+                ],
+                "I sell new Chrysler Dodge Jeep Doge Ram and Fiat. Also sell all used cars brands. My job includes listening to customers needs and matching thos needs with the perfect vehicle for them. Requires strong product knowledge and good listening skills."
+            ],
+            [
+                "Director of operations",
+                [
+                    "Company Name",
+                    "Norvanco Logistics"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2004 – Apr 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 1 mo"
+                ],
+                "Was responsable for the day to day operations and planning of a large consumer electronics company."
+            ],
+            [
+                "Warehouse manager",
+                [
+                    "Company Name",
+                    "Panasonic USA"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 1985 – Apr 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "19 yrs 4 mos"
+                ],
+                "Responsable for the day to day operations of a large consumer electronics warehouse. Including scheduling transportation, personnel, and temporary staffing. Duties included inventory control."
+            ]
+        ]
     },
     "Pinelopi Goldberg": {
         "status": "success",
@@ -66,17 +575,2276 @@
     },
     "Timothy Guinnane": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 – 1987"
+                ]
+            ],
+            [
+                "Haverford College",
+                [
+                    "Dates attended or expected graduation",
+                    "1976 – 1981"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Yale University"
+                ]
+            ]
+        ]
     },
     "Philip Haile": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 – 1987"
+                ]
+            ],
+            [
+                "Haverford College",
+                [
+                    "Dates attended or expected graduation",
+                    "1976 – 1981"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Yale University"
+                ]
+            ]
+        ]
     },
     "Marina Halac": {
         "status": "success",
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Dates attended or expected graduation",
+                    "2004 – 2009"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 7 mos"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Columbia Business School"
+                ],
+                [
+                    "Total Duration",
+                    "9 yrs"
+                ],
+                [
+                    "Title",
+                    "Professor of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2017 – Jun 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Title",
+                    "Associate Professor of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 – Jun 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                "Show 1 more role"
+            ],
+            [
+                "Associate Professor of Economics",
+                [
+                    "Company Name",
+                    "University of Warwick"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 – Jun 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ]
+        ]
+    },
+    "Charles Hodgson": {
+        "status": "success",
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 – 2019"
+                ]
+            ],
+            [
+                "London School of Economics and Political Science",
+                [
+                    "Degree Name",
+                    "Master of Science (MSc)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 – 2011"
+                ]
+            ],
+            [
+                "London School of Economics and Political Science",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BSc)"
+                ],
+                [
+                    "Field Of Study",
+                    "Philosophy and Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 – 2010"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                [
+                    "Total Duration",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "New Haven, CT"
+                ],
+                [
+                    "Title",
+                    "Postdoctoral Associate"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 – Jun 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 – Sep 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Boston Area"
+                ]
+            ],
+            [
+                "Research Professional",
+                [
+                    "Company Name",
+                    "University of Chicago Booth School of Business"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 – Aug 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ]
+            ],
+            [
+                "Graduate Teaching Assistant",
+                [
+                    "Company Name",
+                    "London School of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2010 – Jun 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "9 mos"
+                ],
+                [
+                    "Location",
+                    "London, United Kingdom"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Institute for Fiscal Studies"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2010 – Aug 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "London, United Kingdom"
+                ]
+            ]
+        ]
+    },
+    "Johannes Hörner": {
+        "status": "fail",
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 – 2019"
+                ]
+            ],
+            [
+                "London School of Economics and Political Science",
+                [
+                    "Degree Name",
+                    "Master of Science (MSc)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 – 2011"
+                ]
+            ],
+            [
+                "London School of Economics and Political Science",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BSc)"
+                ],
+                [
+                    "Field Of Study",
+                    "Philosophy and Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 – 2010"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                [
+                    "Total Duration",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "New Haven, CT"
+                ],
+                [
+                    "Title",
+                    "Postdoctoral Associate"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 – Jun 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 – Sep 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Boston Area"
+                ]
+            ],
+            [
+                "Research Professional",
+                [
+                    "Company Name",
+                    "University of Chicago Booth School of Business"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 – Aug 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ]
+            ],
+            [
+                "Graduate Teaching Assistant",
+                [
+                    "Company Name",
+                    "London School of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2010 – Jun 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "9 mos"
+                ],
+                [
+                    "Location",
+                    "London, United Kingdom"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Institute for Fiscal Studies"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2010 – Aug 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "London, United Kingdom"
+                ]
+            ]
+        ]
+    },
+    "John Eric Humphries": {
+        "status": "success",
         "Education": [],
         "Experience": []
+    },
+    "Zhen Huo": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Mitsuru Igami": {
+        "status": "success",
+        "Education": [
+            [
+                "UCLA Anderson School of Management",
+                [
+                    "Degree Name",
+                    "PhD / MA"
+                ],
+                [
+                    "Field Of Study",
+                    "Management / Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 – 2012"
+                ]
+            ],
+            [
+                "The University of Tokyo",
+                [
+                    "Degree Name",
+                    "MA"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 – 2007"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor Of Economics",
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "New Haven, CT"
+                ]
+            ],
+            [
+                "Visiting Associate Professor",
+                [
+                    "Company Name",
+                    "Massachusetts Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2017 – Jun 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Cambridge, MA"
+                ],
+                "1-year sabbatical at MIT Department of Economics (2017-2018)"
+            ],
+            [
+                "Visiting Assistant Professor",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 – Jun 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                "One-year sabbatical at Stanford Institute for Economic Policy Research"
+            ],
+            [
+                "Research Assistant / Teaching Assistant",
+                [
+                    "Company Name",
+                    "UCLA Anderson School of Management"
+                ],
+                [
+                    "Dates Employed",
+                    "2008 – 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ]
+            ],
+            [
+                "Research Assistant / Teaching Assistant",
+                [
+                    "Company Name",
+                    "University of Tokyo"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2005 – Aug 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                "Researcher/Economist in training. Assisting teaching of classes at the University of Tokyo's Graduate School of Public Policy and Economics Department (undergraduate courses). Field: Industrial Organization."
+            ]
+        ]
+    },
+    "Ryota Iijima": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Gerald Jaynes": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Yale University"
+                ]
+            ]
+        ]
+    },
+    "Yuichi Kitamura": {
+        "status": "fail",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Yale University"
+                ]
+            ]
+        ]
+    },
+    "Alvin Klevorick": {
+        "status": "fail",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Yale University"
+                ]
+            ]
+        ]
+    },
+    "Samuel Kortum": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor Of Economics",
+                [
+                    "Company Name",
+                    "Yale University"
+                ]
+            ]
+        ]
+    },
+    "Naomi Lamoreaux": {
+        "status": "fail",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor Of Economics",
+                [
+                    "Company Name",
+                    "Yale University"
+                ]
+            ]
+        ]
+    },
+    "Ilse Lindenlaub": {
+        "status": "fail",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor Of Economics",
+                [
+                    "Company Name",
+                    "Yale University"
+                ]
+            ]
+        ]
+    },
+    "Giovanni Maggi": {
+        "status": "fail",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor Of Economics",
+                [
+                    "Company Name",
+                    "Yale University"
+                ]
+            ]
+        ]
+    },
+    "Costas Meghir": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of Manchester",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1980 – 1984"
+                ]
+            ],
+            [
+                "The University of Manchester",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics and Econometrics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1979 – 1980"
+                ]
+            ],
+            [
+                "The University of Manchester",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1976 – 1979"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2010 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "11 yrs 7 mos"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "UCL"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1984 – Jul 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "26 yrs 11 mos"
+                ]
+            ]
+        ]
+    },
+    "Mushfiq Mobarak": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Maryland",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 – 2002"
+                ]
+            ],
+            [
+                "Macalester College",
+                [
+                    "Degree Name",
+                    "B.A."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics and Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 – 1997"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2015 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs"
+                ],
+                [
+                    "Location",
+                    "New Haven, CT, USA"
+                ],
+                "Professor, Department of Economics, Faculty of Arts &amp; Sciences",
+                "Professor, School of Management",
+                "Faculty Director, Yale Research Initiative on Innovation and Scale (Y-RISE)",
+                "Chair, South Asian Studies Council at Yale"
+            ],
+            [
+                "Associate Professor of Economics",
+                [
+                    "Company Name",
+                    "Yale School of Management"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 – Feb 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 9 mos"
+                ]
+            ],
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "Yale School of Management"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 – Apr 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 8 mos"
+                ]
+            ]
+        ]
+    },
+    "Giuseppe Moscarini": {
+        "status": "fail",
+        "Education": [
+            [
+                "University of Maryland",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 – 2002"
+                ]
+            ],
+            [
+                "Macalester College",
+                [
+                    "Degree Name",
+                    "B.A."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics and Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 – 1997"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2015 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs"
+                ],
+                [
+                    "Location",
+                    "New Haven, CT, USA"
+                ],
+                "Professor, Department of Economics, Faculty of Arts &amp; Sciences",
+                "Professor, School of Management",
+                "Faculty Director, Yale Research Initiative on Innovation and Scale (Y-RISE)",
+                "Chair, South Asian Studies Council at Yale"
+            ],
+            [
+                "Associate Professor of Economics",
+                [
+                    "Company Name",
+                    "Yale School of Management"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 – Feb 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 9 mos"
+                ]
+            ],
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "Yale School of Management"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 – Apr 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 8 mos"
+                ]
+            ]
+        ]
+    },
+    "Kaivan Munshi": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Chicago",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics; Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2019 – 2023"
+                ],
+                "Activities and Societies:",
+                "Oeconomica"
+            ],
+            [
+                "Hopkins School",
+                [
+                    "Dates attended or expected graduation",
+                    "2012 – 2019"
+                ],
+                "Activities and Societies:",
+                "Pathfinder Program, Varsity Crew, Orchestra"
+            ]
+        ],
+        "Experience": [
+            [
+                "Research Assistant For Professor Kaivan Munshi",
+                [
+                    "Company Name",
+                    "Yale Department of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "New Haven, Connecticut, United States"
+                ],
+                "•\tCleaned and compiled 19 National Sample Survey (NSS) microdata consumption datasets using Stata.",
+                "•\tPerformed statistical analyses and visualizations of NSS data using Stata.",
+                "•\tUsed the R simple features package to back out the historical crop productivity of current Indian districts from 1951 districts.",
+                "•\tRead, compiled, and took notes on numerous economics, sociology, and anthropology papers and relevant books to support the research of Dr. Munshi.",
+                "•\tCreated a Stata ado file to parse user input and execute the Robinson procedure to partial out covariates.",
+                "…",
+                "see more"
+            ],
+            [
+                "Student Researcher",
+                [
+                    "Company Name",
+                    "Oeconomica Research Society"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2019 – Jun 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "9 mos"
+                ],
+                "•\tWorked with a small team to perform research on the impact of religious minority status on migration and social cohesion in rural India.",
+                "•\tUsed R to clean, shape, visualize, and perform regressions on Indian census data.",
+                "•\tCollaborated with team members and regularly met with cohort leader to discuss methods of performing analyses.",
+                "•\tDiscussed experimental designs and validity of results in development economics papers.",
+                "…",
+                "see more"
+            ],
+            [
+                "Apprentice",
+                [
+                    "Company Name",
+                    "Eli Whitney Museum &amp; Workshop"
+                ],
+                "Part-time",
+                [
+                    "Dates Employed",
+                    "Nov 2014 – Aug 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Hamden, Connecticut, United States"
+                ],
+                "•\tManaged teams of 4-10 apprentices to assemble and prepare STEM kits.",
+                "•\tDesigned 25+ STEM projects taught to groups of 8-50 students.",
+                "•\tTaught groups of a dozen middle and early high school students in week-long summer programs."
+            ]
+        ]
+    },
+    "Yusuke Narita": {
+        "status": "success",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Dates attended or expected graduation",
+                    "2011 – 2016"
+                ]
+            ]
+        ],
+        "Experience": []
+    },
+    "William Nordhaus": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Economist",
+                [
+                    "Company Name",
+                    "EconConsult"
+                ]
+            ]
+        ]
+    },
+    "Cormac O&#039;Dea": {
+        "status": "fail",
+        "Education": [],
+        "Experience": [
+            [
+                "Economist",
+                [
+                    "Company Name",
+                    "EconConsult"
+                ]
+            ]
+        ]
+    },
+    "Gerard Padro": {
+        "status": "success",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 – 2005"
+                ]
+            ],
+            [
+                "Universitat Pompeu Fabra",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 – 2000"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "London School of Economics"
+                ],
+                [
+                    "Total Duration",
+                    "14 yrs 7 mos"
+                ],
+                [
+                    "Title",
+                    "Professor of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 7 mos"
+                ],
+                "Research on Economic Development",
+                "Convenor of Master in Public Administration",
+                [
+                    "Title",
+                    "Lecturer"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2007 – Jul 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ],
+                "Awesome research and other funny stuff"
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2005 – Jul 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ]
+            ]
+        ]
+    },
+    "Rohini Pande": {
+        "status": "success",
+        "Education": [
+            [
+                "The London School of Economics and Political Science (LSE)",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 – 1999"
+                ]
+            ],
+            [
+                "The London School of Economics and Political Science (LSE)",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Grade",
+                    "Distinction"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 – 1995"
+                ]
+            ],
+            [
+                "University of Oxford",
+                [
+                    "Degree Name",
+                    "Master of Arts - MA"
+                ],
+                [
+                    "Field Of Study",
+                    "Philosophy Politics and Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 – 1994"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Henry J Heinz II Professor of Economics and Director Economic Growth Center, Yale University",
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Yale, New Haven"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2006 – Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "13 yrs"
+                ]
+            ]
+        ]
+    },
+    "Michael Peters": {
+        "status": "success",
+        "Education": [
+            [
+                "Yale",
+                [
+                    "Dates attended or expected graduation",
+                    "2011 – 2016"
+                ]
+            ]
+        ],
+        "Experience": []
+    },
+    "Benjamin Polak": {
+        "status": "success",
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 – 1994"
+                ]
+            ],
+            [
+                "Yale University"
+            ],
+            [
+                "Bedales School"
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Yale University"
+                ]
+            ]
+        ]
+    },
+    "Mark Rosenzweig": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Nicholas Ryan": {
+        "status": "success",
+        "Education": [
+            [
+                "Georgetown University",
+                [
+                    "Degree Name",
+                    "M.S. Biotechnology &amp; Policy"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2019 – 2021"
+                ],
+                "Activities and Societies:",
+                "ORISE Science, Technology, and Policy Fellow - U.S Department of Energy"
+            ],
+            [
+                "Knox College",
+                [
+                    "Degree Name",
+                    "Biochemistry and Political Science - Double Major"
+                ],
+                [
+                    "Field Of Study",
+                    "International Development, Public Policy, Biotechnology, Energy Efficiency,"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 – 2019"
+                ],
+                "Activities and Societies:",
+                "Order Of Omega Greek Honor Society,\nPresident-Mortar Board Academic Honor Society,\nBiology TA - Intro. to Physiology, Advanced Research Methods\nKnox College Office of Advancement Rep-Special Handling, \nKnox College Bastain Career Center Intern,\nPresident-Knox College InterFraternity Council \nPresident-Model United Nations\nStudent Senator-Executive Faculty Council"
+            ]
+        ],
+        "Experience": [
+            [
+                "ORISE Science, Technology, and Policy Fellow",
+                [
+                    "Company Name",
+                    "U.S. Department of Energy (DOE)"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Washington D.C. Metro Area"
+                ]
+            ],
+            [
+                "Public Policy Intern",
+                [
+                    "Company Name",
+                    "American Sustainable Business Council"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "May 2019 – Oct 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Location",
+                    "Washington, District of Columbia, United States"
+                ]
+            ],
+            [
+                "Project Management Intern",
+                [
+                    "Company Name",
+                    "Knox College"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2017 – Aug 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Galesburg, IL"
+                ],
+                "•\tDeveloped and coordinated multiple competing events for offices of Career Development and Alumni Relations, including budget, programming, accommodation logistics, and hospitality.",
+                "•\t Served as liaison between Offices, student body, and alumni to continually develop new and effective programming",
+                "•\tPromoted to help maintain programming and services during department restructuring and assist in transition of executive staff",
+                "…",
+                "see more"
+            ],
+            [
+                "Business Development Specialist",
+                [
+                    "Company Name",
+                    "Organic Grain Exchange"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2018 – Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Location",
+                    "Galesburg, IL"
+                ],
+                "•\tCoordinate directly with founders of start-up to develop strategy to expand scope and market reach of business",
+                "•\tCultivate 200+ working relationships with both domestic and international agriculture producers and product manufactures",
+                "•\tDeveloped extensive buyer and seller database for future coordination and tracking of sales",
+                "•\tPromoted to full time position after initial internship period in order to further grow network of business partnerships and member producers",
+                "…",
+                "see more"
+            ],
+            [
+                "Communications And Public Relations",
+                [
+                    "Company Name",
+                    "Resources to Resources, NGO"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2016 – Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 9 mos"
+                ],
+                "•\tDeveloped, organized and directed multiple fundraisers generating $10,000 in annual revenue",
+                "•\tFostered working partnerships with over 25 local and international NGOs",
+                "•\tInstrumental in developing and implementing long-term financial and growth strategies",
+                "•\tDirect project updates and progress reports for both supporters, partners and regulation committees",
+                "•\tDeveloped funding program for agriculture co-op initiative feeding 200 communities totaling 10,000 individuals",
+                "…",
+                "see more"
+            ]
+        ]
+    },
+    "Larry Samuelson": {
+        "status": "fail",
+        "Education": [
+            [
+                "Georgetown University",
+                [
+                    "Degree Name",
+                    "M.S. Biotechnology &amp; Policy"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2019 – 2021"
+                ],
+                "Activities and Societies:",
+                "ORISE Science, Technology, and Policy Fellow - U.S Department of Energy"
+            ],
+            [
+                "Knox College",
+                [
+                    "Degree Name",
+                    "Biochemistry and Political Science - Double Major"
+                ],
+                [
+                    "Field Of Study",
+                    "International Development, Public Policy, Biotechnology, Energy Efficiency,"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 – 2019"
+                ],
+                "Activities and Societies:",
+                "Order Of Omega Greek Honor Society,\nPresident-Mortar Board Academic Honor Society,\nBiology TA - Intro. to Physiology, Advanced Research Methods\nKnox College Office of Advancement Rep-Special Handling, \nKnox College Bastain Career Center Intern,\nPresident-Knox College InterFraternity Council \nPresident-Model United Nations\nStudent Senator-Executive Faculty Council"
+            ]
+        ],
+        "Experience": [
+            [
+                "ORISE Science, Technology, and Policy Fellow",
+                [
+                    "Company Name",
+                    "U.S. Department of Energy (DOE)"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Washington D.C. Metro Area"
+                ]
+            ],
+            [
+                "Public Policy Intern",
+                [
+                    "Company Name",
+                    "American Sustainable Business Council"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "May 2019 – Oct 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Location",
+                    "Washington, District of Columbia, United States"
+                ]
+            ],
+            [
+                "Project Management Intern",
+                [
+                    "Company Name",
+                    "Knox College"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2017 – Aug 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Galesburg, IL"
+                ],
+                "•\tDeveloped and coordinated multiple competing events for offices of Career Development and Alumni Relations, including budget, programming, accommodation logistics, and hospitality.",
+                "•\t Served as liaison between Offices, student body, and alumni to continually develop new and effective programming",
+                "•\tPromoted to help maintain programming and services during department restructuring and assist in transition of executive staff",
+                "…",
+                "see more"
+            ],
+            [
+                "Business Development Specialist",
+                [
+                    "Company Name",
+                    "Organic Grain Exchange"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2018 – Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Location",
+                    "Galesburg, IL"
+                ],
+                "•\tCoordinate directly with founders of start-up to develop strategy to expand scope and market reach of business",
+                "•\tCultivate 200+ working relationships with both domestic and international agriculture producers and product manufactures",
+                "•\tDeveloped extensive buyer and seller database for future coordination and tracking of sales",
+                "•\tPromoted to full time position after initial internship period in order to further grow network of business partnerships and member producers",
+                "…",
+                "see more"
+            ],
+            [
+                "Communications And Public Relations",
+                [
+                    "Company Name",
+                    "Resources to Resources, NGO"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2016 – Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 9 mos"
+                ],
+                "•\tDeveloped, organized and directed multiple fundraisers generating $10,000 in annual revenue",
+                "•\tFostered working partnerships with over 25 local and international NGOs",
+                "•\tInstrumental in developing and implementing long-term financial and growth strategies",
+                "•\tDirect project updates and progress reports for both supporters, partners and regulation committees",
+                "•\tDeveloped funding program for agriculture co-op initiative feeding 200 communities totaling 10,000 individuals",
+                "…",
+                "see more"
+            ]
+        ]
+    },
+    "Anna Sanktjohanser": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Oxford",
+                [
+                    "Degree Name",
+                    "DPhil (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 – 2017"
+                ]
+            ],
+            [
+                "University of Oxford",
+                [
+                    "Degree Name",
+                    "Master of Philosophy (M.Phil.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 – 2013"
+                ]
+            ],
+            [
+                "University of Oxford",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Politics, Philosophy and Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 – 2010"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                [
+                    "Total Duration",
+                    "4 yrs"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor in Economics at Yale University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Title",
+                    "Postdoctoral Researcher"
+                ],
+                [
+                    "Dates Employed",
+                    "2018 – Jul 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "Toulouse School of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2017 – 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ]
+        ]
+    },
+    "Katja Seim": {
+        "status": "success",
+        "Education": [
+            [
+                "Yale University",
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 – 2001"
+                ]
+            ],
+            [
+                "Franklin &amp; Marshall College",
+                [
+                    "Dates attended or expected graduation",
+                    "1992 – 1995"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor Of Economics",
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "New Haven, CT"
+                ],
+                "Professor, Department of Economics and School of Management"
+            ],
+            [
+                "Associate Professor of Business Economics and Public Policy",
+                [
+                    "Company Name",
+                    "The Wharton School"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 – Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, PA"
+                ]
+            ],
+            [
+                "Chief Economist",
+                [
+                    "Company Name",
+                    "Federal Communications Commission"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 – Jun 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Washington D.C. Metro Area"
+                ]
+            ],
+            [
+                "Assistant Professor of Business and Public Policy",
+                [
+                    "Company Name",
+                    "The Wharton School, University of Pennsylvania"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2006 – 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
+                ]
+            ],
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "Stanford Graduate School of Business"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2001 – Jul 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ]
+            ]
+        ]
+    },
+    "Robert Shiller": {
+        "status": "success",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "S.M., 1968, Ph.D. 1972"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1967 – 1972"
+                ]
+            ],
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "B.A."
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1964 – 1967"
+                ],
+                "Activities and Societies:",
+                "Michigan Daily"
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Yale University"
+                ]
+            ],
+            [
+                "Sterling Professor of Economics",
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1982 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "39 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Cowles Foundation, 30 Hillhouse Avenue, New Haven CT 06511"
+                ],
+                "Robert J. Shiller is Sterling Professor of Economics, Department of Economics and Cowles Foundation for Research in Economics, Yale University, and Professor of Finance and Fellow at the International Center for Finance, Yale School of Management. He received his B.A. from the University of Michigan in 1967 and his Ph.D. in economics from the Massachusetts Institute of Technology in 1972. He has written on financial markets, financial innovation, behavioral economics, macroeconomics, real estate, statistical methods, and on public attitudes, opinions, and moral judgments regarding markets.",
+                "His repeat-sales home price indices, developed originally with Karl E. Case, are now produced by CoreLogic and published as the S&amp;P/Case-Shiller Home Price Indices. The Chicago Mercantile Exchange now maintains futures markets based on the S&amp;P/Case-Shiller Indices.",
+                "He has been research associate, National Bureau of Economic Research since 1980, and has been co-organizer of NBER workshops: on behavioral finance with Richard Thaler since 1991, and on macroeconomics and individual decision making (behavioral macroeconomics) with George Akerlof 1994-2007.",
+                "He was awarded the Nobel Prize in Economic Sciences jointly with Eugene Fama and Lars Peter Hansen in 2013.",
+                "He served as Vice President of the American Economic Association, 2005 and President of the Eastern Economic Association, 2006-07. He was elected President of the American Economic Association for 2016.",
+                "He writes a regular column \"Finance in the 21st Century\" for Project Syndicate, which publishes around the world, and \"Economic View\" for The New York Times.",
+                "…",
+                "see more"
+            ]
+        ]
+    },
+    "Tony Smith": {
+        "status": "success",
+        "Education": [
+            [
+                "Duke University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1985 – 1990"
+                ]
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978 – 1982"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Yale University"
+                ]
+            ]
+        ]
+    },
+    "Philipp Strack": {
+        "status": "success",
+        "Education": [
+            [
+                "Rheinische Friedrich-Wilhelms-Universität Bonn",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 – 2013"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Principal Economist",
+                [
+                    "Company Name",
+                    "Worldcoin"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2021 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ]
+            ],
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "UC Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 – Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "Berkeley"
+                ]
+            ],
+            [
+                "Researcher",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 – Jul 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 2 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, Massachusetts"
+                ]
+            ]
+        ]
+    },
+    "Aleh Tsyvinski": {
+        "status": "fail",
+        "Education": [
+            [
+                "Rheinische Friedrich-Wilhelms-Universität Bonn",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 – 2013"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Principal Economist",
+                [
+                    "Company Name",
+                    "Worldcoin"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2021 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ]
+            ],
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "UC Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 – Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "Berkeley"
+                ]
+            ],
+            [
+                "Researcher",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 – Jul 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 2 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, Massachusetts"
+                ]
+            ]
+        ]
+    },
+    "Ed Vytlacil": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Chicago",
+                [
+                    "Dates attended or expected graduation",
+                    "1991 – 2000"
+                ]
+            ],
+            [
+                "Stanford University"
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Yale University"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Columbia University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 – Dec 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "2000 – 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ]
+        ]
+    },
+    "Ebonya Washington": {
+        "status": "fail",
+        "Education": [
+            [
+                "University of Chicago",
+                [
+                    "Dates attended or expected graduation",
+                    "1991 – 2000"
+                ]
+            ],
+            [
+                "Stanford University"
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Yale University"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Columbia University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 – Dec 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "2000 – 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ]
+        ]
+    },
+    "Fabrizio Zilibotti": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Yale University"
+                ]
+            ]
+        ]
     }
 }
