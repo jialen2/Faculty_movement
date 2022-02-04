@@ -55,3 +55,9 @@ python3 get_linkedin_data.py
 cd faculty/Orcid
 python3 get_orcid_data.py
 ```
+
+pip3 install selenium
+
+pip3 install --user pyenchant
+
+pip3 install mysql-connector-python-rf

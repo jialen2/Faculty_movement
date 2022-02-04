@@ -43,7 +43,7 @@ def get_background_on_linkedin(file, university, linkedin_email, linkedin_passwo
 
     # option.add_argument('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45')
     option.add_argument('Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664S.45 Safari/537.36')
-    driver = webdriver.Chrome(executable_path=os.getcwd() + '/chromedriver', chrome_options=option)
+    driver = webdriver.Chrome(executable_path=file_path + '/chromedriver_remote', chrome_options=option)
     # s = Service(executable_path=os.getcwd() + '/chromedriver')
     # driver = webdriver.Chrome(service=s)
     driver.get('https://www.linkedin.com/')

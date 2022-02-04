@@ -27,5 +27,5 @@ def get_faculty_data(major):
         university = file
         with open(faculty_list_dir+"/"+university,"r") as f:
             print(university)
-            get_background_on_linkedin(f, university,'challenli43@outlook.com', '319133abcd', file_path+"/"+major+"/"+university)
+            get_background_on_linkedin(f, university,'katewei62@gmail.com', '319133abcd', file_path+"/"+major+"/"+university)
 get_faculty_data("economics")
