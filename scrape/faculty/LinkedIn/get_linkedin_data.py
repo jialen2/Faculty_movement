@@ -5,7 +5,7 @@ import os
 import json
 import random
 import sys
-from get_background import get_experience_v1, get_education
+from get_background import get_background_info
 
 from bs4 import BeautifulSoup
 
@@ -105,17 +105,11 @@ def get_background_on_linkedin(file, university, linkedin_email, linkedin_passwo
             continue
 
         driver.get(url)
-        html_string = str(driver.page_source)
         # print(BeautifulSoup(html_string, 'html.parser').prettify())
-        html = parse_html_string(html_string)
-        with open("./test_html_david", "w+") as output:
-            for i in html:
-                output.write(i)
-        exit()
-        education = get_education(html)
+        html = parse_html_string(str(driver.page_source))
+        education, experience = get_background_info(html)
         print('Education:')
         print(education)
-        experience = get_experience(html)
         print('Experience:')
         print(experience)
         time.sleep(random.randint(120, 150))
