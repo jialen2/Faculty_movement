@@ -5,7 +5,9 @@ import os
 import json
 import random
 import sys
-from get_background import get_experience, get_education
+from get_background import get_experience_v1, get_education
+
+from bs4 import BeautifulSoup
 
 from selenium.webdriver.chrome.service import Service
 
@@ -43,7 +45,7 @@ def get_background_on_linkedin(file, university, linkedin_email, linkedin_passwo
 
     # option.add_argument('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45')
     option.add_argument('Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664S.45 Safari/537.36')
-    driver = webdriver.Chrome(executable_path=file_path + '/chromedriver_remote', chrome_options=option)
+    driver = webdriver.Chrome(executable_path=file_path + '/chromedriver_local', chrome_options=option)
     # s = Service(executable_path=os.getcwd() + '/chromedriver')
     # driver = webdriver.Chrome(service=s)
     driver.get('https://www.linkedin.com/')
@@ -104,8 +106,12 @@ def get_background_on_linkedin(file, university, linkedin_email, linkedin_passwo
 
         driver.get(url)
         html_string = str(driver.page_source)
+        # print(BeautifulSoup(html_string, 'html.parser').prettify())
         html = parse_html_string(html_string)
-        # print(html)
+        with open("./test_html_david", "w+") as output:
+            for i in html:
+                output.write(i)
+        exit()
         education = get_education(html)
         print('Education:')
         print(education)
@@ -134,15 +140,14 @@ def get_background_on_linkedin(file, university, linkedin_email, linkedin_passwo
 # # Abdussalam Alawini
 # # '''
 
-# l = '''
-# Sarita V. Adve
-# Vikram Adve
-# '''
-# # before running this function, please go to LinkedIn and sign in with the following account
-# l = l.split('\n')[1:-1]
+l = '''
+David Baqaee
+'''
+# before running this function, please go to LinkedIn and sign in with the following account
+l = l.split('\n')[1:-1]
+print(l)
 # print(l)
-# # print(l)
-# # exit()
-# result = get_background_on_linkedin(l, 'uiuc', 'beckmanzhang3@outlook.com', '319133abcd',"./test")
-# print(json.dumps(result, indent=4))
+# exit()
+result = get_background_on_linkedin(l, 'ucla', 'katewei62@gmail.com', '319133abcd',"./test")
+print(json.dumps(result, indent=4))
 
