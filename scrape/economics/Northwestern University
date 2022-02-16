@@ -1624,100 +1624,266 @@
     },
     "Charles Manski": {
         "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Kiminori Matsuyama": {
-        "status": "fail",
-        "Education": [],
-        "Experience": []
-    },
-    "Sidonia McKenzie": {
-        "status": "fail",
-        "Education": [],
-        "Experience": []
-    },
-    "Joel Mokyr": {
-        "status": "fail",
-        "Education": [],
-        "Experience": []
-    },
-    "Scott Ogawa": {
-        "status": "success",
         "Education": [
             [
-                "Northwestern University",
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Ph.D., Economics"
+                ],
                 [
                     "Dates attended or expected graduation",
-                    "2008 – 2013"
+                    "1966 - 1973"
                 ]
             ]
         ],
-        "Experience": []
+        "Experience": [
+            [
+                "Board of Trustees Professor",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1997 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "24 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Evanston, IL USA"
+                ]
+            ]
+        ]
+    },
+    "Kiminori Matsuyama": {
+        "status": "fail",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Ph.D., Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1966 - 1973"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Board of Trustees Professor",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1997 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "24 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Evanston, IL USA"
+                ]
+            ]
+        ]
+    },
+    "Sidonia McKenzie": {
+        "status": "fail",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Ph.D., Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1966 - 1973"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Board of Trustees Professor",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1997 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "24 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Evanston, IL USA"
+                ]
+            ]
+        ]
+    },
+    "Joel Mokyr": {
+        "status": "fail",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Ph.D., Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1966 - 1973"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Board of Trustees Professor",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1997 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "24 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Evanston, IL USA"
+                ]
+            ]
+        ]
+    },
+    "Scott Ogawa": {
+        "status": "fail",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Ph.D., Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1966 - 1973"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Board of Trustees Professor",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1997 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "24 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Evanston, IL USA"
+                ]
+            ]
+        ]
     },
     "Wojciech Olszewski": {
         "status": "fail",
         "Education": [
             [
-                "Northwestern University",
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Ph.D., Economics"
+                ],
                 [
                     "Dates attended or expected graduation",
-                    "2008 – 2013"
+                    "1966 - 1973"
                 ]
             ]
         ],
-        "Experience": []
+        "Experience": [
+            [
+                "Board of Trustees Professor",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1997 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "24 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Evanston, IL USA"
+                ]
+            ]
+        ]
     },
     "Alessandro Pavan": {
         "status": "success",
         "Education": [
             [
-                "TOULOSE SCHOOL OF ECONOMICS",
-                [
-                    "Degree Name",
-                    "Doctor of Philosophy (PhD)"
-                ],
-                [
-                    "Field Of Study",
-                    "Economics"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "1998 – 2001"
-                ]
-            ],
-            [
-                "Toulouse School of Economics",
-                [
-                    "Degree Name",
-                    "Doctor of Philosophy (PhD)"
-                ],
-                [
-                    "Field Of Study",
-                    "Economics"
-                ],
-                [
-                    "Grade",
-                    "Highest Honors"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "1997 – 2001"
-                ]
-            ],
-            [
-                "Università Commerciale 'Luigi Bocconi'",
+                "Università Bocconi",
                 [
                     "Degree Name",
                     "Master's degree"
                 ],
                 [
                     "Field Of Study",
-                    "Economics"
+                    " Economics"
                 ],
                 [
                     "Dates attended or expected graduation",
-                    "1997 – 1997"
+                    "1997 - 1997"
                 ]
             ]
         ],
@@ -1730,13 +1896,16 @@
                 ],
                 [
                     "Dates Employed",
-                    "2001 – Present"
+                    "2001 - Present"
                 ],
                 [
                     "Employment Duration",
-                    "21 yrs"
+                    "21 yrs 2 mos"
                 ],
-                "Research + teaching"
+                [
+                    "Location",
+                    "Research + teaching"
+                ]
             ]
         ]
     },
@@ -1828,11 +1997,11 @@
                 ],
                 [
                     "Field Of Study",
-                    "Economics"
+                    " Economics"
                 ],
                 [
                     "Dates attended or expected graduation",
-                    "1976 – 1980"
+                    "1976 - 1980"
                 ]
             ],
             [
@@ -1843,11 +2012,11 @@
                 ],
                 [
                     "Field Of Study",
-                    "Mathematics and Economics"
+                    " Mathematics and Economics"
                 ],
                 [
                     "Dates attended or expected graduation",
-                    "1972 – 1976"
+                    "1972 - 1976"
                 ]
             ]
         ],
@@ -1860,11 +2029,11 @@
                 ],
                 [
                     "Dates Employed",
-                    "Sep 1987 – Present"
+                    "Sep 1987 - Present"
                 ],
                 [
                     "Employment Duration",
-                    "34 yrs 5 mos"
+                    "34 yrs 6 mos"
                 ]
             ],
             [
@@ -1875,7 +2044,7 @@
                 ],
                 [
                     "Dates Employed",
-                    "Sep 1984 – Aug 1987"
+                    "Sep 1984 - Aug 1987"
                 ],
                 [
                     "Employment Duration",
@@ -1890,7 +2059,7 @@
                 ],
                 [
                     "Dates Employed",
-                    "Sep 1980 – Aug 1984"
+                    "Sep 1980 - Aug 1984"
                 ],
                 [
                     "Employment Duration",
@@ -1901,85 +2070,8 @@
     },
     "Giorgio Primiceri": {
         "status": "fail",
-        "Education": [
-            [
-                "Princeton University",
-                [
-                    "Degree Name",
-                    "PhD"
-                ],
-                [
-                    "Field Of Study",
-                    "Economics"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "1976 – 1980"
-                ]
-            ],
-            [
-                "Western University",
-                [
-                    "Degree Name",
-                    "Honours BA"
-                ],
-                [
-                    "Field Of Study",
-                    "Mathematics and Economics"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "1972 – 1976"
-                ]
-            ]
-        ],
-        "Experience": [
-            [
-                "Professor of Economics",
-                [
-                    "Company Name",
-                    "Northwestern University"
-                ],
-                [
-                    "Dates Employed",
-                    "Sep 1987 – Present"
-                ],
-                [
-                    "Employment Duration",
-                    "34 yrs 5 mos"
-                ]
-            ],
-            [
-                "Associate Professor of Economics",
-                [
-                    "Company Name",
-                    "Stony Brook University"
-                ],
-                [
-                    "Dates Employed",
-                    "Sep 1984 – Aug 1987"
-                ],
-                [
-                    "Employment Duration",
-                    "3 yrs"
-                ]
-            ],
-            [
-                "Assistant Professor of Economics",
-                [
-                    "Company Name",
-                    "University of Minnesota"
-                ],
-                [
-                    "Dates Employed",
-                    "Sep 1980 – Aug 1984"
-                ],
-                [
-                    "Employment Duration",
-                    "4 yrs"
-                ]
-            ]
-        ]
+        "Education": [],
+        "Experience": []
     },
     "Mar Reguant": {
         "status": "success",
@@ -2191,11 +2283,11 @@
                 ],
                 [
                     "Field Of Study",
-                    "Economics"
+                    " Economics"
                 ],
                 [
                     "Dates attended or expected graduation",
-                    "1981 – 1984"
+                    "1981 - 1984"
                 ]
             ],
             [
@@ -2206,11 +2298,11 @@
                 ],
                 [
                     "Field Of Study",
-                    "Economics"
+                    " Economics"
                 ],
                 [
                     "Dates attended or expected graduation",
-                    "1978 – 1981"
+                    "1978 - 1981"
                 ]
             ]
         ],
@@ -2223,11 +2315,11 @@
                 ],
                 [
                     "Dates Employed",
-                    "Aug 1986 – Present"
+                    "Aug 1986 - Present"
                 ],
                 [
                     "Employment Duration",
-                    "35 yrs 6 mos"
+                    "35 yrs 7 mos"
                 ],
                 [
                     "Location",

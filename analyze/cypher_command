@@ -9,7 +9,7 @@ SET move.weight=row.weight;
 LOAD CSV WITH HEADERS FROM "file:///edu_to_work.csv" AS row
 MERGE (last_edu:EDU {name:row.last_edu})
 MERGE (first_work:EDU {name:row.first_work})
-MERGE (last_edu)-[move:EDU_TO_WORK]->(first_work)
+MERGE (first_work)-[move:EDU_TO_WORK]->(last_edu)
 SET move.weight=row.weight;
 
 // IMPORT WORK_TO_WORK

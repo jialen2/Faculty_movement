@@ -20,12 +20,8 @@ sys.path.append(file_path+'/faculty/LinkedIn')
 sys.path.append(file_path)
 from faculty_algorithm import find
 from get_linkedin_data import get_background_on_linkedin
+from get_linkedin_data import scrape_data_from_linkedin
 def get_faculty_data(major):
     faculty_list_dir = file_path+"/faculty_list/"+major
-    files = os.listdir(faculty_list_dir)
-    for file in files:
-        university = file
-        with open(faculty_list_dir+"/"+university,"r") as f:
-            print(university)
-            get_background_on_linkedin(f, university,'katewei62@gmail.com', '319133abcd', file_path+"/"+major+"/"+university)
+    scrape_data_from_linkedin(faculty_list_dir, major)
 get_faculty_data("economics")

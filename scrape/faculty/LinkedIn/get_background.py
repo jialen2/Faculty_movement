@@ -181,7 +181,6 @@ def get_education_without_tags(html):
             #     regex_for_info = re.search(r"!---->(.+?)<", line)
             #     curr_education.append(regex_for_info.group(1))
             if "</section>" in line:
-                print("find section")
                 new_experience_list = add_tag_to_education_list(curr_education)
                 to_ret.append(new_experience_list)
                 return to_ret[1:]                    

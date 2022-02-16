@@ -73,8 +73,8 @@ def community_detection(G):
 
 def main():
     G = create_graph()
-    # run_page_rank(G)
-    community_detection(G)
+    run_page_rank(G)
+    # community_detection(G)
 
 main()
 
