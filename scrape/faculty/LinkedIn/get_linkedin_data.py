@@ -33,7 +33,7 @@ from get_html import parse_html_string, get_links_on_google
 #   faculty2: {'education': [...], 'experience': [...]},
 #   ...
 # }
-def setupWebDriver():
+def setupWebDriver(chromedriver_path):
     global driver
     option = webdriver.ChromeOptions()
     option.add_argument(' — incognito')
@@ -46,7 +46,7 @@ def setupWebDriver():
     option.add_argument('Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664S.45 Safari/537.36')
     # s = Service(executable_path=os.getcwd() + '/chromedriver')
     # driver = webdriver.Chrome(service=s)
-    driver = webdriver.Chrome(executable_path=current_directory + '/../../chromedriver_local', chrome_options=option)
+    driver = webdriver.Chrome(executable_path=chromedriver_path, chrome_options=option)
 
 def login(linkedin_email, linkedin_password):
     driver.get('https://www.linkedin.com/')
@@ -72,8 +72,8 @@ SwitchAccuntThrehold = 20
 linkedInAccounts = ["eliaqiu@outlook.com", "CherryCao34@outlook.com", "wensiLiu3@outlook.com"]
 
 
-def scrape_data_from_linkedin(faculty_file_path, major):
-    setupWebDriver()
+def scrape_data_from_linkedin(faculty_file_path, major, chromedriver_path):
+    setupWebDriver(chromedriver_path)
     countNumScrape = 0
     linkedInAccountIndex = 0
     university_list = os.listdir(faculty_file_path)
@@ -161,8 +161,11 @@ def get_background_on_linkedin(university, faculty_name, store_file_path):
 # # before running this function, please go to LinkedIn and sign in with the following account
 # l = l.split('\n')[1:-1]
 # print(l)
+
+# faculty_list_dir = current_directory+"/../../faculty_list/economy"
+# webdriver_file_path = current_directory + "/../../chromedriver_Linux98"
 # # print(l)
 # # exit()
-# result = get_background_on_linkedin(l, 'Northwestern University', 'katewei62@gmail.com', '319133abcd',"./test")
+# result = scrape_data_from_linkedin(faculty_list_dir, "economy", webdriver_file_path)
 # print(json.dumps(result, indent=4))
 

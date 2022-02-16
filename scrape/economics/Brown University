@@ -1,0 +1,32 @@
+{
+    "Anna  Aizer": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Daniel  Bjorkegren": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Jesse   Bruhn": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Kenneth  Chay": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Pedro  Dal Bó": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Geoffroy  de Clippel": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    }
+}
