@@ -69,7 +69,7 @@ def login(linkedin_email, linkedin_password):
 SwitchAccuntThrehold = 20
 
 # List of useable linked Account for scraping.
-linkedInAccounts = ["eliaqiu@outlook.com", "CherryCao34@outlook.com", "wensiLiu3@outlook.com"]
+linkedInAccounts = [ "QichaoLiang43@outlook.com", "eliawang98@outlook.com", "nyunb34@outlook.com"]
 
 def long_sleep_if_needed(countNumScrape):
     if countNumScrape % 17 == 0:
