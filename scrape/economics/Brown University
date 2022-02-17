@@ -11,13 +11,167 @@
     },
     "Jesse   Bruhn": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Boston University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2019"
+                ]
+            ],
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2012"
+                ]
+            ],
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "Bachelor of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2012"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Postdoctoral Research Fellow",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Princeton, New Jersey"
+                ]
+            ],
+            [
+                "PHD Candidate",
+                [
+                    "Company Name",
+                    "Boston University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Jul 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
+                ],
+                [
+                    "Location",
+                    "Greater Boston Area"
+                ]
+            ],
+            [
+                "12th Grade Math Teacher",
+                [
+                    "Company Name",
+                    "Springfield Renaissance School"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2012 - Jul 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "9 mos"
+                ],
+                [
+                    "Location",
+                    "Springfield, Massachusetts Area"
+                ]
+            ],
+            [
+                "Assistant Economist",
+                [
+                    "Company Name",
+                    "Regional Economic Models Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Nov 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Location",
+                    "Amherst, MA"
+                ]
+            ],
+            [
+                "Teaching Assistant",
+                [
+                    "Company Name",
+                    "University of Massachusetts Amherst"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 - May 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 9 mos"
+                ],
+                [
+                    "Location",
+                    "Amherst, MA"
+                ],
+                [
+                    "More Info",
+                    "See all 7 experiences"
+                ]
+            ]
+        ]
     },
     "Kenneth  Chay": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Sr Director Market Planning &amp; Product Development",
+                [
+                    "Company Name",
+                    "APL Logistics"
+                ]
+            ]
+        ]
     },
     "Pedro  Dal Bó": {
         "status": "fail",
@@ -28,5 +182,306 @@
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "Gauti  Eggertsson": {
+        "status": "success",
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ]
+            ],
+            [
+                "Háskóli Íslands",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.Sc.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Brown University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2012 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 2 mos"
+                ]
+            ],
+            [
+                "Assistant Vice President, Research Department",
+                [
+                    "Company Name",
+                    "Federal Reserve Bank of New York"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2004 - Jan 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "New York"
+                ]
+            ]
+        ]
+    },
+    "Jack  Fanning": {
+        "status": "success",
+        "Education": [
+            [
+                "Kansas State University",
+                [
+                    "Degree Name",
+                    "Bachelor of Business Administration - BBA"
+                ],
+                [
+                    "Field Of Study",
+                    " Marketing"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2016 - 2021"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Land Management Assistant",
+                [
+                    "Company Name",
+                    "Elk Creek Development Company  · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2019 - Aug 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Mount Hope, Kansas, United States"
+                ]
+            ],
+            [
+                "Land Management",
+                [
+                    "Company Name",
+                    "patterson land group llc · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2018 - Aug 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "patterson, kansas"
+                ]
+            ],
+            [
+                "Hatchett Devlin Automotive Group logo",
+                [
+                    "Company Name",
+                    "Lot Attendant"
+                ],
+                [
+                    "Dates Employed",
+                    "Hatchett Devlin Automotive Group"
+                ],
+                [
+                    "Employment Duration",
+                    "Full-time"
+                ],
+                [
+                    "Location",
+                    "May 2016 - Nov 2017 · 1 yr 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Wichita, Kansas, United States"
+                ]
+            ]
+        ]
+    },
+    "Kellie   Forrester": {
+        "status": "success",
+        "Education": [
+            [
+                "UC Santa Barbara",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2014"
+                ]
+            ],
+            [
+                "UC Santa Barbara",
+                [
+                    "Degree Name",
+                    "M.A."
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2008"
+                ]
+            ],
+            [
+                "Quinnipiac University - School of Business",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2007"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "Brown University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "Providence, Rhode Island, United States"
+                ]
+            ],
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "Cal Poly Pomona"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2014 - Jul 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 11 mos"
+                ]
+            ],
+            [
+                "Graduate Student Researcher",
+                [
+                    "Company Name",
+                    "UCSB Economic Forecast Project"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2012 - Jul 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "- Create R programs to automate the gathering and graphing process of datasets"
+                ],
+                [
+                    "More Info",
+                    "- Analyze local demographic, real estate, industry, and employment data"
+                ]
+            ],
+            [
+                "Teaching Assistant",
+                [
+                    "Company Name",
+                    "UCSB"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 - Dec 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Santa Barbara, California"
+                ],
+                [
+                    "More Info",
+                    "-Instructed eighty students each quarter on principles of microeconomics and macroeconomics."
+                ]
+            ],
+            [
+                "Content Department Summer Intern",
+                [
+                    "Company Name",
+                    "Factiva"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2006 - Aug 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Princeton, NJ"
+                ],
+                [
+                    "More Info",
+                    "-Tested the database for proper consolidation of identification numbers for company executives."
+                ]
+            ]
+        ]
     }
 }

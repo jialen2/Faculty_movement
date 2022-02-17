@@ -71,6 +71,10 @@ SwitchAccuntThrehold = 20
 # List of useable linked Account for scraping.
 linkedInAccounts = ["eliaqiu@outlook.com", "CherryCao34@outlook.com", "wensiLiu3@outlook.com"]
 
+def long_sleep_if_needed(countNumScrape):
+    if countNumScrape % 17 == 0:
+        print("###############long sleep#################")
+        time.sleep(random.randint(300, 600))
 
 def scrape_data_from_linkedin(faculty_file_path, major, chromedriver_path):
     setupWebDriver(chromedriver_path)
@@ -78,19 +82,31 @@ def scrape_data_from_linkedin(faculty_file_path, major, chromedriver_path):
     linkedInAccountIndex = 0
     university_list = os.listdir(faculty_file_path)
     for university in university_list:
-        if countNumScrape % SwitchAccuntThrehold == 0:
-            login(linkedInAccounts[linkedInAccountIndex], "319133abcd")
-            print("Switched Account to: ", linkedInAccounts[linkedInAccountIndex])
-            linkedInAccountIndex = (linkedInAccountIndex+1) % len(linkedInAccounts)
         with open(faculty_file_path+"/"+university,"r") as faculty_list_file:
             print(university)
             store_file_path = current_directory+"/../../"+major+"/"+university
             for faculty_name in faculty_list_file:
-                get_background_on_linkedin(university, faculty_name, store_file_path)
+                if countNumScrape % SwitchAccuntThrehold == 0:
+                    login(linkedInAccounts[linkedInAccountIndex], "319133abcd")
+                    print("Switched Account to: ", linkedInAccounts[linkedInAccountIndex])
+                    linkedInAccountIndex = (linkedInAccountIndex+1) % len(linkedInAccounts)
                 countNumScrape += 1
-        if countNumScrape % 17 == 0:
-            print("###############long sleep#################")
-            time.sleep(random.randint(300, 600))
+                try:
+                    get_background_on_linkedin(university, faculty_name, store_file_path)
+                except Exception as e:
+                    time.sleep(random.randint(120, 150))
+                    with open("failed_data.txt", "a") as output:
+                        output.write(faculty_name + " " + university + " " + str(e))
+                        output.write("\n")
+                        print(str(e))
+                    if type(e).__name__ == "JSONDecodeError":
+                        long_sleep_if_needed(countNumScrape)
+                        break
+                    elif type(e).__name__ == "AssertionError" or type(e).__name__ == "MaxRetryError":
+                        login(linkedInAccounts[linkedInAccountIndex], "319133abcd")
+                        print("Switched Account to: ", linkedInAccounts[linkedInAccountIndex])
+                        linkedInAccountIndex = (linkedInAccountIndex+1) % len(linkedInAccounts)
+                long_sleep_if_needed(countNumScrape)
 
 def get_background_on_linkedin(university, faculty_name, store_file_path):
     education = []
@@ -119,12 +135,14 @@ def get_background_on_linkedin(university, faculty_name, store_file_path):
     except:
         write_to_file("fail")
         print('fail to get url for {}'.format(faculty_name))
+        time.sleep(random.randint(120, 150))
         return
 
     print(url)
     if 'linkedin.com' not in url:
         write_to_file("fail")
         print('cannot find linkedin page for {}'.format(faculty_name))
+        time.sleep(random.randint(120, 150))
         return
 
     driver.get(url)
@@ -138,9 +156,13 @@ def get_background_on_linkedin(university, faculty_name, store_file_path):
     if education == [] and experience == []:
         with open("problematic.html", "w") as output:
             output.write(BeautifulSoup(driver.page_source, 'html.parser').prettify())
-        exit(0)
-    time.sleep(random.randint(120, 150))
+        with open("failed_data.txt", "a") as output:
+            output.write(faculty_name + " " + university + " AssertionError")
+            output.write("\n")
+        print("AssertionError")
+        assert False
     write_to_file("success")
+    time.sleep(random.randint(120, 150))
     time.sleep(3)
     driver.quit()
     # return res

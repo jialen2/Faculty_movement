@@ -1,2 +1,7 @@
-a = 'Juliana Londo\xc3\xb1o-V\xc3\xa9lez'
-print()
+import sys
+try:
+    assert False, "Python version must be 3"
+except Exception as e:
+    print(type(e).__name__)
+assert False
+print("hellp")
