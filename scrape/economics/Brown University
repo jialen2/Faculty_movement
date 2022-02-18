@@ -483,5 +483,772 @@
                 ]
             ]
         ]
+    },
+    "John  Friedman": {
+        "status": "success",
+        "Education": [
+            [
+                "Brown University",
+                [
+                    "Degree Name",
+                    "2001 - 2009"
+                ]
+            ]
+        ],
+        "Experience": []
+    },
+    "Amy  Handlan": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 2015 - May 2021"
+                ]
+            ],
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2018"
+                ]
+            ],
+            [
+                "George Mason University",
+                [
+                    "Degree Name",
+                    "Bachelor's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2015"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Brown University · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ],
+                [
+                    "Location",
+                    "Providence, Rhode Island, United States"
+                ]
+            ],
+            [
+                "Research Analyst",
+                [
+                    "Company Name",
+                    "Federal Reserve Bank of Minneapolis"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2020 - Jun 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "11 mos"
+                ],
+                [
+                    "Location",
+                    "Minneapolis, Minnesota, United States"
+                ],
+                [
+                    "More Info",
+                    "Research assistant to Professor Christopher Phelan"
+                ]
+            ],
+            [
+                "AEA Summer Fellow",
+                [
+                    "Company Name",
+                    "Federal Reserve Bank of Chicago · Internship"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2020 - Aug 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Awarded the summer dissertation fellowship through the AEA's Economics Summer Fellow Program"
+                ]
+            ],
+            [
+                "Doctoral Dissertation Fellow",
+                [
+                    "Company Name",
+                    "University of Minnesota"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - May 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Location",
+                    "Awarded the Doctoral Dissertation Fellowship for the 2019-2020 academic year. The Doctoral Dissertation Fellowship is a competitive, university-wide fellowship at the University of Minnesota"
+                ]
+            ],
+            [
+                "Research Analyst",
+                [
+                    "Company Name",
+                    "Federal Reserve Bank of Minneapolis"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 - Dec 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "Research assistant to Professor Christopher Phelan"
+                ],
+                [
+                    "More Info",
+                    "See all 10 experiences"
+                ]
+            ]
+        ]
+    },
+    "Peter   Hull": {
+        "status": "success",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2017"
+                ],
+                [
+                    "More Info",
+                    "Labor economics, econometrics"
+                ]
+            ],
+            [
+                "Wesleyan University",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics-Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Grade: University Honors; High Honors"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor Of Economics",
+                [
+                    "Company Name",
+                    "Brown University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ]
+            ],
+            [
+                "University of Chicago",
+                [
+                    "Company Name",
+                    "3 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Assistant Professor Of Economics"
+                ],
+                [
+                    "Location",
+                    "Jul 2019 - Jun 2021 · 2 yrs"
+                ],
+                [
+                    "More Info",
+                    "Research Fellow, Assistant Professor"
+                ]
+            ],
+            [
+                "Post-Doctoral Researcher",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 - Jun 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Cambridge, MA"
+                ]
+            ],
+            [
+                "National Bureau of Economic Research",
+                [
+                    "Company Name",
+                    "4 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Cambridge, MA"
+                ],
+                [
+                    "Location",
+                    "Pre-Doctoral Fellow"
+                ],
+                [
+                    "More Info",
+                    "Sep 2015 - Jun 2017 · 1 yr 10 mos"
+                ]
+            ],
+            [
+                "Graduate Teaching Assistant",
+                [
+                    "Company Name",
+                    "MIT"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2014 - May 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "9 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, Mass"
+                ],
+                [
+                    "More Info",
+                    "See all 9 experiences"
+                ]
+            ]
+        ]
+    },
+    "Toru   Kitagawa": {
+        "status": "success",
+        "Education": [
+            [
+                "Brown University",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2009"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "University College London"
+                ]
+            ]
+        ]
+    },
+    "Brian  Knight": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 2000"
+                ]
+            ],
+            [
+                "Miami University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics and Finance"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1988 - 1992"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Brown University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2003 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "19 yrs 2 mos"
+                ]
+            ],
+            [
+                "Visiting Professor of Economics",
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 - Jun 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Economist",
+                [
+                    "Company Name",
+                    "Federal Reserve Board"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2000 - Dec 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ]
+            ]
+        ]
+    },
+    "Yann   Koby": {
+        "status": "success",
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2020"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Research Assistant,  Prof. Markus Brunnermeier, Prof. Roland Benabou"
+                ]
+            ],
+            [
+                "The London School of Economics and Political Science (LSE)",
+                [
+                    "Degree Name",
+                    "Master's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Econometrics and Mathematical Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2014"
+                ],
+                [
+                    "More Info",
+                    "Grade: Graduated with Distinction"
+                ]
+            ],
+            [
+                "University of Geneva",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " International Relations, Economics (Major), History (Minor)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Tutor, Economics Students’ Association (http://www.asso-etud.unige.ch/aese/). Private lessons to undergraduates (1st, 2nd and 3rd years)."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor Of Economics",
+                [
+                    "Company Name",
+                    "Brown University · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "Rhode Island, United States"
+                ]
+            ],
+            [
+                "Editor, Writer",
+                [
+                    "Company Name",
+                    "Jet d'Encre"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2012 - Jul 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "www.jetdencre.ch"
+                ],
+                [
+                    "More Info",
+                    "We successfully created a platform for individuals to freely express analyses and perspectives on a wide range of issues. We recruit intellectuals to contribute to the project by sharing and debating original ideas, enriching knowledge to publish critical and independent articles, caricatures, documentaries, etc. We provide authors with constructive feedback concerning both language and content before publishing. We wrote articles read by French speakers all around the world, widely shared on social media and published on several websites."
+                ]
+            ],
+            [
+                "PhD Intern",
+                [
+                    "Company Name",
+                    "Federal Reserve Bank of New York"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2018 - Aug 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ]
+            ],
+            [
+                "PhD Summer Researcher",
+                [
+                    "Company Name",
+                    "European Central Bank"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 - Aug 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Frankfurt Am Main Area, Germany"
+                ]
+            ],
+            [
+                "Trainee (Economic Analysis)",
+                [
+                    "Company Name",
+                    "Swiss National Bank"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2013 - Aug 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "Région de Zürich, Suisse"
+                ],
+                [
+                    "More Info",
+                    "Economic Analysis, Team Switzerland."
+                ]
+            ]
+        ]
+    },
+    "Sylvia  Kuo": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 2001"
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1994"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Brown University",
+                [
+                    "Company Name",
+                    "17 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Providence, Rhode Island Area"
+                ],
+                [
+                    "Location",
+                    "Senior Lecturer in Economics"
+                ],
+                [
+                    "More Info",
+                    "Jul 2017 - Present · 4 yrs 8 mos"
+                ]
+            ],
+            [
+                "Mathematica Policy Research",
+                [
+                    "Company Name",
+                    "2 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Researcher"
+                ],
+                [
+                    "Location",
+                    "May 2003 - Jun 2004 · 1 yr 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Cambridge, Massachusetts"
+                ]
+            ]
+        ]
+    },
+    "Soonwoo   Kwon": {
+        "status": "success",
+        "Education": [
+            [
+                "EPITA: Ecole d'Ingénieurs en Informatique",
+                [
+                    "Degree Name",
+                    "Sc.M. Computer Science – Software Engineering Specialization"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 2021 - Mar 2023"
+                ],
+                [
+                    "More Info",
+                    "Relevant coursework: Advanced C, Advanced Databases, Advanced Java Programming, Advanced Web Development, .Net and C# Programming, Android Initiation, Introduction to IOS, Software Industrialization"
+                ]
+            ],
+            [
+                "Brown University",
+                [
+                    "Degree Name",
+                    "Sc.B. Mathematics &amp; A.B. Economics (dual degree program)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 2013 - May 2021"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0/4.0"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Server Backend Engineer",
+                [
+                    "Company Name",
+                    "Wisely · Internship"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2021 - May 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ],
+                [
+                    "Location",
+                    "Seoul, South Korea"
+                ],
+                [
+                    "More Info",
+                    "Message template engine development to streamline client contact procedures for the customer service team"
+                ]
+            ],
+            [
+                "Data Analyst",
+                [
+                    "Company Name",
+                    "Wisely · Internship"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Oct 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Pangyo, South Korea"
+                ],
+                [
+                    "More Info",
+                    "• Conducted various retention analyses and created customized retention metrics to test out hypotheses regarding customer retention rates and to derive insight for growth potential which resulted in higher retention rates and revenues"
+                ]
+            ],
+            [
+                "Financial Analyst",
+                [
+                    "Company Name",
+                    "I Know First: Daily Market Forecast · Internship"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2018 - Jul 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ],
+                [
+                    "Location",
+                    "Tel Aviv, Israel"
+                ],
+                [
+                    "More Info",
+                    "• Performed fundamental analysis of companies within diverse sectors and implemented various valuation methods, including DCF, DDM, and relative valuation, to write and publish premium articles that corroborate I Know First’s algorithmic trading solutions and provide clients with qualitative market insight"
+                ]
+            ]
+        ]
     }
 }

@@ -2,12 +2,36 @@
     "Atila Abdulkadiroglu": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Duke University"
+                ],
+                [
+                    "Dates Employed",
+                    "2006 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "16 yrs 2 mos"
+                ]
+            ]
+        ]
     },
     "Attila Ambrus": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Duke University, Department of Economics"
+                ]
+            ]
+        ]
     },
     "Peter S. Arcidiacono": {
         "status": "fail",
@@ -26,28 +50,372 @@
     },
     "Jason Baron": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Rutgers University",
+                [
+                    "Degree Name",
+                    "1992"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "SVP, Direct Marketing, WarnerMedia Ad Sales",
+                [
+                    "Company Name",
+                    "WarnerMedia · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "New York City Metropolitan Area"
+                ]
+            ],
+            [
+                "Turner (Turner Broadcasting System, Inc)",
+                [
+                    "Company Name",
+                    "22 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "SVP"
+                ],
+                [
+                    "Location",
+                    "2008 - 2019 · 11 yrs"
+                ],
+                [
+                    "More Info",
+                    "Various"
+                ]
+            ]
+        ]
     },
     "Patrick Bayer": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1999"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Duke University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2009 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "12 yrs 8 mos"
+                ]
+            ]
+        ]
     },
     "Charles Maxwell Becker": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1977 - 1981"
+                ]
+            ],
+            [
+                "Grinnell College",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics, Russian Language"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1972 - 1976"
+                ]
+            ],
+            [
+                "University of Colorado Denver"
+            ]
+        ],
+        "Experience": [
+            [
+                "Duke University",
+                [
+                    "Company Name",
+                    "19 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Chair - Economics"
+                ],
+                [
+                    "Location",
+                    "2009 - Present · 13 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Research Professor &amp; MA Program Director"
+                ]
+            ],
+            [
+                "American University of Central Asia",
+                [
+                    "Company Name",
+                    "5 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Soros/AFS program academic advisor"
+                ],
+                [
+                    "Location",
+                    "2010 - 2015 · 5 yrs"
+                ],
+                [
+                    "More Info",
+                    "See all 4 positions"
+                ]
+            ],
+            [
+                "Kyiv School of Economics (KSE)",
+                [
+                    "Company Name",
+                    "10 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Chair, International Academic Board"
+                ],
+                [
+                    "Location",
+                    "2005 - 2015 · 10 yrs"
+                ]
+            ],
+            [
+                "Research Associate",
+                [
+                    "Company Name",
+                    "University of Colorado Boulder"
+                ],
+                [
+                    "Dates Employed",
+                    "1987 - 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "20 yrs"
+                ]
+            ],
+            [
+                "Senior Advisor",
+                [
+                    "Company Name",
+                    "Government of the Republic of Kazakhstan"
+                ],
+                [
+                    "Dates Employed",
+                    "2001 - 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "See all 12 experiences"
+                ]
+            ]
+        ]
     },
     "David Berger": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Yale University",
+                [
+                    "Degree Name",
+                    "2006 - 2012"
+                ]
+            ],
+            [
+                "Swarthmore College",
+                [
+                    "Degree Name",
+                    "B.A."
+                ],
+                [
+                    "Field Of Study",
+                    " Economics, History Major, Math Minor"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2004"
+                ],
+                [
+                    "More Info",
+                    "High Honors, Phi Beta Kappa"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Duke University · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Interesting in macro, consumer finance, housing, labor and finance"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Northwesters · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 - Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs"
+                ]
+            ],
+            [
+                "Senior Research Assistant Trade and Financial Studies Group",
+                [
+                    "Company Name",
+                    "Federal Reserve Board"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2004 - Jul 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 2 mos"
+                ]
+            ]
+        ]
     },
     "Francesco Bianchi": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "Phd"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2009"
+                ]
+            ],
+            [
+                "Università Bocconi",
+                [
+                    "Degree Name",
+                    "Laurea (BA)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2003"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Duke University",
+                [
+                    "Company Name",
+                    "12 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2016 - Present · 5 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Raleigh-Durham, North Carolina Area"
+                ]
+            ],
+            [
+                "RA",
+                [
+                    "Company Name",
+                    "Universita bocconi"
+                ],
+                [
+                    "Dates Employed",
+                    "2003 - 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ]
+        ]
     },
     "Tim Bollerslev": {
         "status": "fail",
@@ -56,18 +424,315 @@
     },
     "A. Craig Burnside": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Northwestern University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1985 - 1990"
+                ]
+            ],
+            [
+                "The University of British Columbia",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 - 1985"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Duke University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2004 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "17 yrs 8 mos"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Virginia"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2002 - Jun 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ],
+            [
+                "Lead Economist",
+                [
+                    "Company Name",
+                    "The World Bank"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2001 - Jun 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ]
+        ]
     },
     "Bruce J. Caldwell": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of North Carolina at Charlotte",
+                [
+                    "Degree Name",
+                    "Engineering"
+                ],
+                [
+                    "Field Of Study",
+                    " Mechanical"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1966 - 1970"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: ASTD"
+                ]
+            ],
+            [
+                "University of North Carolina at Charlotte"
+            ]
+        ],
+        "Experience": [
+            [
+                "Retiree",
+                [
+                    "Company Name",
+                    "Retired from Duke Energy Corp"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Home"
+                ],
+                [
+                    "More Info",
+                    "Retired as of June 30th 2016"
+                ]
+            ],
+            [
+                "Duke Energy",
+                [
+                    "Company Name",
+                    "52 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Program Manager"
+                ],
+                [
+                    "Location",
+                    "Jun 1970 - Present · 51 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Corporate Leadership and Employee Development Training"
+                ]
+            ]
+        ]
     },
     "Laura Castillo Martinez": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "The London School of Economics and Political Science (LSE)",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2019"
+                ],
+                [
+                    "More Info",
+                    "Research Areas: Macroeconomics, International Economics and Monetary Economics."
+                ]
+            ],
+            [
+                "The London School of Economics and Political Science (LSE)",
+                [
+                    "Degree Name",
+                    "Master of Science (MSc)"
+                ],
+                [
+                    "Field Of Study",
+                    " Econometrics and Mathematical Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2013"
+                ],
+                [
+                    "More Info",
+                    "Grade: Distinction"
+                ]
+            ],
+            [
+                "Universidad Carlos III de Madrid",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Grade: 9.3/10"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Research Professor of Economics",
+                [
+                    "Company Name",
+                    "Duke University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ]
+            ],
+            [
+                "IES Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2019 - Jun 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ]
+            ],
+            [
+                "The London School of Economics and Political Science (LSE)",
+                [
+                    "Company Name",
+                    "4 yrs 11 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "London, United Kingdom"
+                ],
+                [
+                    "Location",
+                    "Research Assistant"
+                ],
+                [
+                    "More Info",
+                    "Apr 2016 - Jul 2019 · 3 yrs 4 mos"
+                ]
+            ],
+            [
+                "Fund Internship Programme (FIP) Intern",
+                [
+                    "Company Name",
+                    "International Monetary Fund"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 - Sep 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Washington D.C. Metro Area"
+                ],
+                [
+                    "More Info",
+                    "Macro-Finance Division, Research Department."
+                ]
+            ],
+            [
+                "External Relations, Policy and Advocacy Unit Intern",
+                [
+                    "Company Name",
+                    "United Nations Convention to Combat Desertification (UNCCD)"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 mo"
+                ],
+                [
+                    "Location",
+                    "Bonn y alrededores, Alemania"
+                ],
+                [
+                    "More Info",
+                    "See all 7 experiences"
+                ]
+            ]
+        ]
     },
     "Allan Collard-Wexler": {
         "status": "fail",
@@ -75,14 +740,160 @@
         "Experience": []
     },
     "Michelle P. Connolly": {
-        "status": "success",
+        "status": "fail",
         "Education": [],
         "Experience": []
     },
     "Rafael Dix-Carneiro": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Fields of expertise: International Trade, Econometrics, Labor Economics, Industrial Organization."
+                ]
+            ],
+            [
+                "IMPA",
+                [
+                    "Degree Name",
+                    "MSc"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2005"
+                ]
+            ],
+            [
+                "Pontifícia Universidade Católica do Rio de Janeiro",
+                [
+                    "Degree Name",
+                    "Engineer"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2002"
+                ],
+                [
+                    "More Info",
+                    "Fields of expertise: Statistics and Optimization"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Duke University",
+                [
+                    "Company Name",
+                    "8 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Durham, NC"
+                ],
+                [
+                    "Location",
+                    "Associate Professor of Economics"
+                ],
+                [
+                    "More Info",
+                    "Jul 2019 - Present · 2 yrs 8 mos"
+                ]
+            ],
+            [
+                "Faculty Research Fellow",
+                [
+                    "Company Name",
+                    "National Bureau of Economic Research"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2017 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 10 mos"
+                ]
+            ],
+            [
+                "Visiting Assistant Professor",
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 - Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "New Haven, CT"
+                ]
+            ],
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "University of Maryland, College Park"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2011 - Jun 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ],
+            [
+                "PhD Intern",
+                [
+                    "Company Name",
+                    "Federal Reserve Board"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2010 - Sep 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Washington, DC"
+                ],
+                [
+                    "More Info",
+                    "See all 10 experiences"
+                ]
+            ]
+        ]
     },
     "Erica Field": {
         "status": "fail",
@@ -92,7 +903,53 @@
     "Connel Fullenkamp": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "International Monetary Fund"
+                ],
+                [
+                    "Dates Employed",
+                    "1999 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "23 yrs 2 mos"
+                ]
+            ],
+            [
+                "Professor of the Practice",
+                [
+                    "Company Name",
+                    "Duke Department of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "1999 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "23 yrs 2 mos"
+                ]
+            ],
+            [
+                "Associate Professor of the Practice",
+                [
+                    "Company Name",
+                    "Duke University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2005 - Jun 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ]
+        ]
     },
     "Robert J Garlick": {
         "status": "fail",
@@ -100,7 +957,7 @@
         "Experience": []
     },
     "Kevin Douglas Hoover": {
-        "status": "success",
+        "status": "fail",
         "Education": [],
         "Experience": []
     },
@@ -117,6 +974,184 @@
     "Kyle Jurado": {
         "status": "fail",
         "Education": [],
+        "Experience": []
+    },
+    "Matthias Kehrig": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Grace Kim": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Kent P. Kimbrough": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Rachel Kranton": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Lawrence Kreicher": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Timur Kuran": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Andrea Lanteri": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Lori Leachman": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Ronald Leven": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Aino Levonmaa": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Tracy R. Lewis": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Hugh Macartney": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Matthew A Masten": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Arnaud Maurel": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "David McAdams": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Marjorie B. McElroy": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Steven G. Medema": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Thomas J. Nechyba": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Andrew J. Patton": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Pietro F. Peretto": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Emma Rasiel": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "James W. Roberts": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Adam M Rosen": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Philipp Sadowski": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Todd Sarver": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Modibo Sidibe": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Juan Carlos Suarez Serrato": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "George E. Tauchen": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Curtis R. Taylor": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Duncan Thomas": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Christopher D. Timmins": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Xiao Yu Wang": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Pengpeng Xiao": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Daniel Yi Xu": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    },
+    "Huseyin Yildirim": {
+        "status": "success",
+        "Education": [],
+        "Experience": []
+    }
+}n": [],
         "Experience": []
     },
     "Matthias Kehrig": {

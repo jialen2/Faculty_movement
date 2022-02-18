@@ -1,39 +1,19 @@
- Pedro  Dal Bó 
- Brown University Extra data: line 249 column 2 (char 6629)
-Chris Barrett Cornell University AssertionError
-  Chris Barrett 
- Cornell University 
- Jack  Fanning 
- Brown University HTTPConnectionPool(host='localhost', port=51203): Max retries exceeded with url: /session/46895929fc85266b4b723896632e2bf3/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbf2801ab50>: Failed to establish a new connection: [Errno 111] Connection refused'))
- Kellie   Forrester  
- Brown University HTTPConnectionPool(host='localhost', port=51203): Max retries exceeded with url: /session/46895929fc85266b4b723896632e2bf3/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbf2803c220>: Failed to establish a new connection: [Errno 111] Connection refused'))
- Andrew  Foster 
- Brown University HTTPConnectionPool(host='localhost', port=51203): Max retries exceeded with url: /session/46895929fc85266b4b723896632e2bf3/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbf2803c8b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
- Rachel  Friedberg 
- Brown University HTTPConnectionPool(host='localhost', port=51203): Max retries exceeded with url: /session/46895929fc85266b4b723896632e2bf3/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbf2801aa00>: Failed to establish a new connection: [Errno 111] Connection refused'))
- John  Friedman 
- Brown University HTTPConnectionPool(host='localhost', port=51203): Max retries exceeded with url: /session/46895929fc85266b4b723896632e2bf3/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbf280cfdf0>: Failed to establish a new connection: [Errno 111] Connection refused'))
- Oded  Galor 
- Brown University HTTPConnectionPool(host='localhost', port=51203): Max retries exceeded with url: /session/46895929fc85266b4b723896632e2bf3/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbf2803caf0>: Failed to establish a new connection: [Errno 111] Connection refused'))
- Brad  Gibbs 
- Brown University HTTPConnectionPool(host='localhost', port=51203): Max retries exceeded with url: /session/46895929fc85266b4b723896632e2bf3/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbf280191c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
- Amy  Handlan 
- Brown University HTTPConnectionPool(host='localhost', port=51203): Max retries exceeded with url: /session/46895929fc85266b4b723896632e2bf3/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbf2803c190>: Failed to establish a new connection: [Errno 111] Connection refused'))
- Peter   Hull 
- Brown University HTTPConnectionPool(host='localhost', port=51203): Max retries exceeded with url: /session/46895929fc85266b4b723896632e2bf3/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbf280cffd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
- Toru   Kitagawa 
- Brown University HTTPConnectionPool(host='localhost', port=51203): Max retries exceeded with url: /session/46895929fc85266b4b723896632e2bf3/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbf2801aa60>: Failed to establish a new connection: [Errno 111] Connection refused'))
- Brian  Knight 
- Brown University HTTPConnectionPool(host='localhost', port=51203): Max retries exceeded with url: /session/46895929fc85266b4b723896632e2bf3/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbf280195e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
- Yann   Koby  
- Brown University HTTPConnectionPool(host='localhost', port=51203): Max retries exceeded with url: /session/46895929fc85266b4b723896632e2bf3/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbf28019850>: Failed to establish a new connection: [Errno 111] Connection refused'))
- Sylvia  Kuo 
- Brown University HTTPConnectionPool(host='localhost', port=51203): Max retries exceeded with url: /session/46895929fc85266b4b723896632e2bf3/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbf2803cbe0>: Failed to establish a new connection: [Errno 111] Connection refused'))
- Soonwoo   Kwon 
- Brown University HTTPConnectionPool(host='localhost', port=51203): Max retries exceeded with url: /session/46895929fc85266b4b723896632e2bf3/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbf2803c2b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
- Kellie   Forrester  
- Brown University HTTPConnectionPool(host='localhost', port=36649): Max retries exceeded with url: /session/3c84cda426037134feab15e5507fcc2a/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9472a34370>: Failed to establish a new connection: [Errno 111] Connection refused'))
- Andrew  Foster 
- Brown University HTTPConnectionPool(host='localhost', port=36649): Max retries exceeded with url: /session/3c84cda426037134feab15e5507fcc2a/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9472a34a00>: Failed to establish a new connection: [Errno 111] Connection refused'))
- Andrew  Foster 
- Brown University HTTPConnectionPool(host='localhost', port=35735): Max retries exceeded with url: /session/f00281e9ef61a6cd2336a5aa3effbd3f/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5229de0310>: Failed to establish a new connection: [Errno 111] Connection refused'))
+"Ji Hyung Lee" UIUC 
+"Russell Michael Weinstein" UIUC 
+"Bocar A Ba" "Duke University" <class 'AssertionError'>
+"Michelle P. Connolly" "Duke University" <class 'AssertionError'>
+"V. Joseph Hotz" "Duke University" <class 'json.decoder.JSONDecodeError'>
+"Robert Halvorsen" "University of Washington" <class 'json.decoder.JSONDecodeError'>
+"Julieta Caunedo" "Cornell University" <class 'AssertionError'>
+"Andrew Karolyi" "Cornell University" <class 'AssertionError'>
+"Don Kenkel" "Cornell University" <class 'AssertionError'>
+"Francesca Molinari" "Cornell University" <class 'AssertionError'>
+"Eleonora Patacchini" "Cornell University" <class 'AssertionError'>
+"Eswar Prasad" "Cornell University" <class 'AssertionError'>
+"Andrew  Foster" "Brown University" <class 'AssertionError'>
+"Rachel  Friedberg" "Brown University" <class 'AssertionError'>
+"Oded  Galor" "Brown University" <class 'AssertionError'>
+"Brad  Gibbs" "Brown University" <class 'AssertionError'>
+"Michelle P. Connolly" "Duke University" <class 'json.decoder.JSONDecodeError'>
+"Michelle P. Connolly" "Duke University" <class 'json.decoder.JSONDecodeError'>
+"Pat Bajari" "University of Washington" <class 'json.decoder.JSONDecodeError'>

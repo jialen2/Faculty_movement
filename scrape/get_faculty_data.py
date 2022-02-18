@@ -8,9 +8,7 @@ current_directory = os.path.dirname(os.path.realpath(__file__))
 sys.path.append(current_directory+"/faculty")
 sys.path.append(current_directory+'/faculty/LinkedIn')
 sys.path.append(current_directory)
-webdriver_file_path = current_directory + "/chromedriver_Linux98"
-from faculty_algorithm import find
-from get_linkedin_data import get_background_on_linkedin
+webdriver_file_path = current_directory + "/chromedriver_local"
 from get_linkedin_data import scrape_data_from_linkedin
 def get_faculty_data(major):
     faculty_list_dir = current_directory+"/faculty_list/"+major

@@ -1,13 +1,156 @@
 {
     "Pat Bajari": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 1997"
+                ],
+                [
+                    "More Info",
+                    "Bachelor of Science (BS), Economics"
+                ]
+            ],
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (BA)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1992"
+                ],
+                [
+                    "More Info",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Amazon",
+                [
+                    "Company Name",
+                    "11 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "VP Core AI amd Chief Economist"
+                ],
+                [
+                    "Location",
+                    "Aug 2010 - Present · 11 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Chief Economist and Vice President"
+                ]
+            ],
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ]
+            ],
+            [
+                "Econometric Society logo",
+                [
+                    "Company Name",
+                    "Fellow of the Econometric Society"
+                ],
+                [
+                    "Dates Employed",
+                    "Econometric Society"
+                ],
+                [
+                    "Location",
+                    "Nov 2015 - Present · 6 yrs 4 mos"
+                ]
+            ],
+            [
+                "Research Associate",
+                [
+                    "Company Name",
+                    "National Bureau of Economic Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2006 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "15 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Research Associate (Industrial Organization)"
+                ]
+            ],
+            [
+                "Information and Decision Sciences Department Board (Founding Member)",
+                [
+                    "Company Name",
+                    "Carlson School of Management"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Minneapolis-St. Paul Area"
+                ],
+                [
+                    "More Info",
+                    "See all 12 experiences"
+                ]
+            ]
+        ]
     },
     "Philip Brock": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Profesor",
+                [
+                    "Company Name",
+                    "Universidad de Washington"
+                ]
+            ]
+        ]
     },
     "Yu-chin Chen": {
         "status": "fail",
@@ -16,18 +159,197 @@
     },
     "Theo S. Eicher": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Columbia University in the City of New York",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1994"
+                ]
+            ],
+            [
+                "Grinnell College",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Chinese Studies, Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1985 - 1988"
+                ],
+                [
+                    "More Info",
+                    "Bettina von Arnim Gymnasium Dormagen"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Castor Professor of Economics",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1994 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "27 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ]
+            ],
+            [
+                "CESifo Research Network Fellow",
+                [
+                    "Company Name",
+                    "Center for Economic Studies of the University of Munich (LMU)"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 1999 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "23 yrs"
+                ],
+                [
+                    "Location",
+                    "Munich, Germany"
+                ]
+            ],
+            [
+                "Research Fellow",
+                [
+                    "Company Name",
+                    "IZA Center of Labor Studies"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2004 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "18 yrs 2 mos"
+                ]
+            ]
+        ]
     },
     "Dong-Jae Eun": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2016"
+                ]
+            ],
+            [
+                "Seoul National University",
+                [
+                    "Degree Name",
+                    "B.A./B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Economics, Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2008"
+                ],
+                [
+                    "More Info",
+                    "Seoul Science High School"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "2016 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ],
+                [
+                    "More Info",
+                    "Department of Economics"
+                ]
+            ]
+        ]
     },
     "Yanqin Fan": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2013 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 6 mos"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Vanderbilt University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2001 - Aug 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "12 yrs 1 mo"
+                ]
+            ]
+        ]
     },
     "Fabio Ghironi": {
         "status": "fail",
@@ -36,11 +358,62 @@
     },
     "Brian Greaney": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Yale University",
+                [
+                    "Degree Name",
+                    "Master of Arts - MA"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2015"
+                ]
+            ],
+            [
+                "University of Notre Dame",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts - BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics and Math"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2012"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Federal Reserve Bank of St. Louis"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Jun 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 11 mos"
+                ],
+                [
+                    "Location",
+                    "St. Louis, MO"
+                ]
+            ]
+        ]
     },
     "Alan Griffith": {
-        "status": "success",
+        "status": "fail",
         "Education": [],
         "Experience": []
     },
@@ -339,4 +712,5 @@
         "Education": [],
         "Experience": []
     }
+}}
 }
