@@ -740,9 +740,147 @@
         "Experience": []
     },
     "Michelle P. Connolly": {
-        "status": "fail",
-        "Education": [],
-        "Experience": []
+        "status": "success",
+        "Education": [
+            [
+                "Yale University",
+                [
+                    "Degree Name",
+                    "Ph. D."
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1996"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Yale University Fellowship, Full Tuition Support, 1990-94"
+                ]
+            ],
+            [
+                "Yale University",
+                [
+                    "Degree Name",
+                    "M.A. 1991"
+                ],
+                [
+                    "Field Of Study",
+                    " M. Phil. 1993, Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1993"
+                ]
+            ],
+            [
+                "Yale University",
+                [
+                    "Degree Name",
+                    "B.A."
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 - 1990"
+                ],
+                [
+                    "More Info",
+                    "Grade: Phi Beta Kappa, Summa Cum Laude, William Massee Prize for Excellence in Economic"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Duke University",
+                [
+                    "Company Name",
+                    "14 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor of the Practice"
+                ],
+                [
+                    "Location",
+                    "Aug 2012 - Present · 9 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Durham, NC"
+                ]
+            ],
+            [
+                "Chief Economist",
+                [
+                    "Company Name",
+                    "Federal Communications Commission"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2008 - Jul 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Chief Economist",
+                [
+                    "Company Name",
+                    "Federal Communications Commission"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2006 - Jul 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Duke University",
+                [
+                    "Company Name",
+                    "8 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Assistant Professor"
+                ],
+                [
+                    "Location",
+                    "Sep 1997 - Aug 2005 · 8 yrs"
+                ]
+            ],
+            [
+                "Economist",
+                [
+                    "Company Name",
+                    "Federal Reserve Bank of New York"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1996 - Aug 1997"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "International Research Function"
+                ]
+            ]
+        ]
     },
     "Rafael Dix-Carneiro": {
         "status": "success",
@@ -963,8 +1101,104 @@
     },
     "V. Joseph Hotz": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1974 - 1977"
+                ]
+            ],
+            [
+                "University of Notre Dame",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1968 - 1972"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Phi Beta Kappa"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Arts &amp; Sciences Professor of Economics",
+                [
+                    "Company Name",
+                    "Duke University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2007 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "14 yrs 8 mos"
+                ]
+            ],
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "UCLA - Department of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1997 - Jun 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "11 yrs"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Chicago - Harris School of Public Policy"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1987 - Jul 1997"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 1 mo"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Carnegie Mellon University - Tepper School of Business"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1977 - Jun 1984"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs"
+                ]
+            ]
+        ]
     },
     "Cosmin L. Ilut": {
         "status": "fail",
@@ -983,8 +1217,105 @@
     },
     "Grace Kim": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "The Johns Hopkins University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Neuroscience and Psychological &amp; Brain Sciences"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2017 - 2021"
+                ]
+            ],
+            [
+                "Duke University School of Medicine",
+                [
+                    "Degree Name",
+                    "Doctor of Medicine - MD"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2021 - 2025"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Student Office Assistant",
+                [
+                    "Company Name",
+                    "Johns Hopkins Pre-Professional Programs &amp; Advising"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2021 - May 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "-Advised pre-health students for 2022 medical school application cycle"
+                ],
+                [
+                    "More Info",
+                    "-Edited and created documents and programs for JHU pre-health students"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "The Johns Hopkins University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2018 - Dec 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "-Research Assistant in Kirkwood Lab"
+                ],
+                [
+                    "More Info",
+                    "-Investigated excitation and inhibition (E/I) balance in autism mouse models"
+                ]
+            ],
+            [
+                "Student Monitor",
+                [
+                    "Company Name",
+                    "Johns Hopkins University Student Leadership and Involvement · Part-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Mar 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "-Monitored and created welcoming atmosphere in JHU student spaces"
+                ],
+                [
+                    "More Info",
+                    "-Checked-in on events and reservations as well as building maintenance"
+                ]
+            ]
+        ]
     },
     "Kent P. Kimbrough": {
         "status": "fail",
@@ -1004,22 +1335,306 @@
     "Timur Kuran": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Duke University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2007 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "14 yrs 8 mos"
+                ]
+            ]
+        ]
     },
     "Andrea Lanteri": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "The London School of Economics and Political Science (LSE)",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2015"
+                ]
+            ],
+            [
+                "The London School of Economics and Political Science (LSE)",
+                [
+                    "Degree Name",
+                    "Master of Science (MSc)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2010"
+                ]
+            ],
+            [
+                "Università Cattolica del Sacro Cuore",
+                [
+                    "Degree Name",
+                    "Laurea Triennale e Magistrale"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2008"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Duke University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Raleigh-Durham y alrededores, Carolina del Norte, Estados Unidos"
+                ]
+            ],
+            [
+                "Teaching Fellow",
+                [
+                    "Company Name",
+                    "The London School of Economics and Political Science (LSE)"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Jun 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 11 mos"
+                ]
+            ]
+        ]
     },
     "Lori Leachman": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Darla Moore School of Business",
+                [
+                    "Degree Name",
+                    "ph.d."
+                ],
+                [
+                    "Field Of Study",
+                    " economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 - 1987"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor Of Economics",
+                [
+                    "Company Name",
+                    "Duke University"
+                ],
+                [
+                    "Dates Employed",
+                    "1998 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "24 yrs 2 mos"
+                ]
+            ]
+        ]
     },
     "Ronald Leven": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Rice University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1976 - 1983"
+                ],
+                [
+                    "More Info",
+                    "Did graduate work in economics."
+                ]
+            ],
+            [
+                "Washington University in St. Louis",
+                [
+                    "Degree Name",
+                    "B.A."
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1972 - 1976"
+                ],
+                [
+                    "More Info",
+                    "Studied economics and Asian Studies with a focus on Mandarin Chinese"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Huff Professor of the Practice in Economics",
+                [
+                    "Company Name",
+                    "Duke University"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Raleigh-Durham, North Carolina Area and New York"
+                ],
+                [
+                    "More Info",
+                    "Teaching undergraduate and Masters level courses in Economics and Finance and provide career guidance to students."
+                ]
+            ],
+            [
+                "Adjunct Professor",
+                [
+                    "Company Name",
+                    "Columbia and New York Universities"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ],
+                [
+                    "More Info",
+                    "Intermittently teaching Masters-level courses at the School of International Affairs and the Stern School of Business on Macro and Micro economics, Emerging Market Investments and Topics relating to Foreign Exchange."
+                ]
+            ],
+            [
+                "Principal Consultant",
+                [
+                    "Company Name",
+                    "i.c.Strategies, LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2014 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ],
+                [
+                    "More Info",
+                    "Providing consulting services on financial issues with a concentration on foreign exchange related issues. Current and past clients include: Thomson Reuters, Singapore Futures Exchange and Brick Accretive Management. Also, serve as Adjunct Professor at Columbia University and as a Finra Financial Arbitrator."
+                ]
+            ],
+            [
+                "Macro Strategist",
+                [
+                    "Company Name",
+                    "Brick Accretive Management"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2017 - Aug 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ],
+                [
+                    "More Info",
+                    "Responsible for generating the macro economic forecast that serve as guidelines for the firm's portfolio construction. Professor of Economics at Duke University and Adjunct Professor for Columbia school of International Affairs. Also provide consulting services to a variety of clients including Thomson Reuters and DerivAsia (Singapore)."
+                ]
+            ],
+            [
+                "Proposition Manager",
+                [
+                    "Company Name",
+                    "Thomson Reuters"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2014 - Dec 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "Responsible for all foreign exchange and macroeconomic information - including price feeds, pricing engines and placement of content - for Eikon, Thomson Reuter's interactive market information delivery system."
+                ],
+                [
+                    "More Info",
+                    "See all 10 experiences"
+                ]
+            ]
+        ]
     },
     "Aino Levonmaa": {
         "status": "fail",
@@ -1029,15 +1644,74 @@
     "Tracy R. Lewis": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Duke University"
+                ]
+            ]
+        ]
     },
     "Hugh Macartney": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of Toronto",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2011"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Economist",
+                [
+                    "Company Name",
+                    "Amazon · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 mos"
+                ],
+                [
+                    "Location",
+                    "Arlington, Virginia, United States"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Duke University · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2011 - Jun 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs"
+                ]
+            ]
+        ]
     },
     "Matthew A Masten": {
-        "status": "success",
+        "status": "fail",
         "Education": [],
         "Experience": []
     },
@@ -1151,182 +1825,5 @@
         "Education": [],
         "Experience": []
     }
-}n": [],
-        "Experience": []
-    },
-    "Matthias Kehrig": {
-        "status": "fail",
-        "Education": [],
-        "Experience": []
-    },
-    "Grace Kim": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Kent P. Kimbrough": {
-        "status": "fail",
-        "Education": [],
-        "Experience": []
-    },
-    "Rachel Kranton": {
-        "status": "fail",
-        "Education": [],
-        "Experience": []
-    },
-    "Lawrence Kreicher": {
-        "status": "fail",
-        "Education": [],
-        "Experience": []
-    },
-    "Timur Kuran": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Andrea Lanteri": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Lori Leachman": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Ronald Leven": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Aino Levonmaa": {
-        "status": "fail",
-        "Education": [],
-        "Experience": []
-    },
-    "Tracy R. Lewis": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Hugh Macartney": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Matthew A Masten": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Arnaud Maurel": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "David McAdams": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Marjorie B. McElroy": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Steven G. Medema": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Thomas J. Nechyba": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Andrew J. Patton": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Pietro F. Peretto": {
-        "status": "fail",
-        "Education": [],
-        "Experience": []
-    },
-    "Emma Rasiel": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "James W. Roberts": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Adam M Rosen": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Philipp Sadowski": {
-        "status": "fail",
-        "Education": [],
-        "Experience": []
-    },
-    "Todd Sarver": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Modibo Sidibe": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Juan Carlos Suarez Serrato": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "George E. Tauchen": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Curtis R. Taylor": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Duncan Thomas": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Christopher D. Timmins": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Xiao Yu Wang": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Pengpeng Xiao": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Daniel Yi Xu": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    },
-    "Huseyin Yildirim": {
-        "status": "success",
-        "Education": [],
-        "Experience": []
-    }
+}}
 }

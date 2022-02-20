@@ -1,5 +1,6 @@
 import os, csv
 import networkx as nx
+import itertools
 from networkx.algorithms import community
 file_path = os.path.abspath("")
 
@@ -37,12 +38,12 @@ def page_rank(g, type):
             reduced_graph.remove_edge(u,v)
         else:
             reduced_graph[u][v]["weight"] = weight
-    pr = nx.pagerank(reduced_graph,alpha=0.9)
+    pr = nx.pagerank(reduced_graph,alpha=0.85)
     pr = sorted(pr.items(), key=lambda x: x[1], reverse=True)
     return pr
 
 def create_graph():
-    G = nx.Graph()
+    G = nx.DiGraph()
     for name in ["edu_to_edu", "work_to_work", "edu_to_work"]:
         add_edges_from_csv(G, name)
     return G
@@ -56,25 +57,27 @@ def run_page_rank(G):
                 p = "{:3f}".format(item[1]*100)
                 output.write(item[0]+","+str(p)+"\n")
 
-def community_detection(G):
+def community_detection(G, max_community):
     graph = G.copy()
     with open(file_path+"/result/normal/com_detection/girvan_newman", "w+") as file:
         comp = community.girvan_newman(graph)
-        comp = tuple(sorted(c) for c in next(comp))
-        print(len(comp))
-        for com in comp:
-            for school in com:
+        limited = itertools.takewhile(lambda c: len(c) <= max_community, comp)
+        iter_process = []
+        for communities in limited:
+            iter_process.append(tuple(sorted(c) for c in communities))
+        for comm in iter_process[-1]:
+            for school in comm:
                 file.write(school+",")
             file.write("\n")
-    with open(file_path+"/result/normal/com_detection/louvain", "w+") as file:
-        comp = community.louvain_communities(graph, resolution=0.1)
-        print(len(comp))
-        print(comp)
+    # with open(file_path+"/result/normal/com_detection/louvain", "w+") as file:
+    #     comp = community.louvain_communities(graph, resolution=0.1)
+    #     print(len(comp))
+    #     print(comp)
 
 def main():
     G = create_graph()
     run_page_rank(G)
-    # community_detection(G)
+    community_detection(G,51)
 
 main()
 

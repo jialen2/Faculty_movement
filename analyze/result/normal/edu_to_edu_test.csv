@@ -1,0 +1,9 @@
+last_edu,next_edu,weight
+Massachusetts Institute of Technology,"University of California, Berkeley",6
+Massachusetts Institute of Technology,University of Illinois Urbana-Champaign,1
+Massachusetts Institute of Technology,Ohio State University,1
+"University of California, Berkeley",Massachusetts Institute of Technology,3
+"University of California, Berkeley",University of Illinois Urbana-Champaign,1
+University of Illinois Urbana-Champaign,"University of California, Berkeley",3
+University of Illinois Urbana-Champaign,Massachusetts Institute of Technology,3
+Ohio State University,"University of California, Berkeley",1

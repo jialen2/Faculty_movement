@@ -41,11 +41,11 @@ def setupWebDriver(chromedriver_path):
         driver.quit()
         time.sleep(60)
     option = webdriver.ChromeOptions()
-    option.add_argument(' — incognito')
-    option.add_argument('--no - sandbox')
-    option.add_argument('--window - size = 1420, 1080')
-    option.add_argument('--headless')
-    option.add_argument('--disable - gpu')
+    # option.add_argument(' — incognito')
+    # option.add_argument('--no - sandbox')
+    # option.add_argument('--window - size = 1420, 1080')
+    # option.add_argument('--headless')
+    # option.add_argument('--disable - gpu')
 
     # option.add_argument('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45')
     option.add_argument('Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664S.45 Safari/537.36')
@@ -68,22 +68,23 @@ def login(linkedin_email, linkedin_password):
     time.sleep(2)
     submit_button = driver.find_elements_by_xpath('/html/body/main/section[1]/div/div/form/button')[0]
     submit_button.click()
-    time.sleep(3)
+    time.sleep(60)
 
 # When the number we switch reach the threhold, we switch account.
 SwitchAccuntThrehold = 20
 
 # List of useable linked Account for scraping.
-linkedInAccounts = ["BettyJin45@outlook.com", "nyunb34@outlook.com", "BettyJin45@outlook.com", "eliawang98@outlook.com"]
+linkedInAccounts = ["shenqi43@outlook.com", "cherrywang909@outlook.com", "KettyPang43@outlook.com", "jiangl98@outlook.com", "ouwu89@outlook.com"]
 
 def long_sleep_if_needed(countNumScrape):
-    if countNumScrape % 17 == 0:
+    if countNumScrape % 23 == 0:
         print("###############long sleep#################")
         time.sleep(random.randint(300, 600))
 
 def scrape_data_from_linkedin(faculty_file_path, major, chromedriver_path):
-    countNumScrape = -1
-    linkedInAccountIndex = 0
+    global url
+    countNumScrape = 0
+    linkedInAccountIndex = -1
     university_list = os.listdir(faculty_file_path)
     for university in university_list:
         with open(faculty_file_path+"/"+university,"r") as faculty_list_file:
@@ -120,7 +121,7 @@ def scrape_data_from_linkedin(faculty_file_path, major, chromedriver_path):
                         if len(linkedInAccounts) == 0:
                             driver.quit()
                             return
-                        linkedInAccountIndex = linkedInAccountIndex % len(linkedInAccountIndex)
+                        linkedInAccountIndex = linkedInAccountIndex % len(linkedInAccounts)
                         setupWebDriver(chromedriver_path)
                         login(linkedInAccounts[linkedInAccountIndex], "319133abcd")
                         print("Switched Account to: ", linkedInAccounts[linkedInAccountIndex])
@@ -128,6 +129,7 @@ def scrape_data_from_linkedin(faculty_file_path, major, chromedriver_path):
     driver.quit()
 
 def get_background_on_linkedin(university, faculty_name, store_file_path):
+    global url
     education = []
     experience = [] 
 
@@ -173,7 +175,7 @@ def get_background_on_linkedin(university, faculty_name, store_file_path):
             output.write(BeautifulSoup(driver.page_source, 'html.parser').prettify())
         assert False
     write_to_file("success")
-    time.sleep(random.randint(120, 150))
+    time.sleep(random.randint(90, 120))
     time.sleep(3)
     # return res
 

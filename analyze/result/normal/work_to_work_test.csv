@@ -1,0 +1,8 @@
+last_work,next_work,weight
+"University of California, Berkeley",Massachusetts Institute of Technology,11
+"University of California, Berkeley",University of Illinois Urbana-Champaign,2
+Massachusetts Institute of Technology,"University of California, Berkeley",11
+Massachusetts Institute of Technology,University of Illinois Urbana-Champaign,7
+University of Illinois Urbana-Champaign,"University of California, Berkeley",2
+University of Illinois Urbana-Champaign,Massachusetts Institute of Technology,2
+University of Massachusetts Amherst,Massachusetts Institute of Technology,2

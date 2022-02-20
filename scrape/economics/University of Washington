@@ -413,24 +413,229 @@
         ]
     },
     "Alan Griffith": {
-        "status": "fail",
-        "Education": [],
-        "Experience": []
+        "status": "success",
+        "Education": [
+            [
+                "Michigan State University",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Logistics, Materials, and Supply Chain Management"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1985 - 1990"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Business Manager",
+                [
+                    "Company Name",
+                    "Pactiv"
+                ]
+            ]
+        ]
     },
     "Robert Halvorsen": {
         "status": "success",
-        "Education": [],
+        "Education": [
+            [
+                "University of Washington",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Analytical Chemistry"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2020"
+                ]
+            ],
+            [
+                "University of Washington",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Chemistry"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2018 - 2020"
+                ]
+            ],
+            [
+                "University of Washington",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts - BA"
+                ],
+                [
+                    "Field Of Study",
+                    " History and Philosophy of Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2018 - 2020"
+                ],
+                [
+                    "More Info",
+                    "With Honors"
+                ]
+            ]
+        ],
         "Experience": []
     },
     "Rachel Heath": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Yale University",
+                [
+                    "Degree Name",
+                    "Phd"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2011"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ]
+            ]
+        ]
     },
     "Joshua Jacobs": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of Washington",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " International Studies"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2002"
+                ]
+            ],
+            [
+                "The Hebrew University of Jerusalem",
+                [
+                    "Degree Name",
+                    "2000 - 2001"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Advisor",
+                [
+                    "Company Name",
+                    "U.S. Department of Veterans Affairs · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ]
+            ],
+            [
+                "Booz Allen Hamilton",
+                [
+                    "Company Name",
+                    "3 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Washington D.C. Metro Area"
+                ],
+                [
+                    "Location",
+                    "Senior Associate"
+                ],
+                [
+                    "More Info",
+                    "Jan 2018 - Jan 2021 · 3 yrs 1 mo"
+                ]
+            ],
+            [
+                "Deputy Team Lead, VA Agency Review Team",
+                [
+                    "Company Name",
+                    "Biden-Harris Transition"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2020 - Dec 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ]
+            ],
+            [
+                "Senior Advisor",
+                [
+                    "Company Name",
+                    "Department of Veterans Affairs"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2013 - Jan 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 3 mos"
+                ]
+            ],
+            [
+                "Senior Research Analyst",
+                [
+                    "Company Name",
+                    "Axiom Resource Management, Inc. (DoD/VA Interagency Program Office)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Nov 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Location",
+                    "See all 9 experiences"
+                ]
+            ]
+        ]
     },
     "Fahad Khalil": {
         "status": "fail",
@@ -444,8 +649,78 @@
     },
     "Melissa Knox": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2008"
+                ],
+                [
+                    "More Info",
+                    "International Development"
+                ]
+            ],
+            [
+                "University of Nevada-Las Vegas",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts - BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Washington",
+                [
+                    "Company Name",
+                    "Full-time · 11 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Teaching Professor of Economics"
+                ],
+                [
+                    "Location",
+                    "Sep 2020 - Present · 1 yr 6 mos"
+                ],
+                [
+                    "More Info",
+                    "Research Areas:"
+                ]
+            ],
+            [
+                "Research Associate",
+                [
+                    "Company Name",
+                    "Evans School of Public Policy and Governance, University of Washington · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2009 - Dec 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ]
+        ]
     },
     "Jacques Lawarrée": {
         "status": "fail",
@@ -459,33 +734,421 @@
     },
     "Emma Riley": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of Oxford",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2019"
+                ],
+                [
+                    "More Info",
+                    "Master of Philosophy (MPhil), Economics"
+                ]
+            ],
+            [
+                "University of Cambridge",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2010"
+                ],
+                [
+                    "More Info",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Washington · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Location",
+                    "Seattle, Washington, United States"
+                ]
+            ],
+            [
+                "Junior Research Fellow",
+                [
+                    "Company Name",
+                    "University of Oxford"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2018 - Sep 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "Oxford, United Kingdom"
+                ]
+            ],
+            [
+                "Business Analyst",
+                [
+                    "Company Name",
+                    "A.T. Kearney"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2010 - Oct 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "I worked on a variety of due diligence, corporate strategy, brand management, supply chain and sourcing projects in the telecoms, oil and gas, healthcare and consumer goods sectors. Key activities included creating business models to determine the impact of alternative corporate strategies and potential new business opportunities, conducting market research and analysis, benchmarking, designing and analysing the responses to a procurement tender, running workshops with internal management and interviewing customers and suppliers."
+                ]
+            ],
+            [
+                "Summer Intern",
+                [
+                    "Company Name",
+                    "Barclays Wealth"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2009 - Sep 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ]
+            ],
+            [
+                "Summer Intern",
+                [
+                    "Company Name",
+                    "Oxera"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2007 - Jul 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ]
+            ]
+        ]
     },
     "Elaina Rose": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of Washingotn"
+                ]
+            ]
+        ]
     },
     "Yuya Takahashi": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2010"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor of Economics",
+                [
+                    "Company Name",
+                    "Johns Hopkins University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2014 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 2 mos"
+                ]
+            ]
+        ]
     },
     "Xu Tan": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2013"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Financial Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2010"
+                ]
+            ],
+            [
+                "Peking University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2007"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Washington",
+                [
+                    "Company Name",
+                    "8 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Sep 2020 - Present · 1 yr 6 mos"
+                ],
+                [
+                    "More Info",
+                    "Seattle, Washington, United States"
+                ]
+            ]
+        ]
     },
     "Jing Tao": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "The George Washington University",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ],
+            [
+                "Hangzhou Dianzi University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Management and System"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Engineering Manager",
+                [
+                    "Company Name",
+                    "Shopify · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "Remote"
+                ],
+                [
+                    "More Info",
+                    "Shop Pay/Checkout"
+                ]
+            ],
+            [
+                "Senior Manager / Lead Software Engineer",
+                [
+                    "Company Name",
+                    "Capital One"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2020 - Oct 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 2 mos"
+                ],
+                [
+                    "Location",
+                    "Remote"
+                ],
+                [
+                    "More Info",
+                    "Risk Tech"
+                ]
+            ],
+            [
+                "Senior Software Engineer",
+                [
+                    "Company Name",
+                    "Grab"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2019 - Sep 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Seattle, WA, United States"
+                ],
+                [
+                    "More Info",
+                    "Grab Ads"
+                ]
+            ],
+            [
+                "Software Engineer",
+                [
+                    "Company Name",
+                    "Oracle"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2017 - Sep 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Reston, VA, United States"
+                ],
+                [
+                    "More Info",
+                    "Addthis, Ads, Oracle Data Cloud"
+                ]
+            ],
+            [
+                "Software Engineer",
+                [
+                    "Company Name",
+                    "Abeyon"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2014 - Sep 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Alexandria, VA, United States"
+                ],
+                [
+                    "More Info",
+                    "See all 8 experiences"
+                ]
+            ]
+        ]
     },
     "Michelle Turnovsky": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Senior Lecturer",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 1988 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "34 yrs 2 mos"
+                ]
+            ]
+        ]
     },
     "Stephen Turnovsky": {
         "status": "fail",
@@ -494,38 +1157,717 @@
     },
     "Quan Wen": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Emory University - Goizueta Business School",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Finance, General"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2014"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor of Finance",
+                [
+                    "Company Name",
+                    "Georgetown University's McDonough School of Business"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 7 mos"
+                ]
+            ]
+        ]
     },
     "Kar-yiu Wong": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor Of Economics",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ]
+            ]
+        ]
     },
     "Eric Zivot": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Yale University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1992"
+                ],
+                [
+                    "More Info",
+                    "Fields of concentration: Econometrics and Finance"
+                ]
+            ],
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "AB"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics and Statistics (double major)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1986"
+                ],
+                [
+                    "More Info",
+                    "Graduated with Honors in Economics."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Washington",
+                [
+                    "Company Name",
+                    "28 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Robert Richard Chaired Professor of Economics and Department Chair"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Jan 2020 - Present · 2 yrs 2 mos"
+                ]
+            ],
+            [
+                "Amazon",
+                [
+                    "Company Name",
+                    "5 yrs 4 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Amazon Scholar"
+                ],
+                [
+                    "Location",
+                    "Part-time"
+                ],
+                [
+                    "More Info",
+                    "Jan 2020 - Present · 2 yrs 2 mos"
+                ]
+            ],
+            [
+                "Research consultant",
+                [
+                    "Company Name",
+                    "BlackRock"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2008 - Jun 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Statistical and financial modeling consulting to quantitative research and risk management for alternative investments."
+                ]
+            ],
+            [
+                "Insightful Corporation logo",
+                [
+                    "Company Name",
+                    "Senior Visiting Research Scientist"
+                ],
+                [
+                    "Dates Employed",
+                    "Insightful Corporation"
+                ],
+                [
+                    "Location",
+                    "Jun 2000 - Dec 2007 · 7 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Developed statistical software for the analysis of financial time series (S+FinMetrics); Provided statistical consulting to clients in financial services industry; Provided training material for the analysis of financial data."
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Department of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "1989 - 1992"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "Taught undergraduate statistics, econometrics and financial economics."
+                ]
+            ]
+        ]
     },
     "Gregory M Duncan": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1971 - 1976"
+                ]
+            ],
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "MA"
+                ],
+                [
+                    "Field Of Study",
+                    " Statistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1971 - 1974"
+                ]
+            ],
+            [
+                "University of Washington",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics, English"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1966 - 1970"
+                ],
+                [
+                    "More Info",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Amazon",
+                [
+                    "Company Name",
+                    "9 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Senior Principal Economist and Technologist"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Jan 2018 - Present · 4 yrs 2 mos"
+                ]
+            ],
+            [
+                "Affiliate Professor of Economics",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2012 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ]
+            ],
+            [
+                "Trustee",
+                [
+                    "Company Name",
+                    "Seattle Preparatory School"
+                ],
+                [
+                    "Dates Employed",
+                    "2015 - 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
+                ]
+            ],
+            [
+                "Principal",
+                [
+                    "Company Name",
+                    "The Brattle Group"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2009 - Aug 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 11 mos"
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "University of California, Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2001 - Jun 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "11 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Berkeley, CA"
+                ],
+                [
+                    "More Info",
+                    "See all 14 experiences"
+                ]
+            ]
+        ]
     },
     "Philip Erickson": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of Iowa",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Master of Arts (M.A.), Economics"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Minors: Mathematics, Political Science, Asian Studies"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Affiliate Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 6 mos"
+                ]
+            ],
+            [
+                "Amazon",
+                [
+                    "Company Name",
+                    "5 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Senior Economist"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Dec 2019 - Present · 2 yrs 3 mos"
+                ]
+            ],
+            [
+                "PhD Candidate in Economics",
+                [
+                    "Company Name",
+                    "The University of Iowa"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2010 - May 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 10 mos"
+                ]
+            ],
+            [
+                "Adjunct Lecturer",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Aug 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Provo, Utah, United States"
+                ]
+            ],
+            [
+                "Economic Consultant",
+                [
+                    "Company Name",
+                    "Department of Parking and Transportation"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 - Dec 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Coralville, Iowa, United States"
+                ]
+            ]
+        ]
     },
     "John Geweke": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Senior Principal Economist",
+                [
+                    "Company Name",
+                    "Amazon"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "United States"
+                ]
+            ],
+            [
+                "Principal",
+                [
+                    "Company Name",
+                    "John Geweke Econometric Consulting"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1998 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "23 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Estes Park, Colorado"
+                ],
+                [
+                    "More Info",
+                    "Expertise in economics and statistics in support of decision-making in the private and public sectors"
+                ]
+            ],
+            [
+                "Distinguished Research Professor",
+                [
+                    "Company Name",
+                    "University of Technology Sydney"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2009 - May 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Sydney, Australia"
+                ],
+                [
+                    "More Info",
+                    "Economics Discipline Group, School of Business"
+                ]
+            ],
+            [
+                "Professor and McGregor Chair in Economic Theory and Professor of Statistics",
+                [
+                    "Company Name",
+                    "University of Iowa"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1999 - Jul 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Iowa City, Iowa"
+                ],
+                [
+                    "More Info",
+                    "Department of Economics, Tippie School of Business; Department of Statistics, College of Liberal Arts and Sciences"
+                ]
+            ],
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "University of Minnesota"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1990 - Jul 1999"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Minneapolis, Minnesota"
+                ],
+                [
+                    "More Info",
+                    "See all 7 experiences"
+                ]
+            ]
+        ]
     },
     "Domenico Giannone": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Université libre de Bruxelles",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2004"
+                ]
+            ],
+            [
+                "Sapienza Università di Roma",
+                [
+                    "Degree Name",
+                    "Bachelor"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics and Statistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 1998"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Principal Economist",
+                [
+                    "Company Name",
+                    "Amazon"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ]
+            ],
+            [
+                "Federal Reserve Bank of New York",
+                [
+                    "Company Name",
+                    "5 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Greater New York City Area"
+                ],
+                [
+                    "Location",
+                    "Assistant Vice President"
+                ],
+                [
+                    "More Info",
+                    "Jan 2017 - Nov 2019 · 2 yrs 11 mos"
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "LUISS"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2013 - Oct 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Founder and Director",
+                [
+                    "Company Name",
+                    "Now-Casting Economics Ltd"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2011 - Sep 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Now-Casting.com is a new, high frequency economic forecasting service. It is based on the work of a group of academic economists who have built an econometric model for tracking the economy in real time. We publish continually updated 'now-casts' for all of the world's major economies on our web site, and we make the content available by subscription. Our customers are hedge funds, institutional investors and other market participants who need an up to the minute snapshot of the economy, and/or who value a highly transparent, quantitative way to read the economic newsflow."
+                ]
+            ],
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Solvay Brussels School of Economics and Management (SBS-EM) - ULB"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2009 - Oct 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "See all 9 experiences"
+                ]
+            ]
+        ]
     },
     "Konstantin Golyaev ": {
         "status": "success",
@@ -534,8 +1876,104 @@
     },
     "Justine Hastings": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Chief of People-centered Science, VP HR Science",
+                [
+                    "Company Name",
+                    "Amazon · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 2 mos"
+                ]
+            ],
+            [
+                "Affiliate Profesor of Economics",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 2 mos"
+                ]
+            ],
+            [
+                "Founder, Board Director",
+                [
+                    "Company Name",
+                    "Research Improving People's Lives"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2017 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 11 mos"
+                ]
+            ],
+            [
+                "Professor Of Economics",
+                [
+                    "Company Name",
+                    "Brown University · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2010 - Dec 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Providence, Rhode Island, United States"
+                ]
+            ],
+            [
+                "Yale University",
+                [
+                    "Company Name",
+                    "Full-time · 7 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "New Haven, Connecticut, United States"
+                ],
+                [
+                    "Location",
+                    "Associate Professor Of Economics"
+                ],
+                [
+                    "More Info",
+                    "Jul 2007 - Jun 2010 · 3 yrs"
+                ]
+            ]
+        ]
     },
     "Salar Jahedi": {
         "status": "fail",
@@ -544,42 +1982,849 @@
     },
     "Jacob LaRiviere": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "UC San Diego",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2010"
+                ]
+            ],
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2003"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Director of Economics and Data Science",
+                [
+                    "Company Name",
+                    "Amazon"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Seattle, Washington, United States"
+                ],
+                [
+                    "More Info",
+                    "Working with talented people to help sellers reach buyers and create a vibrant seller ecosystem."
+                ]
+            ],
+            [
+                "Affiliate Faculty",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2016 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Department of Economics, Evans School of Public Policy"
+                ]
+            ],
+            [
+                "University of Tennessee, Knoxville",
+                [
+                    "Company Name",
+                    "11 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Department of Economics"
+                ],
+                [
+                    "Location",
+                    "Adjunct Assistant Professor"
+                ],
+                [
+                    "More Info",
+                    "Jul 2015 - Present · 6 yrs 8 mos"
+                ]
+            ],
+            [
+                "Microsoft",
+                [
+                    "Company Name",
+                    "6 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Senior Principal Research Manager"
+                ],
+                [
+                    "Location",
+                    "Sep 2019 - Dec 2021 · 2 yrs 4 mos"
+                ],
+                [
+                    "More Info",
+                    "Redmond, WA"
+                ]
+            ]
+        ]
     },
     "Daniel Miller": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of Washington School of Law",
+                [
+                    "Degree Name",
+                    "J.D."
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2019 - 2021"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Technology Law Society, Law &amp; Business Association"
+                ]
+            ],
+            [
+                "University of Southern California",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Electronics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: UCC (USC Consulting Club), USCAR (USC Arial Robotics Team), NOBE (National Organization of Business and Engineering), IEEE (Institute of Electrical and Electronics Engineers), Interaxon, Student Alumni Society, Viterbi Student-Alumni Mentorship Program"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Law Clerk",
+                [
+                    "Company Name",
+                    "Davis Wright Tremaine LLP · Part-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 - Oct 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 5 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ],
+                [
+                    "More Info",
+                    "Preparing and prosecuting patents in the field of computer engineering.  Evaluating technical and legal aspects of patent applications.  Drafting responses to Office Actions clearly communicating findings of patentability.  Assisting primary attorneys with client communication; writing and reviewing correspondence to better balance client needs and prosecutions strategy.  Performing post allowance reviews; assessing potential for continuation and divisional applications."
+                ]
+            ],
+            [
+                "VP Product Innovation",
+                [
+                    "Company Name",
+                    "Synergy Fuels"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Jul 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Lake Forest, CA"
+                ],
+                [
+                    "More Info",
+                    "Work directly with CEO to create strategies for expanding company’s technology portfolio through acquisitions, joint ventures and internal intellectual property development"
+                ]
+            ],
+            [
+                "Summer Intern - Switch Engineer",
+                [
+                    "Company Name",
+                    "Verizon Wireless"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2015 - Jul 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Tempe, Arizona"
+                ],
+                [
+                    "More Info",
+                    "Team leader on a project to trial new video caching technology at the Tempe Mobile Telephone Switching Office"
+                ]
+            ],
+            [
+                "Web Fulfillment",
+                [
+                    "Company Name",
+                    "Nordstrom"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 - Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ],
+                [
+                    "Location",
+                    "Dallas/Fort Worth Area"
+                ],
+                [
+                    "More Info",
+                    "Analyzed distribution channels and provided recommendations on ways to streamline fulfillment of web-based orders"
+                ]
+            ],
+            [
+                "Audio and Stage Technician",
+                [
+                    "Company Name",
+                    "Los Gatos Youth Theater"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2012 - Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ],
+                [
+                    "More Info",
+                    "Led efforts to organize technical systems to make them more flexible to the needs of actors and directors"
+                ]
+            ]
+        ]
     },
     "Cristian Santesteban": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ]
+            ],
+            [
+                "Université Paris Nanterre",
+                [
+                    "Degree Name",
+                    "Maitrise"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ]
+            ],
+            [
+                "The University of Texas at Austin",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering (High Honors)"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Founder and CEO",
+                [
+                    "Company Name",
+                    "RedPeak Economics Consulting"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2010 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "12 yrs"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ],
+                [
+                    "More Info",
+                    "RedPeak provides economic consulting services on a broad range of complex antitrust issues for private and public sector clients.  RedPeak has expertise in cases involving monopolization, class certification, price fixing, and commercial damages. RedPeak also has extensive experience in assisting counsel with antitrust issues arising in a merger context.  The firm provides in-house expert testimony and supports outside academic experts.  For private clients, RedPeak provides a range of services including portfolio valuation as well as analytics based business strategy."
+                ]
+            ],
+            [
+                "Lecturer, Department of Economics",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Economics Department"
+                ],
+                [
+                    "More Info",
+                    "Currently teach an upper division seminar on antitrust economics. Taught intermediate microeconomic theory as well in prior years."
+                ]
+            ],
+            [
+                "Affiliate Lecturer, Department of Economics",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ],
+                [
+                    "More Info",
+                    "Teach antitrust economics and policy for upper class undergraduate economics majors."
+                ]
+            ],
+            [
+                "Visiting Lecturer, Department of Economics",
+                [
+                    "Company Name",
+                    "UC Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2010 - Sep 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Taught Intermediate Microeconomics, Industrial Organization, and Advanced Microeconomic Theory.  Awarded Lecturer Teaching Fellowship 2011-2012."
+                ]
+            ],
+            [
+                "Vice President",
+                [
+                    "Company Name",
+                    "Compass Lexecon"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2007 - Mar 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "See all 7 experiences"
+                ]
+            ]
+        ]
     },
     "Christina P. Tapia": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of Washington",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Economics - Microeconomics, Labor, Personnel Economics, Contract Theory"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2009"
+                ]
+            ],
+            [
+                "University of Washington",
+                [
+                    "Degree Name",
+                    "M.A."
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2002"
+                ]
+            ],
+            [
+                "University of Washington",
+                [
+                    "Degree Name",
+                    "Master of Education (M.Ed.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Education"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1997"
+                ],
+                [
+                    "More Info",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Economist",
+                [
+                    "Company Name",
+                    "Northwest Economics, LLC (NW Economics)"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2016 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 1 mo"
+                ]
+            ],
+            [
+                "Visiting Lecturer",
+                [
+                    "Company Name",
+                    "University of Washington Department of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2012 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ]
+            ],
+            [
+                "Adjunct Economics Professor",
+                [
+                    "Company Name",
+                    "Seattle University, Albers School of Business &amp; Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "14 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ],
+                [
+                    "More Info",
+                    "Courses taught: Principles of Microeconomics, Principles of Macroeconomics, Domestic and Global Economies (MBA Program)"
+                ]
+            ],
+            [
+                "Economist",
+                [
+                    "Company Name",
+                    "OSC Vocational Systems, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2013 - Feb 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 6 mos"
+                ]
+            ],
+            [
+                "Economist",
+                [
+                    "Company Name",
+                    "Nickerson &amp; Associates LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2011 - Aug 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ],
+                [
+                    "More Info",
+                    "Assessment of economic damages and economic consulting in context of litigation, primarily employment and labor litigation."
+                ]
+            ]
+        ]
     },
     "Melissa Tartari": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2006"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Empirical Microeconomics Reading Group"
+                ]
+            ],
+            [
+                "Université libre de Bruxelles",
+                [
+                    "Degree Name",
+                    "Master of Science (MSc)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics and Statistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 1999"
+                ]
+            ],
+            [
+                "Università degli Studi di Torino",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 1998"
+                ],
+                [
+                    "More Info",
+                    "CORIPE - Piemonte"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Affiliate Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Seattle"
+                ],
+                [
+                    "More Info",
+                    "Teach a course on \"Causal Inference\" to 4th year undergraduate and master students at the University of Washington."
+                ]
+            ],
+            [
+                "Amazon Web Services (AWS)",
+                [
+                    "Company Name",
+                    "Full-time · 4 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Greater Seattle Area"
+                ],
+                [
+                    "Location",
+                    "Principal Economist and Sr. Manager"
+                ],
+                [
+                    "More Info",
+                    "Apr 2019 - Present · 2 yrs 11 mos"
+                ]
+            ],
+            [
+                "Senior Economist",
+                [
+                    "Company Name",
+                    "Amazon · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2017 - Dec 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Location",
+                    "Seattle, Washington"
+                ],
+                [
+                    "More Info",
+                    "Worked with the Central Economics team on bridging problems."
+                ]
+            ],
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "The University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2014 - Jun 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago"
+                ],
+                [
+                    "More Info",
+                    "Economics Department: Teaching, Advising, Research, Admission Committees."
+                ]
+            ],
+            [
+                "Visiting Instructor",
+                [
+                    "Company Name",
+                    "Rice University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Sep 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ],
+                [
+                    "Location",
+                    "Houston, Texas"
+                ],
+                [
+                    "More Info",
+                    "Taught a PhD-level class in mathematical statistics at the Department of Economics"
+                ]
+            ]
+        ]
     },
     "Yoram Barzel": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Prof",
+                [
+                    "Company Name",
+                    "Economics, University of Washington"
+                ]
+            ]
+        ]
     },
     "Richard Hartman": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Washington University in St. Louis",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Behavioral Neuroscience"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 2001"
+                ]
+            ],
+            [
+                "Missouri State University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Experimental Psychology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1993"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Loma Linda University",
+                [
+                    "Company Name",
+                    "16 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Jan 2015 - Present · 7 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Associate Professor"
+                ]
+            ],
+            [
+                "Postdoctoral fellow",
+                [
+                    "Company Name",
+                    "Washington University School of Medicine"
+                ],
+                [
+                    "Dates Employed",
+                    "2001 - 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ]
+        ]
     },
     "Levis Kochin": {
         "status": "success",
-        "Education": [],
+        "Education": [
+            [
+                "University of Chicago",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1965 - 1969"
+                ]
+            ]
+        ],
         "Experience": []
     },
     "Shelly Lundberg": {
@@ -594,13 +2839,33 @@
     },
     "Charles Nelson": {
         "status": "success",
-        "Education": [],
+        "Education": [
+            [
+                "University of Washington"
+            ]
+        ],
         "Experience": []
     },
     "Richard W. Parks": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor of Economics, Emeritus",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1970 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "51 yrs 6 mos"
+                ]
+            ]
+        ]
     },
     "Haideh Salehi-Esfahani": {
         "status": "success",
@@ -615,57 +2880,555 @@
     "Richard Startz": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "Dept. of Economics, U.C. Santa Barbara"
+                ]
+            ]
+        ]
     },
     "Robert Thomas": {
         "status": "success",
-        "Education": [],
+        "Education": [
+            [
+                "Central Washington University"
+            ]
+        ],
         "Experience": []
     },
     "Judith Thornton": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Applied Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1959 - 1961"
+                ],
+                [
+                    "More Info",
+                    "Specializing in economic development and economic institutions."
+                ]
+            ],
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Economics",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1971 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "50 yrs 6 mos"
+                ]
+            ]
+        ]
     },
     "Chris Anderson": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Organismic and Evolutionary Biology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2012"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rover.com",
+                [
+                    "Company Name",
+                    "6 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Head of Product Analytics"
+                ],
+                [
+                    "Location",
+                    "Sep 2019 - May 2021 · 1 yr 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Greater Seattle Area"
+                ]
+            ],
+            [
+                "Program Director",
+                [
+                    "Company Name",
+                    "The Pinhead Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2014 - Jul 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "Telluride, Colorado"
+                ],
+                [
+                    "More Info",
+                    "I coordinated the \"Scholars in the Schools\" program that brings PhD level scientists to rural schools in the area to give engaging presentations on their work."
+                ]
+            ],
+            [
+                "Product Manager",
+                [
+                    "Company Name",
+                    "Market Leader Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Feb 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 7 mos"
+                ],
+                [
+                    "Location",
+                    "Kirkland"
+                ],
+                [
+                    "More Info",
+                    "After being hired as a product management analyst, I was promoted to product manager of ActiveRain, the largest real estate social network and blogging platform on the Internet with over 250,000 members."
+                ]
+            ],
+            [
+                "Intern/Volunteer",
+                [
+                    "Company Name",
+                    "The Pinhead Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2007 - Dec 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "Telluride, CO"
+                ],
+                [
+                    "More Info",
+                    "Assists Executive Director of this science education non-profit with whatever if necessary. I have helped write articles, recruit students for internships, and arranged for Harvard professor Dr. Andrew Berry to give talks to schools in SW Colorado."
+                ]
+            ],
+            [
+                "Undergraduate Research",
+                [
+                    "Company Name",
+                    "Pringle Lab"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2011 - Oct 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, MA"
+                ],
+                [
+                    "More Info",
+                    "Received funding from Harvard University Center for the Environment to perform research on mushroom and insect interactions under the guidance of Dr. Anne Pringle."
+                ]
+            ]
+        ]
     },
     "Anirban Basu": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of North Carolina at Chapel Hill",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Biostatistics"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Stergachis Family Endowed Director",
+                [
+                    "Company Name",
+                    "The Comparative Health Outcomes, Policy, and Economics (CHOICE) Institute, University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2017 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Seattle, Washington"
+                ]
+            ],
+            [
+                "Professor of Health Economics",
+                [
+                    "Company Name",
+                    "University of Washington, Seattle"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2015 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 10 mos"
+                ]
+            ],
+            [
+                "Director",
+                [
+                    "Company Name",
+                    "Pharmaceutical Outcomes Research and Policy Program, Dept. of Pharmacy"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2015 - Nov 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ]
+            ]
+        ]
     },
     "Philip Bond": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 7 mos"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Minnesota"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2010 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "11 yrs 7 mos"
+                ]
+            ]
+        ]
     },
     "Fang Han": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "The Johns Hopkins University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Biostatistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2015"
+                ]
+            ],
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Biostatistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2010"
+                ]
+            ],
+            [
+                "Peking University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Probability and Statistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2008"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Washington",
+                [
+                    "Company Name",
+                    "6 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Sep 2021 - Present · 6 mos"
+                ]
+            ]
+        ]
     },
     "David Layton": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "department chair",
+                [
+                    "Company Name",
+                    "bainbridge School District"
+                ]
+            ]
+        ]
     },
     "Mark Long": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of Washington",
+                [
+                    "Degree Name",
+                    "Bachelor of Engineering - BE"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2019 - 2023"
+                ]
+            ],
+            [
+                "Cambridge High School",
+                [
+                    "Degree Name",
+                    "High School Diploma"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2019"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Program Management Intern",
+                [
+                    "Company Name",
+                    "Second Time Founders · Internship"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2021 - Nov 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Location",
+                    "San Francisco, California, United States"
+                ]
+            ],
+            [
+                "Business Analyst Intern",
+                [
+                    "Company Name",
+                    "WeChat · Internship"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2018 - Aug 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Shanghai, China"
+                ]
+            ]
+        ]
     },
     "Thomas Richardson": {
         "status": "success",
         "Education": [],
-        "Experience": []
+        "Experience": [
+            [
+                "Professor of Statistics",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ]
+            ]
+        ]
     },
     "Hema Yoganarasimhan": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Yale School of Management",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Marketing"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2009"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Madras",
+                [
+                    "Degree Name",
+                    "B.Tech"
+                ],
+                [
+                    "Field Of Study",
+                    " Naval Architecture and Ocean Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2004"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Washington",
+                [
+                    "Company Name",
+                    "7 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Sep 2020 - Present · 1 yr 6 mos"
+                ],
+                [
+                    "More Info",
+                    "Seattle, Washington, United States"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of California, Davis"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2009 - Jun 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ]
+        ]
     },
     "Gardner Brown": {
         "status": "success",
@@ -679,13 +3442,138 @@
     },
     "James A. Crutchfield": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "College of Agriculture and Life Sciences at Virginia Tech",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Agronomy and Crop Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1983"
+                ]
+            ],
+            [
+                "Virginia Tech"
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Commodity Analysts",
+                [
+                    "Company Name",
+                    "USDA Foreign Agricultural Service (FAS)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1997 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "24 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Washington D.C. Metro Area"
+                ]
+            ]
+        ]
     },
     "Greg Ellis": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "Western Governors University",
+                [
+                    "Degree Name",
+                    "Masters of Business Administraton"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Technology Management"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Accelerate 1-year program."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Microsoft",
+                [
+                    "Company Name",
+                    "9 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Senior Program Manager"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Sep 2018 - Present · 3 yrs 6 mos"
+                ]
+            ],
+            [
+                "Program Manager",
+                [
+                    "Company Name",
+                    "Dell"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2009 - Apr 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Yokohama, Kanagawa, Japan"
+                ],
+                [
+                    "More Info",
+                    "Program Manager managing proposal and costing, scheduling, resourcing and project management of regional APAC deployment PC and application deployment projects"
+                ]
+            ],
+            [
+                "Project Manager",
+                [
+                    "Company Name",
+                    "AXA"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2007 - Aug 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "11 mos"
+                ],
+                [
+                    "Location",
+                    "Tokyo, Japan"
+                ],
+                [
+                    "More Info",
+                    "Project Manager conducting scope definition, SOW creation, schedule development, testing requirements analysis, risk management, procurement and contract management for I.T. infrastructure projects"
+                ]
+            ]
+        ]
     },
     "Michael Hadjimichalakis": {
         "status": "fail",
@@ -704,13 +3592,238 @@
     },
     "Morris D. Morris": {
         "status": "success",
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Chemistry"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1961 - 1964"
+                ]
+            ],
+            [
+                "University of California, Los Angeles",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Zoology/Chemistry"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1957 - 1961"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Univerisity of Washington logo",
+                [
+                    "Company Name",
+                    "Professor Emeritus"
+                ],
+                [
+                    "Dates Employed",
+                    "Univerisity of Washington"
+                ],
+                [
+                    "Location",
+                    "Jul 2016 - Present · 5 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Seattle, WA"
+                ]
+            ],
+            [
+                "Professor of Biochemistry",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 1966 - Jul 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "50 yrs 4 mos"
+                ]
+            ],
+            [
+                "Postdoctoral research",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "1964 - 1966"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ]
+        ]
+    },
+    "Douglass C. North": {
+        "status": "fail",
         "Education": [],
         "Experience": []
     },
-    "Douglass C. North": {
+    "Konstantin Golyaev": {
         "status": "success",
-        "Education": [],
-        "Experience": []
+        "Education": [
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Fields: Applied Econometrics, Industrial Organization."
+                ]
+            ],
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "M.A."
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2008"
+                ]
+            ],
+            [
+                "New Economic School",
+                [
+                    "Degree Name",
+                    "M.A."
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2006"
+                ],
+                [
+                    "More Info",
+                    "Fields: Times Series Econometrics, Macroeconomics"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Microsoft",
+                [
+                    "Company Name",
+                    "Full-time · 6 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Principal Data Science Manager"
+                ],
+                [
+                    "Location",
+                    "Nov 2020 - Present · 1 yr 4 mos"
+                ],
+                [
+                    "More Info",
+                    "The Commercial Software Engineering (CSE) is a global engineering organization that works directly with customers looking to leverage the latest technologies to address their toughest challenges &amp; transform their industries using cloud-based solutions. We work in collaboration with Microsoft product teams, partners and open source communities."
+                ]
+            ],
+            [
+                "Amazon",
+                [
+                    "Company Name",
+                    "Full-time · 4 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Greater Seattle Area"
+                ],
+                [
+                    "Location",
+                    "Senior Economist, Manager"
+                ],
+                [
+                    "More Info",
+                    "Jan 2013 - Jun 2015 · 2 yrs 6 mos"
+                ]
+            ],
+            [
+                "Instructor, Department of Economics",
+                [
+                    "Company Name",
+                    "University of Minnesota"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2006 - Mar 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Minneapolis-St. Paul Area"
+                ],
+                [
+                    "More Info",
+                    "* Taught 6 undergraduate courses for Economics majors, including 3 senior courses."
+                ]
+            ],
+            [
+                "Teaching Assistant",
+                [
+                    "Company Name",
+                    "New Economic School"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2005 - Apr 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ],
+                [
+                    "Location",
+                    "Moscow, Russian Federation"
+                ],
+                [
+                    "More Info",
+                    "* Led discussion sections for 4 graduate macroeconomics courses."
+                ]
+            ]
+        ]
     }
 }}
 }

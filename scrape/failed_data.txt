@@ -17,3 +17,18 @@
 "Michelle P. Connolly" "Duke University" <class 'json.decoder.JSONDecodeError'>
 "Michelle P. Connolly" "Duke University" <class 'json.decoder.JSONDecodeError'>
 "Pat Bajari" "University of Washington" <class 'json.decoder.JSONDecodeError'>
+"Michelle P. Connolly" "Duke University" <class 'AttributeError'>
+"Michelle P. Connolly" "Duke University" <class 'json.decoder.JSONDecodeError'>
+"Pat Bajari" "University of Washington" <class 'json.decoder.JSONDecodeError'>
+"Arnaud Maurel" "Duke University" <class 'json.decoder.JSONDecodeError'>
+"Joshua Jacobs" "University of Washington" <class 'AssertionError'>
+"Konstantin Golyaev" "University of Washington" <class 'AssertionError'>
+"Haideh Salehi-Esfahani" "University of Washington" <class 'AssertionError'>
+"Gardner Brown" "University of Washington" <class 'AssertionError'>
+"Nicolas Bottan" "Cornell University" <class 'AssertionError'>
+"Julieta Caunedo" "Cornell University" <class 'AssertionError'>
+"Andrew Karolyi" "Cornell University" <class 'AssertionError'>
+"Pauline Leung" "Cornell University" <class 'AssertionError'>
+"Douglas Miller" "Cornell University" <class 'AssertionError'>
+"Eswar Prasad" "Cornell University" <class 'AssertionError'>
+"Eswar Prasad" "Cornell University" <class 'AssertionError'>

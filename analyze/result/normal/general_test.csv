@@ -1,0 +1,10 @@
+head_node,tail_node,weight
+Ohio State University,"University of California, Berkeley",1
+Massachusetts Institute of Technology,"University of California, Berkeley",29
+Massachusetts Institute of Technology,University of Illinois Urbana-Champaign,11
+Massachusetts Institute of Technology,Ohio State University,1
+"University of California, Berkeley",Massachusetts Institute of Technology,20
+"University of California, Berkeley",University of Illinois Urbana-Champaign,3
+University of Illinois Urbana-Champaign,"University of California, Berkeley",12
+University of Illinois Urbana-Champaign,Massachusetts Institute of Technology,7
+University of Massachusetts Amherst,Massachusetts Institute of Technology,2

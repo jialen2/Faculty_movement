@@ -3413,5 +3413,58 @@
                 ]
             ]
         ]
+    },
+    "Don Kenkel": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Cornell University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1995 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "26 yrs 7 mos"
+                ]
+            ]
+        ]
+    },
+    "Eleonora Patacchini": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Southampton",
+                [
+                    "Degree Name",
+                    "2000 - 2004"
+                ]
+            ],
+            [
+                "Universitat Pompeu Fabra",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " economics"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Researcher",
+                [
+                    "Company Name",
+                    "University of Rome"
+                ]
+            ]
+        ]
     }
 }
