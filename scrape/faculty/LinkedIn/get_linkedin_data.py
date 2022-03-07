@@ -39,13 +39,13 @@ def setupWebDriver(chromedriver_path):
     global driver
     if driver:
         driver.quit()
-        time.sleep(60)
+        time.sleep(30)
     option = webdriver.ChromeOptions()
-    # option.add_argument(' — incognito')
-    # option.add_argument('--no - sandbox')
-    # option.add_argument('--window - size = 1420, 1080')
-    # option.add_argument('--headless')
-    # option.add_argument('--disable - gpu')
+    option.add_argument(' — incognito')
+    option.add_argument('--no - sandbox')
+    option.add_argument('--window - size = 1420, 1080')
+    option.add_argument('--headless')
+    option.add_argument('--disable - gpu')
 
     # option.add_argument('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45')
     option.add_argument('Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664S.45 Safari/537.36')
@@ -55,31 +55,32 @@ def setupWebDriver(chromedriver_path):
 
 def login(linkedin_email, linkedin_password):
     driver.get('https://www.linkedin.com/')
+    # with open("helper/login_page.html", "w") as output:
+    #     output.write(BeautifulSoup(driver.page_source, 'html.parser').prettify())
+    # exit()
     time.sleep(1)
     inputElement = driver.find_element_by_id('session_key')
     for i in linkedin_email:
         inputElement.send_keys(i)
         time.sleep(random.uniform(0.2, 0.5))
-    time.sleep(2)
     inputElement = driver.find_element_by_id('session_password')
     for i in linkedin_password:
         inputElement.send_keys(i)
         time.sleep(random.uniform(0.2, 0.5))
-    time.sleep(2)
     submit_button = driver.find_elements_by_xpath('/html/body/main/section[1]/div/div/form/button')[0]
     submit_button.click()
-    time.sleep(60)
+    time.sleep(2)
 
 # When the number we switch reach the threhold, we switch account.
 SwitchAccuntThrehold = 20
 
 # List of useable linked Account for scraping.
-linkedInAccounts = ["shenqi43@outlook.com", "cherrywang909@outlook.com", "KettyPang43@outlook.com", "jiangl98@outlook.com", "ouwu89@outlook.com"]
+linkedInAccounts = ["nima760@outlook.com", "nima609@outlook.com"]
 
 def long_sleep_if_needed(countNumScrape):
     if countNumScrape % 23 == 0:
         print("###############long sleep#################")
-        time.sleep(random.randint(300, 600))
+        time.sleep(random.randint(120, 150))
 
 def scrape_data_from_linkedin(faculty_file_path, major, chromedriver_path):
     global url
@@ -88,7 +89,6 @@ def scrape_data_from_linkedin(faculty_file_path, major, chromedriver_path):
     university_list = os.listdir(faculty_file_path)
     for university in university_list:
         with open(faculty_file_path+"/"+university,"r") as faculty_list_file:
-            print(university)
             store_file_path = current_directory+"/../../"+major+"/"+university
             for faculty_name in faculty_list_file:
                 faculty_name = faculty_name.replace("\n","").strip()
@@ -101,7 +101,6 @@ def scrape_data_from_linkedin(faculty_file_path, major, chromedriver_path):
                 try:
                     get_background_on_linkedin(university, faculty_name, store_file_path)
                 except Exception as e:
-                    time.sleep(random.randint(120, 150))
                     with open("failed_data.txt", "a") as output:
                         output.write('"' + faculty_name + '"'+ " " + '"' + university + '"'+ " " + str(type(e)))
                         output.write("\n")
@@ -147,7 +146,6 @@ def get_background_on_linkedin(university, faculty_name, store_file_path):
             file.seek(0)
             json.dump(file_data, file, indent=4,ensure_ascii=False)
 
-    time.sleep(1)
     try:
         query = faculty_name + " " + university + " linkedin"
         print("query:", query)
@@ -158,25 +156,30 @@ def get_background_on_linkedin(university, faculty_name, store_file_path):
         return
 
     print(url)
-    if 'linkedin.com' not in url or "pub/dir/" in url:
+    if 'linkedin.com' not in url or "pub/dir/" in url or "/in/" not in url:
         write_to_file("fail")
         print('cannot find linkedin page for {}'.format(faculty_name))
         return
     driver.get(url)
+    time.sleep(2)
     # print(BeautifulSoup(html_string, 'html.parser').prettify())
     html = parse_html_string(str(driver.page_source))
-    education, experience = get_background_info(html)
+    (education, found_education), (experience, found_experience) = get_background_info(html)
     print('Education:')
     print(education)
     print('Experience:')
     print(experience)
     if education == [] and experience == []:
+        print(found_education, found_experience)
+        if found_experience or found_education:
+            write_to_file("fail")
+            print('cannot find infos about {}'.format(faculty_name))
+            return
         with open("problematic.html", "w") as output:
             output.write(BeautifulSoup(driver.page_source, 'html.parser').prettify())
         assert False
     write_to_file("success")
-    time.sleep(random.randint(90, 120))
-    time.sleep(3)
+    time.sleep(random.randint(60, 90))
     # return res
 
 
@@ -202,4 +205,6 @@ def get_background_on_linkedin(university, faculty_name, store_file_path):
 # # exit()
 # result = scrape_data_from_linkedin(faculty_list_dir, "economy", webdriver_file_path)
 # print(json.dumps(result, indent=4))
+# setupWebDriver("/Users/jialening/Desktop/Faculty_Movement/scrape/chromedriver_local")
+# login("", "")
 

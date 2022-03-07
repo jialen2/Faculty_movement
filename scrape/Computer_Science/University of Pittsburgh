@@ -1,0 +1,2965 @@
+{
+    "Shi-Kuo Chang": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Milos Hauskrecht": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Thumtongsak Kosiyatrkul": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Wonsun Ahn": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "2004 - 2009"
+                ]
+            ],
+            [
+                "Seoul National University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2003"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Pittsburgh"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Pittsburgh Area"
+                ]
+            ],
+            [
+                "University of Illinois at Urbana-Champaign",
+                [
+                    "Company Name",
+                    "10 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Postdoctoral Research Scientist"
+                ],
+                [
+                    "Location",
+                    "May 2012 - Aug 2014 · 2 yrs 4 mos"
+                ],
+                [
+                    "More Info",
+                    "Urbana-Champaign, Illinois Area"
+                ]
+            ],
+            [
+                "Intern",
+                [
+                    "Company Name",
+                    "IBM"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2006 - Jan 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "9 mos"
+                ],
+                [
+                    "Location",
+                    "Intern at IBM Research at TJ Watson Center, Yorktown Heights"
+                ],
+                [
+                    "More Info",
+                    "• Worked with hardware design team to develop innovative memory system design"
+                ]
+            ],
+            [
+                "Team Lead",
+                [
+                    "Company Name",
+                    "Bluebird Soft"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1999 - Feb 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "• Implemented Windows CE based OS on hand held computers developed by company, which sold $20 million at the first year of release"
+                ],
+                [
+                    "More Info",
+                    "• Developed various email / video streaming services for various clients such as NTT of Japan and Seoul National University and Electronics and Telecommunications Research Institute of Korea."
+                ]
+            ]
+        ]
+    },
+    "Malihe Alikhani": {
+        "status": "success",
+        "Education": [
+            [
+                "Rutgers University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ],
+            [
+                "University of Hawaii at Manoa",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2014"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Probability Theory, Theoretical Computer Science."
+                ]
+            ],
+            [
+                "Carnegie Mellon University",
+                [
+                    "Degree Name",
+                    "Summer school in Logic and Formal Epistemology"
+                ],
+                [
+                    "Field Of Study",
+                    " Causal and Statistical Inference"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2013"
+                ],
+                [
+                    "More Info",
+                    "See all 6 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Pittsburgh School of Computing and Information · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 9 mos"
+                ]
+            ],
+            [
+                "Rutgers University",
+                [
+                    "Company Name",
+                    "4 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Assistant"
+                ],
+                [
+                    "Location",
+                    "May 2017 - Jun 2020 · 3 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "New Brunswick, NJ"
+                ]
+            ],
+            [
+                "Research Scientist Intern",
+                [
+                    "Company Name",
+                    "Interactions LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2018 - Aug 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ],
+                [
+                    "More Info",
+                    "Project: Multimodal decisons for conversational Al"
+                ]
+            ],
+            [
+                "Adjunct Professor of Statistics",
+                [
+                    "Company Name",
+                    "San Diego Mesa College"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Jun 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "11 mos"
+                ],
+                [
+                    "Location",
+                    "Greater San Diego Area"
+                ]
+            ],
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "San Diego State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2015 - May 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "Greater San Diego Area"
+                ],
+                [
+                    "More Info",
+                    "See all 7 experiences"
+                ]
+            ]
+        ]
+    },
+    "Amy Babay": {
+        "status": "success",
+        "Education": [
+            [
+                "The Johns Hopkins University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2018"
+                ]
+            ],
+            [
+                "The Johns Hopkins University",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2014"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.95"
+                ]
+            ],
+            [
+                "The Johns Hopkins University",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Cognitive Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.00"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Pittsburgh"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Pittsburgh, PA"
+                ]
+            ],
+            [
+                "Partner",
+                [
+                    "Company Name",
+                    "Spread Concepts LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Savage, MD"
+                ],
+                [
+                    "More Info",
+                    "Bridging the gap between academic research and the commercial world."
+                ]
+            ],
+            [
+                "Johns Hopkins University",
+                [
+                    "Company Name",
+                    "5 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Baltimore, Maryland Area"
+                ],
+                [
+                    "Location",
+                    "PhD Student and Graduate Research Assistant"
+                ],
+                [
+                    "More Info",
+                    "2014 - Sep 2018 · 4 yrs 9 mos"
+                ]
+            ],
+            [
+                "Software Engineer",
+                [
+                    "Company Name",
+                    "LTN Global Communications"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2014 - Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Savage, Maryland"
+                ],
+                [
+                    "More Info",
+                    "- Worked on access-control for a global multicast flow transport and delivery service."
+                ]
+            ],
+            [
+                "Undergraduate Research Assistant",
+                [
+                    "Company Name",
+                    "Johns Hopkins University Language Acquisition Lab"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2009 - May 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Baltimore, Maryland Area"
+                ]
+            ]
+        ]
+    },
+    "Jacob Biehl": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Doctorate"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science, Human-Computer Interaction"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2008"
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2004"
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Statictics and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2002"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of Pittsburgh School of Computing and Information"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Pittsburgh Area"
+                ]
+            ],
+            [
+                "FX Palo Alto Laboratory",
+                [
+                    "Company Name",
+                    "11 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Principal Research Scientist"
+                ],
+                [
+                    "Location",
+                    "Apr 2019 - Jul 2019 · 4 mos"
+                ],
+                [
+                    "More Info",
+                    "Palo Alto, CA"
+                ]
+            ],
+            [
+                "PhD Candidate",
+                [
+                    "Company Name",
+                    "University of Illinois at Urbana-Champaign"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2002 - Aug 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Urbana-Champaign, Illinois Area"
+                ],
+                [
+                    "More Info",
+                    "* Created a new interaction framework to support collaboration in multi-device environments."
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "2006 - 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Redmond, WA"
+                ],
+                [
+                    "More Info",
+                    "* Created FASTDash, a new visualization for acquiring and maintaining workspace awareness for software teams."
+                ]
+            ]
+        ]
+    },
+    "Arjun Chandraesekhar": {
+        "status": "success",
+        "Education": [
+            [
+                "UC San Diego",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Bioinformatics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2019"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0/4.0"
+                ]
+            ],
+            [
+                "Caltech",
+                [
+                    "Degree Name",
+                    "Bachelor's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2014"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.3/4.0"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Teaching Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Pittsburgh · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "Pittsburgh, Pennsylvania, United States"
+                ],
+                [
+                    "More Info",
+                    "I am currently an assistant professor in the teaching stream for computer science department at the University of Pittsburgh. My main teaching interests include theoretical computer science, computer programming, computational biology, and data science. I am also involved with research in the emerging field of biological distributed algorithms."
+                ]
+            ],
+            [
+                "UC San Diego",
+                [
+                    "Company Name",
+                    "5 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Adjunct Lecturer"
+                ],
+                [
+                    "Location",
+                    "Part-time"
+                ],
+                [
+                    "More Info",
+                    "Jan 2020 - Jun 2020 · 6 mos"
+                ]
+            ],
+            [
+                "Adjunct Lecturer",
+                [
+                    "Company Name",
+                    "University of San Diego · Part-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2019 - May 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 5 mos"
+                ],
+                [
+                    "Location",
+                    "San Diego, California, United States"
+                ],
+                [
+                    "More Info",
+                    "I taught two sections of COMP 370: Automata, Formal Languages, and Computability, as well as one section of COMP 480: Algorithms"
+                ]
+            ],
+            [
+                "Software Engineer",
+                [
+                    "Company Name",
+                    "Twitter"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Sep 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "•\tAs a twitter intern in 2013, I created a tool for expediting machine learning data processing and visualization."
+                ],
+                [
+                    "More Info",
+                    "•\tDeveloped front end user interface as well as back end control flow for managing the data extraction and formatting workflow"
+                ]
+            ],
+            [
+                "Data Scientist",
+                [
+                    "Company Name",
+                    "Adaptly"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Sep 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "•\tAs an intern at Adaptly, I developed a visualization tool for processing and analyzing twitter network data."
+                ],
+                [
+                    "More Info",
+                    "•\tDeveloped and implemented network model architecture, influence algorithms, and data generation/processing workflow."
+                ]
+            ]
+        ]
+    },
+    "Bruce Childers": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Virginia",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ],
+            [
+                "William &amp; Mary",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Pittsburgh",
+                [
+                    "Company Name",
+                    "22 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Interim Dean"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Jul 2020 - Present · 1 yr 8 mos"
+                ]
+            ]
+        ]
+    },
+    "Panos Chrysanthis": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "MS &amp; PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer and Information Sciences"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1983 - 1991"
+                ]
+            ],
+            [
+                "Ethnikon kai Kapodistriakon Panepistimion Athinon",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Physics (Computer Science Concetration)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978 - 1982"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Pittsburgh",
+                [
+                    "Company Name",
+                    "31 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Sep 1991 - Present · 30 yrs 6 mos"
+                ],
+                [
+                    "More Info",
+                    "Greater Pittsburgh Area"
+                ]
+            ],
+            [
+                "Adjunct Professor",
+                [
+                    "Company Name",
+                    "Carnegie Mellon University"
+                ],
+                [
+                    "Dates Employed",
+                    "2000 - 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "16 yrs"
+                ]
+            ],
+            [
+                "Adjunct Professor",
+                [
+                    "Company Name",
+                    "University of Cyprus"
+                ],
+                [
+                    "Dates Employed",
+                    "2008 - 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "University of Cyprus"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2006 - Jun 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Nicosia, Cyprus"
+                ]
+            ]
+        ]
+    },
+    "Paul Cohen": {
+        "status": "success",
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Psychology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1979 - 1983"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Pittsburgh",
+                [
+                    "Company Name",
+                    "4 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor, School of Computing and Information"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Jun 2020 - Present · 1 yr 9 mos"
+                ]
+            ],
+            [
+                "Program Manager",
+                [
+                    "Company Name",
+                    "Defense Advanced Research Projects Agency (DARPA)"
+                ],
+                [
+                    "Dates Employed",
+                    "2013 - Jun 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Arlington, VA"
+                ],
+                [
+                    "More Info",
+                    "I manage the Big Mechanism and Communicating with Computers programs."
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "2008 - Jun 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "12 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Tucson, Arizona"
+                ],
+                [
+                    "More Info",
+                    "I was head of Computer Science for two years and then founded the School of Information: Science, Technology and Arts.  I am currently on leave from the University of Arizona, working as a program manager at the Defense Advanced Research Projects Agency in Arlington Virginia."
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Massachusetts Amherst"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1983 - Sep 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "20 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "research, teaching"
+                ]
+            ]
+        ]
+    },
+    "Constantinos Costa": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "University of Pittsburgh",
+                [
+                    "Company Name",
+                    "3 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Visiting Research Assistant Professor"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Jul 2021 - Present · 8 mos"
+                ]
+            ],
+            [
+                "University of Cyprus",
+                [
+                    "Company Name",
+                    "7 yrs 4 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Visiting Lecturer  (Special Scientist)"
+                ],
+                [
+                    "Location",
+                    "Sep 2018 - Dec 2018 · 4 mos"
+                ],
+                [
+                    "More Info",
+                    "Cyprus"
+                ]
+            ],
+            [
+                "Software Developer",
+                [
+                    "Company Name",
+                    "Impact Tech LTD"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Dec 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "Limassol, Cyprus"
+                ]
+            ],
+            [
+                "Co Founder, Lead Developer",
+                [
+                    "Company Name",
+                    "Lifeyband"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2015 - Mar 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Nicosia"
+                ],
+                [
+                    "More Info",
+                    "Android and iOS development."
+                ]
+            ],
+            [
+                "Programmer",
+                [
+                    "Company Name",
+                    "Powersoft Computer Solutions Ltd"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2012 - May 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "9 mos"
+                ],
+                [
+                    "Location",
+                    "Cyprus"
+                ],
+                [
+                    "More Info",
+                    "Windows 8 developer"
+                ]
+            ]
+        ]
+    },
+    "Nicholas Farnan": {
+        "status": "success",
+        "Education": [
+            [
+                "Loughborough University",
+                [
+                    "Degree Name",
+                    "Master of Engineering (MEng)"
+                ],
+                [
+                    "Field Of Study",
+                    " Civil Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Grade: 1st Class Honours"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Manager",
+                [
+                    "Company Name",
+                    "PwC · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "London, United Kingdom"
+                ],
+                [
+                    "More Info",
+                    "Capital Project Services: Leading project reviews and cost based transformation in Government and Infrastructure Sectors. Specialising in Rail and Defence, Nick has a broad experience in advising major capital programmes in delivering value and providing stakeholder assurance."
+                ]
+            ],
+            [
+                "Manager",
+                [
+                    "Company Name",
+                    "Sir Robert McAlpine"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 - May 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "London, United Kingdom"
+                ],
+                [
+                    "More Info",
+                    "Delivering complex major construction projects in central London. Experienced in leading substructure, superstructure and design management. Responsible for construction management, achieving successful and safe delivery of commercial buildings."
+                ]
+            ]
+        ]
+    },
+    "William Garrison": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Virginia",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Biomedical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2016 - 2021"
+                ]
+            ],
+            [
+                "Northwestern University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mechanical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2016"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "University of Virginia"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Charlottesville, VA"
+                ],
+                [
+                    "More Info",
+                    "Miller Laboratory"
+                ]
+            ],
+            [
+                "Undergraduate Research Assistant",
+                [
+                    "Company Name",
+                    "Northwestern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 - Aug 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ],
+                [
+                    "Location",
+                    "Evanston, IL"
+                ],
+                [
+                    "More Info",
+                    "Linsenmeier Laboratory"
+                ]
+            ],
+            [
+                "Undergraduate Research Assistant",
+                [
+                    "Company Name",
+                    "University of Pittsburgh"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 - Sep 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Pittsburgh, PA"
+                ],
+                [
+                    "More Info",
+                    "McKenna Laboratory"
+                ]
+            ]
+        ]
+    },
+    "Timothy Hoffman": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Pittsburgh",
+                [
+                    "Degree Name",
+                    "MST"
+                ],
+                [
+                    "Field Of Study",
+                    " Telecommunications and Networks"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1980 - 1991"
+                ],
+                [
+                    "More Info",
+                    "CMU"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Visiting Lecturer",
+                [
+                    "Company Name",
+                    "University Of Pittsburgh"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Pittsburgh, PA"
+                ]
+            ],
+            [
+                "Carnegie Mellon University",
+                [
+                    "Company Name",
+                    "12 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Lecturer"
+                ],
+                [
+                    "Location",
+                    "Sep 1999 - Jul 2011 · 11 yrs 11 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Prof"
+                ]
+            ],
+            [
+                "Systems Analyst",
+                [
+                    "Company Name",
+                    "UPMCHS/WPIC"
+                ],
+                [
+                    "Dates Employed",
+                    "1986 - 1999"
+                ],
+                [
+                    "Employment Duration",
+                    "13 yrs"
+                ]
+            ]
+        ]
+    },
+    "Rebecca Hwa": {
+        "status": "success",
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 2001"
+                ]
+            ],
+            [
+                "University of California, Los Angeles",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science &amp; Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1993"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Pittsburgh",
+                [
+                    "Company Name",
+                    "18 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Oct 2020 - Present · 1 yr 5 mos"
+                ],
+                [
+                    "More Info",
+                    "Associate Professor"
+                ]
+            ],
+            [
+                "Program Director",
+                [
+                    "Company Name",
+                    "National Science Foundation (NSF)"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 10 mos"
+                ]
+            ],
+            [
+                "Postdoctoral Research Fellow",
+                [
+                    "Company Name",
+                    "University of Maryland"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2000 - Jun 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Developed learning algorithms for cross-language processing and machine translation."
+                ]
+            ],
+            [
+                "Independent Contractor",
+                [
+                    "Company Name",
+                    "Applied Language Technologies (now a part of Nuance)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1995 - Jun 1996"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Conducted experiments to test out different noise cancellation techniques to enhance clarity over telephone lines for better speech recognition performance."
+                ]
+            ]
+        ]
+    },
+    "Seong Jae Hwang": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2019"
+                ]
+            ],
+            [
+                "University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Robotics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2013"
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2011"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Yonsei University"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2022 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 mo"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Pittsburgh"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2019 - Jan 2022"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 4 mos"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Wisconsin-Madison"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Oct 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 3 mos"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Google"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2019 - Jul 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Mountain View, CA"
+                ]
+            ],
+            [
+                "Software Engineer Internship",
+                [
+                    "Company Name",
+                    "Google AI"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2018 - Aug 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Mountain View, CA"
+                ],
+                [
+                    "More Info",
+                    "See all 8 experiences"
+                ]
+            ]
+        ]
+    },
+    "Xiaowei Jia": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2020"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0"
+                ]
+            ],
+            [
+                "University at Buffalo",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2015"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0"
+                ]
+            ],
+            [
+                "University of Science and Technology of China",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.45"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Department of Computer Science, SCI, University of Pittsburgh"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 7 mos"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Minnesota"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 - Jul 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Minneapolis-St. Paul Area"
+                ],
+                [
+                    "More Info",
+                    "Spatio-temporal data mining for monitoring global change:"
+                ]
+            ],
+            [
+                "Data Science Research Intern",
+                [
+                    "Company Name",
+                    "Adobe"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 - Nov 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Location",
+                    "San Jose, California"
+                ],
+                [
+                    "More Info",
+                    "Research on user modeling to improve the image retrieval performance."
+                ]
+            ],
+            [
+                "Data Science Research Intern",
+                [
+                    "Company Name",
+                    "Adobe"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2018 - Aug 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "San Jose, California"
+                ],
+                [
+                    "More Info",
+                    "Research on augmenting and diversifying training data to train robust sequential models for user click behaviors."
+                ]
+            ],
+            [
+                "Teaching Assistant",
+                [
+                    "Company Name",
+                    "University at Buffalo"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Jun 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Buffalo/Niagara, New York Area"
+                ],
+                [
+                    "More Info",
+                    "See all 8 experiences"
+                ]
+            ]
+        ]
+    },
+    "Sherif Khattab": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Pittsburgh",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2008"
+                ],
+                [
+                    "More Info",
+                    "faculty of engineering at cairo university"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "University of Pittsburgh · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Pittsburgh Area"
+                ]
+            ],
+            [
+                "Faculty of Computers and Information - Cairo University",
+                [
+                    "Company Name",
+                    "12 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Mar 2016 - Present · 6 yrs"
+                ],
+                [
+                    "More Info",
+                    "assistant professor"
+                ]
+            ],
+            [
+                "software engineering intern",
+                [
+                    "Company Name",
+                    "Bosch North America"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2008 - Aug 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ]
+            ],
+            [
+                "software engineering intern",
+                [
+                    "Company Name",
+                    "Google"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2007 - Aug 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ]
+            ],
+            [
+                "software engineering intern",
+                [
+                    "Company Name",
+                    "FORE Systems / Ericsson data networks"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2006 - Aug 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "pittsburgh"
+                ]
+            ]
+        ]
+    },
+    "Adriana Kovashka": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of Texas at Austin",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Vision (Computer Science)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2014"
+                ]
+            ],
+            [
+                "Pomona College",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Media Studies"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2008"
+                ]
+            ]
+        ],
+        "Experience": []
+    },
+    "Alexandros Labrinidis": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Maryland",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 2002"
+                ],
+                [
+                    "More Info",
+                    "Panepistimio Kritis logo"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Pittsburgh",
+                [
+                    "Company Name",
+                    "20 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Chair, Department of Computer Science"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Jan 2020 - Present · 2 yrs 2 mos"
+                ]
+            ],
+            [
+                "Carnegie Mellon University",
+                [
+                    "Company Name",
+                    "20 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Adjunct Professor Of Computer Science"
+                ],
+                [
+                    "Location",
+                    "Apr 2017 - Present · 4 yrs 11 mos"
+                ],
+                [
+                    "More Info",
+                    "Adjunct Associate Professor"
+                ]
+            ],
+            [
+                "Intern",
+                [
+                    "Company Name",
+                    "IBM Almaden Research Center"
+                ],
+                [
+                    "Dates Employed",
+                    "1996"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ]
+            ]
+        ]
+    },
+    "John Lange": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Director, Founder",
+                [
+                    "Company Name",
+                    "Academy Pittsburgh · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2015 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Pittsburgh, PA"
+                ],
+                [
+                    "More Info",
+                    "Director and founder of a developer boot camp in Pittsburgh, focused on bringing greater representation into the development world. Created industry leading curriculum, using industry experience, help from peers, and lessons learned from earlier cohorts to provide the best education possible. Successfully place 80% of students into jobs within 6 months and run cohorts with an average of over 60% of the students being underrepresented in tech. Students build projects for non-profit clients in Pittsburgh, delivering finished software used by people every day."
+                ]
+            ],
+            [
+                "Founder, Events Coordinator",
+                [
+                    "Company Name",
+                    "Looking for Group, LLC · Self-employed"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Pittsburgh, PA"
+                ],
+                [
+                    "More Info",
+                    "Founder of a coworking and gaming space in Pittsburgh, PA that focuses on community building.  I am the technology lead and make sure all networking and systems function for non-technical users. I also run community outreach, sponsorship requests, event rentals, and more. Our space now hosts hundreds of people per week playing games, working, casting to YouTube and Twitch, and meeting each other."
+                ]
+            ],
+            [
+                "Sr. System Engineer",
+                [
+                    "Company Name",
+                    "Development Dimensions International"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - Aug 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Engineer in two teams, guiding both toward zero downtime and breaking down large, unwieldy systems into a microservice architecture. Working to improve the development culture by advocating pair programming, TDD, code reviews, user centric design and code craftsmanship. Provide expertise to the architecture team in infrastructure, SQL and networking, helping with implementation of designs when needed. Design and implement automation strategies for deployment, working toward fully automated blue/green deployments."
+                ]
+            ],
+            [
+                "Systems Architect and Server Administrator",
+                [
+                    "Company Name",
+                    "Taggart Global, LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2004 - Oct 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Reported directly to CIO and managed all servers and development for an international company with more than 10 offices worldwide. Performed multiple company IT mergers after acquisitions, deployed solutions with 24x7 uptime, created redundancy and failover security in all locations, designed and implemented Exchange, SharePoint, Team Foundation Server, System Center, SQL and other environments globally. Managed a group developing in VB, .Net, C# and SQL supporting accounting, project management and engineering management in engineering and construction environments. Designed and created solutions based on the needs of separate departments that benefited the company as a whole by understanding the needs of the entire business. Performed all IT purchasing and expense tracking."
+                ]
+            ],
+            [
+                "Technical Support and Consultant",
+                [
+                    "Company Name",
+                    "Infobahn International, Inc"
+                ],
+                [
+                    "Dates Employed",
+                    "May 1999 - May 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Contractible consultant and phone based technical support for local internet service provider (ISP). Quoted cost, tracked time and implemented software for ISP clients in ASP/VB/SQL. Designed and implemented several large scale websites for various customers."
+                ],
+                [
+                    "More Info",
+                    "See all 7 experiences"
+                ]
+            ]
+        ]
+    },
+    "Adam Lee": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2008"
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2005"
+                ]
+            ],
+            [
+                "Cornell University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2003"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Pittsburgh",
+                [
+                    "Company Name",
+                    "13 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Oct 2020 - Present · 1 yr 5 mos"
+                ],
+                [
+                    "More Info",
+                    "Associate Professor of Computer Science"
+                ]
+            ],
+            [
+                "Associate Dean for Academic Programs",
+                [
+                    "Company Name",
+                    "University of Pittsburgh School of Computing and Information"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2017 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Pittsburgh, PA"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Illinois at Urbana-Champaign"
+                ],
+                [
+                    "Dates Employed",
+                    "2003 - 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ],
+            [
+                "Intern",
+                [
+                    "Company Name",
+                    "Sandia National Laboratories"
+                ],
+                [
+                    "Dates Employed",
+                    "2001 - 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
+                ],
+                [
+                    "Location",
+                    "Livermore, CA"
+                ]
+            ]
+        ]
+    },
+    "Stephen Lee": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2019"
+                ],
+                [
+                    "More Info",
+                    "Chennai Mathematical Institute"
+                ]
+            ],
+            [
+                "St. Stephen's College, Delhi",
+                [
+                    "Degree Name",
+                    "BSc"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2007"
+                ],
+                [
+                    "More Info",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Pittsburgh"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Pittsburgh Area"
+                ]
+            ],
+            [
+                "Technical Advisor",
+                [
+                    "Company Name",
+                    "Heystack"
+                ],
+                [
+                    "Dates Employed",
+                    "2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Helping Heystack build vertical-specific deep learning models and rich ontologies to convert product reviews into actionable insights"
+                ]
+            ],
+            [
+                "TCS",
+                [
+                    "Company Name",
+                    "5 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Researcher - R&amp;D"
+                ],
+                [
+                    "Location",
+                    "May 2011 - Jul 2013 · 2 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Programmer"
+                ]
+            ],
+            [
+                "Summer Intern",
+                [
+                    "Company Name",
+                    "Tata Interactive Systems"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - Jul 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ]
+            ]
+        ]
+    },
+    "Diane Litman": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Daniel Mosse": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Maryland",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " computer science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1992"
+                ]
+            ],
+            [
+                "University of Maryland"
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of CS and Associate Dean at SCI",
+                [
+                    "Company Name",
+                    "University of Pittsburgh School of Computing and Information · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2022 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ]
+            ],
+            [
+                "Professor and Chair",
+                [
+                    "Company Name",
+                    "University of Pittsburgh"
+                ],
+                [
+                    "Dates Employed",
+                    "2009 - Jan 2022"
+                ],
+                [
+                    "Employment Duration",
+                    "13 yrs 1 mo"
+                ]
+            ],
+            [
+                "Professor of Computer Science",
+                [
+                    "Company Name",
+                    "univ of pittsburgh"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1992 - 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "20 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "research topics:"
+                ],
+                [
+                    "More Info",
+                    "real-time"
+                ]
+            ]
+        ]
+    },
+    "Luis Oliveira": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Kirk Pruhs": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "John Ramirez": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Pittsburgh",
+                [
+                    "Degree Name",
+                    "Ph. D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Lecturer in Computer Science",
+                [
+                    "Company Name",
+                    "University of Pittsburgh"
+                ]
+            ]
+        ]
+    },
+    "Rob Rutenbar": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    "PhD, Computer Engineering (CICE)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978 - 1984"
+                ]
+            ],
+            [
+                "Wayne State University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1975 - 1978"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Pittsburgh",
+                [
+                    "Company Name",
+                    "4 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Senior Vice Chancellor for Research"
+                ],
+                [
+                    "Location",
+                    "Jul 2017 - Present · 4 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Greater Pittsburgh Area"
+                ]
+            ],
+            [
+                "Founder &amp; Founding Chief Scientist",
+                [
+                    "Company Name",
+                    "Voci Technologies, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2006 - May 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "13 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Pittsburgh, PA"
+                ],
+                [
+                    "More Info",
+                    "Founded as the \"Silicon Vox Corporation\" in 2006, and renamed \"Voci Technologies\" in 2010.  Chief Technology Adviser (SiVox, 2006-2010);  Voci Chief Scientist (2010-2015);  Voci Chairman of Board (2010-2016);  Voci Board Member (2010-2018); Chair of Tech Adv. Committee (2018-2020).   Directed the foundational CMU R&amp;D upon which company is based;  recruited founding leadership and technical teams;  helped lead early funding efforts.  Voci was acquired by Medallia (NSDQ:MDLA) in 2020."
+                ]
+            ],
+            [
+                "Bliss Professor and Head, Dept of Computer Science",
+                [
+                    "Company Name",
+                    "University of Illinois at Urbana-Champaign"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2010 - Jun 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Urbana-Champaign, Illinois Area"
+                ]
+            ],
+            [
+                "Stephen J. Jatras (E'47) Professor of Electrical &amp; Computer Engineering",
+                [
+                    "Company Name",
+                    "Carnegie Mellon University"
+                ],
+                [
+                    "Dates Employed",
+                    "1984 - Jan 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "26 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Greater Pittsburgh Area"
+                ]
+            ],
+            [
+                "Neolinear Inc logo",
+                [
+                    "Company Name",
+                    "Founder &amp; Chief Scientist"
+                ],
+                [
+                    "Dates Employed",
+                    "Neolinear, Inc"
+                ],
+                [
+                    "Location",
+                    "1998 - 2004 · 6 yrs"
+                ],
+                [
+                    "More Info",
+                    "Greater Pittsburgh Area"
+                ]
+            ]
+        ]
+    },
+    "Longfei Shangguan": {
+        "status": "success",
+        "Education": [
+            [
+                "The Hong Kong University of Science and Technology",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2015"
+                ]
+            ],
+            [
+                "The Hong Kong University of Science and Technology",
+                [
+                    "Degree Name",
+                    "Master of Philosophy (MPhil)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Technology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2013"
+                ]
+            ],
+            [
+                "Xidian University",
+                [
+                    "Degree Name",
+                    "Bachelor of Engineering (BE)"
+                ],
+                [
+                    "Field Of Study",
+                    " Software Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2011"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Researcher",
+                [
+                    "Company Name",
+                    "Microsoft · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Redmond, WA"
+                ],
+                [
+                    "More Info",
+                    "IoT, Earable/Wearable computing, Wireless networks, Computer vision"
+                ]
+            ],
+            [
+                "Postdoc research associate",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2015 - Aug 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Princeton, NJ"
+                ],
+                [
+                    "More Info",
+                    "1): Designing and implementing Continuous Spatial Awareness Systems for Smart and Connected Objects. (MobiSys'16, MobiSys'17, CoNext'17)"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "IoT research center, Tsinghua University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Dec 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "Wuxi, China"
+                ],
+                [
+                    "More Info",
+                    "Developing end-to-end RF sensing solutions for IoT applications."
+                ]
+            ]
+        ]
+    },
+    "Xulong Tang": {
+        "status": "success",
+        "Education": [
+            [
+                "Penn State University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2019"
+                ],
+                [
+                    "More Info",
+                    "GPU dynamic parallelism, GPU microarchitecture, compiler optimization"
+                ]
+            ],
+            [
+                "William &amp; Mary",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2014"
+                ]
+            ],
+            [
+                "University of Science and Technology of China",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2013"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Hong An's ACSC lab"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Pittsburgh"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Pittsburgh, Pennsylvania"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Penn State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "State College, Pennsylvania Area"
+                ]
+            ],
+            [
+                "Co-op engineer",
+                [
+                    "Company Name",
+                    "AMD"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Dec 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "Austin, Texas Area"
+                ]
+            ],
+            [
+                "Software Engineer Internship",
+                [
+                    "Company Name",
+                    "Samsung Research America"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2015 - Aug 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Mountain View, CA"
+                ]
+            ],
+            [
+                "Teaching Assistant",
+                [
+                    "Company Name",
+                    "Penn State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - May 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Location",
+                    "State College, Pennsylvania Area"
+                ]
+            ]
+        ]
+    },
+    "Erin Walker": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Pittsburgh",
+                [
+                    "Degree Name",
+                    "1990 - 1994"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Software Applications Specialist",
+                [
+                    "Company Name",
+                    "Upper St. Clair School District"
+                ]
+            ]
+        ]
+    },
+    "Youtao Zhang": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Arizona",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002"
+                ]
+            ],
+            [
+                "Nanjing University"
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Pittsburgh",
+                [
+                    "Company Name",
+                    "16 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Sep 2020 - Present · 1 yr 6 mos"
+                ],
+                [
+                    "More Info",
+                    "Associate Professor"
+                ]
+            ]
+        ]
+    }
+}

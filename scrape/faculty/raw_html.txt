@@ -1,1980 +1,1259 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
-<html lang="en" dir="ltr"
- xmlns:fb="http://ogp.me/ns/fb#"
- xmlns:og="http://ogp.me/ns#"
- xmlns:article="http://ogp.me/ns/article#"
- xmlns:book="http://ogp.me/ns/book#"
- xmlns:profile="http://ogp.me/ns/profile#"
- xmlns:video="http://ogp.me/ns/video#"
- xmlns:product="http://ogp.me/ns/product#">
-<head profile="http://www.w3.org/1999/xhtml/vocab">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:creator" content="@unc_cci" />
-<meta name="twitter:title" content=" | College of Computing and Informatics | UNC Charlotte" />
-<meta name="twitter:description" content="" />
-<meta name="twitter:image" content="https://cci.charlotte.edu/" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://cci.charlotte.edu/node/" />
-<meta property="og:title" content=" | College of Computing and Informatics | UNC Charlotte" />
-<meta property="og:description" content="" />
-<meta property="og:image" content="https://cci.charlotte.edu/" />
-<link rel="shortcut icon" href="https://cci.charlotte.edu/sites/all/themes/uncc_epsilon/favicon.ico" type="image/vnd.microsoft.icon" />
-<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
-<link rel="canonical" href="https://cci.charlotte.edu/directory/cs/faculty" />
-<link rel="shortlink" href="https://cci.charlotte.edu/directory/cs/faculty" />
-<meta property="og:site_name" content="College of Computing and Informatics" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://cci.charlotte.edu/directory/cs/faculty" />
-<meta property="og:title" content="Directory" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:site" content="@UNCC_CCI" />
-<meta name="twitter:creator" content="@UNCC_CCI" />
-<meta name="twitter:url" content="https://cci.charlotte.edu/directory/cs/faculty" />
-<meta name="twitter:title" content="Directory" />
-<meta name="dcterms.title" content="Directory" />
-<meta name="dcterms.type" content="Text" />
-<meta name="dcterms.format" content="text/html" />
-<meta name="dcterms.identifier" content="https://cci.charlotte.edu/directory/cs/faculty" />
+
+
+
+
+<!doctype html>
+<html lang="en-US" class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://static.nd.edu/" crossorigin>
+<link rel="preconnect" href="https://emergency.nd.edu/">
+<link rel="preconnect" href="https://ajax.googleapis.com/">
+<link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="shortcut icon" href="https://cse.nd.edu/wp-content/themes/ndt3-wp-master/favicon.ico">
+<link rel="apple-touch-icon" sizes="76x76" href="https://static.nd.edu/images/webclips/default/webclip-76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://static.nd.edu/images/webclips/default/webclip-114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://static.nd.edu/images/webclips/default/webclip-120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://static.nd.edu/images/webclips/default/webclip-144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://static.nd.edu/images/webclips/default/webclip-152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://static.nd.edu/images/webclips/default/webclip-180.png">
+<link rel="apple-touch-icon" sizes="512x512" href="https://static.nd.edu/images/webclips/default/webclip-512.png">
+<link rel="icon" type="image/png" href="https://static.nd.edu/images/monogram/gold/monogram-16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://static.nd.edu/images/monogram/gold/monogram-32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://static.nd.edu/images/monogram/gold/monogram-96.png" sizes="96x96">
+<link rel="mask-icon" href="https://static.nd.edu/images/monogram/monogram.svg" color="#002b5c">
+<meta name="theme-color" content="#002b5c">
+<link rel="stylesheet" href="https://use.typekit.net/reh8qcz.css">
+<!-- This site is optimized with the Yoast SEO plugin v14.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <title>
-Directory | College of Computing and Informatics | UNC Charlotte
+Faculty - Computer Science and Engineering
 </title>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
-<link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
-<link type="text/css" rel="stylesheet" href="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/css/css_mf5smi08RkEyjLE3sAsEKscGLqALXEwqFjYwJOfYxL0.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/css/css_jqRnxwltB2d9OqVZA2xJEvpPE9dqKH8XoCOyKzxT0ss.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://catalog.uncc.edu/widget-api/widget-api.min.css?r74sg0" media="all" />
-<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@unicorn-fail/drupal-bootstrap-styles@0.0.2/dist/3.3.1/7.x-3.x/drupal-bootstrap.min.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/css/css_QWkm70UGHt79exAYctHYEHqV3oYnzo6r0sNbgIkUlb8.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/css/css_enHXgkV2J9VPwiFiJZ5weTYLbTcrNvNo_WJgDmMgAPE.css" media="all" />
-<script src="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/js/js_1llt-gMhEYyB1iUrUNNFv553qFTKGAbfxXIBx5feVMU.js">
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="canonical" href="https://cse.nd.edu/faculty/" />
+<link rel="next" href="https://cse.nd.edu/faculty/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Faculty - Computer Science and Engineering" />
+<meta property="og:url" content="https://cse.nd.edu/faculty/" />
+<meta property="og:site_name" content="Computer Science and Engineering" />
+<meta name="twitter:card" content="summary_large_image" />
+<script type="application/ld+json" class="yoast-schema-graph">
+{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://cse.nd.edu/#website","url":"https://cse.nd.edu/","name":"Computer Science and Engineering","description":"College of Engineering","potentialAction":[{"@type":"SearchAction","target":"https://cse.nd.edu/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://cse.nd.edu/faculty/#webpage","url":"https://cse.nd.edu/faculty/","name":"Faculty - Computer Science and Engineering","isPartOf":{"@id":"https://cse.nd.edu/#website"},"inLanguage":"en-US"}]}
 </script>
-<script src="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/js/js_cHRi6HJkg980ceEAyqo8EUrBqIrUDa0n_mHBsAI1m40.js">
+<!-- / Yoast SEO plugin. -->
+<link rel='dns-prefetch' href='//conductor.nd.edu' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Computer Science and Engineering &raquo; Feed" href="https://cse.nd.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Computer Science and Engineering &raquo; Faculty Feed" href="https://cse.nd.edu/faculty/feed/" />
+<link rel='stylesheet' id='wp-block-library-css' href='https://cse.nd.edu/wp-includes/css/dist/block-library/style.min.css?ver=5.5.8' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+
+.editor-styles-wrapper p.is-style-intro-size { font-size: 1.25rem }
+.editor-styles-wrapper ul.is-style-no-bullets { list-style:none; padding-left:0; }
+
+</style>
+<link rel='stylesheet' id='megamenu-css' href='https://cse.nd.edu/wp-content/uploads/sites/7/maxmegamenu/style.css?ver=ef22d5' type='text/css' media='all' />
+<link rel='stylesheet' id='megamenu-genericons-css' href='https://cse.nd.edu/wp-content/plugins/megamenu-pro/icons/genericons/genericons/genericons.css?ver=2.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='megamenu-fontawesome-css' href='https://cse.nd.edu/wp-content/plugins/megamenu-pro/icons/fontawesome/css/font-awesome.min.css?ver=2.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='megamenu-fontawesome5-css' href='https://cse.nd.edu/wp-content/plugins/megamenu-pro/icons/fontawesome5/css/all.min.css?ver=2.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-subset-css' href='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/css/dashicons.css?ver=202006171118am' type='text/css' media='all' />
+<link rel='stylesheet' id='ndt3-theme-css' href='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/css/theme.css?ver=202006171118am' type='text/css' media='all' />
+<link rel='stylesheet' id='ndt3-ndt-css' href='https://conductor.nd.edu/stylesheets/themes/ndt/v3/ndt.css?ver=5.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='ndt3-style-css' href='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/style.css?ver=5.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='algolia-theme-css' href='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/css/algolia-min.css?ver=5.5.8' type='text/css' media='all' />
+<script type='text/javascript' src='https://cse.nd.edu/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'>
 </script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js">
+<link rel="https://api.w.org/" href="https://cse.nd.edu/wp-json/" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cse.nd.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cse.nd.edu/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.5.8" />
+<style type="text/css">
+.broken_link, a.broken_link {
+	text-decoration: line-through;
+}
+</style>
+<style type="text/css">
+/** Mega Menu CSS: fs **/
+</style>
+<!--[if IE]>
+<link rel='stylesheet' href='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/css/ie.css type='text/css'>
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="https://static.nd.edu/js/html5shiv.min.js">
 </script>
-<script src="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/js/js_1zSGo1xCV3lO2LYeEjGriK9DKEwzBg6McPY-6f5rjEA.js">
+<script src="https://static.nd.edu/js/respond.js">
 </script>
-<script src="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/js/js_TtRWZvVeeVMwzc3HHbRtO1PqZQ_SEfQbOuy-049N7IM.js">
-</script>
-<script>
-(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-208531-2", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
-</script>
-<script src="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/js/js_cypmdiP6TujWNgIv6I0lJRSxcgGeM_FHq4AKmwpEabk.js">
-</script>
-<script src="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/js/js_Z1gOJEivKDAkIIMXBFuW7xODuG0GkrFKvEGqk-VRWv4.js">
-</script>
-<script src="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/js/js_e0bQ0QgL5cEBk0w-1hfhQo25eXApSolYMl4IbEmbcOs.js">
-</script>
-<script>
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"uncc_epsilon","theme_token":"j71pSiX-7d2nVUBA7vekmBBdIdiSwMMg1j_ILDGBpbk","jquery_version":"2.1","js":{"0":1,"sites\/all\/modules\/flexslider\/assets\/js\/flexslider.load.js":1,"1":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery.form\/4\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"https:\/\/cdn.jsdelivr.net\/npm\/bootstrap@3.4.1\/dist\/js\/bootstrap.min.js":1,"sites\/all\/modules\/custom\/features\/feature_uncc_default_wysiwyg_templates\/feature_uncc_default_wysiwyg_templates.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"2":1,"https:\/\/catalog.uncc.edu\/widget-api\/widget-api.min.js":1,"sites\/all\/themes\/uncc_epsilon\/js\/bootstrap-hover-dropdown.js":1,"sites\/all\/themes\/uncc_epsilon\/js\/script.js":1,"sites\/all\/themes\/bootstrap\/js\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1,"sites\/cci.charlotte.edu\/files\/js_injector\/js_injector_1.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/custom\/features\/feature_uncc_default_blog\/feature_uncc_default_blog.css":1,"sites\/all\/modules\/custom\/features\/feature_uncc_default_coast_to_coast_image_rotator\/feature_uncc_default_coast_to_coast_image_rotator.css":1,"sites\/all\/modules\/custom\/features\/feature_uncc_default_dashboard\/feature_uncc_default_dashboard.css":1,"sites\/all\/modules\/custom\/features\/feature_uncc_default_directory\/feature_uncc_default_directory.css":1,"sites\/all\/modules\/custom\/features\/feature_uncc_default_events\/feature_uncc_default_events.css":1,"sites\/all\/modules\/custom\/features\/feature_uncc_default_factoids\/feature_uncc_default_factoids.css":1,"sites\/all\/modules\/custom\/features\/feature_uncc_default_faqs\/feature_uncc_default_faqs.css":1,"sites\/all\/modules\/custom\/features\/feature_uncc_default_image_gallery\/feature_uncc_default_image_gallery.css":1,"sites\/all\/modules\/custom\/features\/feature_uncc_default_interior_image_rotator\/feature_uncc_default_interior_image_rotator.css":1,"sites\/all\/modules\/custom\/features\/feature_uncc_default_news\/feature_uncc_default_news.css":1,"sites\/all\/modules\/custom\/features\/feature_uncc_default_quick_links\/feature_uncc_default_quick_links.css":1,"sites\/all\/modules\/custom\/features\/feature_uncc_default_video_library\/feature_uncc_default_video_library.css":1,"sites\/all\/modules\/custom\/features\/feature_uncc_default_wysiwyg_templates\/feature_uncc_default_wysiwyg_templates.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"https:\/\/catalog.uncc.edu\/widget-api\/widget-api.min.css":1,"https:\/\/cdn.jsdelivr.net\/npm\/bootstrap@3.4.1\/dist\/css\/bootstrap.min.css":1,"https:\/\/cdn.jsdelivr.net\/npm\/@unicorn-fail\/drupal-bootstrap-styles@0.0.2\/dist\/3.3.1\/7.x-3.x\/drupal-bootstrap.min.css":1,"sites\/all\/themes\/uncc_epsilon\/css\/style.css":1,"sites\/all\/themes\/uncc_epsilon\/css\/animate.min.css":1,"sites\/all\/themes\/uncc_epsilon\/css\/branding_bar.css":1,"sites\/all\/themes\/uncc_epsilon\/css\/style-updates-20190925.css":1,"sites\/all\/themes\/uncc_epsilon\/css\/style-updates-20210526.css":1,"sites\/all\/themes\/uncc_epsilon\/css\/style-charlotte.css":1,"public:\/\/css_injector\/css_injector_5.css":1,"public:\/\/css_injector\/css_injector_7.css":1,"public:\/\/css_injector\/css_injector_15.css":1,"public:\/\/css_injector\/css_injector_25.css":1,"public:\/\/css_injector\/css_injector_27.css":1,"public:\/\/css_injector\/css_injector_31.css":1,"public:\/\/css_injector\/css_injector_33.css":1}},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false,"useragent":"Mozilla\/5.0 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)"},"urlIsAjaxTrusted":{"\/directory\/cs\/faculty":true,"\/views\/ajax":true},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:2dd4dd4c8d8f327b968bf30c5c2004ef":{"view_name":"customized_directory_search","view_display_id":"page_6","view_args":"","view_path":"directory\/cs\/faculty","view_base_path":"directory\/cs\/faculty","view_dom_id":"2dd4dd4c8d8f327b968bf30c5c2004ef","pager_element":0}}},"flexslider":{"optionsets":{"coast_to_coast_rotator":{"namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"fade","slideshow":true,"slideshowSpeed":"7000","directionNav":true,"controlNav":false,"prevText":"Previous","nextText":"Next","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"instances":{"flexslider-1":"coast_to_coast_rotator"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});
-</script>
+<![endif]-->
+<!-- Google Analytics -->
 <script>
 
- ga('create', 'UA-31498690-1', 'auto', 'master');
- ga('master.set', 'anonymizeIp', true);
- ga('master.send', 'pageview');
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ ga('create', 'UA-27218056-11', 'auto');
+ ga('send', 'pageview');
  
 </script>
+<!-- End Google Analytics -->
+
+
 </head>
-<body class="html not-front not-logged-in one-sidebar sidebar-first page-directory page-directory-cs page-directory-cs-faculty" >
-<div id="skip-link">
-<a href="#main-content" class="element-invisible element-focusable">
-Skip to main content
-</a>
-</div>
-<header id="header-nav" role="banner" class="navbar navbar-default">
-<div class="container">
-<div id="branding-bar" class="navbar-header">
-<div id="top_header_menu" class="navbar-collapse collapse">
-<div id="print_inner">
-<ul class="menu nav">
-<li class="first leaf">
-<a href="https://www.uncc.edu/gateway/alumni-friends" title="">
-Alumni &amp; Friends
-</a>
-</li>
-<li class="leaf">
-<a href="https://www.uncc.edu/gateway/community" title="">
-Community
-</a>
-</li>
-<li class="leaf">
-<a href="https://www.uncc.edu/gateway/current-students" title="">
-Current Students
-</a>
-</li>
-<li class="leaf">
-<a href="https://www.uncc.edu/gateway/faculty-staff" title="">
-Faculty &amp; Staff
-</a>
-</li>
-<li class="leaf">
-<a href="https://www.uncc.edu/gateway/parents-family" title="">
-Parents &amp; Family
-</a>
-</li>
-<li class="last leaf">
-<a href="https://www.uncc.edu/gateway/prospective-students" title="">
-Prospective Students
-</a>
-</li>
-</ul>
- 
-</div>
-</div>
-<div class="search dropdown">
-<button
- class="btn btn-primary dropdown-toggle"
- type="button"
- aria-label="Dropdown"
- data-toggle="dropdown"
- >
-<no_tag>
-
- Campus Resources 
-</no_tag>
-<span class="glyphicon glyphicon-plus-sign">
-</span>
-</button>
-<!-- 
-<a href="#" class="dropdown-toggle" data-toggle="dropdown">
-<span class="glyphicon glyphicon-menu-hamburger">
-</span>
-</a>
-<no_tag>
- -->
-</no_tag>
-<div class="dropdown-menu uncc-dropdown-menu">
-<div class="container-fluid">
-<!-- Icons -->
-<div class="container">
-<ul class="nav-icons nav-list list-inline">
-<li>
-<h3>
-<a href="https://my.charlotte.edu"
- >
-<i class="fa fa-lock" aria-hidden="true">
-</i>
-<no_tag>
- My UNC
- Charlotte
-</no_tag>
-</a
- >
-</h3>
-</li>
-<li>
-<h3>
-<a href="https://directory.charlotte.edu"
- >
-<i class="fa fa-users" aria-hidden="true">
-</i
- >
-<no_tag>
-Directory
-</no_tag>
-</a
- >
-</h3>
-</li>
-<li>
-<h3>
-<a href="https://campusevents.charlotte.edu"
- >
-<i class="fa fa-calendar" aria-hidden="true">
-</i>
-<no_tag>
-Campus
- Events
-</no_tag>
-</a
- >
-</h3>
-</li>
-<li>
-<h3>
-<a href="https://library.charlotte.edu"
- >
-<i class="fa fa-book" aria-hidden="true">
-</i>
-<no_tag>
-Library
-</no_tag>
-</a
- >
-</h3>
-</li>
-</ul>
-<ul class="campus-nav nav-list list-inline">
-<li>
-<h3>
-Prospective Students
-</h3>
+<body class="archive post-type-archive post-type-archive-profile mega-menu-main-menu hfeed" vocab="https://schema.org/">
+<!-- Skip links -->
+<nav class="skip-links" aria-label="Skip links">
 <ul>
 <li>
-<a href="https://www.charlotte.edu/landing/about-us"
- >
-About UNC Charlotte
-</a
- >
-</li>
-<li>
-<a href="https://www.charlotte.edu/landing/campus-life"
- >
-Campus Life
-</a
- >
-</li>
-<li>
-<a href="https://admissions.charlotte.edu">
-Admissions
+<a href="#content" accesskey="C" title="Skip to content = C">
+Skip To Content
 </a>
 </li>
 <li>
-<a href="https://gradadmissions.charlotte.edu"
- >
-Graduate Admissions
-</a
- >
-</li>
-</ul>
-</li>
-<li>
-<h3>
-Faculty and Staff
-</h3>
-<ul>
-<li>
-<a href="https://hr.charlotte.edu">
-Human Resources
+<a href="#nav" accesskey="S" title="Skip to navigation = S">
+Skip To Navigation
 </a>
 </li>
 <li>
-<a href="https://aux.charlotte.edu">
-Auxiliary Services
-</a>
-</li>
-<li>
-<a href="https://inside.charlotte.edu"
- >
-Inside UNC Charlotte
-</a
- >
-</li>
-<li>
-<a href="https://provost.charlotte.edu"
- >
-Academic Affairs
-</a
- >
-</li>
-</ul>
-</li>
-<li>
-<h3>
-Current Students
-</h3>
-<ul>
-<li>
-<a href="https://charlotte49ers.com">
-Athletics
-</a>
-</li>
-<li>
-<a href="https://finaid.charlotte.edu">
-Financial Aid
-</a>
-</li>
-<li>
-<a href="https://advising.charlotte.edu">
-Advising
-</a>
-</li>
-<li>
-<a href="https://studenthealth.charlotte.edu"
- >
-Student Health Center
-</a
- >
-</li>
-</ul>
-</li>
-<li>
-<h3>
-Alumni and Friends
-</h3>
-<ul>
-<li>
-<a href="https://alumni.charlotte.edu/"
- >
-Alumni Association
-</a
- >
-</li>
-<li>
-<a href="https://advancement.charlotte.edu"
- >
-Advancement
-</a
- >
-</li>
-<li>
-<a href="https://foundation.charlotte.edu">
-Foundation
-</a>
-</li>
-<li>
-<a href="https://www.charlotte.edu/makeagift"
- >
-Make a Gift
-</a
- >
-</li>
-</ul>
-</li>
-</ul>
-</div>
-<!-- /.dropdown-menu -->
-
- 
-</div>
-<!-- /.container-fluid -->
-
- 
-</div>
-<form
- onsubmit="var searchbox = document.getElementById('utility-search-input'); if (searchbox.value == 'Keyword / Search' || searchbox.value == '') { searchbox.value=''; searchbox.focus(); return false; } var new_q = 'site:' + window.location.hostname + ' ' + searchbox.value; searchbox.value=new_q;"
- class="navbar-form navbar-right"
- id="utility-search"
- role="search"
- action="https://search.charlotte.edu"
- method="GET"
- >
-<div class="input-group stylish-input-group">
-<input
- type="text"
- aria-label="Site Search"
- id="utility-search-input"
- onclick="if (this.value == 'Keyword / Search') { this.value = ''; }"
- class="form-control"
- placeholder="site search"
- name="q"
- />
-<span class="input-group-addon">
-<button type="submit" aria-label="Search" class="btn btn-default">
-<span
- class="glyphicon glyphicon-search"
- title="Search"
- aria-hidden="true"
- >
-</span>
-</button>
-</span>
-</div>
-</form>
-</div>
-<!-- /.search -->
-
- 
-</div>
-</div>
-<div id="header-gradient">
-<button
- type="button"
- class="navbar-toggle"
- data-toggle="collapse"
- data-target=".navbar-collapse"
- >
-<span class="sr-only">
-Toggle navigation
-</span>
-<span class="icon-bar">
-</span>
-<span class="icon-bar">
-</span>
-<span class="icon-bar">
-</span>
-</button>
-<div class="container site-title">
-<a
- class="logo pull-left"
- href="https://www.charlotte.edu"
- title="Go to University of North Carolina at Charlotte homepage"
- >
-<img src="https://cci.charlotte.edu/sites/all/themes/uncc_epsilon/logo.svg" alt="UNC Charlotte logo" />
-
- 
-</a>
-<!-- Print site title -->
-<div id="title-without-subbrand">
-<div>
-<a class="name navbar-brand" href="/" title="Home">
-College of Computing and Informatics
-</a>
-</div>
-</div>
- 
-<!-- Print social media icons -->
-<div id="header-social-icons" class="social-icons">
-<ul class="social-icon-list">
-<li>
-<a href="https://www.facebook.com/UNCCharlotteCCI/" title="Facebook" target="_blank">
-<span class="fa fa-facebook aria-hidden="true">
-</span>
-<span class="sr-only">
-Facebook
-</span>
-</a>
-</li>
-<li>
-<a href="https://twitter.com/UNCC_CCI" title="Twitter" target="_blank">
-<span class="fa fa-twitter aria-hidden="true">
-</span>
-<span class="sr-only">
-Twitter
-</span>
-</a>
-</li>
-<li>
-<a href="https://maps.uncc.edu/#/?nav=PLdbs&ctr=35.30784485036243,-80.73396063823702&z=18&blnd=t,cc-parking,cc-amenities&pop=3F70C2B8-286C-4699-BCDB-84B4F869E503" title="Maps" target="_blank">
-<span class="fa fa-map-marker aria-hidden="true">
-</span>
-<span class="sr-only">
-Maps
-</span>
+<a href="#search-input-nav-top">
+Skip To Search
 </a>
 </li>
 </ul>
- 
+</nav>
+<!-- Mobile Drawer -->
+<div class="nav-mobile" id="nav-mobile">
+</div>
+<div class="wrapper nav-top-false" id="wrapper">
+<!-- Site Header -->
+<header id="header" role="banner" class="site-header ">
+<p class="mark-header">
+<a href="https://www.nd.edu/">
+University of Notre Dame
+</a>
+</p>
+<div class="site-title-group has-parent">
+<p id="site-title" class="site-title">
+<a href="https://cse.nd.edu/" rel="home">
+Computer Science and Engineering
+</a>
+</p>
+<p id="site-parent" class="site-parent">
+<a href="https://engineering.nd.edu">
+College of Engineering
+</a>
+</p>
+</div>
+<!-- .site-title-group -->
+<!-- Header Search/Nav -->
+<div class="nav-header">
+<nav id="nav" class="nav-site nav-full" role="navigation" aria-label="Primary navigation">
+<div id="primary">
+<div id="mega-menu-wrap-main-menu" class="mega-menu-wrap">
+<div class="mega-menu-toggle">
+<div class="mega-toggle-blocks-left">
+</div>
+<div class="mega-toggle-blocks-center">
+</div>
+<div class="mega-toggle-blocks-right">
+<div class='mega-toggle-block mega-menu-toggle-block mega-toggle-block-1' id='mega-toggle-block-1' tabindex='0'>
+<span class='mega-toggle-label' role='button' aria-expanded='false'>
+<span class='mega-toggle-label-closed'>
+MENU
+</span>
+<span class='mega-toggle-label-open'>
+MENU
+</span>
+</span>
 </div>
 </div>
-<div id="navigation">
-<!-- Full width border -->
-<div class="container">
-<div class="navbar-collapse collapse" id="main-nav-collapse">
-<nav role="navigation">
-<ul class="menu nav navbar-nav">
-<li class="first leaf">
-<a href="/" title="">
-Home
+</div>
+<ul id="mega-menu-main-menu" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="click" data-effect="disabled" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-mobile-force-width="false" data-second-click="close" data-document-click="collapse" data-vertical-behaviour="accordion" data-breakpoint="1199" data-unbind="false" data-hover-intent-timeout="300" data-hover-intent-interval="100">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-1531' id='mega-menu-item-1531'>
+<a class="mega-menu-link" href="https://cse.nd.edu/research/" tabindex="0">
+Research
 </a>
 </li>
-<li class="expanded dropdown">
-<a href="/nolink" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
-<no_tag>
-About Us 
-</no_tag>
-<span class="caret">
-</span>
-</a>
-<ul class="dropdown-menu">
-<li class="first leaf">
-<a href="/about-us/deans-welcome" title="">
-The Dean&#039;s Welcome
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-1550' id='mega-menu-item-1550'>
+<a class="mega-menu-link" href="https://cse.nd.edu/undergraduate/" tabindex="0">
+Undergraduate
 </a>
 </li>
-<li class="leaf">
-<a href="/about-us/cci-brochure-2018/cci-brochure-2019" title="">
-CCI Fast Facts - 2021
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-1549' id='mega-menu-item-1549'>
+<a class="mega-menu-link" href="https://cse.nd.edu/graduate/" tabindex="0">
+Graduate
 </a>
 </li>
-<li class="collapsed">
-<a href="/student-life/student-resources/technology-resources" title="">
-Technology Resources
-</a>
-</li>
-<li class="leaf">
-<a href="/about-us/diversity">
-Diversity
-</a>
-</li>
-<li class="collapsed">
-<a href="/about-us/job-opportunities">
-Job Opportunities
-</a>
-</li>
-<li class="leaf">
-<a href="/about-us/mission-and-values">
-Vision and Mission
-</a>
-</li>
-<li class="collapsed">
-<a href="/about-us/policies-and-procedures" title="">
-Policies and Procedures
-</a>
-</li>
-<li class="leaf">
-<a href="/blog" title="">
-Dean Mili&#039;s Blog - Treading Softly
-</a>
-</li>
-<li class="collapsed">
-<a href="/about-us/cci-alumni-network">
-CCI Alumni Network
-</a>
-</li>
-<li class="last collapsed">
-<a href="/giving/want-give-cci">
-Giving
-</a>
-</li>
-</ul>
-</li>
-<li class="expanded dropdown">
-<a href="/nolink" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
-<no_tag>
-Directory 
-</no_tag>
-<span class="caret">
-</span>
-</a>
-<ul class="dropdown-menu">
-<li class="first leaf">
-<a href="/directory" title="">
-Directory Search
-</a>
-</li>
-<li class="leaf">
-<a href="/about-us/people">
-Office of the Dean
-</a>
-</li>
-<li class="leaf">
-<a href="/partners/deans-advisory-board">
-Dean&#039;s Advisory Board
-</a>
-</li>
-<li class="leaf">
-<a href="/directory/faculty" title="">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-current-menu-item mega-align-bottom-left mega-menu-flyout mega-menu-item-805' id='mega-menu-item-805'>
+<a class="mega-menu-link" href="/faculty" tabindex="0">
 Faculty
 </a>
 </li>
-<li class="leaf">
-<a href="/directory/staff" title="">
-Staff
-</a>
-</li>
-<li class="leaf">
-<a href="/directory/post-docs" title="">
-Post Docs
-</a>
-</li>
-<li class="leaf">
-<a href="/directory/students" title="">
-Ph.D. Students
-</a>
-</li>
-<li class="last collapsed">
-<a href="/contact" title="">
-Contact Us
-</a>
-</li>
-</ul>
-</li>
-<li class="leaf">
-<a href="/calendar" title="">
-Calendar
-</a>
-</li>
-<li class="expanded active-trail active dropdown">
-<a href="/nolink" title="" class="active-trail dropdown-toggle" data-target="#" data-toggle="dropdown" data-hover="dropdown">
-<no_tag>
-Departments 
-</no_tag>
-<span class="caret">
-</span>
-</a>
-<ul class="dropdown-menu">
-<li class="first leaf">
-<a href="/departments/cci-departments">
-CCI Departments
-</a>
-</li>
-<li class="collapsed">
-<a href="/bioinformatics/47/3">
-Bioinformatics and Genomics (BiG)
-</a>
-</li>
-<li class="expanded active-trail active">
-<a href="/computer-science/45/5" class="active-trail active-trail">
-Computer Science (CS)
-</a>
-</li>
-<li class="leaf">
-<a href="https://datascience.uncc.edu/" title="">
-School of Data Science (SDS)
-</a>
-</li>
-<li class="collapsed">
-<a href="/departments/software-and-information-systems-sis">
-Software and Information Systems (SIS)
-</a>
-</li>
-<li class="last collapsed">
-<a href="/departments/nc-research-campus-ncrc">
-NC Research Campus (NCRC)
-</a>
-</li>
-</ul>
-</li>
-<li class="expanded dropdown">
-<a href="/nolink" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
-<no_tag>
-Academics 
-</no_tag>
-<span class="caret">
-</span>
-</a>
-<ul class="dropdown-menu">
-<li class="first leaf">
-<a href="/academics">
-Academic Programs
-</a>
-</li>
-<li class="leaf">
-<a href="/academics/undergraduate-studies">
-Undergraduate Studies
-</a>
-</li>
-<li class="collapsed">
-<a href="/graduate-programs">
-Graduate Programs
-</a>
-</li>
-<li class="collapsed">
-<a href="/academics/doctoral-degrees">
-Doctoral Degrees
-</a>
-</li>
-<li class="leaf">
-<a href="/academics/graduate-certificates">
-Graduate Certificates
-</a>
-</li>
-<li class="last leaf">
-<a href="https://cci.charlotte.edu/academics/honors-program" title="">
-CCI Honors Program
-</a>
-</li>
-</ul>
-</li>
-<li class="expanded dropdown">
-<a href="/nolink" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
-<no_tag>
-Research 
-</no_tag>
-<span class="caret">
-</span>
-</a>
-<ul class="dropdown-menu">
-<li class="first leaf">
-<a href="/research/cci-research-areas">
-CCI Research Areas
-</a>
-</li>
-<li class="leaf">
-<a href="/research/research-contacts">
-Research Office
-</a>
-</li>
-<li class="leaf">
-<a href="/research/search-our-research-database">
-Research Opportunity Database
-</a>
-</li>
-<li class="leaf">
-<a href="/research/new-funding-opportunities">
-NEW Funding Opportunities
-</a>
-</li>
-<li class="leaf">
-<a href="/research/funded-research-database">
-Funded Research Database
-</a>
-</li>
-<li class="leaf">
-<a href="/research/faculty-areas-expertise">
-Faculty Areas of Expertise
-</a>
-</li>
-<li class="leaf">
-<a href="/research/labs-and-centers">
-Labs and Centers
-</a>
-</li>
-<li class="leaf">
-<a href="/research/cci-innovation-fund">
-CCI Innovation Fund
-</a>
-</li>
-<li class="leaf">
-<a href="/research/research-seminar">
-Research Seminars
-</a>
-</li>
-<li class="leaf">
-<a href="/research/undergraduate-research-opportunities">
-Undergraduate Research
-</a>
-</li>
-<li class="last leaf">
-<a href="/research/research-faq">
-Research FAQ
-</a>
-</li>
-</ul>
-</li>
-<li class="expanded dropdown">
-<a href="/nolink" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
-<no_tag>
-Student Life 
-</no_tag>
-<span class="caret">
-</span>
-</a>
-<ul class="dropdown-menu">
-<li class="first leaf">
-<a href="/student-life/unc-charlotte-student-life">
-Student Life at UNC Charlotte
-</a>
-</li>
-<li class="leaf">
-<a href="/student-life/student-life-unc-charlotte/student-center">
-Student Center
-</a>
-</li>
-<li class="collapsed">
-<a href="/student-life/advising">
-CCI Advising
-</a>
-</li>
-<li class="collapsed">
-<a href="/student-life/cci-mentoring">
-CCI Mentoring
-</a>
-</li>
-<li class="leaf">
-<a href="/student-life/learning-communities">
-Learning Community
-</a>
-</li>
-<li class="collapsed">
-<a href="/student-life/student-resources/technology-resources">
-Technology Resources
-</a>
-</li>
-<li class="leaf">
-<a href="https://itservices.uncc.edu/laptop" title="">
-Laptop Policy
-</a>
-</li>
-<li class="collapsed">
-<a href="/student-life/student-resources">
-Student Resources
-</a>
-</li>
-<li class="leaf">
-<a href="/student-life/tutoring">
-Undergraduate Tutoring
-</a>
-</li>
-<li class="leaf">
-<a href="/student-life/student-clubs-organizations">
-Student Clubs &amp; Organizations
-</a>
-</li>
-<li class="leaf">
-<a href="/student-life/cci-deans-ambassador-program">
-CCI Dean&#039;s Ambassador Program
-</a>
-</li>
-<li class="last leaf">
-<a href="/student-life/scholarships">
-Scholarships
-</a>
-</li>
-</ul>
-</li>
-<li class="expanded dropdown">
-<a href="/nolink" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
-<no_tag>
-Partners 
-</no_tag>
-<span class="caret">
-</span>
-</a>
-<ul class="dropdown-menu">
-<li class="first collapsed">
-<a href="/partners">
-Business Partners
-</a>
-</li>
-<li class="last leaf">
-<a href="/partners/lowes-technology-days">
-Lowe&#039;s Technology Days
-</a>
-</li>
-</ul>
-</li>
-<li class="last expanded dropdown">
-<a href="/nolink" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
-<no_tag>
-News 
-</no_tag>
-<span class="caret">
-</span>
-</a>
-<ul class="dropdown-menu">
-<li class="first leaf">
-<a href="/news" title="">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-current_page_parent mega-align-bottom-left mega-menu-flyout mega-menu-item-997' id='mega-menu-item-997'>
+<a class="mega-menu-link" href="https://cse.nd.edu/news/" tabindex="0">
 News
 </a>
 </li>
-<li class="leaf">
-<a href="/medianews/photo-galleries">
-Photo Galleries
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-806' id='mega-menu-item-806'>
+<a class="mega-menu-link" href="/events" tabindex="0">
+Events
 </a>
 </li>
-<li class="last leaf">
-<a href="/video-library" title="">
-Video Archive
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-1943' id='mega-menu-item-1943'>
+<a class="mega-menu-link" href="#" aria-haspopup="true" aria-expanded="false" tabindex="0">
+<no_tag>
+About
+</no_tag>
+<span class="mega-indicator">
+</span>
+</a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-1939' id='mega-menu-item-1939'>
+<a class="mega-menu-link" href="https://cse.nd.edu/about-cse/">
+About CSE
 </a>
 </li>
-</ul>
-</li>
-</ul>
- 
-</nav>
-</div>
-</div>
-</div>
-</div>
-</header>
-<div class="main-container container">
-<header role="banner" id="page-header">
-
- 
-</header>
- 
-<!-- /#page-header -->
-<div class="row">
-<ol class="breadcrumb">
-<li>
-<a href="/">
-Home
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-1942' id='mega-menu-item-1942'>
+<a class="mega-menu-link" href="https://cse.nd.edu/about-cse/welcome-from-the-chair/">
+<no_tag>
+Welcome from
+</no_tag>
+<br>
+<no_tag>
+the Chair
+</no_tag>
 </a>
 </li>
-<li>
-<a href="/nolink" title="" class="active-trail">
-Departments
-</a>
-</li>
-<li>
-<a href="/computer-science/45/5" class="active-trail active-trail">
-Computer Science (CS)
-</a>
-</li>
-<li>
-<a href="/departments/computer-science/about-us" class="active-trail active-trail">
-About CS
-</a>
-</li>
-<li class="active">
-Directory
-</li>
-</ol>
-<h1 class="page-header">
-Directory
-</h1>
-<aside class="col-sm-3 no-gutters" role="complementary">
-<div class="region region-sidebar-first well">
-<section id="block-menu-block-1" class="block block-menu-block clearfix">
-<h2 class="block-title">
-Departments
-</h2>
-<div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
-<ul class="menu nav">
-<li class="first leaf menu-mlid-1261">
-<a href="/departments/cci-departments">
-CCI Departments
-</a>
-</li>
-<li class="collapsed menu-mlid-1253">
-<a href="/bioinformatics/47/3">
-Bioinformatics and Genomics (BiG)
-</a>
-</li>
-<li class="expanded active-trail menu-mlid-1271 active">
-<a href="/computer-science/45/5" class="active-trail">
-Computer Science (CS)
-</a>
-<ul class="menu nav">
-<li class="first expanded active-trail menu-mlid-1467 active">
-<a href="/departments/computer-science/about-us" class="active-trail">
-About CS
-</a>
-<ul class="menu nav">
-<li class="first leaf menu-mlid-1985">
-<a href="/departments/computer-science/about-us/administration">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-1941' id='mega-menu-item-1941'>
+<a class="mega-menu-link" href="https://cse.nd.edu/about-cse/administration-and-staff/">
+<no_tag>
 Administration
+</no_tag>
+<br>
+<no_tag>
+and Staff
+</no_tag>
 </a>
 </li>
-<li class="leaf menu-mlid-1469">
-<a href="/departments/computer-science/about-us/directions">
-Directions
-</a>
-</li>
-<li class="leaf menu-mlid-1471">
-<a href="/departments/computer-science/about-us/contact-information">
-Contact Information
-</a>
-</li>
-<li class="expanded active-trail active menu-mlid-2233 active">
-<a href="/directory/cs/faculty" title="" class="active-trail active">
-CS Faculty
-</a>
-<ul class="menu nav">
-<li class="first last leaf menu-mlid-2579">
-<a href="/departments/computer-science-cs/about-cs/cs-faculty-awards">
-CS Faculty Awards
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-3320' id='mega-menu-item-3320'>
+<a class="mega-menu-link" href="https://cse.nd.edu/about-cse/faculty-job-openings/">
+<no_tag>
+Faculty job 
+</no_tag>
+<br>
+<no_tag>
+openings
+</no_tag>
 </a>
 </li>
 </ul>
-</li>
-<li class="last leaf menu-mlid-2235">
-<a href="/directory/cs/staff" title="">
-CS Staff
-</a>
-</li>
-</ul>
-</li>
-<li class="collapsed menu-mlid-1473">
-<a href="/academics/computer-science" title="">
-CS Academics
-</a>
-</li>
-<li class="leaf menu-mlid-2587">
-<a href="/departments/computer-science-cs/cs-research">
-CS Research
-</a>
-</li>
-<li class="leaf menu-mlid-1871">
-<a href="/news/computer-science" title="">
-CS News
-</a>
-</li>
-<li class="leaf menu-mlid-2231">
-<a href="http://cci.charlotte.edu/about-us/job-opportunities" title="">
-CS Job Opportunities
-</a>
-</li>
-<li class="last leaf menu-mlid-2585">
-<a href="https://sites.google.com/uncc.edu/cs-intranet/home" title="">
-CS Department Intranet
-</a>
-</li>
-</ul>
-</li>
-<li class="leaf menu-mlid-2595">
-<a href="https://datascience.uncc.edu/" title="">
-School of Data Science (SDS)
-</a>
-</li>
-<li class="collapsed menu-mlid-1269">
-<a href="/departments/software-and-information-systems-sis">
-Software and Information Systems (SIS)
-</a>
-</li>
-<li class="last collapsed menu-mlid-2703">
-<a href="/departments/nc-research-campus-ncrc">
-NC Research Campus (NCRC)
-</a>
 </li>
 </ul>
 </div>
-</section>
-</div>
-</aside>
  
-<!-- /#sidebar-first -->
-<section class="col-sm-9">
-<a id="main-content">
-</a>
-<div class="region region-content">
-<section id="block-system-main" class="block block-system clearfix">
-<div class="view view-customized-directory-search view-id-customized_directory_search view-display-id-page_6 directory-list view-dom-id-2dd4dd4c8d8f327b968bf30c5c2004ef">
-<div class="view-filters">
-<form action="/directory/cs/faculty" method="get" id="views-exposed-form-customized-directory-search-page-6" accept-charset="UTF-8">
-<div>
-<div class="views-exposed-form">
-<div class="views-exposed-widgets clearfix">
-<div id="edit-name-wrapper" class="views-exposed-widget views-widget-filter-title">
-<label for="edit-name">
-
- Name 
+</div>
+</nav>
+<div class="nav-search-wrapper">
+<form method="get" action="https://cse.nd.edu/" id="search-nav-top" class="search-form" role="search" aria-label="Site search">
+<label class="screen-reader-text" for="s">
+Search for:
 </label>
-<div class="views-widget">
-<div class="form-item form-item-name form-type-textfield form-group">
-<input class="form-control form-text" type="text" id="edit-name" name="name" value="" size="30" maxlength="128" />
-</div>
- 
-</div>
-</div>
-<div id="edit-field-directory-category-tid-wrapper" class="views-exposed-widget views-widget-filter-field_directory_category_tid">
-<label for="edit-field-directory-category-tid">
-
- Category 
-</label>
-<div class="views-widget">
-<div class="form-item form-item-field-directory-category-tid form-type-select form-group">
-<select class="form-control form-select required" id="edit-field-directory-category-tid" name="field_directory_category_tid">
-<option value="21" selected="selected">
-Faculty
-</option>
-<option value="59">
--Adjunct Faculty
-</option>
-<option value="61">
--Emeritus Faculty
-</option>
-<option value="63">
--Lecturers
-</option>
-<option value="67">
--Teaching Faculty
-</option>
-<option value="81">
--Tenured Faculty
-</option>
-</select>
-</div>
- 
-</div>
-</div>
-<div class="views-exposed-widget views-widget-per-page">
-<div class="form-item form-item-items-per-page form-type-select form-group">
- 
-<label class="control-label" for="edit-items-per-page">
-Items per page
-</label>
-<select class="form-control form-select" id="edit-items-per-page" name="items_per_page">
-<option value="5">
-5
-</option>
-<option value="10" selected="selected">
-10
-</option>
-<option value="20">
-20
-</option>
-<option value="40">
-40
-</option>
-<option value="60">
-60
-</option>
-<option value="All">
-- All -
-</option>
-</select>
-</div>
- 
-</div>
-<div class="views-exposed-widget views-submit-button">
-<button type="submit" id="edit-submit-customized-directory-search" name="" value="Search" class="btn btn-primary form-submit">
-Search
+<input type="search" name="s" class="search-input" id="s" autocomplete="off" placeholder="Search this site" title="type your search term" aria-label="Site Search input">
+<button class="search-button" type="submit" aria-label="Search">
+<svg class="icon" data-icon="search">
+<use xlink:href="#icon-search">
+</use>
+</svg>
 </button>
-</div>
-<div class="views-exposed-widget views-reset-button">
-<button type="submit" id="edit-reset" name="op" value="Reset" class="btn btn-default form-submit">
-Reset
+<button class="close-search-button" type="button" aria-label="Clear and close search">
+<svg class="icon" data-icon="close" width="16" height="16">
+<use xlink:href="#icon-close">
+</use>
+</svg>
 </button>
-</div>
-</div>
-</div>
-</div>
 </form>
  
 </div>
-<div class="view-content">
-<div class="views-row views-row-1 views-row-odd views-row-first">
-<div class="views-field views-field-nothing">
- 
-<span class="field-content">
-<img class="img-responsive" src="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/styles/directory-list/public/fields/directory/field_directory_image/Cukic%20LO_0.JPG?itok=MaNjRPxw" width="220" height="275" alt="Cukic" />
-<h3>
-Bojan Cukic
-</h3>
-<h4>
-Computer Science 
-</h4>
-<h5>
-Associate Dean and Professor
-</h5>
-<i class="fa fa-map-marker" aria-hidden="true">
-</i>
-<no_tag>
- Woodward 430A 
-</no_tag>
-<br>
-<i class="fa fa-phone" aria-hidden="true">
-</i>
-<no_tag>
- 704-687-6155
-</no_tag>
-<br>
-<i class="fa fa-envelope-o" aria-hidden="true">
-</i>
- 
-<a href="mailto:bcukic@uncc.edu">
-bcukic@uncc.edu
-</a>
- 
-<br/>
- 
-<br/>
-<div class="clearfix">
 </div>
+<!-- Mobile Navbar -->
+<div class="nav-mobile-util">
+<ul class="no-bullets">
+<li>
+<a href="https://cse.nd.edu/">
+<svg class="icon" data-icon="home">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-home">
+</use>
+</svg>
+<no_tag>
+ Home
+</no_tag>
+</a>
+</li>
+<li>
+<button class="btn-search search-toggle">
+<svg class="icon" data-icon="search">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-search">
+</use>
+</svg>
+<no_tag>
+ Search
+</no_tag>
+</button>
+</li>
+<li>
+<a href="#nav" class="nav-menu nav-skip">
+<svg version="1.1" class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 20 20" xml:space="preserve">
+<line class="ni ni1" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="0.98" y1="2" x2="18.94" y2="2"/>
+<line class="ni ni2" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="0.98" y1="8.69" x2="18.94" y2="8.69"/>
+
+ 
+</svg>
+<span class="ni ni3">
+Menu
+</span>
+</a>
+</li>
+</ul>
+<div class="nav-search-wrapper">
+<form method="get" action="https://cse.nd.edu/" id="search-nav-mobile" class="search-form" role="search" aria-label="Site search">
+<label class="screen-reader-text" for="s">
+Search for:
+</label>
+<input type="search" name="s" class="search-input" id="s_mobile" autocomplete="off" placeholder="Search this site" title="type your search term" aria-label="Site Search input">
+<button class="search-button" type="submit" aria-label="Search">
+<svg class="icon" data-icon="search">
+<use xlink:href="#icon-search">
+</use>
+</svg>
+</button>
+<button class="search-close search-toggle" aria-label="Close Search">
+<svg class="icon" data-icon="close" width="16" height="16">
+<use xlink:href="#icon-close">
+</use>
+</svg>
+</button>
+</form>
+ 
+</div>
+</div>
+</header>
+<!-- #masthead -->
+<!-- Site Content -->
+<div id="content" class="X_site-content" >
+<main id="main" class="page-main" role="main">
+<article id="all-people-and-profiles" class="nohero defaultblue profiles-listing">
+<header class="entry-header">
+<div class="breadcrumb">
+<ol class="breadcrumbs">
+<li>
+<a href="https://cse.nd.edu">
+Home
+</a>
+</li>
+ 
+<svg class="breadcrumb-delimiter-svg" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5.2 8.09">
+<defs>
+<style>
+.f1dec71d-fdb2-4d8b-99d1-3d7eb0d2fd0c{fill:#ae9142;}
+</style>
+</defs>
+<path data-name="Path 78" class="f1dec71d-fdb2-4d8b-99d1-3d7eb0d2fd0c" d="M507.39,278.49a.33.33,0,0,0,0-.45h0l-3.73-3.72a.32.32,0,0,0-.45,0h0l-.84.83a.33.33,0,0,0,0,.45h0l2.67,2.67-2.67,2.66a.33.33,0,0,0,0,.45h0l.84.83a.31.31,0,0,0,.45,0h0Z" transform="translate(-502.28 -274.22)"/>
+</svg>
+ 
+<li class="current">
+<!-- post+type->
+<no_tag>
+labels->
+</no_tag>
+<no_tag>
+name: -->
+</no_tag>
+<no_tag>
+Faculty
+</no_tag>
+<!-- $after: -->
+</li>
+<!-- (!is_single() && !is_page() && get_post_type() != post && !is_404()) -->
+</ol>
+</div>
+<div class="header-text">
+<h1 class="page-title">
+Faculty
+</h1>
+</div>
+</header>
+<div class="entry-content">
+<div class="wp-block-uagb-table-of-contents uagb-toc__align-left people-filters" data-scroll="false" data-offset="0" data-delay="0">
+<div class="uagb-toc__wrap">
+<h2 class="h3">
+Search By
+</h2>
+<form method="get" action="https://cse.nd.edu/faculty" id="search-people" class="" role="search" aria-label="Faculty search">
+<label class="screen-reader-text" for="s">
+Search faculty:
+</label>
+<input type="search" name="s" class="" id="s" autocomplete="off" placeholder="Name or research area" title="type your search term" aria-label="Faculty search input">
+<input type="hidden" name="search-type" value="faculty" />
+<button class="" type="submit" aria-label="Search">
+<svg class="icon" data-icon="search">
+<use xlink:href="#icon-search">
+</use>
+</svg>
+</button>
+</form>
+<!-- 
+<div class="form-field-helper">
+e.g., Leigh Smith, nanotechnology
+</div>
+<no_tag>
+ -->
+</no_tag>
+<hr>
+<nav class="alphabet-navigation">
+<ul>
+<li>
+A
+</li>
+<li>
+<a href="?starts_with=B">
+B
+</a>
+</li>
+<li>
+<a href="?starts_with=C">
+C
+</a>
+</li>
+<li>
+D
+</li>
+<li>
+E
+</li>
+<li>
+<a href="?starts_with=F">
+F
+</a>
+</li>
+<li>
+<a href="?starts_with=G">
+G
+</a>
+</li>
+<li>
+<a href="?starts_with=H">
+H
+</a>
+</li>
+<li>
+I
+</li>
+<li>
+<a href="?starts_with=J">
+J
+</a>
+</li>
+<li>
+<a href="?starts_with=K">
+K
+</a>
+</li>
+<li>
+<a href="?starts_with=L">
+L
+</a>
+</li>
+<li>
+<a href="?starts_with=M">
+M
+</a>
+</li>
+<li>
+<a href="?starts_with=N">
+N
+</a>
+</li>
+<li>
+O
+</li>
+<li>
+P
+</li>
+<li>
+Q
+</li>
+<li>
+R
+</li>
+<li>
+<a href="?starts_with=S">
+S
+</a>
+</li>
+<li>
+<a href="?starts_with=T">
+T
+</a>
+</li>
+<li>
+U
+</li>
+<li>
+<a href="?starts_with=V">
+V
+</a>
+</li>
+<li>
+<a href="?starts_with=W">
+W
+</a>
+</li>
+<li>
+X
+</li>
+<li>
+<a href="?starts_with=Y">
+Y
+</a>
+</li>
+<li>
+<a href="?starts_with=Z">
+Z
+</a>
+</li>
+</ul>
+</nav>
+<hr>
 <p>
-<a class ="button button-gray" href="/directory/bojan-cukic" alt="Bojan Cukic" title="Bojan Cukic">
-Read More about Bojan Cukic
+<a class="ndce-button1" href="https://engineering.nd.edu/faculty">
+View all Engineering faculty
 </a>
 </p>
-<br/>
-<div class="clearfix">
 </div>
-<hr/>
-
-
-</span>
- 
 </div>
- 
+<article id="post-1011" class="post-1011 profile type-profile status-publish has-post-thumbnail hentry department-computer-science-and-engineering position-faculty">
+<div class="directory">
+<div class="grid directory-grid">
+<div>
+<div class="picture distributed">
+<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/2020/06/Billo-Richard-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Richard Billo" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/2020/06/Billo-Richard-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/2020/06/Billo-Richard-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/2020/06/Billo-Richard-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
 </div>
-<div class="views-row views-row-2 views-row-even">
-<div class="views-field views-field-nothing">
- 
-<span class="field-content">
-<img class="img-responsive" src="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/styles/directory-list/public/fields/directory/field_directory_image/AhmedD_lo.jpg?itok=fCa0W9QO" width="220" height="308" alt="Dewan Ahmed" title="Dewan Ahmed" />
-<h3>
-Dewan Ahmed
+</div>
+<!-- 
+<div>
+<div class="picture">
+<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Billo-Richard-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Richard Billo" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Billo-Richard-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Billo-Richard-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Billo-Richard-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+</div>
+</div>
+<no_tag>
+ -->
+</no_tag>
+<div>
+<h2 class="">
+<a href="https://cse.nd.edu/faculty/richard-billo/" rel="bookmark">
+Richard Billo
+</a>
+</h2>
+<h3 class="is-style-plain">
+Professor Emeritus, Computer Science Engineering
 </h3>
-<h4>
-Computer Science 
+<h4 class="is-style-plain">
+Areas of Interest
 </h4>
-<h5>
-Associate Teaching Professor, Associate Chair of Academics and Graduate Program Director (Interim)
-</h5>
-<i class="fa fa-map-marker" aria-hidden="true">
-</i>
-<no_tag>
- Woodward 423B 
-</no_tag>
-<br>
-<i class="fa fa-phone" aria-hidden="true">
-</i>
-<no_tag>
- 704-687-7888
-</no_tag>
-<br>
-<i class="fa fa-envelope-o" aria-hidden="true">
-</i>
- 
-<a href="mailto:dahmed@uncc.edu">
-dahmed@uncc.edu
-</a>
- 
-<br/>
- 
-<br/>
-<div class="clearfix">
-</div>
 <p>
-<a class ="button button-gray" href="/directory/dewan-ahmed" alt="Dewan Ahmed" title="Dewan Ahmed">
-Read More about Dewan Ahmed
-</a>
+Advanced manufacturing and information systems
 </p>
-<br/>
-<div class="clearfix">
 </div>
-<hr/>
-
-
-</span>
- 
 </div>
- 
 </div>
-<div class="views-row views-row-3 views-row-odd">
-<div class="views-field views-field-nothing">
- 
-<span class="field-content">
-<img class="img-responsive" src="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/styles/directory-list/public/fields/directory/field_directory_image/SrinivasAkella2.jpg?itok=Cdf-9qyF" width="220" height="258" alt="" />
-<h3>
-Srinivas Akella
+</article>
+<!-- #post-1011 -->
+<article id="post-1021" class="post-1021 profile type-profile status-publish has-post-thumbnail hentry department-computer-science-and-engineering position-faculty">
+<div class="directory">
+<div class="grid directory-grid">
+<div>
+<div class="picture distributed">
+<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/2020/06/Bowyer-Kevin-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Kevin W. Bowyer" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/2020/06/Bowyer-Kevin-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/2020/06/Bowyer-Kevin-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/2020/06/Bowyer-Kevin-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+</div>
+</div>
+<!-- 
+<div>
+<div class="picture">
+<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bowyer-Kevin-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Kevin W. Bowyer" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bowyer-Kevin-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bowyer-Kevin-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bowyer-Kevin-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+</div>
+</div>
+<no_tag>
+ -->
+</no_tag>
+<div>
+<h2 class="">
+<a href="https://cse.nd.edu/faculty/kevin-bowyer/" rel="bookmark">
+Kevin Bowyer
+</a>
+</h2>
+<h3 class="is-style-plain">
+Schubmehl-Prein Family Professor, Computer Science and Engineering
 </h3>
-<h4>
-Computer Science 
+<h4 class="is-style-plain">
+Areas of Interest
 </h4>
-<h5>
-Professor
-</h5>
-<i class="fa fa-map-marker" aria-hidden="true">
-</i>
-<no_tag>
- Woodward 205B 
-</no_tag>
-<br>
-<i class="fa fa-phone" aria-hidden="true">
-</i>
-<no_tag>
- 704-687-8573
-</no_tag>
-<br>
-<i class="fa fa-envelope-o" aria-hidden="true">
-</i>
- 
-<a href="mailto:sakella@uncc.edu">
-sakella@uncc.edu
-</a>
- 
-<br/>
- 
-<br/>
-<div class="clearfix">
-</div>
 <p>
-<a class ="button button-gray" href="/directory/srinivas-akella" alt="Srinivas Akella" title="Srinivas Akella">
-Read More about Srinivas Akella
-</a>
+Biometrics, data mining, computer vision, pattern recognition, applications to medical imaging, ethics and computing, computer science education
 </p>
-<br/>
-<div class="clearfix">
 </div>
-<hr/>
-
-
-</span>
- 
 </div>
- 
 </div>
-<div class="views-row views-row-4 views-row-even">
-<div class="views-field views-field-nothing">
- 
-<span class="field-content">
-<img class="img-responsive" src="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/styles/directory-list/public/fields/directory/field_directory_image/Picture1.png?itok=pIbaFSqh" width="220" height="293" alt="" />
-<h3>
-Ann Aksut
+</article>
+<!-- #post-1021 -->
+<article id="post-1192" class="post-1192 profile type-profile status-publish has-post-thumbnail hentry department-computer-science-and-engineering position-faculty">
+<div class="directory">
+<div class="grid directory-grid">
+<div>
+<div class="picture distributed">
+<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/2020/06/Brockman-Jay-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Jay Brockman" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/2020/06/Brockman-Jay-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/2020/06/Brockman-Jay-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/2020/06/Brockman-Jay-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+</div>
+</div>
+<!-- 
+<div>
+<div class="picture">
+<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/sites/7/2020/08/Brockman-Jay-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Jay Brockman" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/sites/7/2020/08/Brockman-Jay-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/08/Brockman-Jay-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/08/Brockman-Jay-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+</div>
+</div>
+<no_tag>
+ -->
+</no_tag>
+<div>
+<h2 class="">
+<a href="https://cse.nd.edu/faculty/jay-brockman/" rel="bookmark">
+Jay Brockman
+</a>
+</h2>
+<h3 class="is-style-plain">
+Director, Center for Civic Innovation
 </h3>
-<h4>
-Computer Science 
-</h4>
-<h5>
-Adjunct Faculty
-</h5>
-<i class="fa fa-map-marker" aria-hidden="true">
-</i>
-<no_tag>
- Woodward Hall 
-</no_tag>
-<br>
-<i class="fa fa-envelope-o" aria-hidden="true">
-</i>
- 
-<a href="mailto:aaksut@uncc.edu">
-aaksut@uncc.edu
-</a>
- 
-<br/>
- 
-<br/>
-<div class="clearfix">
-</div>
 <p>
-<a class ="button button-gray" href="/directory/ann-aksut" alt="Ann Aksut" title="Ann Aksut">
-Read More about Ann Aksut
-</a>
+Professor of the Practice, Computer Science and Engineering
 </p>
-<br/>
-<div class="clearfix">
 </div>
-<hr/>
-
-
-</span>
- 
 </div>
- 
 </div>
-<div class="views-row views-row-5 views-row-odd">
-<div class="views-field views-field-nothing">
- 
-<span class="field-content">
-<img class="img-responsive" src="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/styles/directory-list/public/fields/directory/field_directory_image/Mike-Allen.png?itok=afo5_rh-" width="220" height="314" alt="Allen, C. Michael" title="Allen, C. Michael " />
-<h3>
-Michael C. Allen
+</article>
+<!-- #post-1192 -->
+<article id="post-1023" class="post-1023 profile type-profile status-publish has-post-thumbnail hentry department-computer-science-and-engineering position-faculty">
+<div class="directory">
+<div class="grid directory-grid">
+<div>
+<div class="picture distributed">
+<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/2020/06/Bualuan-Ramzi-HS.2-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Ramzi Bualuan" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/2020/06/Bualuan-Ramzi-HS.2-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/2020/06/Bualuan-Ramzi-HS.2-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/2020/06/Bualuan-Ramzi-HS.2-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+</div>
+</div>
+<!-- 
+<div>
+<div class="picture">
+<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bualuan-Ramzi-HS.2-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Ramzi Bualuan" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bualuan-Ramzi-HS.2-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bualuan-Ramzi-HS.2-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bualuan-Ramzi-HS.2-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+</div>
+</div>
+<no_tag>
+ -->
+</no_tag>
+<div>
+<h2 class="">
+<a href="https://cse.nd.edu/faculty/ramzi-bualuan/" rel="bookmark">
+Ramzi Bualuan
+</a>
+</h2>
+<h3 class="is-style-plain">
+Teaching Professor, Computer Science and Engineering
 </h3>
-<h4>
-Computer Science 
-</h4>
-<h5>
-Emeritus Faculty
-</h5>
-<br/>
-<div class="clearfix">
-</div>
 <p>
-<a class ="button button-gray" href="http://webpages.uncc.edu/cma/" alt="Michael C. Allen" title="Michael C. Allen">
-Read More about Michael C. Allen
-</a>
+Director of Undergraduate Studies
 </p>
-<br/>
-<div class="clearfix">
+<h4 class="is-style-plain">
+Areas of Interest
+</h4>
+<p>
+Databases, advanced database projects, visual FX
+</p>
 </div>
-<hr/>
-
-
-</span>
- 
 </div>
- 
 </div>
-<div class="views-row views-row-6 views-row-even">
-<div class="views-field views-field-nothing">
- 
-<span class="field-content">
-<img class="img-responsive" src="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/styles/directory-list/public/fields/directory/field_directory_image/Alston-LO.JPG?itok=OOi5j1V5" width="220" height="308" alt="Alston" />
-<h3>
-Jermaine Alston
+</article>
+<!-- #post-1023 -->
+<article id="post-1025" class="post-1025 profile type-profile status-publish has-post-thumbnail hentry department-computer-science-and-engineering position-faculty">
+<div class="directory">
+<div class="grid directory-grid">
+<div>
+<div class="picture distributed">
+<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/2020/06/Bui-Peter-HS.2-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Peter Bui" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/2020/06/Bui-Peter-HS.2-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/2020/06/Bui-Peter-HS.2-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/2020/06/Bui-Peter-HS.2-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+</div>
+</div>
+<!-- 
+<div>
+<div class="picture">
+<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bui-Peter-HS.2-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Peter Bui" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bui-Peter-HS.2-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bui-Peter-HS.2-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bui-Peter-HS.2-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+</div>
+</div>
+<no_tag>
+ -->
+</no_tag>
+<div>
+<h2 class="">
+<a href="https://cse.nd.edu/faculty/peter-bui/" rel="bookmark">
+Peter Bui
+</a>
+</h2>
+<h3 class="is-style-plain">
+Associate Teaching Professor, Computer Science and Engineering
 </h3>
-<h4>
-Computer Science 
+<h4 class="is-style-plain">
+Areas of Interest
 </h4>
-<h5>
-Lecturer
-</h5>
-<i class="fa fa-map-marker" aria-hidden="true">
-</i>
-<no_tag>
- Woodward 410F 
-</no_tag>
-<br>
-<i class="fa fa-phone" aria-hidden="true">
-</i>
-<no_tag>
- 704-687-5404
-</no_tag>
-<br>
-<i class="fa fa-envelope-o" aria-hidden="true">
-</i>
- 
-<a href="mailto:Jermaine.Alston@uncc.edu">
-Jermaine.Alston@uncc.edu
-</a>
- 
-<br/>
- 
-<br/>
-<div class="clearfix">
-</div>
 <p>
-<a class ="button button-gray" href="/directory/jermaine-alston" alt="Jermaine Alston" title="Jermaine Alston">
-Read More about Jermaine Alston
-</a>
+Systems programming, operating systems, parallel computing, cloud computing, distributed computing, programming languages, compilers, web services
 </p>
-<br/>
-<div class="clearfix">
 </div>
-<hr/>
-
-
-</span>
- 
 </div>
- 
 </div>
-<div class="views-row views-row-7 views-row-odd">
-<div class="views-field views-field-nothing">
- 
-<span class="field-content">
-<img class="img-responsive" src="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/styles/directory-list/public/fields/directory/field_directory_image/MohammadAtif_lo.jpg?itok=a_ohi1OV" width="220" height="308" alt="Atif Mohammad" title="Atif Mohammed" />
-<h3>
-Mohammad Farid Atif
+</article>
+<!-- #post-1025 -->
+<article id="post-1027" class="post-1027 profile type-profile status-publish has-post-thumbnail hentry department-computer-science-and-engineering position-faculty">
+<div class="directory">
+<div class="grid directory-grid">
+<div>
+<div class="picture distributed">
+<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/2020/06/Chawla-Nitesh-cc-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Nitesh Chawla" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/2020/06/Chawla-Nitesh-cc-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/2020/06/Chawla-Nitesh-cc-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/2020/06/Chawla-Nitesh-cc-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+</div>
+</div>
+<!-- 
+<div>
+<div class="picture">
+<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chawla-Nitesh-cc-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Nitesh Chawla" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chawla-Nitesh-cc-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chawla-Nitesh-cc-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chawla-Nitesh-cc-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+</div>
+</div>
+<no_tag>
+ -->
+</no_tag>
+<div>
+<h2 class="">
+<a href="https://cse.nd.edu/faculty/nitesh-chawla/" rel="bookmark">
+Nitesh Chawla
+</a>
+</h2>
+<h3 class="is-style-plain">
+Frank M. Freimann Professor of Computer Science and Engineering
 </h3>
-<h4>
-Computer Science 
-</h4>
-<h5>
-Adjunct Faculty
-</h5>
-<i class="fa fa-map-marker" aria-hidden="true">
-</i>
-<no_tag>
- Woodward 350 
-</no_tag>
-<br>
-<i class="fa fa-phone" aria-hidden="true">
-</i>
-<no_tag>
- 704-687-8581
-</no_tag>
-<br>
-<i class="fa fa-envelope-o" aria-hidden="true">
-</i>
- 
-<a href="mailto:amoham19@uncc.edu">
-amoham19@uncc.edu
-</a>
- 
-<br/>
- 
-<br/>
-<div class="clearfix">
-</div>
 <p>
-<a class ="button button-gray" href="/directory/mohammad-farid-atif" alt="Mohammad Farid Atif" title="Mohammad Farid Atif">
-Read More about Mohammad Farid Atif
-</a>
+Director, Lucy Family Institute for Data and Society
 </p>
-<br/>
-<div class="clearfix">
+<h4 class="is-style-plain">
+Areas of Interest
+</h4>
+<p>
+Data science, artificial intelligence and analytics, ethical application of technology for the common good
+</p>
 </div>
-<hr/>
-
-
-</span>
- 
 </div>
- 
 </div>
-<div class="views-row views-row-8 views-row-even">
-<div class="views-field views-field-nothing">
- 
-<span class="field-content">
-<img class="img-responsive" src="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/styles/directory-list/public/fields/directory/field_directory_image/Bahamon%204%20LO.jpeg?itok=hPqNODZk" width="220" height="275" alt="Bahamon" />
-<h3>
-Julio Bahamon
+</article>
+<!-- #post-1027 -->
+<article id="post-1029" class="post-1029 profile type-profile status-publish has-post-thumbnail hentry department-computer-science-and-engineering position-faculty">
+<div class="directory">
+<div class="grid directory-grid">
+<div>
+<div class="picture distributed">
+<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/2020/06/Chen-Danny-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Danny Chen" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/2020/06/Chen-Danny-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/2020/06/Chen-Danny-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/2020/06/Chen-Danny-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+</div>
+</div>
+<!-- 
+<div>
+<div class="picture">
+<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chen-Danny-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Danny Chen" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chen-Danny-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chen-Danny-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chen-Danny-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+</div>
+</div>
+<no_tag>
+ -->
+</no_tag>
+<div>
+<h2 class="">
+<a href="https://cse.nd.edu/faculty/danny-chen/" rel="bookmark">
+Danny Chen
+</a>
+</h2>
+<h3 class="is-style-plain">
+Professor, Computer Science and Engineering
 </h3>
-<h4>
-Computer Science 
+<h4 class="is-style-plain">
+Areas of Interest
 </h4>
-<h5>
-Teaching Assistant Professor and Graduate Certificates Program Director (AAI &amp; GDD)
-</h5>
-<i class="fa fa-map-marker" aria-hidden="true">
-</i>
-<no_tag>
- Woodward 210C 
-</no_tag>
-<br>
-<i class="fa fa-phone" aria-hidden="true">
-</i>
-<no_tag>
- 704-687-8575
-</no_tag>
-<br>
-<i class="fa fa-envelope-o" aria-hidden="true">
-</i>
- 
-<a href="mailto:jbahamon@uncc.edu">
-jbahamon@uncc.edu
-</a>
- 
-<br/>
- 
-<br/>
-<div class="clearfix">
-</div>
 <p>
-<a class ="button button-gray" href="/directory/julio-bahamon" alt="Julio Bahamon" title="Julio Bahamon">
-Read More about Julio Bahamon
-</a>
+Computational geometry and applications, biomedical imaging, automated medical treatment and diagnosis, parallel algorithms, machine learning
 </p>
-<br/>
-<div class="clearfix">
 </div>
-<hr/>
-
-
-</span>
- 
 </div>
- 
 </div>
-<div class="views-row views-row-9 views-row-odd">
-<div class="views-field views-field-nothing">
- 
-<span class="field-content">
-<img class="img-responsive" src="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/styles/directory-list/public/fields/directory/field_directory_image/Berardinelli-LO.jpeg?itok=zHGh1q9u" width="220" height="308" alt="Berardinelli" title="Berardinelli" />
-<h3>
-Angela Berardinelli
+</article>
+<!-- #post-1029 -->
+<article id="post-1031" class="post-1031 profile type-profile status-publish has-post-thumbnail hentry department-computer-science-and-engineering position-faculty">
+<div class="directory">
+<div class="grid directory-grid">
+<div>
+<div class="picture distributed">
+<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/2020/06/Chiang-David-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor David Chiang" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/2020/06/Chiang-David-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/2020/06/Chiang-David-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/2020/06/Chiang-David-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+</div>
+</div>
+<!-- 
+<div>
+<div class="picture">
+<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chiang-David-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor David Chiang" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chiang-David-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chiang-David-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chiang-David-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+</div>
+</div>
+<no_tag>
+ -->
+</no_tag>
+<div>
+<h2 class="">
+<a href="https://cse.nd.edu/faculty/david-chiang/" rel="bookmark">
+David Chiang
+</a>
+</h2>
+<h3 class="is-style-plain">
+Associate Professor, Computer Science and Engineering
 </h3>
-<h4>
-Computer Science 
+<h4 class="is-style-plain">
+Areas of Interest
 </h4>
-<h5>
-Senior Lecturer
-</h5>
-<i class="fa fa-map-marker" aria-hidden="true">
-</i>
-<no_tag>
- Woodward 410D 
-</no_tag>
-<br>
-<i class="fa fa-phone" aria-hidden="true">
-</i>
-<no_tag>
- 704-687-5444
-</no_tag>
-<br>
-<i class="fa fa-envelope-o" aria-hidden="true">
-</i>
- 
-<a href="mailto:aberardinelli@uncc.edu">
-aberardinelli@uncc.edu
-</a>
- 
-<br/>
- 
-<br/>
-<div class="clearfix">
-</div>
 <p>
-<a class ="button button-gray" href="/directory/angela-berardinelli" alt="Angela Berardinelli" title="Angela Berardinelli">
-Read More about Angela Berardinelli
-</a>
+Natural language processing, machine learning, and digital humanities
 </p>
-<br/>
-<div class="clearfix">
 </div>
-<hr/>
-
-
-</span>
- 
 </div>
- 
 </div>
-<div class="views-row views-row-10 views-row-even views-row-last">
-<div class="views-field views-field-nothing">
- 
-<span class="field-content">
-<img class="img-responsive" src="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/styles/directory-list/public/fields/directory/field_directory_image/Bunescu.png?itok=g61emPz2" width="220" height="226" alt="" />
-<h3>
-Razvan Bunescu
+</article>
+<!-- #post-1031 -->
+<article id="post-1033" class="post-1033 profile type-profile status-publish has-post-thumbnail hentry department-computer-science-and-engineering position-faculty">
+<div class="directory">
+<div class="grid directory-grid">
+<div>
+<div class="picture distributed">
+<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/2020/06/Jane2-1-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Jane Cleland-Huang" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/2020/06/Jane2-1-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/2020/06/Jane2-1-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/2020/06/Jane2-1-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+</div>
+</div>
+<!-- 
+<div>
+<div class="picture">
+<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Jane2-1-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Jane Cleland-Huang" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Jane2-1-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Jane2-1-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />
+</div>
+</div>
+<no_tag>
+ -->
+</no_tag>
+<div>
+<h2 class="">
+<a href="https://cse.nd.edu/faculty/jane-cleland-huang/" rel="bookmark">
+Jane Cleland-Huang
+</a>
+</h2>
+<h3 class="is-style-plain">
+Professor, Computer Science and Engineering
 </h3>
-<h4>
-Computer Science 
-</h4>
-<h5>
-Associate Professor
-</h5>
-<i class="fa fa-map-marker" aria-hidden="true">
-</i>
-<no_tag>
- Woodward 210F 
-</no_tag>
-<br>
-<i class="fa fa-phone" aria-hidden="true">
-</i>
-<no_tag>
- 704-687-8444
-</no_tag>
-<br>
-<i class="fa fa-envelope-o" aria-hidden="true">
-</i>
- 
-<a href="mailto:rbunescu@uncc.edu">
-rbunescu@uncc.edu
-</a>
- 
-<br/>
- 
-<br/>
-<div class="clearfix">
-</div>
 <p>
-<a class ="button button-gray" href="/directory/razvan-bunescu" alt="Razvan Bunescu" title="Razvan Bunescu">
-Read More about Razvan Bunescu
-</a>
+Director of Graduate Studies
 </p>
-<br/>
-<div class="clearfix">
-</div>
-<hr/>
-
-
-</span>
- 
-</div>
- 
+<h4 class="is-style-plain">
+Areas of Interest
+</h4>
+<p>
+Software requirements traceability, software architecture, application of machine learning and data mining methods to large-scale software and systems engineering problems
+</p>
 </div>
 </div>
-<div class="text-center">
-<ul class="pagination">
-<li class="active">
-<span>
+</div>
+</article>
+<!-- #post-1033 -->
+<article id="post-1035" class="post-1035 profile type-profile status-publish has-post-thumbnail hentry department-computer-science-and-engineering position-faculty">
+<div class="directory">
+<div class="grid directory-grid">
+<div>
+<div class="picture distributed">
+<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/2020/06/Czajka-Adam-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Adam Czajka" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/2020/06/Czajka-Adam-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/2020/06/Czajka-Adam-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/2020/06/Czajka-Adam-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+</div>
+</div>
+<!-- 
+<div>
+<div class="picture">
+<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Czajka-Adam-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Adam Czajka" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Czajka-Adam-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Czajka-Adam-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Czajka-Adam-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+</div>
+</div>
+<no_tag>
+ -->
+</no_tag>
+<div>
+<h2 class="">
+<a href="https://cse.nd.edu/faculty/adam-czajka/" rel="bookmark">
+Adam Czajka
+</a>
+</h2>
+<h3 class="is-style-plain">
+Assistant Professor, Computer Science and Engineering
+</h3>
+<h4 class="is-style-plain">
+Areas of Interest
+</h4>
+<p>
+Biometrics, security, computer vision, pattern recognition, signal and image processing
+</p>
+</div>
+</div>
+</div>
+</article>
+<!-- #post-1035 -->
+<nav class="navigation pagination" role="navigation" aria-label="Posts">
+<h2 class="screen-reader-text">
+Posts navigation
+</h2>
+<div class="nav-links">
+<span aria-current="page" class="page-numbers current">
 1
 </span>
-</li>
-<li>
-<a title="Go to page 2" href="/directory/cs/faculty?page=1">
+<a class="page-numbers" href="https://cse.nd.edu/faculty/page/2/">
 2
 </a>
-</li>
-<li>
-<a title="Go to page 3" href="/directory/cs/faculty?page=2">
-3
-</a>
-</li>
-<li>
-<a title="Go to page 4" href="/directory/cs/faculty?page=3">
+<span class="page-numbers dots">
+&hellip;
+</span>
+<a class="page-numbers" href="https://cse.nd.edu/faculty/page/4/">
 4
 </a>
+<a class="next page-numbers" href="https://cse.nd.edu/faculty/page/2/">
+Next
+</a>
+</div>
+</nav>
+</div>
+</article>
+</main>
+<!-- #main -->
+
+
+
+ 
+</div>
+<!-- #content -->
+<!-- Dept Footer -->
+<div id="department-footer" class="department-footer-outer">
+<div class="department-footer-col department-footer-col1">
+<h2>
+Departments
+</h2>
+<ul>
+<li>
+<a href="https://ame.nd.edu">
+Aerospace and Mechanical Engineering
+</a>
 </li>
 <li>
-<a title="Go to page 5" href="/directory/cs/faculty?page=4">
-5
+<a href="https://cbe.nd.edu">
+Chemical and Biomolecular Engineering
 </a>
 </li>
 <li>
-<a title="Go to page 6" href="/directory/cs/faculty?page=5">
-6
+<a href="https://ceees.nd.edu">
+Civil and Environmental Engineering and Earth Sciences
 </a>
 </li>
-<li class="next">
-<a title="Go to next page" href="/directory/cs/faculty?page=1">
-next ›
+<li>
+<a href="https://cse.nd.edu">
+Computer Science and Engineering
 </a>
 </li>
-<li class="pager-last">
-<a title="Go to last page" href="/directory/cs/faculty?page=5">
-last »
+<li>
+<a href="https://ee.nd.edu">
+Electrical Engineering
 </a>
 </li>
 </ul>
 </div>
-</div>
-</section>
-<section id="block-block-75" class="block block-block clearfix">
-<div class="panel" style="box-shadow: 0 1px 3px rgba(0,0,0,0.23);border-top: 10px solid #004525;">
-<div class="panel-body">
-<div style="font-family: 'TradeGothicLTStd-BdCn20',Impact,Arial,sans-serif; text-transform: uppercase; font-size: 34px; line-height: 1.1em; font-weight: 500">
-alumni scholarship fund
-</div>
+<div class="department-footer-col department-footer-col2">
 <p>
-The Alumni Gives Scholarship allows students to pursue their dreams and contribute to the technology community. This needs-based scholarship empowers students to overcome financial hurdles while pursuing their education goals and gives preference to underrepresented populations within the CCI student body.
+<!--
+
+
+
+<h2>
+Interdisciplinary programs
+</h2>
+<ul>
+<li>
+<a href="https://engineering.nd.edu/departments-programs/graduate-programs/phd-in-bioengineering/">
+Bioengineering
+</a>
+</li>
+<li>
+<a href="https://nano.nd.edu/materials-science/phd-program/">
+Materials Science and Engineering
+</a>
+</li>
+</ul>
+<no_tag>
+
+
+
+-->
+</no_tag>
 </p>
-<a button="button button-green" href="https://web.archive.org/web/20211116184316/https://crowdfund.uncc.edu/project/5849" style=" letter-spacing: 1px; width: 100%; background: #004525; color: #fff; display: inline-block; padding: 10px 15px 5px; margin-bottom: 0; font: 400 2.5rem/1.2 'BebasNeueBook',Arial,sans-serif; line-height: 1; text-decoration: none; text-align: center; text-transform: uppercase; vertical-align: middle; -ms-touch-action: manipulation; touch-action: manipulation; cursor: pointer; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; background-image: none; border: 3px solid transparent; border-radius: 0; -webkit-transition: all 0.3s; transition: all 0.3s; border: solid 3px #0c7544; padding: 15px 20px 8px;" target="_blank">
-Give to alumni Crowdfund
+</div>
+<div class="department-footer-col department-footer-col3">
+<div class="wp-block-buttons">
+<p>
+<!--
+<a href="#">
+Apply
 </a>
-</div>
-</div>
-</section>
-</div>
-</section>
-</div>
-</div>
-<!-- Collapse Footer -->
-<footer class="footer" id="accordian">
-<div class="panel panel-default">
-<!-- color bar for footer heading -->
-<div class="heading-wrapper">
-<div class="panel-heading container">
-<div class="panel-title">
-<a
- class="accordion-toggle collapsed"
- data-toggle="collapse"
- data-parent="#accordion"
- href="#collapseOne"
- >
-Additional Campus Resources
-</a
- >
-</div>
-<div class="pull-right">
-<a href="https://www.charlotte.edu"
- >
-<img src="https://cci.charlotte.edu/sites/all/themes/uncc_epsilon/logo-horizontal.svg" alt="The University of North Carolina at Charlotte Logo" title="Go to Charlotte homepage">
-</a
- >
-</div>
-</div>
-</div>
-<!-- end heading wrapper -->
-<div id="collapseOne" class="panel-collapse container collapse panel-body">
-<!-- Footer left column -->
-<div class="col-sm-4" id="footer-campus-links">
-<h2>
-Campus Links
-</h2>
-<ul>
-<li>
-<a
- href="https://emergency.charlotte.edu"
- target="_blank"
- title="Alerts and Advisories at UNC Charlotte"
- >
-Alerts
-</a
- >
-</li>
-<li>
-<a href="https://jobs.charlotte.edu" title="Jobs at UNC Charlotte"
- >
-Jobs
-</a
- >
-</li>
-<li>
-<a
- href="https://www.charlotte.edu/makeagift"
- title="Make a gift to UNC Charlotte"
- >
-Make a Gift
-</a
- >
-</li>
-<li>
-<a
- href="https://maps.charlotte.edu"
- title="Directions to UNC Charlotte"
- >
-Maps / Directions
-</a
- >
-</li>
-<li>
-<a
- href="https://accessibility.charlotte.edu"
- title="Accessibility resources at UNC Charlotte"
- style="vertical-align: top"
- >
-<i class="fa fa-wheelchair" aria-hidden="true">
-</i>
 <no_tag>
-
- Accessibility
+-->
 </no_tag>
-</a
- >
-</li>
-</ul>
+</p>
 </div>
-<!-- Footer center column -->
-<div class="col-sm-4" id="footer-links">
-<h2>
-Resources
-</h2>
-<ul>
+</div>
+</div>
+<!-- Site Footer -->
+<footer id="footer" class="site-footer" role="contentinfo">
+<div class="footer-org" typeof="Organization" resource="#siteorg">
+<meta property="parentOrganization" resource="#parentorg" content="University of Notre Dame">
+<ul class="footer-breadcrumbs">
 <li>
-<a
- href="https://www.charlotte.edu/gateway/alumni-friends"
- target="_blank"
- >
-
- Alumni &amp; Friends
-</a
- >
-</li>
-<li>
-<a href="https://www.charlotte.edu/gateway/faculty-staff"
- >
-Faculty &amp; Staff
-</a
- >
-</li>
-<li>
-<a href="https://www.charlotte.edu/gateway/prospective-students"
- >
-Prospective Students
-</a
- >
-</li>
-<li>
-<a href="https://www.charlotte.edu/gateway/community">
-Community
+<a href="https://engineering.nd.edu">
+College of Engineering
 </a>
 </li>
-<li>
-<a href="https://www.charlotte.edu/gateway/current-students">
-
- Current Students
-</a
- >
-</li>
-<li>
-<a href="https://www.charlotte.edu/gateway/parents-family">
-
- Parents and Family
-</a
- >
-</li>
-</ul>
-</div>
-<!-- Footer right column -->
-<div class="col-sm-4" id="footer-social">
-<h2>
-Stay In Touch
-</h2>
-<div class="social-container">
-<a href="//www.facebook.com/UNCCharlotte" target="_blank"
- >
-<span class="fa fa-facebook" title="Facebook">
-</span
- >
-<span class="sr-only">
-facebook
-</span>
-</a
- >
-<a href="//www.instagram.com/unccharlotte/" target="_blank"
- >
-<span class="fa fa-instagram" title="Instagram">
-</span
- >
-<span class="sr-only">
-instagram
-</span>
-</a
- >
-<a href="//www.flickr.com/photos/stakeyourclaim/sets/" target="_blank"
- >
-<span class="fa fa-flickr" title="Flickr">
-</span
- >
-<span class="sr-only">
-flickr
-</span>
-</a
- >
-<a href="//www.linkedin.com/company/unc-charlotte" target="_blank"
- >
-<span class="fa fa-linkedin" title="LinkedIn">
-</span
- >
-<span class="sr-only">
-linkedin
-</span>
-</a
- >
-<a href="//twitter.com/UNCCharlotte" target="_blank"
- >
-<span class="fa fa-twitter" title="Twitter">
-</span
- >
-<span class="sr-only">
-twitter
-</span>
-</a
- >
-<a href="//www.youtube.com/user/unccharlottevideo" target="_blank"
- >
-<span class="fa fa-youtube-play" title="YouTube">
-</span
- >
-<span class="sr-only">
-youtube
-</span>
-</a
- >
-<a href="//maps.charlotte.edu" target="_blank"
- >
-<span class="fa fa-map-marker" title="Maps">
-</span
- >
-<span class="sr-only">
-maps
-</span>
-</a
- >
-<br />
-<p class="small">
-<a href="https://www.charlotte.edu" title="www.charlotte.edu"
- >
-The University of North Carolina at Charlotte
-</a
- >
-<br />
-<no_tag>
-9201 University City Blvd, Charlotte, NC 28223-0001
-</no_tag>
-<br />
-<no_tag>
-704-687-8622
  
-</no_tag>
+</ul>
+<p>
+<a href="https://cse.nd.edu/" class="site-link" property="url">
+<span property="name">
+Computer Science and Engineering
+</span>
+</a>
 </p>
-<em class="small"
- >
+<div class="footer-contacts">
+<p class="contact-info">
+<span class="address" property="address" typeof="PostalAddress">
+<span property="streetAddress">
+384 Fitzpatrick Hall
+</span>
+<br>
+ 
+<span property="addressLocality">
+Notre Dame
+</span>
+<span property="addressRegion">
+IN
+</span>
+ 
+<span property="postalCode">
+46556
+</span>
+ 
+<span property="addressCountry">
+USA
+</span>
+</span>
+<span class="footer-phone" property="telephone" content="+1 (574) 631-8320">
+Phone (574) 631-8320
+</span>
+ 
+<span class="footer-email" property="email">
+<a rel="noopener" href="mailto:cse@nd.edu">
+cse@nd.edu
+</a>
+</span>
+ 
+</p>
+<nav class="social" aria-label="Social media navigation" vocab="">
+<ul>
+<li>
+<a class="soc-twitter" href="https://twitter.com/ND_CSE" rel="noopener" aria-label="Computer Science and Engineering on Twitter">
+<svg class="icon" data-icon="twitter" width="16" height="16" aria-hidden="true">
+<use xlink:href="#icon-twitter">
+</use>
+</svg>
 <no_tag>
-&copy;
- 2022 UNC Charlotte | All Rights Reserved 
+ Twitter
 </no_tag>
-<br />
-<a href="https://www.charlotte.edu/contact" title="Contact Us"
- >
-Contact Us
-</a
- >
-<a
- href="https://legal.charlotte.edu/termsofuse"
- title="Terms of Use"
- >
-Terms of Use
-</a
- >
-<a
- href="https://legal.charlotte.edu/policies"
- title="University Policy"
- >
+</a>
+</li>
+ 
+</ul>
+</nav>
+</div>
+<div property="logo" typeof="ImageObject">
+<meta property="url" content="https://static.nd.edu/images/webclips/default/webclip-60.png">
+</div>
+<p class="copyright">
+<a href="https://www.nd.edu/copyright/">
+&copy; 2022
+</a>
+ 
+<a href="https://www.nd.edu">
+University of Notre Dame
+</a>
+</p>
+</div>
+<div class="footer-parent" property="parentOrganization" typeof="CollegeOrUniversity" resource="#parentorg">
+<meta property="name" content="University of Notre Dame">
+<a href="https://www.nd.edu/" class="mark-footer" property="url logo" typeof="ImageObject" aria-label="University of Notre Dame">
+<img src="https://static.nd.edu/images/marks/gray/ndmark600.png" alt="University of Notre Dame" property="url">
 
- University Policies
-</a
- >
-</em
- >
+ 
+</a>
+<div class="footer-parent-links">
+<nav aria-label="Footer links navigation">
+<ul class="footer-links">
+<li>
+<a href="https://search.nd.edu/" aria-label="Search Notre Dame">
+Search
+</a>
+</li>
+<li>
+<a href="https://mobile.nd.edu/" aria-label="Notre Dame Mobile App">
+Mobile App
+</a>
+</li>
+<li>
+<a href="https://news.nd.edu/" aria-label="Notre Dame News">
+News
+</a>
+</li>
+<li>
+<a href="https://events.nd.edu/" aria-label="Notre Dame Events">
+Events
+</a>
+</li>
+<li>
+<a href="https://www.nd.edu/visit/" aria-label="Visit Notre Dame">
+Visit
+</a>
+</li>
+<li>
+<a href="https://www.nd.edu/about/accessibility/" aria-label="Notre Dame Accessibility Information">
+Accessibility
+</a>
+</li>
+</ul>
+</nav>
+<nav class="social" aria-label="Social media navigation" vocab="">
+<ul>
+<li>
+<a class="soc-facebook" href="https://www.facebook.com/notredame/" rel="noopener" aria-label="Notre Dame on Facebook">
+<svg class="icon" data-icon="facebook" width="16" height="16" aria-hidden="true">
+<use xlink:href="#icon-facebook">
+</use>
+</svg>
+<no_tag>
+ Facebook
+</no_tag>
+</a>
+</li>
+<li>
+<a class="soc-twitter" href="https://twitter.com/NotreDame/" rel="noopener" aria-label="Notre Dame on Twitter">
+<svg class="icon" data-icon="twitter" width="16" height="16" aria-hidden="true">
+<use xlink:href="#icon-twitter">
+</use>
+</svg>
+<no_tag>
+ Twitter
+</no_tag>
+</a>
+</li>
+<li>
+<a class="soc-instagram" href="https://www.instagram.com/notredame/" rel="noopener" aria-label="Notre Dame on Instagram">
+<svg class="icon" data-icon="instagram" width="16" height="16" aria-hidden="true">
+<use xlink:href="#icon-instagram">
+</use>
+</svg>
+<no_tag>
+ Instagram
+</no_tag>
+</a>
+</li>
+<li>
+<a class="soc-youtube" href="https://www.youtube.com/user/NDdotEDU" rel="noopener" aria-label="Notre Dame on YouTube">
+<svg class="icon" data-icon="youtube" width="16" height="16" aria-hidden="true">
+<use xlink:href="#icon-youtube">
+</use>
+</svg>
+<no_tag>
+ YouTube
+</no_tag>
+</a>
+</li>
+<li>
+<a class="soc-linkedin" href="https://www.linkedin.com/school/university-of-notre-dame/" rel="noopener" aria-label="Notre Dame on Linkedin">
+<svg class="icon" data-icon="linkedin" width="16" height="16" aria-hidden="true">
+<use xlink:href="#icon-linkedin">
+</use>
+</svg>
+<no_tag>
+ LinkedIn
+</no_tag>
+</a>
+</li>
+</ul>
+</nav>
 </div>
 </div>
-</div>
-</div>
-<!--/#footer-container -->
-
-
 </footer>
-<!--/#footer-->
-<script>
+</div>
+<!-- .wrapper -->
+<nav id="navbar" class="navbar nav-top" role="navigation">
+</nav>
+<script type='text/javascript' src='https://conductor.nd.edu/javascripts/themes/ndt/v3/ndt.js?ver=202006171118am' id='ndt3-ndt-js'>
+</script>
+<script type='text/javascript' src='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/js/theme.js?ver=202006171118am' id='ndt3-theme-js'>
+</script>
+<script type='text/javascript' src='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/js/navigation.js?ver=202006171118am' id='ndt3-navigation-js'>
+</script>
+<script type='text/javascript' src='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/inc/js/siteimprove-snippet.js?ver=202006171118am' id='site-improve-js'>
+</script>
+<script type='text/javascript' src='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/js/vendor/algoliasearchLite.min.js?ver=210225-210417' id='algolia-client-js'>
+</script>
+<script type='text/javascript' src='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/js/vendor/instantsearch.production.min.js?ver=210225-210417' id='algolia-instant-search-js'>
+</script>
+<script type='text/javascript' src='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/js/algolia-search.js?ver=210225-210417' id='algolia-search-js'>
+</script>
+<script type='text/javascript' src='https://cse.nd.edu/wp-includes/js/hoverIntent.min.js?ver=1.8.1' id='hoverIntent-js'>
+</script>
+<script type='text/javascript' id='megamenu-js-extra'>
+<no_tag>
 
-(function($) {
- $('.acalog').acalogWidgetize({
- gateway: 'https://catalog.uncc.edu'
- });
-}(jQuery));
- 
-</script>
-<script src="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/js/js_5idECjjAo-X5YdkT65CaIiodkWmZlZv-WjSkHlWhoYk.js">
-</script>
-<script>
+/* 
+</no_tag>
+<![CDATA[ */
+var megamenu = {"timeout":"300","interval":"100"};
+/* ]]>
+ */
 
- (function($) {
- $('.acalog').acalogWidgetize({
- gateway: 'https://catalog.uncc.edu'
- });
- }(jQuery));
- 
 </script>
-<script src="https://cci.charlotte.edu/sites/cci.charlotte.edu/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js">
+<script type='text/javascript' src='https://cse.nd.edu/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=2.8' id='megamenu-js'>
 </script>
-<script type="text/javascript" src="https://www.charlotte.edu/alerts/alerts.js" defer="defer">
+<script type='text/javascript' src='https://cse.nd.edu/wp-content/plugins/megamenu-pro/assets/public.js?ver=2.1.1' id='megamenu-pro-js'>
+</script>
+<script type='text/javascript' src='https://cse.nd.edu/wp-includes/js/wp-embed.min.js?ver=5.5.8' id='wp-embed-js'>
+</script>
+<script type="text/javascript" id="uagb-script-frontend">
+document.addEventListener("DOMContentLoaded", function(){( function( $ ) { })(jQuery)})
 </script>
 </body>
 </html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
 
+Served from: cse.nd.edu @ 2022-02-20 23:13:23 by W3 Total Cache
+-->
+ 

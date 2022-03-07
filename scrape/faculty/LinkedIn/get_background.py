@@ -114,7 +114,6 @@ def get_experience_without_tags(html):
     to_ret = []
     experience_area = False
     curr_experience = []
-    found_property = False
     for line in html:
         if 'id="experience"' in line:
             experience_area = True
@@ -122,6 +121,7 @@ def get_experience_without_tags(html):
         #     print("found")
         if experience_area:
             if 'experience_company_logo' in line:
+                found_experience = True
                 if curr_experience:
                     new_experience_list = add_tag_to_experience_list(curr_experience)
                     to_ret.append(new_experience_list)
@@ -137,8 +137,8 @@ def get_experience_without_tags(html):
                 if curr_experience:
                     new_experience_list = add_tag_to_experience_list(curr_experience)
                     to_ret.append(new_experience_list)
-                return to_ret[1:]                    
-    return []
+                return to_ret[1:], experience_area                  
+    return [], experience_area
 
 def add_tag_to_education_list(curr_education):
     new_education_list = []
@@ -183,17 +183,17 @@ def get_education_without_tags(html):
             if "</section>" in line:
                 new_experience_list = add_tag_to_education_list(curr_education)
                 to_ret.append(new_experience_list)
-                return to_ret[1:]                    
-    return []
+                return to_ret[1:], education_area                    
+    return [], education_area
 
 def get_background_info(html):
-    education = get_education_without_tags(html)
+    education, found_education = get_education_without_tags(html)
     if len(education) == 0:
         education = get_education_with_tags(html)
-    experience = get_experience_without_tags(html)
+    experience, found_experience = get_experience_without_tags(html)
     if len(experience) == 0:
         experience = get_education_with_tags(html)
-    return [education, experience]
+    return (education, found_education), (experience, found_experience)
 
 # with open("./test_html_david", "r") as input:
 #     html_str_list = []

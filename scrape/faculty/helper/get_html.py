@@ -1,10 +1,10 @@
 import time
 import string
-import urllib.request
 from selenium import webdriver
 import os
 import urllib.request
 import re
+from bs4 import BeautifulSoup
 
 
 def get_html(url, scrape_option, headers={}):
@@ -86,11 +86,16 @@ def get_links_on_google(query, forbidden=[]):
     with urllib.request.urlopen(req) as response:
         r = response.read()
     plaintext = r.decode('utf8')
+    with open("google_search_result.txt", "w") as output:
+        output.write(plaintext)
+    # converted_text = parse_html_string(plaintext)
+    with open("google_search_result_good_looking.txt", "w") as output:
+        output.write(BeautifulSoup(r, 'html.parser').prettify())
     links = re.findall("href=[\"\'](.*?)[\"\']", plaintext)
     for i in links:
         k = '/url?q=http'
         flag = True
-        for j in forbidden:
+        for j in forbidden: 
             if j in i:
                 flag = False
         if len(i) > len(k) and i[:len(k)] == k and flag:
@@ -103,4 +108,11 @@ def get_links_on_google(query, forbidden=[]):
 # a = get_html('https://cs.illinois.edu/about/people/all-faculty', 's')
 
 # html = get_links_on_google("Charles Manski Northwestern University linkedin")
-# print(html)
+# url = "https://www.linkedin.com/in/doug-bowman-a26626126"
+# # req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0', 'Referer': 'https://www.linkedin.com/'})
+# req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0', 'Referer': 'https://www.google.com/'})
+# with urllib.request.urlopen(req) as response:
+#     r = response.read()
+# plaintext = r.decode('utf8')
+# with open("test_login.html", "w") as output:
+#     output.write(plaintext)

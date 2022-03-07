@@ -1,0 +1,138 @@
+{
+    "Godmar Back": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Utah",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 2002"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Virginia Tech",
+                [
+                    "Company Name",
+                    "17 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Jun 2010 - Present · 11 yrs 10 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "University of Utah"
+                ],
+                [
+                    "Dates Employed",
+                    "1996 - 2001"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ]
+        ]
+    },
+    "Dwight Barnette": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Debswapna Bhattacharya": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Missouri-Columbia",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2016"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Virginia Tech · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ],
+                [
+                    "Location",
+                    "Blacksburg, Virginia, United States"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Auburn University"
+                ],
+                [
+                    "Dates Employed",
+                    "2017 - 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                [
+                    "Location",
+                    "Auburn, Alabama Area"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Wichita State University"
+                ],
+                [
+                    "Dates Employed",
+                    "2016 - 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ]
+        ]
+    }
+}

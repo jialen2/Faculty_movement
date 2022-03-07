@@ -13,4 +13,5 @@ from get_linkedin_data import scrape_data_from_linkedin
 def get_faculty_data(major):
     faculty_list_dir = current_directory+"/faculty_list/"+major
     scrape_data_from_linkedin(faculty_list_dir, major, webdriver_file_path)
-get_faculty_data("economics")
+get_faculty_data("Computer_Science")
+# print(webdriver_file_path)
