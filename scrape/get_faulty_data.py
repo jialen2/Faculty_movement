@@ -2,8 +2,6 @@ from asyncio import FastChildWatcher
 from curses.ascii import isdigit
 import os, json
 def isValidDate(data_str):
-    if "-" not in data_str:
-        return False
     found = False
     for i in range(3,len(data_str)):
         num_str = data_str[i-3:i+1]
@@ -30,6 +28,13 @@ for filename in os.listdir(dataset_directory):
                 for i in range(len(experience)):
                     curr_prop = experience[i]
                     if isinstance(curr_prop, list) and curr_prop[0] == "Dates Employed":
+                        slashes = ["–", "-", "―", "‐"]
+                        found_slash = False
+                        for slash in slashes:
+                            if slash in curr_prop[1]:
+                                found_slash = True
+                        if not found_slash:
+                            curr_prop[1] = curr_prop[1] + "-" + curr_prop[1]
                         if not isValidDate(curr_prop[1]):
                             problemetic_data[prof] = faculty_data[prof]
                             del tmp[prof]

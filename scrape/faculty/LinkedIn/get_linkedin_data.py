@@ -124,8 +124,6 @@ def scrape_data_from_linkedin(faculty_file_path, major, chromedriver_path):
     linkedInAccountIndex = -1
     university_list = os.listdir(faculty_file_path)
     for university in university_list:
-        if university != "Arizona State University":
-            continue
         filePath = faculty_file_path+"/"+university
         faculty_list = []
         if filePath.split("/")[-1] == ".DS_Store":

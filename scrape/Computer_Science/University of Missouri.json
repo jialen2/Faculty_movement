@@ -87,7 +87,7 @@
                 ],
                 [
                     "Dates Employed",
-                    "2012"
+                    "2012-2012"
                 ],
                 [
                     "Employment Duration",
@@ -544,96 +544,6 @@
                 [
                     "Location",
                     "Greater St. Louis Area"
-                ]
-            ]
-        ]
-    },
-    "Nazire Koc": {
-        "status": "success",
-        "Education": [
-            [
-                "Southern Illinois University, Carbondale",
-                [
-                    "Degree Name",
-                    "M.Sc"
-                ],
-                [
-                    "Field Of Study",
-                    " Computer Science"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "2001 - 2007"
-                ]
-            ],
-            [
-                "Southern Illinois University, Carbondale",
-                [
-                    "Degree Name",
-                    "M.Sc"
-                ],
-                [
-                    "Field Of Study",
-                    " Mathematics"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "1996 - 1998"
-                ]
-            ],
-            [
-                "Ege University",
-                [
-                    "Degree Name",
-                    "B.Sc"
-                ],
-                [
-                    "Field Of Study",
-                    " Mathematics"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "1990 - 1994"
-                ],
-                [
-                    "More Info",
-                    "See all 4 education"
-                ]
-            ]
-        ],
-        "Experience": [
-            [
-                "University of Missouri - St. Louis",
-                [
-                    "Company Name",
-                    "18 yrs 8 mos"
-                ],
-                [
-                    "Dates Employed",
-                    "Associate Teaching Professor"
-                ],
-                [
-                    "Location",
-                    "Aug 2015 - Present · 6 yrs 8 mos"
-                ],
-                [
-                    "More Info",
-                    "Assistant Teaching Professor"
-                ]
-            ],
-            [
-                "Lecturer",
-                [
-                    "Company Name",
-                    "Souther Illinois University carbondale"
-                ],
-                [
-                    "Dates Employed",
-                    "Aug 2009 - May 2010"
-                ],
-                [
-                    "Employment Duration",
-                    "10 mos"
                 ]
             ]
         ]

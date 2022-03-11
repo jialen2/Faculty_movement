@@ -3,6 +3,7 @@ import json
 from posixpath import split
 import sys
 import os
+from turtle import done
 from bs4 import BeautifulSoup
 import subprocess
 import requests
@@ -35,6 +36,9 @@ def exit_handler():
     with open("./result/normal/general.csv", "w") as f:
         f.write("head_node,tail_node,weight\n")
         write_edge_to_file(general, f)
+    with open("done_scraping_files.txt", "w") as output:
+        for file in done_scraping_files:
+            output.write(file + "\n")
 def split_dash(s):
     if "–" in s:
         return s.split("–")
@@ -90,9 +94,15 @@ with open("school_list.csv", "r") as input:
 # to count how many professor are there in the records
 count_prof = 0
 
-for filename in os.listdir(dataset_directory):
-    # if not filename[-5:] == ".json":
-    #     continue
+done_scraping_files = []
+
+with open("done_scraping_files.txt", "r") as input:
+    for line in input:
+        done_scraping_files.append(line.replace("\n", ""))
+
+for filename in os.listdir(dataset_directory):        
+    if not filename[-5:] == ".json" or filename in done_scraping_files:
+        continue
     with open(os.path.join(dataset_directory, filename), 'r') as f:
         school_name = parse_school_name(filename.split(".")[0])
         print(school_name)
@@ -189,6 +199,7 @@ for filename in os.listdir(dataset_directory):
             except:
                 continue  
     print(edu_to_work)
+    done_scraping_files.append(filename)
 
 
 # print("num_prof:", count_prof)
