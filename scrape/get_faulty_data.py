@@ -39,10 +39,10 @@ for filename in os.listdir(dataset_directory):
                 if found_error:
                     break
     with open(dataset_directory+"/"+filename, "w") as output:
-        json.dump(tmp, output, indent=4)
+        json.dump(tmp, output, indent=4, ensure_ascii=False)
 
 with open("./failed_data.json", "w") as output:
-    json.dump(problemetic_data, output, indent=4)
+    json.dump(problemetic_data, output, indent=4, ensure_ascii=False)
 
 with open("failed_prof_names.txt", "a") as output:
     for prof_info in failed_prof_names:
