@@ -1,0 +1,152 @@
+{
+    "Yu Zhuang, Ph.D.": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Yong Chen, Ph.D": {
+        "status": "success",
+        "Education": [
+            [
+                "Illinois Institute of Technology",
+                [
+                    "Degree Name",
+                    "Doctoral"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2009"
+                ]
+            ],
+            [
+                "University of Science and Technology of China"
+            ]
+        ],
+        "Experience": [
+            [
+                "Texas Tech University",
+                [
+                    "Company Name",
+                    "11 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Sep 2017 - Present · 4 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "Oak Ridge National Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2010 - Dec 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ]
+            ],
+            [
+                "Senior Research Associate",
+                [
+                    "Company Name",
+                    "Illinois Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2009 - Apr 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "9 mos"
+                ]
+            ]
+        ]
+    },
+    "Susan A. Mengel, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "Texas A&amp;M University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 - 1990"
+                ]
+            ],
+            [
+                "Oklahoma State University",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 - 1984"
+                ]
+            ],
+            [
+                "University of Central Oklahoma",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978 - 1982"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Texas Tech University",
+                [
+                    "Company Name",
+                    "25 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Lubbock, Texas Area"
+                ],
+                [
+                    "Location",
+                    "Associate Professor"
+                ],
+                [
+                    "More Info",
+                    "Sep 2002 - Present · 19 yrs 7 mos"
+                ]
+            ]
+        ]
+    }
+}

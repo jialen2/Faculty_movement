@@ -1,120 +1,21 @@
-"Fletcher, Tom" "University of Virginia" <class 'AssertionError'>
-"Horton, Thomas B." "University of Virginia" <class 'AssertionError'>
-"Horton, Thomas B." "University of Virginia" <class 'AssertionError'>
-"Santosh Pande" "Georgia Institute of Technology" <class 'AssertionError'>
-"Santosh Pande" "Georgia Institute of Technology" <class 'AssertionError'>
-"Tao Yang" "University of California, Santa Barbara" <class 'AssertionError'>
-"Yoshihiro Kobayashi" "Arizona State University" <class 'AssertionError'>
-"Gerald Mackulak" "Arizona State University" <class 'AssertionError'>
-"Richard Bonneau" "New York University" <class 'AssertionError'>
-"Richard Bonneau" "New York University" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Joan Bruna" "New York University" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Kyunghyun Cho" "New York University" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Sumit Chopra" "New York University" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Joshua Clayton" "New York University" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Richard Cole" "New York University" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Patrick Cousot" "New York University" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Ernest Davis" "New York University" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Yevgeniy Dodis" "New York University" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Rob Fergus" "New York University" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Jean-Claude Franchitti" "New York University" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Davi Geiger" "New York University" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Benjamin Goldberg" "New York University" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Allan Gottlieb" "New York University" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"He He" "New York University" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Gizem Kayar" "New York University" <class 'urllib3.exceptions.MaxRetryError'>
-"James de St. Germain" "University of Utah" <class 'AssertionError'>
-"Jan-Michael Frahm" "University of North Carolina, Chapel Hill" <class 'AssertionError'>
-"Tiki Hair-Rudd" "University of North Carolina, Chapel Hill" <class 'AssertionError'>
-"John H. Halton" "University of North Carolina, Chapel Hill" <class 'AssertionError'>
-"Alicia Holtz" "University of North Carolina, Chapel Hill" <class 'AssertionError'>
-"Adrian Ilie" "University of North Carolina, Chapel Hill" <class 'AssertionError'>
-"John H. Halton" "University of North Carolina, Chapel Hill" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Alicia Holtz" "University of North Carolina, Chapel Hill" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Adrian Ilie" "University of North Carolina, Chapel Hill" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Kevin Jeffay" "University of North Carolina, Chapel Hill" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Stephanie Johnson" "University of North Carolina, Chapel Hill" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Kris Jordan" "University of North Carolina, Chapel Hill" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Tessa Joseph-Nicholas" "University of North Carolina, Chapel Hill" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Jasleen Kaur" "University of North Carolina, Chapel Hill" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Kurtis Keller" "University of North Carolina, Chapel Hill" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Denise Kenney" "University of North Carolina, Chapel Hill" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Ashok Krishnamurthy" "University of North Carolina, Chapel Hill" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Erin Lane" "University of North Carolina, Chapel Hill" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Anselmo Lastra" "University of North Carolina, Chapel Hill" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Deb Levin" "University of North Carolina, Chapel Hill" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Ming C. Lin" "University of North Carolina, Chapel Hill" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"David Luebke" "University of North Carolina, Chapel Hill" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Jim Mahaney" "University of North Carolina, Chapel Hill" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"John Majikes" "University of North Carolina, Chapel Hill" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Dinesh Manocha" "University of North Carolina, Chapel Hill" <class 'selenium.common.exceptions.NoSuchWindowException'>
-"Alicia Holtz" "University of North Carolina, Chapel Hill" <class 'AssertionError'>
-"Alicia Holtz" "University of North Carolina, Chapel Hill" <class 'AssertionError'>
-"Alicia Holtz" "University of North Carolina, Chapel Hill" <class 'AssertionError'>
-"Beatriz Paniagua" "University of North Carolina, Chapel Hill" <class 'AssertionError'>
-"Jeff Terrell" "University of North Carolina, Chapel Hill" <class 'urllib3.exceptions.MaxRetryError'>
-"Jeff Terrell" "University of North Carolina, Chapel Hill" <class 'AssertionError'>
-"Quoc Tran-Dinh" "University of North Carolina, Chapel Hill" <class 'AssertionError'>
-"Quoc Tran-Dinh" "University of North Carolina, Chapel Hill" <class 'AttributeError'>
-"Alexander Tropsha" "University of North Carolina, Chapel Hill" <class 'AttributeError'>
-"Leandra Vicci" "University of North Carolina, Chapel Hill" <class 'AttributeError'>
-"Quoc Tran-Dinh" "University of North Carolina, Chapel Hill" <class 'AttributeError'>
-"Quoc Tran-Dinh" "University of North Carolina, Chapel Hill" <class 'AssertionError'>
-"Quoc Tran-Dinh" "University of North Carolina, Chapel Hill" <class 'AssertionError'>
-"Quoc Tran-Dinh" "University of North Carolina, Chapel Hill" <class 'AssertionError'>
-"Quoc Tran-Dinh" "University of North Carolina, Chapel Hill" <class 'AssertionError'>
-"Quoc Tran-Dinh" "University of North Carolina, Chapel Hill" <class 'AssertionError'>
-"Quoc Tran-Dinh" "University of North Carolina, Chapel Hill" <class 'AssertionError'>
-"Kevin Gifford" "University of Colorado, Boulder" <class 'AssertionError'>
-"Zachary Mullen" "University of Colorado, Boulder" <class 'AssertionError'>
-"Thomas Nelson" "University of Colorado, Boulder" <class 'AssertionError'>
-"Thomas Nelson" "University of Colorado, Boulder" <class 'AssertionError'>
-"Maciej Zagrodzki" "University of Colorado, Boulder" <class 'AssertionError'>
-"Daniel Szafir" "University of Colorado, Boulder" <class 'AssertionError'>
-"Manmatha, R." "University of Massachusetts, Amherst" <class 'AssertionError'>
-"Jeremiah Blocki" "Purdue University, West Lafayette" <class 'AssertionError'>
-"Berkay Celik" "Purdue University, West Lafayette" <class 'AssertionError'>
-"Douglas Comer" "Purdue University, West Lafayette" <class 'AssertionError'>
-"Jungi Jeong" "Purdue University, West Lafayette" <class 'AssertionError'>
-"Berkay Celik" "Purdue University, West Lafayette" <class 'AssertionError'>
-"Jungi Jeong" "Purdue University, West Lafayette" <class 'AssertionError'>
-"Kristin Bennett" "Rensselaer Polytechnic Institute" <class 'AssertionError'>
-"Paul R. Schrater" "University of Minnesota, Twin Cities" <class 'AssertionError'>
-"Ahmad Esmaili" "Stony Brook University, SUNY" <class 'AssertionError'>
-"Susan Brennan" "Stony Brook University, SUNY" <class 'AssertionError'>
-"Owen Rambow" "Stony Brook University, SUNY" <class 'AssertionError'>
-"Jack Heller" "Stony Brook University, SUNY" <class 'AssertionError'>
-"Abdol Esfahanian" "Michigan State University" <class 'AssertionError'>
-"Hui Liu" "Michigan State University" <class 'AssertionError'>
-"Abdol Esfahanian" "Michigan State University" <class 'AssertionError'>
-"Xiaoming Liu" "Michigan State University" <class 'AssertionError'>
-"James Mariani" "Michigan State University" <class 'AssertionError'>
-"Matt Mutka" "Michigan State University" <class 'AssertionError'>
-"Billy Massey II" "Michigan State University" <class 'urllib3.exceptions.MaxRetryError'>
-"Matt Mutka" "Michigan State University" <class 'json.decoder.JSONDecodeError'>
-"Huacheng Zeng" "Michigan State University" <class 'AssertionError'>
-"Dr. Douglas Reeves" "North Carolina State University" <class 'AssertionError'>
-"Matt Mutka" "Michigan State University" <class 'AssertionError'>
-"Steve Cole" "Washington University in St. Louis" <class 'AssertionError'>
-"Joshua Baer" "University of Texas, Austin" <class 'AssertionError'>
-"Steve Cole" "Washington University in St. Louis" <class 'AssertionError'>
-"Steve Cole" "Washington University in St. Louis" <class 'AssertionError'>
-"Shyamal Mitra" "University of Texas, Austin" <class 'AssertionError'>
-"Xuesu Xiao" "University of Texas, Austin" <class 'AssertionError'>
-"George Biros" "University of Texas, Austin" <class 'AssertionError'>
-"Ufuk Topcu" "University of Texas, Austin" <class 'AssertionError'>
-"Stephanie Gil" "Harvard University" <class 'AssertionError'>
-"Efthimios Kaxiras" "Harvard University" <class 'AssertionError'>
-"Susan A Murphy" "Harvard University" <class 'AssertionError'>
-"Demba Ba" "Harvard University" <class 'AssertionError'>
-"Finale Doshi-Velez" "Harvard University" <class 'AssertionError'>
-"Yannai A. Gonczarowski" "Harvard University" <class 'AssertionError'>
-"Michael D. Mitzenmacher" "Harvard University" <class 'AssertionError'>
-"Hanspeter Pfister" "Harvard University" <class 'AssertionError'>
-"Daniel M. Kane" "University of California, San Diego" <class 'AssertionError'>
-"Qi (Rose) Yu" "University of California, San Diego" <class 'AssertionError'>
-"Ian G. Harris" "University of California, Irvine" <class 'AssertionError'>
-"Manos Athanassoulis" "Boston University" <class 'AssertionError'>
-"Ed Chien" "Boston University" <class 'AssertionError'>
-"Osman Balci" "Virginia Tech" <class 'AssertionError'>
-"Doug A. Bowman" "Virginia Tech" <class 'AssertionError'>
+"Sara Gopalkrishna" "University of Delaware" <class 'AssertionError'>
+"Weijie  Zhao" "Rochester Institute of Technology" <class 'AssertionError'>
+"Chandra Kambhamettu" "University of Delaware" <class 'AssertionError'>
+"Sabarish Babu" "Clemson University" <class 'AssertionError'>
+"Sabarish Babu" "Clemson University" <class 'AssertionError'>
+"Sabarish Babu" "Clemson University" <class 'AssertionError'>
+"Charles Riedesel" "University of Nebraska, Lincoln" <class 'AssertionError'>
+"Marilyn Augustyn" "University of Nebraska, Lincoln" <class 'AssertionError'>
+"Chris Bohn" "University of Nebraska, Lincoln" <class 'AssertionError'>
+"Shruti Daggumati" "University of Nebraska, Lincoln" <class 'AssertionError'>
+"Dr. Matthew Gerber" "University of Central Florida" <class 'AssertionError'>
+"Karin Whiting" "University of Central Florida" <class 'AssertionError'>
+"Dr. Shaojie Zhang" "University of Central Florida" <class 'AssertionError'>
+"Karin Whiting" "University of Central Florida" <class 'AssertionError'>
+"Karin Whiting" "University of Central Florida" <class 'AssertionError'>
+"Karen L. Karavanic" "Portland State University" <class 'AssertionError'>
+"Feng Liu" "Portland State University" <class 'AssertionError'>
+"Marly Roncken" "Portland State University" <class 'AssertionError'>
+"Kristin Tufte," "Portland State University" <class 'AssertionError'>
+"Jia Zhang" "Southern Methodist University" <class 'AssertionError'>
+"Karthik Dantu" "University at Buffalo, SUNY" <class 'AssertionError'>

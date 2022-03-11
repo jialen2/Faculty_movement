@@ -1,0 +1,1436 @@
+{
+    "Soraya Abad-Mota": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Profesora Titular",
+                [
+                    "Company Name",
+                    "Universidad Simón Bolívar"
+                ]
+            ],
+            [
+                "Visiting Scholar",
+                [
+                    "Company Name",
+                    "University of New Mexico. Dept. Electrical and Computer Engineering and Computer Science Dept."
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Albuquerque, New Mexico"
+                ]
+            ],
+            [
+                "Coordinadora de Ingeniería y Postgrados en Computación",
+                [
+                    "Company Name",
+                    "Universidad Simón Bolívar"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2009 - Feb 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 2 mos"
+                ]
+            ]
+        ]
+    },
+    "Amanda Bienz": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2018"
+                ],
+                [
+                    "More Info",
+                    "Research Area - Scientific Computing"
+                ]
+            ],
+            [
+                "Elon University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2012"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "The University of New Mexico · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "Albuquerque, New Mexico, United States"
+                ]
+            ],
+            [
+                "University of Illinois at Urbana-Champaign",
+                [
+                    "Company Name",
+                    "3 yrs 11 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Urbana-Champaign, Illinois Area"
+                ],
+                [
+                    "Location",
+                    "Postdoctoral Researcher"
+                ],
+                [
+                    "More Info",
+                    "Aug 2018 - Jun 2020 · 1 yr 11 mos"
+                ]
+            ],
+            [
+                "NSF GROW Intern",
+                [
+                    "Company Name",
+                    "Inria"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2016 - Jul 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Paris Area, France"
+                ],
+                [
+                    "More Info",
+                    "I am researching methods for improving parallel performance models for sparse matrix-vector multiplication (SpMV) through the use of topology-aware methods.  I am also looking at improving the performance of parallel SpMVs through asynchrony."
+                ]
+            ],
+            [
+                "Student Intern",
+                [
+                    "Company Name",
+                    "Lawrence Livermore National Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 - Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Livermore, CA"
+                ],
+                [
+                    "More Info",
+                    "I am researching methods for improving the scalability of Algebraic Multigrid through the use of non-Galerkin sparse grids. I am targeting the topology of specific high performance computers to find a tradeoff between reducing communication and increasing the convergence rate."
+                ]
+            ],
+            [
+                "University of Illinois at Urbana-Champaign",
+                [
+                    "Company Name",
+                    "10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Assistant"
+                ],
+                [
+                    "Location",
+                    "Jan 2014 - May 2014 · 5 mos"
+                ],
+                [
+                    "More Info",
+                    "Urbana-Champaign, Illinois Area"
+                ]
+            ]
+        ]
+    },
+    "Patrick G. Bridges": {
+        "status": "success",
+        "Education": [
+            [
+                "Mississippi State University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1994"
+                ]
+            ],
+            [
+                "University of Arizona",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of New Mexico Center for Advanced Research Computing",
+                [
+                    "Company Name",
+                    "5 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Albuquerque, New Mexico Area"
+                ],
+                [
+                    "Location",
+                    "Center Director"
+                ],
+                [
+                    "More Info",
+                    "Jun 2018 - Present · 3 yrs 10 mos"
+                ]
+            ],
+            [
+                "University of New Mexico School of Engineering",
+                [
+                    "Company Name",
+                    "19 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2017 - Present · 4 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Albuquerque, New Mexico Area"
+                ]
+            ]
+        ]
+    },
+    "Leah Buechley": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Colorado Boulder",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2007"
+                ]
+            ],
+            [
+                "Skidmore College",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Physics"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Owner",
+                [
+                    "Company Name",
+                    "Rural / Digital"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2014 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Rural Digital explores playful integrations of computation and design."
+                ]
+            ],
+            [
+                "MIT Media Lab",
+                [
+                    "Company Name",
+                    "5 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Cambridge, MA"
+                ],
+                [
+                    "Location",
+                    "Associate Professor"
+                ],
+                [
+                    "More Info",
+                    "Jan 2011 - Jan 2014 · 3 yrs 1 mo"
+                ]
+            ]
+        ]
+    },
+    "Brooke Chenoweth-Creel": {
+        "status": "success",
+        "Education": [
+            [
+                "Indiana University Bloomington",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2003"
+                ]
+            ],
+            [
+                "Rose-Hulman Institute of Technology",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science, Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2000"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Alpha Phi Omega, Drama Club, Alpha Lambda Delta, Upsilon Pi Epsilon"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "The University of New Mexico",
+                [
+                    "Company Name",
+                    "8 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Senior Lecturer in Computer Science"
+                ],
+                [
+                    "Location",
+                    "Jul 2019 - Present · 2 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Albuquerque, New Mexico Area"
+                ]
+            ],
+            [
+                "Senior Systems Specialist",
+                [
+                    "Company Name",
+                    "ARES Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2008 - Jul 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Albuquerque, NM"
+                ],
+                [
+                    "More Info",
+                    "Programming agent-based security simulation software in Java"
+                ]
+            ],
+            [
+                "LTE",
+                [
+                    "Company Name",
+                    "Sandia National Laboratories"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2003 - Nov 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                [
+                    "Location",
+                    "* Programming models and simulations in several languages (C++, Java, Python)"
+                ],
+                [
+                    "More Info",
+                    "* Designed and implemented an agent-based logistics simulation"
+                ]
+            ],
+            [
+                "Indiana University Bloomington",
+                [
+                    "Company Name",
+                    "2 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Assistant Instructor in Computer Science Department"
+                ],
+                [
+                    "Location",
+                    "Aug 2000 - May 2003 · 2 yrs 10 mos"
+                ],
+                [
+                    "More Info",
+                    "* Supervised labs/discussion sessions, graded assignments, guided students"
+                ]
+            ],
+            [
+                "Work study",
+                [
+                    "Company Name",
+                    "Rose-Hulman Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1996 - May 2000"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "* Grader and Lab Assistant for Computer Science Department"
+                ],
+                [
+                    "More Info",
+                    "* Grader for Mathematics Department"
+                ]
+            ]
+        ]
+    },
+    "Trilce Estrada": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Delaware",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: CIS representative of WiE (Women in Engineering) of the University of Delaware, July 2010 - present"
+                ]
+            ],
+            [
+                "The University of Texas at El Paso",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Sciences"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2007"
+                ],
+                [
+                    "More Info",
+                    "Instituto Nacional de Astrofísica, Óptica y Electrónica logo"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of New Mexico"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Albuquerque, New Mexico Area"
+                ]
+            ],
+            [
+                "University of Delaware",
+                [
+                    "Company Name",
+                    "6 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Newark, Delaware"
+                ],
+                [
+                    "Location",
+                    "Postdoctoral Researcher"
+                ],
+                [
+                    "More Info",
+                    "Jun 2012 - Jul 2013 · 1 yr 2 mos"
+                ]
+            ],
+            [
+                "Summer intern",
+                [
+                    "Company Name",
+                    "IBM"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2010 - Sep 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "Hawthorne, New York"
+                ],
+                [
+                    "More Info",
+                    "Worked on the Galapagos project. The scope of this internship included performance discovery of multi-tier business applications using non-intrusive methods. Hawthorne"
+                ]
+            ]
+        ]
+    },
+    "Matthew Fricke": {
+        "status": "success",
+        "Education": [
+            [
+                "University of New Mexico School of Engineering",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2017"
+                ]
+            ],
+            [
+                "The University of New Mexico",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2012"
+                ]
+            ],
+            [
+                "University of New Mexico School of Engineering",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2003"
+                ],
+                [
+                    "More Info",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Research Assistant Professor",
+                [
+                    "Company Name",
+                    "Dept of Computer Science, University of New Mexico School of Engineering  · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Albuquerque, New Mexico"
+                ]
+            ],
+            [
+                "Research Assistant Professor",
+                [
+                    "Company Name",
+                    "Center for Advanced Research Computing · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Albuquerque, New Mexico"
+                ],
+                [
+                    "More Info",
+                    "http://carc.unm.edu"
+                ]
+            ],
+            [
+                "Technical Lead",
+                [
+                    "Company Name",
+                    "UNM-NASA Swarmathon"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2015 - Jul 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 7 mos"
+                ]
+            ],
+            [
+                "Adjunct Assistant Professor",
+                [
+                    "Company Name",
+                    "University of New Mexico School of Engineering"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2017 - May 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ]
+            ],
+            [
+                "Teaching Assistant",
+                [
+                    "Company Name",
+                    "University of New Mexico"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Dec 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "See all 6 experiences"
+                ]
+            ]
+        ]
+    },
+    "Joseph Haugh": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of New Mexico",
+                [
+                    "Degree Name",
+                    "Bachelor of Business Administration (B.B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Management Information Systems, General"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2016"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Programmer",
+                [
+                    "Company Name",
+                    "University of New Mexico Clinical and Translational Science Center (CTSC)"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2016 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 6 mos"
+                ]
+            ],
+            [
+                "Analyst",
+                [
+                    "Company Name",
+                    "AMERICAN SYSTEMS"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - Oct 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "United States"
+                ]
+            ]
+        ]
+    },
+    "Thomas P. Hayes": {
+        "status": "success",
+        "Education": [
+            [
+                "Boston College",
+                [
+                    "Degree Name",
+                    "Finance"
+                ],
+                [
+                    "Field Of Study",
+                    " Business Analytics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2018"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Manager of Corporate Development",
+                [
+                    "Company Name",
+                    "EP Group"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Charleston, South Carolina, United States"
+                ]
+            ],
+            [
+                "Financial Analyst",
+                [
+                    "Company Name",
+                    "EPI Group, LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2020 - Dec 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 10 mos"
+                ],
+                [
+                    "Location",
+                    "Charleston, South Carolina Area"
+                ]
+            ],
+            [
+                "Associate",
+                [
+                    "Company Name",
+                    "STEER Partners LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 - Mar 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 9 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Boston Area"
+                ]
+            ],
+            [
+                "Consulting Intern",
+                [
+                    "Company Name",
+                    "USI Insurance Services"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 - Aug 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ]
+            ],
+            [
+                "Fixed Income Intern",
+                [
+                    "Company Name",
+                    "Hamlin Capital Management, LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2016 - Jul 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ],
+                [
+                    "More Info",
+                    "See all 6 experiences"
+                ]
+            ]
+        ]
+    },
+    "Bruna Jacobson": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Deepak Kapur": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Matthew Lakin": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Shuang (Sean) Luan": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Notre Dame",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2004"
+                ],
+                [
+                    "More Info",
+                    "Harbin Institute of Technology"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of New Mexico School of Engineering",
+                [
+                    "Company Name",
+                    "4 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor and Director of Biomedical Engineering Graduate Program"
+                ],
+                [
+                    "Location",
+                    "Jan 2019 - Present · 3 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Albuquerque, New Mexico Area"
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "The University of New Mexico"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2010 - Jun 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of New Mexico School of Engineering"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2004 - Jun 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
+                ],
+                [
+                    "Location",
+                    "Albuquerque, New Mexico"
+                ]
+            ]
+        ]
+    },
+    "Melanie Moses": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of New Mexico"
+                ]
+            ]
+        ]
+    },
+    "Abdullah A. Mueen": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Riverside",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Dissertation: Exact Methods for Time Series Motif Discovery"
+                ]
+            ],
+            [
+                "Bangladesh University of Engineering and Technology",
+                [
+                    "Degree Name",
+                    "BSc"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "The University of New Mexico",
+                [
+                    "Company Name",
+                    "8 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Albuquerque, New Mexico Area"
+                ],
+                [
+                    "Location",
+                    "Associate Professor"
+                ],
+                [
+                    "More Info",
+                    "Jun 2019 - Present · 2 yrs 10 mos"
+                ]
+            ],
+            [
+                "Microsoft",
+                [
+                    "Company Name",
+                    "1 yr 5 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Scientist"
+                ],
+                [
+                    "Location",
+                    "Nov 2012 - Aug 2013 · 10 mos"
+                ],
+                [
+                    "More Info",
+                    "Redmond, WA"
+                ]
+            ],
+            [
+                "Graduate Student Researcher",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2008 - Mar 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Riverside, CA"
+                ],
+                [
+                    "More Info",
+                    "Developed techniques for finding time series motifs efficiently. Considered in-memory, disk-resident and online cases. Considered time series classification problem using novel logical-shapelet. Published in top-tier data mining conferences including SIGKDD, ICDM and SDM."
+                ]
+            ],
+            [
+                "UC, Riverside",
+                [
+                    "Company Name",
+                    "4 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Assistant"
+                ],
+                [
+                    "Location",
+                    "Jun 2008 - Mar 2012 · 3 yrs 10 mos"
+                ],
+                [
+                    "More Info",
+                    "Worked on different exact methods for Time Series Motif discovery ranging from"
+                ]
+            ],
+            [
+                "Intern",
+                [
+                    "Company Name",
+                    "Hewlett-Packard Laboratories"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2011 - Aug 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Palo Alto, CA"
+                ],
+                [
+                    "More Info",
+                    "I developed a technique to speedup the naive multidimensional similarity search on time series data using a suffix tree based search initialization."
+                ]
+            ]
+        ]
+    },
+    "Gruia-Catalin Roman": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Jared Saia": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "U. New Mexico"
+                ]
+            ]
+        ]
+    },
+    "Darko Stefanovic": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Manager Distributed Applications",
+                [
+                    "Company Name",
+                    "Invesco US"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Houston, Texas Area"
+                ]
+            ],
+            [
+                "Agile Team Lead - On-site Coordinator (Halliburton, Houston)",
+                [
+                    "Company Name",
+                    "Luxoft-Halliburton"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Jan 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Houston, Texas, USA - Dnepropetrovsk and Kiev Ukraine"
+                ],
+                [
+                    "More Info",
+                    "•\tI manage, coordinate and implement assignments for offshore and on campus teams of developers and testers in Geophysics and Geology domains. Supervise team members to ensure that goals are being met by playing role of coach, domain teacher and providing hands-on-coding and solution research. I support development process by hosting daily scrum meetings for the team."
+                ]
+            ],
+            [
+                "Senior Java Developer",
+                [
+                    "Company Name",
+                    "Datacert"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2011 - Aug 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 11 mos"
+                ],
+                [
+                    "Location",
+                    "Houston, Texas Area"
+                ],
+                [
+                    "More Info",
+                    "•\tJoined a platform product development team that develops a highly configurable platform software solution in a collaborative environment employing Agile development methodologies."
+                ]
+            ],
+            [
+                "Senior Software Developer",
+                [
+                    "Company Name",
+                    "Shaw Systems Associates, Inc"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2006 - Oct 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "•\tDeveloping and maintaining the Spectrum, a suite of several Credit Management Software Applications: Loan and Lease servicing and accounting, Collections and Recovery."
+                ],
+                [
+                    "More Info",
+                    "•\tWorking on an in house developed and integrated Java framework. Customizing framework to meet specific customer needs (Java, EJBs, Weblogic, MsSQL, Blaze Rules engine, Fitnesse test suite)."
+                ]
+            ],
+            [
+                "Senior Software Engineer (Bioinformatics)",
+                [
+                    "Company Name",
+                    "Lexicon Genetics Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2001 - Feb 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "•\tDeveloped J2EE applications to access, analyze, and validate data in a drug discovery pipeline."
+                ],
+                [
+                    "More Info",
+                    "•\tBuilt tools for project management, result summarization and tracking, and data curation and storage."
+                ]
+            ]
+        ]
+    },
+    "Lydia Tapia": {
+        "status": "success",
+        "Education": [
+            [
+                "Texas A&amp;M University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2009"
+                ]
+            ],
+            [
+                "Tulane University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1998"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of New Mexico School of Engineering"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Albuquerque, New Mexico Area"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of New Mexico"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2011 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "11 yrs 3 mos"
+                ]
+            ],
+            [
+                "Computing Innovation Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "University of Texas, Institute for Computational Engineering and Sciences"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2009 - Jan 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ]
+            ],
+            [
+                "Webmaster",
+                [
+                    "Company Name",
+                    "CRA-W"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2003 - May 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 1 mo"
+                ]
+            ],
+            [
+                "Technical Research Staff",
+                [
+                    "Company Name",
+                    "Sandia National Laboratories"
+                ],
+                [
+                    "Dates Employed",
+                    "May 1998 - Aug 1999"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 4 mos"
+                ]
+            ]
+        ]
+    },
+    "Lance Williams": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "1985 - 1993"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of New Mexico"
+                ]
+            ]
+        ]
+    }
+}

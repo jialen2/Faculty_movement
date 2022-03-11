@@ -7,7 +7,8 @@ from bs4 import BeautifulSoup
 import subprocess
 import requests
 from googlesearch import search
-dataset_directory = os.getcwd() + "/dataset/"
+import atexit
+dataset_directory = os.getcwd() + "/../scrape/Computer_Science"
 edu_to_edu = {}
 edu_to_work = {}
 work_to_work = {}
@@ -18,7 +19,22 @@ normalized_name = {}
 
 # Count the total number of movement record
 num_movement = 0
+def exit_handler():
+    with open("./result/normal/edu_to_work.csv", "w") as f:
+        f.write("last_edu,first_work,weight\n")
+        write_edge_to_file(edu_to_work, f)
+        
+    with open("./result/normal/edu_to_edu.csv", "w") as f:
+        f.write("last_edu,next_edu,weight\n")
+        write_edge_to_file(edu_to_edu, f)
 
+    with open("./result/normal/work_to_work.csv", "w") as f:
+        f.write("last_work,next_work,weight\n")
+        write_edge_to_file(work_to_work, f)
+
+    with open("./result/normal/general.csv", "w") as f:
+        f.write("head_node,tail_node,weight\n")
+        write_edge_to_file(general, f)
 def split_dash(s):
     if "–" in s:
         return s.split("–")
@@ -64,7 +80,7 @@ def parse_school_name(name):
     result = subprocess.check_output(["python", "google_school_name.py", name])
     # since result is in type bytes, we need to decode it back to type str to do future manipulation.
     return result.decode("utf-8").replace("\n", "")
-
+atexit.register(exit_handler)
 # import the academic institution list
 with open("school_list.csv", "r") as input:
     for row in input:
@@ -75,8 +91,8 @@ with open("school_list.csv", "r") as input:
 count_prof = 0
 
 for filename in os.listdir(dataset_directory):
-    if not filename[-5:] == ".json":
-        continue
+    # if not filename[-5:] == ".json":
+    #     continue
     with open(os.path.join(dataset_directory, filename), 'r') as f:
         school_name = parse_school_name(filename.split(".")[0])
         print(school_name)
@@ -172,24 +188,26 @@ for filename in os.listdir(dataset_directory):
                     #     print("missing education record: ", prof, "in", school_name)
             except:
                 continue  
+    print(edu_to_work)
 
-print("num_prof:", count_prof)
-print("num_movement:", num_movement)
 
-# with open("./reversed/edu_to_work.csv", "w") as f:
-#     f.write("last_edu,first_work,weight\n")
-#     write_edge_to_file(edu_to_work, f)
+# print("num_prof:", count_prof)
+# print("num_movement:", num_movement)
+
+with open("./result/normal/edu_to_work.csv", "w") as f:
+    f.write("last_edu,first_work,weight\n")
+    write_edge_to_file(edu_to_work, f)
     
-# with open("./reversed/edu_to_edu.csv", "w") as f:
-#     f.write("last_edu,next_edu,weight\n")
-#     write_edge_to_file(edu_to_edu, f)
+with open("./result/normal/edu_to_edu.csv", "w") as f:
+    f.write("last_edu,next_edu,weight\n")
+    write_edge_to_file(edu_to_edu, f)
 
-# with open("./reversed/work_to_work.csv", "w") as f:
-#     f.write("last_work,next_work,weight\n")
-#     write_edge_to_file(work_to_work, f)
+with open("./result/normal/work_to_work.csv", "w") as f:
+    f.write("last_work,next_work,weight\n")
+    write_edge_to_file(work_to_work, f)
 
-# with open("./reversed/general.csv", "w") as f:
-#     f.write("head_node,tail_node,weight\n")
-#     write_edge_to_file(general, f)
+with open("./result/normal/general.csv", "w") as f:
+    f.write("head_node,tail_node,weight\n")
+    write_edge_to_file(general, f)
 
 # print(json.dumps(work_to_work, sort_keys=True, indent=4))

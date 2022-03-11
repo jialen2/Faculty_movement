@@ -5,11 +5,10 @@ import os
 import json
 import random
 import sys
+import atexit
 from get_background import get_background_info
 
 from bs4 import BeautifulSoup
-
-from selenium.webdriver.chrome.service import Service
 
 current_directory = os.path.dirname(os.path.realpath(__file__))
 
@@ -18,6 +17,8 @@ driver = None
 url = None
 
 sys.path.insert(1, current_directory+'/../helper')
+
+account_num = {}
 
 # sys.path.insert(1, '../helper')
 
@@ -35,6 +36,16 @@ from get_html import parse_html_string, get_links_on_google
 #   faculty2: {'education': [...], 'experience': [...]},
 #   ...
 # }
+def writeAccountNumToFile():
+    with open("account_num.txt", "w") as output:
+        for key in account_num.keys():
+            output.write(key+","+str(account_num[key])+"\n")
+    
+def exit_handler():
+    writeAccountNumToFile()
+
+atexit.register(exit_handler)
+
 def setupWebDriver(chromedriver_path):
     global driver
     if driver:
@@ -49,8 +60,6 @@ def setupWebDriver(chromedriver_path):
 
     # option.add_argument('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45')
     option.add_argument('Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664S.45 Safari/537.36')
-    # s = Service(executable_path=os.getcwd() + '/chromedriver')
-    # driver = webdriver.Chrome(service=s)
     driver = webdriver.Chrome(executable_path=chromedriver_path, chrome_options=option)
 
 def login(linkedin_email, linkedin_password):
@@ -75,56 +84,93 @@ def login(linkedin_email, linkedin_password):
 SwitchAccuntThrehold = 20
 
 # List of useable linked Account for scraping.
-linkedInAccounts = ["nima760@outlook.com", "nima609@outlook.com"]
+linkedInAccounts = ["suild908@outlook.com", "ioter908@outlook.com" ]
 
 def long_sleep_if_needed(countNumScrape):
-    if countNumScrape % 23 == 0:
-        print("###############long sleep#################")
-        time.sleep(random.randint(120, 150))
+    a = 1
+    # if countNumScrape % 23 == 0:
+    #     print("###############long sleep#################")
+    #     time.sleep(random.randint(120, 150))
+def readAccountNum():
+    with open("account_num.txt", "r") as input:
+        for line in input:
+            account, num = line.split(",")
+            account_num[account] = int(num)
 
+def deleteLineAfterScraping(filePath, lineToDelete):
+    allLine = []
+    with open(filePath, "r") as input:
+        for line in input:
+            if line != lineToDelete:
+                allLine.append(line)
+    index = 0
+    with open(filePath, "w") as output:
+        for line in allLine:
+            line = line.replace("\n","").strip()
+            output.write(line)
+            if index != len(allLine)-1:
+                output.write("\n")
+            index += 1
+    if len(allLine) == 0:
+        os.remove(filePath)
+        with open("success_file", "a") as output:
+            output.write(filePath+'\n')
+    
 def scrape_data_from_linkedin(faculty_file_path, major, chromedriver_path):
     global url
+    readAccountNum()
     countNumScrape = 0
+    currAccount = ""
     linkedInAccountIndex = -1
     university_list = os.listdir(faculty_file_path)
     for university in university_list:
-        with open(faculty_file_path+"/"+university,"r") as faculty_list_file:
-            store_file_path = current_directory+"/../../"+major+"/"+university
-            for faculty_name in faculty_list_file:
-                faculty_name = faculty_name.replace("\n","").strip()
-                if countNumScrape % SwitchAccuntThrehold == 0:
-                    linkedInAccountIndex = (linkedInAccountIndex+1) % len(linkedInAccounts)
+        filePath = faculty_file_path+"/"+university
+        faculty_list = []
+        if filePath.split("/")[-1] == ".DS_Store":
+            continue
+        with open(filePath,"r") as input:
+            for faculty_name in input:
+                faculty_list.append(faculty_name)
+        store_file_path = current_directory+"/../../"+major+"/"+university+".json"
+        for faculty_name in faculty_list:
+            originalLine = faculty_name
+            faculty_name = faculty_name.replace("\n","").strip()
+            if countNumScrape % SwitchAccuntThrehold == 0:
+                linkedInAccountIndex = (linkedInAccountIndex+1) % len(linkedInAccounts)
+                currAccount = linkedInAccounts[linkedInAccountIndex]
+                setupWebDriver(chromedriver_path)
+                login(linkedInAccounts[linkedInAccountIndex], "319133abcd")
+                print("Switched Account to: ", linkedInAccounts[linkedInAccountIndex])
+            countNumScrape += 1
+            try:
+                get_background_on_linkedin(university, faculty_name, store_file_path)
+                account_num[currAccount] = account_num.get(currAccount, 0) + 1
+                deleteLineAfterScraping(filePath, originalLine)
+            except Exception as e:
+                with open("failed_data.txt", "a") as output:
+                    output.write('"' + faculty_name + '"'+ " " + '"' + university + '"'+ " " + str(type(e)))
+                    output.write("\n")
+                    print(str(e))
+
+                # If met some error with the store file, switch a university to scrape.
+                if type(e).__name__ == "JSONDecodeError":
+                    long_sleep_if_needed(countNumScrape)
+                    break
+
+                # If the current account failed to scrape infomation, switch an account.
+                elif type(e).__name__ == "AssertionError" or type(e).__name__ == "MaxRetryError":
+                    # When an account failed to perform, record the account and the url it fails on.
+                    with open("failed_accounts.txt", "a") as output:
+                        output.write(linkedInAccounts[linkedInAccountIndex] + " " + url + "\n")
+                    del linkedInAccounts[linkedInAccountIndex]
+                    if len(linkedInAccounts) == 0:
+                        driver.quit()
+                        return
+                    linkedInAccountIndex = linkedInAccountIndex % len(linkedInAccounts)
                     setupWebDriver(chromedriver_path)
                     login(linkedInAccounts[linkedInAccountIndex], "319133abcd")
                     print("Switched Account to: ", linkedInAccounts[linkedInAccountIndex])
-                countNumScrape += 1
-                try:
-                    get_background_on_linkedin(university, faculty_name, store_file_path)
-                except Exception as e:
-                    with open("failed_data.txt", "a") as output:
-                        output.write('"' + faculty_name + '"'+ " " + '"' + university + '"'+ " " + str(type(e)))
-                        output.write("\n")
-                        print(str(e))
-
-                    # If met some error with the store file, switch a university to scrape.
-                    if type(e).__name__ == "JSONDecodeError":
-                        long_sleep_if_needed(countNumScrape)
-                        break
-
-                    # If the current account failed to scrape infomation, switch an account.
-                    elif type(e).__name__ == "AssertionError" or type(e).__name__ == "MaxRetryError":
-                        # When an account failed to perform, record the account and the url it fails on.
-                        with open("failed_accounts.txt", "a") as output:
-                            output.write(linkedInAccounts[linkedInAccountIndex] + " " + url + "\n")
-                        del linkedInAccounts[linkedInAccountIndex]
-                        if len(linkedInAccounts) == 0:
-                            driver.quit()
-                            return
-                        linkedInAccountIndex = linkedInAccountIndex % len(linkedInAccounts)
-                        setupWebDriver(chromedriver_path)
-                        login(linkedInAccounts[linkedInAccountIndex], "319133abcd")
-                        print("Switched Account to: ", linkedInAccounts[linkedInAccountIndex])
-                long_sleep_if_needed(countNumScrape)
+            long_sleep_if_needed(countNumScrape)
     driver.quit()
 
 def get_background_on_linkedin(university, faculty_name, store_file_path):
@@ -179,8 +225,7 @@ def get_background_on_linkedin(university, faculty_name, store_file_path):
             output.write(BeautifulSoup(driver.page_source, 'html.parser').prettify())
         assert False
     write_to_file("success")
-    time.sleep(random.randint(60, 90))
-    # return res
+    time.sleep(random.randint(30, 45))
 
 
 # # example

@@ -1,0 +1,393 @@
+{
+    "Marina Blanton": {
+        "status": "success",
+        "Education": [
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2007"
+                ]
+            ],
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " CS"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2004"
+                ]
+            ],
+            [
+                "Ohio University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " EECS"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2002"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University at Buffalo (SUNY)"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2016 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 5 mos"
+                ]
+            ],
+            [
+                "Co-founder and Senior Scientist",
+                [
+                    "Company Name",
+                    "Interrupt Sciences LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "2014 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Notre Dame, IN"
+                ],
+                [
+                    "More Info",
+                    "Consulting on various topics of computer and information security, data privacy, and cryptography."
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Notre Dame"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2007 - Jun 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Conducting research on information security, privacy, and cryptography; teaching graduate and undergraduate courses; advising PhD and undergraduate students."
+                ]
+            ],
+            [
+                "Research/Teaching Assistant",
+                [
+                    "Company Name",
+                    "Purdue University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2002 - Jul 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ],
+            [
+                "Communications Network Services, Ohio University",
+                [
+                    "Company Name",
+                    "2 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Network Engineer"
+                ],
+                [
+                    "Location",
+                    "Sep 2001 - May 2002 · 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Software Designer"
+                ]
+            ]
+        ]
+    },
+    "Varun Chandola": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "PhD."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2008"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Madras",
+                [
+                    "Degree Name",
+                    "B. Tech"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2002"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Program Director",
+                [
+                    "Company Name",
+                    "National Science Foundation (NSF) · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "Alexandria, Virginia, United States"
+                ]
+            ],
+            [
+                "University at Buffalo",
+                [
+                    "Company Name",
+                    "8 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Jun 2020 - Present · 1 yr 10 mos"
+                ]
+            ],
+            [
+                "Mentor for The Eric &amp; Wendy Schmidt Data Science for Social Good Fellowship",
+                [
+                    "Company Name",
+                    "The University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 - Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago"
+                ]
+            ],
+            [
+                "Oak Ridge National Laboratory",
+                [
+                    "Company Name",
+                    "3 yrs 11 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Scientist"
+                ],
+                [
+                    "Location",
+                    "Feb 2011 - Aug 2013 · 2 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Mining Massive Data, Anomaly Detection, Fraud Detection, Spatio-temporal Data Analysis, Geospatial Visualization"
+                ]
+            ]
+        ]
+    },
+    "Changyou Chen": {
+        "status": "success",
+        "Education": [
+            [
+                "The Australian National University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2014"
+                ],
+                [
+                    "More Info",
+                    "Major in machine learning: Bayesian nonparametrics and topic modeling."
+                ]
+            ],
+            [
+                "Fudan University",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2010"
+                ]
+            ],
+            [
+                "Fudan University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2007"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University at Buffalo"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 8 mos"
+                ]
+            ],
+            [
+                "PhD student",
+                [
+                    "Company Name",
+                    "Australian National University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "11 yrs 7 mos"
+                ]
+            ],
+            [
+                "Visiting PHD Student",
+                [
+                    "Company Name",
+                    "HKUST"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "1 mo"
+                ]
+            ],
+            [
+                "Visiting PHD Student",
+                [
+                    "Company Name",
+                    "Tsinghua University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "1 mo"
+                ]
+            ],
+            [
+                "Visiting PHD Student",
+                [
+                    "Company Name",
+                    "University of Cambridge"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "1 mo"
+                ],
+                [
+                    "Location",
+                    "Show all 9 experiences"
+                ]
+            ]
+        ]
+    }
+}

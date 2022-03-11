@@ -1,0 +1,106 @@
+{
+    "Varsha  Dani": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Jansen  Orfan": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Weijie  Zhao": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Merced",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2018"
+                ]
+            ],
+            [
+                "East China Normal University",
+                [
+                    "Degree Name",
+                    "软件工程"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2014"
+                ],
+                [
+                    "More Info",
+                    "Shanghai Yanan High School"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Rochester Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2022 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Rochester, New York"
+                ]
+            ],
+            [
+                "Researcher",
+                [
+                    "Company Name",
+                    "Baidu Research, USA"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 - Jan 2022"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Sunnyvale, CA"
+                ],
+                [
+                    "More Info",
+                    "Big Data and AI researcher"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Berkeley Lab"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2015 - Aug 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 4 mos"
+                ]
+            ]
+        ]
+    }
+}

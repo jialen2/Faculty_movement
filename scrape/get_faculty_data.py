@@ -1,8 +1,6 @@
 #-*- coding: utf-8 -*-
 from __future__ import unicode_literals
-from os import link
 import sys
-import json
 import os 
 current_directory = os.path.dirname(os.path.realpath(__file__))
 sys.path.append(current_directory+"/faculty")

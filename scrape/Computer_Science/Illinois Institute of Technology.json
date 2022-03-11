@@ -1,0 +1,216 @@
+{
+    "Mustafa Bilgic": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Illinois Institute of Technology",
+                [
+                    "Company Name",
+                    "11 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Director of the Masters in Artificial Intelligence Program"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Apr 2019 - Present · 3 yrs"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Maryland, College Park"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2004 - Aug 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 1 mo"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft Research Redmond"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2009 - Aug 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Texas at Austin"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2002 - May 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 9 mos"
+                ],
+                [
+                    "Location",
+                    "Austin, Texas"
+                ]
+            ]
+        ]
+    },
+    "Yuan Hong": {
+        "status": "success",
+        "Education": [
+            [
+                "New York University - Polytechnic School of Engineering",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Electronics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2013"
+                ]
+            ],
+            [
+                "Tongji University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 2007 - Jun 2011"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Software Engineer",
+                [
+                    "Company Name",
+                    "Octane · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2022 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ]
+            ],
+            [
+                "Senior Software Engineer",
+                [
+                    "Company Name",
+                    "C+R Research · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2020 - Jan 2022"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ]
+            ],
+            [
+                "Web Developer",
+                [
+                    "Company Name",
+                    "Jammber"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2017 - Feb 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ],
+                [
+                    "More Info",
+                    "Senior Full Stack developer:"
+                ]
+            ],
+            [
+                "Full Stack Developer",
+                [
+                    "Company Name",
+                    "FGS Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2016 - Feb 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Aurora, IL"
+                ],
+                [
+                    "More Info",
+                    "Develop eCommerce website as full stack developer. Write code for database, web services, C# backend and UI."
+                ]
+            ],
+            [
+                "IT Application Developer",
+                [
+                    "Company Name",
+                    "Progressive Insurance"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2014 - Dec 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "Mayfield, OH"
+                ],
+                [
+                    "More Info",
+                    "(TFS Migration Project):"
+                ]
+            ]
+        ]
+    }
+}

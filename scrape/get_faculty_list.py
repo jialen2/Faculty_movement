@@ -21,7 +21,8 @@ def get_faculty_list(major):
                 continue
             school = row[1].replace("--", ", ").replace("\n", "").replace("'", "")
             data = find(school, major)[0]
-            with open(file_path+"/faculty_list/"+major+"/"+school, "a+") as file:
+            with open("demo.txt","w") as file:
+            # with open(file_path+"/faculty_list/"+major+"/"+school, "a+") as file:
                 for person in data:
                     name = person["Name"]
                     file.write(name+"\n")

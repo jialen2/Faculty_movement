@@ -1,1259 +1,4199 @@
-
-
-
-
-<!doctype html>
-<html lang="en-US" class="no-js">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://static.nd.edu/" crossorigin>
-<link rel="preconnect" href="https://emergency.nd.edu/">
-<link rel="preconnect" href="https://ajax.googleapis.com/">
-<link rel="preconnect" href="https://fonts.googleapis.com/">
-<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-<link rel="profile" href="https://gmpg.org/xfn/11">
-<link rel="shortcut icon" href="https://cse.nd.edu/wp-content/themes/ndt3-wp-master/favicon.ico">
-<link rel="apple-touch-icon" sizes="76x76" href="https://static.nd.edu/images/webclips/default/webclip-76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="https://static.nd.edu/images/webclips/default/webclip-114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="https://static.nd.edu/images/webclips/default/webclip-120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="https://static.nd.edu/images/webclips/default/webclip-144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="https://static.nd.edu/images/webclips/default/webclip-152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="https://static.nd.edu/images/webclips/default/webclip-180.png">
-<link rel="apple-touch-icon" sizes="512x512" href="https://static.nd.edu/images/webclips/default/webclip-512.png">
-<link rel="icon" type="image/png" href="https://static.nd.edu/images/monogram/gold/monogram-16.png" sizes="16x16">
-<link rel="icon" type="image/png" href="https://static.nd.edu/images/monogram/gold/monogram-32.png" sizes="32x32">
-<link rel="icon" type="image/png" href="https://static.nd.edu/images/monogram/gold/monogram-96.png" sizes="96x96">
-<link rel="mask-icon" href="https://static.nd.edu/images/monogram/monogram.svg" color="#002b5c">
-<meta name="theme-color" content="#002b5c">
-<link rel="stylesheet" href="https://use.typekit.net/reh8qcz.css">
-<!-- This site is optimized with the Yoast SEO plugin v14.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
-<title>
-Faculty - Computer Science and Engineering
-</title>
-<meta name="robots" content="index, follow" />
-<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<link rel="canonical" href="https://cse.nd.edu/faculty/" />
-<link rel="next" href="https://cse.nd.edu/faculty/page/2/" />
-<meta property="og:locale" content="en_US" />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="Faculty - Computer Science and Engineering" />
-<meta property="og:url" content="https://cse.nd.edu/faculty/" />
-<meta property="og:site_name" content="Computer Science and Engineering" />
-<meta name="twitter:card" content="summary_large_image" />
-<script type="application/ld+json" class="yoast-schema-graph">
-{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://cse.nd.edu/#website","url":"https://cse.nd.edu/","name":"Computer Science and Engineering","description":"College of Engineering","potentialAction":[{"@type":"SearchAction","target":"https://cse.nd.edu/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://cse.nd.edu/faculty/#webpage","url":"https://cse.nd.edu/faculty/","name":"Faculty - Computer Science and Engineering","isPartOf":{"@id":"https://cse.nd.edu/#website"},"inLanguage":"en-US"}]}
-</script>
-<!-- / Yoast SEO plugin. -->
-<link rel='dns-prefetch' href='//conductor.nd.edu' />
-<link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Computer Science and Engineering &raquo; Feed" href="https://cse.nd.edu/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Computer Science and Engineering &raquo; Faculty Feed" href="https://cse.nd.edu/faculty/feed/" />
-<link rel='stylesheet' id='wp-block-library-css' href='https://cse.nd.edu/wp-includes/css/dist/block-library/style.min.css?ver=5.5.8' type='text/css' media='all' />
-<style id='wp-block-library-inline-css' type='text/css'>
-
-.editor-styles-wrapper p.is-style-intro-size { font-size: 1.25rem }
-.editor-styles-wrapper ul.is-style-no-bullets { list-style:none; padding-left:0; }
-
-</style>
-<link rel='stylesheet' id='megamenu-css' href='https://cse.nd.edu/wp-content/uploads/sites/7/maxmegamenu/style.css?ver=ef22d5' type='text/css' media='all' />
-<link rel='stylesheet' id='megamenu-genericons-css' href='https://cse.nd.edu/wp-content/plugins/megamenu-pro/icons/genericons/genericons/genericons.css?ver=2.1.1' type='text/css' media='all' />
-<link rel='stylesheet' id='megamenu-fontawesome-css' href='https://cse.nd.edu/wp-content/plugins/megamenu-pro/icons/fontawesome/css/font-awesome.min.css?ver=2.1.1' type='text/css' media='all' />
-<link rel='stylesheet' id='megamenu-fontawesome5-css' href='https://cse.nd.edu/wp-content/plugins/megamenu-pro/icons/fontawesome5/css/all.min.css?ver=2.1.1' type='text/css' media='all' />
-<link rel='stylesheet' id='dashicons-subset-css' href='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/css/dashicons.css?ver=202006171118am' type='text/css' media='all' />
-<link rel='stylesheet' id='ndt3-theme-css' href='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/css/theme.css?ver=202006171118am' type='text/css' media='all' />
-<link rel='stylesheet' id='ndt3-ndt-css' href='https://conductor.nd.edu/stylesheets/themes/ndt/v3/ndt.css?ver=5.5.8' type='text/css' media='all' />
-<link rel='stylesheet' id='ndt3-style-css' href='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/style.css?ver=5.5.8' type='text/css' media='all' />
-<link rel='stylesheet' id='algolia-theme-css' href='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/css/algolia-min.css?ver=5.5.8' type='text/css' media='all' />
-<script type='text/javascript' src='https://cse.nd.edu/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'>
-</script>
-<link rel="https://api.w.org/" href="https://cse.nd.edu/wp-json/" />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cse.nd.edu/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cse.nd.edu/wp-includes/wlwmanifest.xml" />
-<meta name="generator" content="WordPress 5.5.8" />
-<style type="text/css">
-.broken_link, a.broken_link {
-	text-decoration: line-through;
-}
-</style>
-<style type="text/css">
-/** Mega Menu CSS: fs **/
-</style>
-<!--[if IE]>
-<link rel='stylesheet' href='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/css/ie.css type='text/css'>
-<![endif]-->
-<!--[if lt IE 9]>
-<script src="https://static.nd.edu/js/html5shiv.min.js">
-</script>
-<script src="https://static.nd.edu/js/respond.js">
-</script>
-<![endif]-->
-<!-- Google Analytics -->
-<script>
-
- (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
- (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
- m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
- })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
- ga('create', 'UA-27218056-11', 'auto');
- ga('send', 'pageview');
+<!DOCTYPE html>
+<!-- Sorry no IE7 support! -->
+<!-- @see http://foundation.zurb.com/docs/index.html#basicHTMLMarkup -->
+<!--[if IE 8]>
+<html class="no-js lt-ie9" lang="en" dir="ltr">
  
+<![endif]-->
+<!--[if gt IE 8]>
+<!-->
+ 
+<html class="no-js" lang="en" dir="ltr">
+ 
+<!--
+<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<script type="text/javascript">
+<no_tag>
+(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam-cell.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"8366c96dbc",applicationID:"56771062"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i
+</no_tag>
+<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r
+<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>
+<no_tag>
+0){var r=n[n.length-1];if(u&&u
+</no_tag>
+<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e
+<=v.now()?n.fid=v.now()-e:e>
+<no_tag>
+v.offset&&e
+</no_tag>
+<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(9),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a
+<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i
+<0?0:i);++r
+<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s
+<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r
+<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!P++){var t=M.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+M.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+M.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,y="addEventListener",h="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1215.min.js"},T=w&&b&&b[y]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:T,userAgent:s,disabled:E};if(!E){t(1),t(7),g[y]?(g[y]("DOMContentLoaded",o,l(!1)),m[y]("load",r,l(!1))):(g[h]("onreadystatechange",i),m[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var P=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u
+<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n
+<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);
 </script>
-<!-- End Google Analytics -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="https://www.wpi.edu/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link href="/sites/all/themes/wpi/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="/sites/all/themes/wpi/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="/sites/all/themes/wpi/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="/sites/all/themes/wpi/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="/sites/all/themes/wpi/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link rel="search" type="application/opensearchdescription+xml" title="Worcester Polytechnic Institute" href="/opensearch.xml" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.wpi.edu/academics/departments/computer-science/faculty-staff" />
+<link rel="shortlink" href="https://www.wpi.edu/node/18191" />
+<meta property="og:site_name" content="WPI" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.wpi.edu/academics/departments/computer-science/faculty-staff" />
+<meta property="og:title" content="Faculty &amp; Staff" />
+<title>
+Faculty & Staff | Computer Science | Academics | WPI
+</title>
+<link type="text/css" rel="stylesheet" href="https://www.wpi.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.wpi.edu/sites/default/files/css/css_hTLrwzbU9bZhjvzx-j5entbJFEHkjJyd6RgHEla8FhA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.wpi.edu/sites/default/files/css/css_4hSo44RoWXyg285NTW3UnGIOLFeD_OCewvfAwKThoDE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.wpi.edu/sites/default/files/css/css_vUb3-Z1spMUPcwhY6UeBhI-wAQTxxfPinPbMkkYI6WE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.wpi.edu/sites/default/files/css/css_2bjBIm32NRVJrO7F-y72-7uWTls7EhEV_azXUITl9rA.css" media="all" />
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
+</script>
+<script type="text/javascript">
+<!--//-->
+<![CDATA[//>
+<!--
+window.jQuery || document.write("
+<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js'>
+<no_tag>
+\x3C/script>
+</no_tag>
+<no_tag>
+")
+//-->
+</no_tag>
+<!]]>
+
+
+</script>
+<script type="text/javascript" src="https://www.wpi.edu/misc/jquery-extend-3.4.0.js?v=1.10.2">
+</script>
+<script type="text/javascript" src="https://www.wpi.edu/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.10.2">
+</script>
+<script type="text/javascript" src="https://www.wpi.edu/misc/jquery.once.js?v=1.2">
+</script>
+<script type="text/javascript" src="https://www.wpi.edu/misc/drupal.js?r84w3w">
+</script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js">
+</script>
+<script type="text/javascript">
+<!--//-->
+<![CDATA[//>
+<!--
+window.jQuery.ui || document.write("
+<script src='/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>
+<no_tag>
+\x3C/script>
+</no_tag>
+<no_tag>
+")
+//-->
+</no_tag>
+<!]]>
+
+
+</script>
+<script type="text/javascript" src="https://www.wpi.edu/sites/all/modules/contrib/google_cse/google_cse.js?r84w3w">
+</script>
+<script type="text/javascript" defer="defer" src="https://www.wpi.edu/sites/all/modules/custom/wpi_panels/js/wpi_panels.js?r84w3w">
+</script>
+<script type="text/javascript" src="https://www.wpi.edu/sites/all/modules/custom/wpi_panelizer/js/wpi_panelizer.js?r84w3w">
+</script>
+<script type="text/javascript" src="https://www.wpi.edu/sites/all/themes/wpi/public/vendor.min.js?r84w3w">
+</script>
+<script type="text/javascript" src="https://www.wpi.edu/sites/all/themes/wpi/public/app.min.js?r84w3w">
+</script>
+<script type="text/javascript">
+<!--//-->
+<![CDATA[//>
+<!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"wpi","theme_token":"pX6FrV0GYScqv_0n2fKLQX5UyXa8XOfGf19iorcchPE","js":{"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"0":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.10.2\/jquery-ui.min.js":1,"1":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"sites\/all\/modules\/custom\/wpi_panels\/js\/wpi_panels.js":1,"sites\/all\/modules\/custom\/wpi_panelizer\/js\/wpi_panelizer.js":1,"sites\/all\/themes\/wpi\/public\/vendor.min.js":1,"sites\/all\/themes\/wpi\/public\/app.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.menu.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/entity_embed\/css\/entity_embed.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/wpi_common\/wpi_common.css":1,"sites\/all\/themes\/wpi\/public\/app.css":1}},"googleCSE":{"cx":"000720435508958471272:rc6nvyxujvq","language":"","resultsWidth":600,"domain":"www.google.com"},"better_exposed_filters":{"views":{"promo_images":{"displays":{"promo_image_block":{"filters":[]}}}}},"urlIsAjaxTrusted":{"\/search\/google":true},"wpi_common":{"base_url":"https:\/\/www.wpi.edu"},"ogContext":{"groupType":"node","gid":"17851"}});
+//-->
+<!]]>
+
+
+</script>
+<!-- Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-WLZPZW');
+</script>
+<!-- End Google Tag Manager -->
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js">
+</script>
+<![endif]-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+<meta name="google-site-verification" content="lUuMXS4m8ODYSy661J3B-cn1mP1u-nEK6inS0GT5Fmk" />
 
 
 </head>
-<body class="archive post-type-archive post-type-archive-profile mega-menu-main-menu hfeed" vocab="https://schema.org/">
-<!-- Skip links -->
-<nav class="skip-links" aria-label="Skip links">
-<ul>
-<li>
-<a href="#content" accesskey="C" title="Skip to content = C">
-Skip To Content
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-18191 node-type-page og-context og-context-node og-context-node-17851" >
+<!-- Google Tag Manager -->
+<div role="region" aria-hidden="true" aria-label="Google tag manager for WPI">
+<noscript>
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-WLZPZW" height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true" title="Google Tag Manager">
+</iframe>
+</noscript>
+</div>
+<!-- End Google Tag Manager -->
+<div id="back-to-top" title="Back to top">
+</div>
+<a href="#main-content" class="sr-only skip-to-content">
+Skip to main content
+</a>
+<!--.page -->
+<div role="document" class="page">
+<!--.l-header -->
+<header class="l-header" data-sticky-container>
+<div id="main-site-header-wrapper"
+ data-sticky
+ data-sticky-on="large"
+ data-margin-top="0"
+ class="main-site-navigation">
+<!-- Custom Header -->
+<section id="main-header" role="banner" aria-label="Main header for the WPI website">
+<div class="row">
+<div class="menu-button-container">
+<button id="header-dropdown-button" class="button" title="Open WPI Menu" aria-expanded="false">
+<span class="show-for-large">
+Menu
+</span>
+</button>
+</div>
+<div class="header-logo-container">
+<a href="/" rel="home" title="WPI Home">
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0) -->
+<svg version="1.1" id="Layer_mobile_logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 68 22" style="enable-background:new 0 0 68 22;" xml:space="preserve" aria-labelledby="WPIShortdesc">
+<style type="text/css">
+
+	.st0{fill:#FFFFFF;}
+
+</style>
+<g id="XMLID_1225_">
+<title id="WPIShortTitle">
+Worcester Polytechnic Institute
+</title>
+<desc id="WPIShortdesc">
+Worcester Polytechnic Institute short form logo
+</desc>
+<path id="XMLID_1362_" class="st0" d="M68,3.8L68,3.8L68,3h-7v0.8l0,0c1.8,0.2,2,0.3,2,2.3v9.6c0,2.1-0.1,2.1-2,2.3l0,0V19h7v-0.9
+		l0,0c-1.8-0.2-2-0.2-2-2.3V6.1C66,4,66.1,3.9,68,3.8z"/>
+<path id="XMLID_1359_" class="st0" d="M58.3,3.9c-1-0.7-2.3-0.9-4.3-0.9H42v0.8c1,0.1,1.7,0.6,1.7,1.2c0,0.1-0.1,0.1-0.1,0.2
+		c0,0.2-0.1,0.4-0.2,0.6c-0.3,1.5-1.5,5.6-2.4,8.7L36.8,3h-1.2l-3.7,11.3L29.3,5c0,0-0.3-1.1,1.7-1.2V3h-7v0.8c0,0,1.6,0.3,2.1,1.7
+		L30.3,20h1.3l3.8-11.3L39.4,20h1.3c2.1-8,3.6-12,4.1-13.4c0.3-1,0.6-1.7,0.9-2c0.4-0.4,0.8-0.7,1.4-0.7c1.1,0,1.9,0.6,1.9,1.5v10.4
+		c0,2.1-0.1,2.1-2,2.3l0,0V19h8v-0.9l-0.4,0c-2.1-0.2-2.6-0.2-2.6-2.3v-3.2c0,0,0.5,0.1,0.7,0.1c0.4,0.1,0.9,0.1,1.1,0.1
+		s0.7,0,1.1-0.1c2.5-0.3,5.1-1.7,5.1-5.1C60.1,5.9,59.5,4.7,58.3,3.9z M53.5,11.4c-0.6,0-0.5-0.1-1.5-0.2V4.9c0-0.5,0.2-0.7,0.4-0.8
+		c0.1-0.1,0.5-0.2,1.1-0.2c2,0,3.2,1.4,3.2,3.7C56.6,11.2,54,11.4,53.5,11.4z"/>
+<path id="XMLID_1356_" class="st0" d="M11,0C4.9,0,0,4.9,0,11c0,6.1,4.9,11,11,11c6.1,0,11-4.9,11-11C22,4.9,17,0,11,0z M11,21.5
+		C5.2,21.5,0.5,16.8,0.5,11C0.5,5.2,5.2,0.5,11,0.5S21.5,5.2,21.5,11C21.5,16.8,16.8,21.5,11,21.5z"/>
+<g id="XMLID_1335_">
+<path id="XMLID_1353_" class="st0" d="M7.2,2.7c0.2,0.4,0.1,0.8-0.3,1c-0.4,0.2-0.8,0-1-0.3C5.7,3,5.8,2.6,6.2,2.4
+			C6.6,2.2,7,2.3,7.2,2.7z M6.3,3.2c0.1,0.3,0.4,0.4,0.6,0.3C7,3.4,7,3.1,6.9,2.9C6.7,2.6,6.5,2.5,6.3,2.6C6.1,2.7,6.1,3,6.3,3.2z"
+			/>
+<path id="XMLID_1351_" class="st0" d="M13.6,3c-0.1,0-0.2,0-0.4,0c-0.5-0.1-0.7-0.5-0.6-0.9c0.1-0.5,0.5-0.7,1-0.6
+			c0.2,0,0.3,0.1,0.3,0.2l-0.1,0.2c-0.1,0-0.1-0.1-0.3-0.1c-0.3-0.1-0.5,0-0.6,0.4c-0.1,0.3,0,0.5,0.3,0.6c0.1,0,0.2,0,0.3,0L13.6,3
+			z"/>
+<path id="XMLID_1349_" class="st0" d="M17.9,6.3c-0.1,0-0.2-0.1-0.3-0.3c-0.3-0.4-0.2-0.8,0.1-1.1c0.4-0.3,0.8-0.2,1.1,0.2
+			C19,5.2,19,5.4,19,5.4l-0.2,0.1c0-0.1-0.1-0.2-0.1-0.3C18.5,5.1,18.2,5,18,5.2c-0.2,0.2-0.3,0.4-0.1,0.7C18,6,18,6,18.1,6.1
+			L17.9,6.3z"/>
+<path id="XMLID_1346_" class="st0" d="M5.3,4.2C5.3,4.2,5.3,4.2,5.3,4.2C5.5,4,5.6,3.9,5.6,3.7c0-0.1,0-0.2-0.1-0.4
+			C5.4,3.2,5.3,3.2,5.2,3.2c-0.1,0-0.3,0.1-0.4,0.2C4.6,3.5,4.5,3.6,4.4,3.7l0.9,1.1c0.1-0.1,0.2-0.1,0.2-0.2L5.3,4.2z M5.1,4
+			L4.8,3.7c0,0,0-0.1,0.1-0.1c0.1-0.1,0.3-0.1,0.3,0C5.4,3.7,5.3,3.8,5.1,4C5.2,4,5.1,4,5.1,4z"/>
+<path id="XMLID_1345_" class="st0" d="M8.7,3L8.6,2.7L8,2.9L7.6,1.8c-0.1,0-0.2,0.1-0.3,0.1l0.5,1.4C8.1,3.2,8.4,3.1,8.7,3z"/>
+<path id="XMLID_1344_" class="st0" d="M9.1,2.9c0.1,0,0.2,0,0.3-0.1L9.3,2.2l0.3-0.9c-0.1,0-0.2,0-0.4,0.1L9.2,1.7
+			c0,0.1,0,0.2-0.1,0.3l0,0C9,1.9,9,1.9,8.9,1.8L8.7,1.4c-0.1,0-0.2,0.1-0.3,0.1L9,2.3L9.1,2.9z"/>
+<path id="XMLID_1343_" class="st0" d="M15.7,4.1l0.3-0.4c0.1-0.2,0.3-0.4,0.4-0.5l0,0c0,0.2-0.1,0.4-0.1,0.6l-0.1,0.6
+			c0.1,0.1,0.2,0.1,0.3,0.2l0.9-1.2c-0.1-0.1-0.2-0.1-0.2-0.2l-0.3,0.4c-0.1,0.2-0.2,0.3-0.3,0.5l0,0c0-0.2,0.1-0.4,0.1-0.5l0.1-0.6
+			c-0.1-0.1-0.2-0.1-0.3-0.2l-0.9,1.2C15.5,4,15.6,4,15.7,4.1z"/>
+<path id="XMLID_1342_" class="st0" d="M16.9,5.1l1-1.1c-0.1-0.1-0.2-0.2-0.2-0.2l-1,1.1C16.8,5,16.9,5.1,16.9,5.1z"/>
+<g id="XMLID_1340_">
+<path id="XMLID_1341_" class="st0" d="M12.3,2.7L12.3,2.7l0-0.3c0,0-0.3,0-0.6-0.1l0-0.3c0.1,0,0.4,0,0.5,0.1l0-0.3
+				c-0.2,0-0.4,0-0.5-0.1l0-0.3c0,0,0.3,0,0.6,0.1l0-0.3c-0.3,0-0.6-0.1-0.9-0.1l-0.1,1.5C11.6,2.7,12,2.7,12.3,2.7z"/>
+
+		
+</g>
+<g id="XMLID_1338_">
+<path id="XMLID_1339_" class="st0" d="M9.9,1.2l0,0.3c0.1,0,0.3,0,0.4,0l0.1,1.2c0.1,0,0.2,0,0.3,0l-0.1-1.2c0,0,0.2,0,0.4,0
+				l0-0.3C10.6,1.2,10.3,1.2,9.9,1.2z"/>
+
+		
+</g>
+<g id="XMLID_1336_">
+<path id="XMLID_1337_" class="st0" d="M15.4,2.2l-0.2,0.5c-0.2-0.1-0.4-0.2-0.5-0.2L14.9,2c-0.1,0-0.2-0.1-0.3-0.1L14,3.2
+				c0.1,0,0.2,0.1,0.3,0.1l0.3-0.6C14.7,2.8,14.9,2.9,15,3l-0.3,0.6c0.1,0.1,0.2,0.1,0.3,0.2l0.6-1.3C15.6,2.3,15.5,2.3,15.4,2.2z"
+				/>
+
+		
+</g>
+</g>
+<g id="XMLID_1283_">
+<g id="XMLID_1320_">
+<path id="XMLID_1333_" class="st0" d="M19.6,10c0,0.1-0.1,0.2-0.1,0.4c0,0.2,0.1,0.2,0.2,0.2c0.1,0,0.1-0.1,0.2-0.3
+				c0.1-0.2,0.2-0.4,0.4-0.4c0.2,0,0.5,0.2,0.5,0.5c0,0.2,0,0.3-0.1,0.4l-0.3-0.1c0-0.1,0.1-0.2,0.1-0.3c0-0.1-0.1-0.2-0.2-0.2
+				c-0.1,0-0.1,0.1-0.2,0.3C20.1,10.8,20,11,19.8,11c-0.2,0-0.5-0.2-0.5-0.6c0-0.2,0-0.3,0.1-0.4L19.6,10z"/>
+<path id="XMLID_1332_" class="st0" d="M18.3,15c-0.2,0.3-0.1,0.6,0.3,0.9l0.7,0.4c0.1-0.1,0.1-0.2,0.2-0.3l-0.8-0.4
+				c-0.2-0.1-0.3-0.3-0.2-0.4c0.1-0.1,0.2-0.2,0.5,0l0.7,0.4c0.1-0.1,0.1-0.2,0.2-0.3l-0.7-0.4C18.7,14.6,18.4,14.7,18.3,15z"/>
+<path id="XMLID_1331_" class="st0" d="M18.8,8l1.4-0.6c0-0.1-0.1-0.2-0.1-0.3l-1.4,0.6C18.7,7.8,18.7,7.9,18.8,8z"/>
+<path id="XMLID_1330_" class="st0" d="M19,8.7l0.4-0.1c0.2-0.1,0.4-0.1,0.6-0.2l0,0c-0.2,0.1-0.3,0.2-0.4,0.4l-0.5,0.4
+				c0,0.1,0,0.2,0.1,0.3l1.4-0.4c0-0.1,0-0.2-0.1-0.3L20.2,9c-0.2,0.1-0.4,0.1-0.6,0.2l0,0C19.7,9.1,19.9,9,20,8.9l0.5-0.4
+				c0-0.1-0.1-0.2-0.1-0.4l-1.4,0.4C19,8.5,19,8.6,19,8.7z"/>
+<path id="XMLID_1329_" class="st0" d="M19.2,12.6c0,0.1,0,0.2-0.1,0.3l1.4,0.3c0-0.1,0.1-0.2,0.1-0.3L19.2,12.6z"/>
+<g id="XMLID_1327_">
+<path id="XMLID_1328_" class="st0" d="M19,16.7l-0.2-0.2c-0.1,0.1-0.2,0.2-0.2,0.3l-0.9-0.7c-0.1,0.1-0.1,0.2-0.2,0.3l0.9,0.7
+					c0,0-0.1,0.1-0.3,0.3l0.2,0.2C18.5,17.3,18.8,17,19,16.7z"/>
+
+			
+</g>
+<g id="XMLID_1325_">
+<path id="XMLID_1326_" class="st0" d="M16.2,17.5C16.2,17.5,16.2,17.5,16.2,17.5l0.2,0.2c0,0,0.3-0.2,0.5-0.4l0.2,0.3
+					c-0.1,0.1-0.3,0.2-0.4,0.4l0.2,0.2c0.1-0.1,0.3-0.3,0.4-0.4l0.2,0.2c0,0-0.2,0.2-0.4,0.4l0.2,0.2c0.2-0.2,0.5-0.4,0.7-0.6
+					l-1-1.1C16.7,17.1,16.5,17.3,16.2,17.5z"/>
+
+			
+</g>
+<g id="XMLID_1323_">
+<path id="XMLID_1324_" class="st0" d="M20.4,13.7l-0.3-0.1c0,0.1-0.1,0.3-0.1,0.4l-1.1-0.4c0,0.1-0.1,0.2-0.1,0.3l1.1,0.4
+					c0,0-0.1,0.2-0.1,0.4l0.3,0.1C20.2,14.4,20.3,14.1,20.4,13.7z"/>
+
+			
+</g>
+<g id="XMLID_1321_">
+<path id="XMLID_1322_" class="st0" d="M20.8,11.3l-0.3,0c0,0.1,0,0.3,0,0.4l-1.2-0.1c0,0.1,0,0.2,0,0.3l1.2,0.1
+					c0,0,0,0.2-0.1,0.4l0.3,0C20.8,12.1,20.8,11.7,20.8,11.3z"/>
+
+			
+</g>
+</g>
+<g id="XMLID_1299_">
+<path id="XMLID_1318_" class="st0" d="M2.7,12.3c0,0.1,0.1,0.2,0.1,0.4c0.1,0.5-0.1,0.8-0.6,0.9c-0.5,0.1-0.8-0.2-0.9-0.6
+				c0-0.2,0-0.3,0-0.4l0.3,0c0,0.1,0,0.2,0,0.3c0.1,0.3,0.3,0.4,0.6,0.4c0.3-0.1,0.4-0.3,0.4-0.6c0-0.1-0.1-0.2-0.1-0.3L2.7,12.3z"
+				/>
+<path id="XMLID_1315_" class="st0" d="M2.8,14.5L2.8,14.5c-0.1-0.2-0.1-0.3,0.1-0.4C3,14,3,14,3.1,13.9c0-0.1-0.1-0.2-0.1-0.3
+				c-0.1,0.1-0.2,0.2-0.4,0.3c-0.1,0.1-0.2,0.2-0.2,0.3l0,0C2.4,14,2.2,14,2.1,14c-0.1,0.1-0.2,0.1-0.2,0.2c0,0.1,0,0.3,0.1,0.5
+				C2,14.9,2,15.1,2.1,15.1l1.3-0.5c0-0.1-0.1-0.2-0.1-0.3L2.8,14.5z M2.2,14.8c0,0,0-0.1-0.1-0.1c-0.1-0.1,0-0.3,0.1-0.3
+				c0.1,0,0.2,0,0.3,0.2l0,0.1L2.2,14.8z"/>
+<g id="XMLID_1313_">
+<path id="XMLID_1314_" class="st0" d="M2.6,11C2.6,11,2.6,11,2.6,11l-0.3,0c0,0,0,0.3,0,0.6l-0.3,0c0-0.1,0-0.4,0-0.5l-0.3,0
+					c0,0.2,0,0.4,0,0.5l-0.3,0c0,0,0-0.3,0-0.6l-0.3,0c0,0.3,0,0.6,0,0.9l1.5-0.1C2.6,11.6,2.6,11.3,2.6,11z"/>
+
+			
+</g>
+<path id="XMLID_1310_" class="st0" d="M2.9,15.3c0.4-0.3,0.8-0.2,1,0.2c0.2,0.4,0.1,0.8-0.3,1c-0.4,0.2-0.8,0.2-1-0.2
+				C2.4,15.9,2.6,15.5,2.9,15.3z M3.5,16.2c0.2-0.2,0.3-0.4,0.2-0.6c-0.1-0.2-0.4-0.2-0.6,0c-0.2,0.1-0.3,0.4-0.2,0.6
+				C3,16.4,3.3,16.4,3.5,16.2z"/>
+<path id="XMLID_1308_" class="st0" d="M2.3,10.6c0.1-0.1,0.1-0.2,0.1-0.4c0-0.2,0-0.2-0.1-0.2c-0.1,0-0.2,0.1-0.2,0.2
+				c-0.1,0.2-0.3,0.4-0.5,0.4c-0.2,0-0.4-0.3-0.4-0.6c0-0.2,0.1-0.3,0.1-0.4l0.3,0.1c0,0.1-0.1,0.2-0.1,0.3c0,0.1,0,0.2,0.1,0.2
+				c0.1,0,0.1-0.1,0.2-0.3c0.1-0.2,0.3-0.4,0.5-0.3c0.2,0,0.4,0.2,0.4,0.6c0,0.2-0.1,0.3-0.1,0.4L2.3,10.6z"/>
+<path id="XMLID_1305_" class="st0" d="M3.4,6.3L3.4,6.3c0.1-0.2,0.2-0.2,0.4-0.2c0.1,0,0.2,0.1,0.3,0.1C4.2,6.1,4.3,6,4.3,5.9
+				C4.2,5.9,4,5.9,3.9,5.8c-0.1,0-0.2,0-0.3,0l0,0c0-0.1,0-0.3-0.2-0.4C3.3,5.3,3.2,5.3,3.1,5.4c-0.1,0-0.2,0.2-0.4,0.3
+				C2.6,5.8,2.5,6,2.5,6.1l1.2,0.8c0.1-0.1,0.1-0.2,0.2-0.3L3.4,6.3z M3.3,6L3.2,6.2L2.9,5.9c0,0,0-0.1,0.1-0.1
+				C3,5.7,3.1,5.6,3.2,5.7C3.3,5.8,3.4,5.9,3.3,6z"/>
+<path id="XMLID_1304_" class="st0" d="M5.2,17l-0.5,0.3c-0.1,0.1-0.2,0.2-0.4,0.3l0,0c0.1-0.1,0.2-0.2,0.3-0.4l0.4-0.5
+				c-0.1-0.1-0.2-0.2-0.2-0.3l-1.3,0.8c0.1,0.1,0.1,0.2,0.2,0.3l0.5-0.3c0.1-0.1,0.3-0.2,0.4-0.3l0,0c-0.1,0.1-0.2,0.3-0.3,0.4
+				l-0.4,0.5C3.9,17.9,4,17.9,4.1,18l0.5-0.3c0.2-0.1,0.3-0.2,0.4-0.3l0,0c-0.1,0.1-0.2,0.3-0.3,0.4l-0.4,0.5
+				c0.1,0.1,0.2,0.2,0.3,0.2l0.8-1.3C5.4,17.2,5.3,17.1,5.2,17z"/>
+<g id="XMLID_1302_">
+<path id="XMLID_1303_" class="st0" d="M3.5,7.2C3.5,7.2,3.5,7.2,3.5,7.2L3.3,7.1c0,0-0.2,0.3-0.3,0.5L2.7,7.5
+					C2.8,7.4,2.9,7.2,2.9,7L2.7,6.9C2.6,7.1,2.5,7.3,2.5,7.4L2.2,7.3c0,0,0.1-0.3,0.2-0.5L2.2,6.6C2,6.9,1.9,7.2,1.8,7.5l1.4,0.6
+					C3.3,7.8,3.4,7.5,3.5,7.2z"/>
+
+			
+</g>
+<g id="XMLID_1300_">
+<path id="XMLID_1301_" class="st0" d="M1.3,9.1l0.3,0.1c0-0.1,0.1-0.3,0.1-0.4l1.1,0.3c0-0.1,0.1-0.2,0.1-0.3L1.8,8.4
+					c0,0,0-0.2,0.1-0.4L1.6,8C1.5,8.3,1.4,8.7,1.3,9.1z"/>
+
+			
+</g>
+</g>
+<g id="XMLID_1284_">
+<g id="XMLID_1287_">
+<path id="XMLID_1297_" class="st0" d="M8.9,19.5L8.9,19.5l-0.3,0.1l0-0.3l0.4-0.1l0.3,0.1L9,20.6l-0.3-0.1L8.9,19.5z"/>
+<path id="XMLID_1293_" class="st0" d="M9.9,20c-0.1-0.1-0.2-0.2-0.2-0.3c0-0.2,0.3-0.4,0.5-0.4c0.3,0,0.5,0.2,0.4,0.4
+					c0,0.1-0.1,0.2-0.2,0.3l0,0c0.1,0.1,0.2,0.2,0.2,0.4c0,0.3-0.3,0.4-0.6,0.4c-0.4,0-0.5-0.2-0.5-0.4C9.6,20.2,9.7,20.1,9.9,20
+					L9.9,20z M10.3,20.4c0-0.1-0.1-0.2-0.2-0.3c-0.1,0-0.2,0.1-0.2,0.2c0,0.1,0.1,0.2,0.2,0.2C10.2,20.6,10.3,20.5,10.3,20.4z
+					 M10,19.7c0,0.1,0.1,0.2,0.2,0.2c0.1,0,0.2-0.1,0.2-0.2c0-0.1,0-0.2-0.2-0.2C10.1,19.6,10,19.6,10,19.7z"/>
+<path id="XMLID_1290_" class="st0" d="M12,19.6c0,0-0.1,0-0.1,0c-0.3,0-0.4,0.2-0.4,0.4l0,0c0.1-0.1,0.2-0.1,0.3-0.1
+					c0.2,0,0.4,0.1,0.5,0.4c0,0.3-0.2,0.5-0.5,0.5c-0.4,0-0.6-0.2-0.6-0.6c0-0.3,0.1-0.5,0.2-0.6c0.1-0.1,0.3-0.2,0.5-0.2
+					c0.1,0,0.1,0,0.1,0L12,19.6z M11.8,20.3c0-0.1-0.1-0.2-0.2-0.2c-0.1,0-0.2,0.1-0.2,0.1c0,0,0,0,0,0.1c0,0.1,0.1,0.3,0.2,0.3
+					C11.8,20.6,11.8,20.5,11.8,20.3z"/>
+<path id="XMLID_1288_" class="st0" d="M13.3,19.4l-0.5,0.1l0,0.2c0,0,0.1,0,0.1,0c0.1,0,0.3,0,0.4,0c0.1,0,0.2,0.1,0.2,0.3
+					c0.1,0.3-0.1,0.5-0.5,0.6c-0.2,0-0.3,0-0.4,0l0-0.3c0.1,0,0.2,0,0.3,0c0.1,0,0.3-0.1,0.2-0.3c0-0.1-0.2-0.2-0.4-0.1
+					c-0.1,0-0.1,0-0.2,0.1l-0.1-0.7l0.8-0.2L13.3,19.4z"/>
+
+			
+</g>
+<circle id="XMLID_1286_" class="st0" cx="6.7" cy="19" r="0.3"/>
+<circle id="XMLID_1285_" class="st0" cx="15.2" cy="19" r="0.3"/>
+
+		
+</g>
+</g>
+<g id="XMLID_1278_">
+<path id="XMLID_1282_" class="st0" d="M8.8,9.4v1.4c0.1-0.1,0.4,0,0.7,0.1c0.2,0.1,0.4,0.1,0.5,0V9.3c-0.2,0.1-0.4,0.1-0.6,0
+			C9,9.2,8.8,9.3,8.8,9.4z"/>
+<path id="XMLID_1281_" class="st0" d="M8,9.3c-0.3,0.1-0.5,0-0.7,0v1.6c0.2,0.1,0.3,0.1,0.5,0c0.3-0.1,0.6-0.1,0.7-0.1V9.4
+			C8.5,9.3,8.3,9.2,8,9.3z"/>
+<path id="XMLID_1280_" class="st0" d="M13.3,9.4v1.4c0.1-0.1,0.5,0,0.7,0.1c0.2,0.1,0.4,0.1,0.5,0V9.3c-0.2,0.1-0.4,0.1-0.7,0
+			C13.6,9.2,13.4,9.3,13.3,9.4z"/>
+<path id="XMLID_1279_" class="st0" d="M12.6,9.3c-0.3,0.1-0.5,0-0.6,0v1.6c0.1,0.1,0.3,0.1,0.5,0c0.3-0.1,0.6-0.1,0.7-0.1V9.4
+			C13.1,9.3,12.9,9.2,12.6,9.3z"/>
+
+	
+</g>
+<g id="XMLID_1261_">
+<path id="XMLID_1277_" class="st0" d="M11.5,15c0.4,0,0.4-0.9,0.4-0.9l0.1-0.4v-0.1c0-0.3-0.4-0.6-0.6-0.8
+			c-0.2-0.1-0.2-0.3-0.1-0.4l0.1,0c0.1,0,0.1,0,0.2,0c0.1,0,0.1,0,0.1,0c0,0,0-0.1,0-0.2c0-0.1-0.1-0.1-0.2-0.1c0,0,0,0,0,0.1
+			c0,0.1,0,0.1-0.1,0.1l-0.1,0c0,0,0,0,0,0c-0.1-0.1-0.2,0-0.2,0c-0.1-0.1-0.2,0-0.2,0c-0.1,0-0.2,0.1-0.2,0.1
+			c-0.2,0-0.2,0.1-0.2,0.2l-0.2,0.1l-0.1-0.2l-0.4,0.2l0.3,0.6l0.2,0.1l0.2-0.1l0.1-0.2l-0.1-0.2l0.2-0.1c0,0.1,0.1,0.1,0.2,0.1
+			c0.2,0,0.2,0,0.4,0.3c0.1,0.3,0.3,0.4,0.3,0.4c-0.3,0-0.4,0.5-0.4,0.5c-0.5,0-0.6,0.9-0.6,0.9H9.7c0,0,0.1,0,0.1,0h2.3
+			c0,0,0.1,0,0.1,0H11.5z"/>
+<g id="XMLID_1270_">
+<g id="XMLID_1272_">
+<path id="XMLID_1276_" class="st0" d="M8.9,14.9c0.1-0.1,0-0.3,0-0.5c-0.1,0-0.2,0.1-0.3,0.3c0.1,0.1,0.1,0.3,0.2,0.4
+					C8.8,15,8.9,14.9,8.9,14.9z"/>
+<path id="XMLID_1275_" class="st0" d="M9.3,15.5c0-0.2,0-0.3-0.1-0.5C9.1,15,9,15.2,8.9,15.3c0.1,0.1,0.2,0.3,0.2,0.4
+					C9.2,15.6,9.3,15.6,9.3,15.5z"/>
+<path id="XMLID_1274_" class="st0" d="M8.6,14.1c0.1-0.1,0.1-0.3,0-0.5c-0.1,0-0.2,0.1-0.3,0.2c0,0.1,0.1,0.3,0.1,0.4
+					C8.5,14.2,8.6,14.2,8.6,14.1z"/>
+<path id="XMLID_1273_" class="st0" d="M8.4,13.4c0.1-0.1,0.1-0.3,0.1-0.4c-0.1,0-0.2,0.1-0.3,0.1c0,0.2,0,0.3,0,0.4
+					C8.3,13.5,8.4,13.4,8.4,13.4z"/>
+
+			
+</g>
+<path id="XMLID_1271_" class="st0" d="M9.4,16.2c-1.2-1.2-1.3-2.6-1.3-3.3l0,0l0,0c0.1-0.1,0.2-0.2,0.2-0.3c0-0.2,0-0.4-0.1-0.5
+				c-0.1,0.1-0.2,0.2-0.3,0.4c0,0.2,0,0.3,0.1,0.5c0,0.1,0,0.2,0,0.4c0,0,0-0.1,0-0.1c-0.1-0.1-0.2-0.3-0.4-0.3c0,0.2,0,0.3,0.1,0.5
+				c0.1,0.1,0.2,0.3,0.4,0.3c0,0.1,0,0.3,0,0.4c0,0,0,0,0-0.1c-0.1-0.1-0.3-0.2-0.4-0.2c0,0.2,0.1,0.3,0.2,0.5
+				c0.1,0.1,0.2,0.2,0.4,0.2c0,0.1,0.1,0.3,0.1,0.4c0,0,0,0-0.1-0.1c-0.1-0.1-0.3-0.2-0.4-0.1c0,0.2,0.1,0.3,0.2,0.4
+				c0.1,0.1,0.3,0.2,0.4,0.1c0.1,0.1,0.1,0.2,0.2,0.3c0,0,0,0-0.1,0c-0.2-0.1-0.3-0.1-0.5,0c0.1,0.2,0.2,0.3,0.3,0.4
+				c0.1,0.1,0.2,0.1,0.3,0.1c0,0,0.1,0,0.1,0c0.2,0.3,0.4,0.5,0.6,0.7C9.4,16.4,9.4,16.3,9.4,16.2z"/>
+
+		
+</g>
+<g id="XMLID_1263_">
+<g id="XMLID_1265_">
+<path id="XMLID_1269_" class="st0" d="M13.1,15c0.1-0.1,0.1-0.3,0.2-0.4c-0.1-0.1-0.1-0.2-0.3-0.3c-0.1,0.1-0.1,0.3,0,0.5
+					C13,14.9,13.1,15,13.1,15z"/>
+<path id="XMLID_1268_" class="st0" d="M12.7,15.7c0.1-0.1,0.2-0.2,0.2-0.4c0-0.2-0.1-0.3-0.3-0.4c-0.1,0.1-0.1,0.3-0.1,0.5
+					C12.6,15.6,12.7,15.6,12.7,15.7z"/>
+<path id="XMLID_1267_" class="st0" d="M13.4,14.3c0-0.1,0.1-0.3,0.1-0.4c-0.1-0.1-0.2-0.2-0.3-0.2c0,0.2,0,0.3,0,0.5
+					C13.3,14.2,13.4,14.2,13.4,14.3z"/>
+<path id="XMLID_1266_" class="st0" d="M13.6,13.5c0-0.1,0-0.3,0-0.4c-0.1-0.1-0.2-0.1-0.3-0.1c0,0.2,0,0.3,0.1,0.4
+					C13.5,13.4,13.6,13.5,13.6,13.5z"/>
+
+			
+</g>
+<path id="XMLID_1264_" class="st0" d="M12.5,16.5c0.2-0.2,0.4-0.4,0.6-0.7c0,0,0.1,0,0.1,0c0.1,0,0.2,0,0.3-0.1
+				c0.2-0.1,0.3-0.2,0.3-0.4c-0.2-0.1-0.3,0-0.5,0c0,0,0,0-0.1,0c0.1-0.1,0.1-0.2,0.2-0.3c0.2,0,0.3,0,0.4-0.1
+				c0.1-0.1,0.2-0.3,0.2-0.4c-0.2,0-0.3,0-0.4,0.1c0,0,0,0-0.1,0.1c0.1-0.1,0.1-0.3,0.1-0.4c0.2,0,0.3-0.1,0.4-0.2
+				c0.1-0.1,0.2-0.3,0.2-0.5c-0.2,0-0.3,0.1-0.4,0.2c0,0,0,0,0,0.1c0-0.1,0-0.2,0-0.4c0.1-0.1,0.3-0.2,0.4-0.3
+				c0.1-0.1,0.1-0.3,0.1-0.5c-0.2,0-0.3,0.2-0.4,0.3c0,0,0,0.1,0,0.1c0-0.1,0-0.2,0-0.4c0.1-0.1,0.1-0.3,0.1-0.5
+				c0-0.2-0.1-0.3-0.3-0.4c-0.1,0.2,0,0.3,0,0.5c0,0.1,0.3,0.2,0.3,0.3v0l-0.1,0c0,0.7-0.2,2.1-1.4,3.3
+				C12.5,16.3,12.5,16.4,12.5,16.5z"/>
+
+		
+</g>
+<path id="XMLID_1262_" class="st0" d="M9.8,15.9C9.8,16,9.8,16,9.8,15.9c0,0.1,0,0.1,0,0.1c0,0.1,0.1,0.3,0.2,0.4
+			c0.2,0.3,0.4,0.6,0.9,0.9c0.2-0.1,0.3-0.2,0.5-0.4c0.3-0.3,0.5-0.5,0.6-0.9c0,0,0,0,0,0c0-0.1,0-0.1,0-0.2c0-0.2,0-0.4-0.2-0.5
+			c-0.2-0.3-0.6-0.3-0.9,0c0,0.1-0.1,0.1-0.1,0.2c0-0.1-0.1-0.1-0.1-0.2c-0.2-0.3-0.6-0.3-0.9,0C9.8,15.5,9.8,15.7,9.8,15.9
+			C9.8,15.9,9.8,15.9,9.8,15.9C9.8,15.9,9.8,15.9,9.8,15.9z"/>
+
+	
+</g>
+<path id="XMLID_1231_" class="st0" d="M7.1,7.3l0.3-0.1V7.1l-0.2,0V6.6l-0.1,0V7.3z M7.8,6.7L7.6,6.8V6.6l0.2-0.1V6.4L7.5,6.5v0.7
+		l0.3-0.1V7L7.6,7.1V6.9l0.2-0.1V6.7z M7.9,6.4v0.7L8,7V6.7l0.1-0.1V7l0.1-0.1V6.2L8.2,6.3v0.3L8,6.6V6.3L7.9,6.4z M8.4,6.8l0.1-0.1
+		V6.5l0,0c0,0,0.1,0,0.1,0.1c0,0.1,0,0.1,0,0.2l0.1-0.1c0,0,0-0.1,0-0.2c0-0.1,0-0.1-0.1-0.1v0c0.1-0.1,0.1-0.1,0.1-0.2
+		c0-0.1,0-0.1-0.1-0.1c0,0-0.1,0-0.2,0c-0.1,0-0.1,0-0.1,0.1V6.8z M8.6,6.2C8.6,6.2,8.6,6.2,8.6,6.2c0.1,0,0.1,0,0.1,0
+		c0,0.1,0,0.1-0.1,0.1l0,0V6.2z M13,6.6l0.1,0.1V6.4l0,0l0.1,0.3l0.1,0.1l-0.2-0.5l0.2-0.2L13.2,6l-0.1,0.2c0,0,0,0.1,0,0.1l0,0V6
+		L13,5.9V6.6z M13.4,6.1v0.4c0,0.2,0.1,0.3,0.2,0.4c0.1,0.1,0.2,0,0.2-0.2V6.3l-0.1-0.1v0.4c0,0.1,0,0.1-0.1,0.1
+		c0,0-0.1-0.1-0.1-0.2V6.2L13.4,6.1z M14.1,7.1V6.9c0-0.1,0-0.2,0-0.3l0,0c0,0.1,0,0.2,0.1,0.2l0.1,0.3l0.1,0.1V6.5l-0.1,0v0.2
+		c0,0.1,0,0.2,0,0.3l0,0c0-0.1-0.1-0.2-0.1-0.2l-0.1-0.3L14,6.3V7L14.1,7.1z M14.4,7.2c0,0,0.1,0,0.1,0.1c0.1,0,0.2,0,0.2-0.1
+		c0-0.1,0-0.2-0.1-0.2c-0.1-0.1-0.1-0.1-0.1-0.1c0,0,0-0.1,0.1,0c0,0,0.1,0,0.1,0l0-0.1c0,0-0.1,0-0.1-0.1c-0.2,0-0.2,0-0.2,0.1
+		c0,0.1,0,0.1,0.1,0.2C14.6,7,14.7,7,14.7,7.1c0,0,0,0.1-0.1,0.1c0,0-0.1,0-0.1-0.1L14.4,7.2z M15,7.3l0.1,0V6.8l0.1,0V6.7l-0.4-0.1
+		v0.1l0.1,0V7.3z M10.1,7v0.5c0,0.2,0.1,0.3,0.2,0.3c0.2,0,0.2-0.1,0.2-0.3V7l-0.2,0v0.5c0,0.1,0,0.1-0.1,0.1c0,0-0.1,0-0.1-0.2V7
+		L10.1,7z M10.9,7.8V7.6c0-0.2,0-0.3,0-0.3h0c0,0.1,0.1,0.2,0.1,0.2l0.1,0.3l0.1,0V7l-0.1,0v0.2c0,0.1,0,0.3,0,0.4h0
+		c0-0.1-0.1-0.2-0.1-0.2L10.9,7l-0.1,0v0.8L10.9,7.8z M11.4,7.8c0,0,0.1,0,0.1,0c0.1,0,0.2,0,0.3-0.1c0.1-0.1,0.1-0.2,0.1-0.3
+		c0-0.1,0-0.2-0.1-0.3c-0.1,0-0.1-0.1-0.2,0c-0.1,0-0.1,0-0.2,0V7.8z M11.5,7.1C11.6,7.1,11.6,7.1,11.5,7.1c0.1,0,0.2,0.1,0.2,0.2
+		c0,0.2-0.1,0.3-0.1,0.3c0,0,0,0,0,0V7.1z"/>
+<path id="XMLID_1226_" class="st0" d="M10.9,3.3c-4.3,0-7.7,3.5-7.7,7.7s3.5,7.7,7.7,7.7c4.3,0,7.7-3.5,7.7-7.7S15.2,3.3,10.9,3.3z
+		 M7.1,6l0.3,0.4C7.6,6.3,7.8,6.1,8,6c1.4-0.8,2.2-0.6,2.2-0.3c0,0.3-1.1,0.2-1.1,0.6c0,0.2,0.8,0.4,1.8,0.4c1,0,1.8-0.2,1.8-0.4
+		c0-0.4-1.1-0.3-1.1-0.7c0-0.3,0.8-0.5,2.3,0.2c0.2,0.1,0.5,0.2,0.7,0.3L15,5.6v0V6h1.2l-0.4,0.4C16,6.5,16,6.6,16,6.6v0l-0.9,1.2
+		c-0.6-0.1-1.1-0.3-1.1-0.3l0.1,0C13.6,7.2,13,7,13,6.9v0.7c0,0.2-1,0.4-2,0.4c-1,0-2-0.2-2-0.4V6.9C9,7,8.4,7.1,7.9,7.4
+		C7.4,7.6,7.1,7.7,6.8,7.7l-1-1.3c0,0,0.1,0.1,0.2-0.1L5.8,6H7.1z M11,18.6C8.5,17.2,6.6,15,5.9,12H16C15.3,15,13.4,17.2,11,18.6z
+		 M16.1,12H5.8c-0.2-1-0.3-1.8-0.3-2.6c0-0.3,0-0.5,0.1-0.8C5.7,8.6,5.9,9,6.5,9h3C10.7,9,11,9.4,11,9.4S11.2,9,12.4,9h3
+		c0.5,0,0.8-0.5,0.8-0.5c0,0.3,0.1,0.7,0.1,1.1C16.3,10.4,16.3,11,16.1,12z"/>
+
+
+</g>
+</svg>
+</a>
+<div class="header-separator">
+</div>
+<a href="https://wp.wpi.edu/beyondthesetowers/" class="white-text d-inline two-towers-link" target="_blank" title="Header link to Beyond These Towers campaign page. Opens in a new browser tab.">
+<span class="bold">
+BEYOND
+</span>
+<no_tag>
+ THESE TOWERS
+</no_tag>
+</a>
+</div>
+<div class="search-button-container">
+<button id="search-dropdown-button" class="button" title="Search on wpi.edu" aria-expanded="false">
+<span class="show-for-large">
+Search
+</span>
+</button>
+</div>
+</div>
+</section>
+<section id="menu-dropdown" aria-label="Main header menu dropdown for WPI website" role="navigation">
+<div class="row">
+<div class="main-header-menu">
+<ul class="menu">
+<li class="first expanded columns small-12 medium-4">
+<span class="hide nolink">
+First column
+</span>
+<ul class="menu">
+<li class="first expanded">
+<a href="/project-based-learning" title="Project Based Learning main navigation link" class="l1">
+project-based learning
+</a>
+<ul class="menu">
+<li class="first leaf">
+<a href="/project-based-learning/project-based-education" title="The WPI Plan main navigation link">
+A Project-Based Education
 </a>
 </li>
-<li>
-<a href="#nav" accesskey="S" title="Skip to navigation = S">
-Skip To Navigation
+<li class="leaf">
+<a href="/project-based-learning/pbl-higher-education" title="Global Projects Program main navigation link">
+PBL in Higher Education
 </a>
 </li>
-<li>
-<a href="#search-input-nav-top">
-Skip To Search
+<li class="last leaf">
+<a href="/project-based-learning/lifelong-project-impact" title="Lifelong Project Impact main navigation link">
+Lifelong Impact
 </a>
 </li>
 </ul>
-</nav>
-<!-- Mobile Drawer -->
-<div class="nav-mobile" id="nav-mobile">
-</div>
-<div class="wrapper nav-top-false" id="wrapper">
-<!-- Site Header -->
-<header id="header" role="banner" class="site-header ">
-<p class="mark-header">
-<a href="https://www.nd.edu/">
-University of Notre Dame
+</li>
+<li class="last expanded">
+<a href="/academics" title="Academics main navigation link" class="l1">
+academics
 </a>
-</p>
-<div class="site-title-group has-parent">
-<p id="site-title" class="site-title">
-<a href="https://cse.nd.edu/" rel="home">
-Computer Science and Engineering
-</a>
-</p>
-<p id="site-parent" class="site-parent">
-<a href="https://engineering.nd.edu">
-College of Engineering
-</a>
-</p>
-</div>
-<!-- .site-title-group -->
-<!-- Header Search/Nav -->
-<div class="nav-header">
-<nav id="nav" class="nav-site nav-full" role="navigation" aria-label="Primary navigation">
-<div id="primary">
-<div id="mega-menu-wrap-main-menu" class="mega-menu-wrap">
-<div class="mega-menu-toggle">
-<div class="mega-toggle-blocks-left">
-</div>
-<div class="mega-toggle-blocks-center">
-</div>
-<div class="mega-toggle-blocks-right">
-<div class='mega-toggle-block mega-menu-toggle-block mega-toggle-block-1' id='mega-toggle-block-1' tabindex='0'>
-<span class='mega-toggle-label' role='button' aria-expanded='false'>
-<span class='mega-toggle-label-closed'>
-MENU
-</span>
-<span class='mega-toggle-label-open'>
-MENU
-</span>
-</span>
-</div>
-</div>
-</div>
-<ul id="mega-menu-main-menu" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="click" data-effect="disabled" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-mobile-force-width="false" data-second-click="close" data-document-click="collapse" data-vertical-behaviour="accordion" data-breakpoint="1199" data-unbind="false" data-hover-intent-timeout="300" data-hover-intent-interval="100">
-<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-1531' id='mega-menu-item-1531'>
-<a class="mega-menu-link" href="https://cse.nd.edu/research/" tabindex="0">
-Research
+<ul class="menu">
+<li class="first leaf">
+<a href="/academics/study" title="Degrees &amp; Certificates main navigation link">
+Degrees &amp; Certificates
 </a>
 </li>
-<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-1550' id='mega-menu-item-1550'>
-<a class="mega-menu-link" href="https://cse.nd.edu/undergraduate/" tabindex="0">
-Undergraduate
+<li class="leaf">
+<a href="/academics/schools-departments-programs" title="Departments &amp; Programs main navigation link">
+Schools, Departments &amp; Programs 
 </a>
 </li>
-<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-1549' id='mega-menu-item-1549'>
-<a class="mega-menu-link" href="https://cse.nd.edu/graduate/" tabindex="0">
-Graduate
+<li class="leaf">
+<a href="/academics/undergraduate" title="Undergraduate Studies main navigation link">
+Undergraduate Studies
 </a>
 </li>
-<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-current-menu-item mega-align-bottom-left mega-menu-flyout mega-menu-item-805' id='mega-menu-item-805'>
-<a class="mega-menu-link" href="/faculty" tabindex="0">
+<li class="leaf">
+<a href="/academics/graduate" title="Graduate Studies main navigation link">
+Graduate Studies
+</a>
+</li>
+<li class="leaf">
+<a href="/academics/pre-collegiate" title="Pre-Collegiate Outreach main navigation link">
+Pre-Collegiate Outreach
+</a>
+</li>
+<li class="leaf">
+<a href="/academics/online" title="Online Graduate Programs main navigation link">
+Online Graduate Programs
+</a>
+</li>
+<li class="leaf">
+<a href="/academics/stem-education-center" title="The STEM Education Center main navigation link">
+The STEM Education Center
+</a>
+</li>
+<li class="leaf">
+<a href="/academics/faculty" title="Faculty main navigation link">
 Faculty
 </a>
 </li>
-<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-current_page_parent mega-align-bottom-left mega-menu-flyout mega-menu-item-997' id='mega-menu-item-997'>
-<a class="mega-menu-link" href="https://cse.nd.edu/news/" tabindex="0">
-News
+<li class="last leaf">
+<a href="/academics/calendar-catalogs" title="Academic Catalogs &amp; Calendar main navigation link ">
+Academic Calendar &amp; Catalogs
 </a>
 </li>
-<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-806' id='mega-menu-item-806'>
-<a class="mega-menu-link" href="/events" tabindex="0">
-Events
-</a>
+</ul>
 </li>
-<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-1943' id='mega-menu-item-1943'>
-<a class="mega-menu-link" href="#" aria-haspopup="true" aria-expanded="false" tabindex="0">
-<no_tag>
-About
-</no_tag>
-<span class="mega-indicator">
+</ul>
+</li>
+<li class="expanded columns small-12 medium-4">
+<span class="hide nolink">
+Second column
 </span>
+<ul class="menu">
+<li class="first expanded">
+<a href="/admissions" title="Admissions &amp; Aid main navigation link" class="l1">
+admissions &amp; aid
 </a>
-<ul class="mega-sub-menu">
-<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-1939' id='mega-menu-item-1939'>
-<a class="mega-menu-link" href="https://cse.nd.edu/about-cse/">
-About CSE
-</a>
-</li>
-<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-1942' id='mega-menu-item-1942'>
-<a class="mega-menu-link" href="https://cse.nd.edu/about-cse/welcome-from-the-chair/">
-<no_tag>
-Welcome from
-</no_tag>
-<br>
-<no_tag>
-the Chair
-</no_tag>
+<ul class="menu">
+<li class="first leaf">
+<a href="/admissions/undergraduate" title="Undergraduate Admissions main navigation link">
+Undergraduate Admissions
 </a>
 </li>
-<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-1941' id='mega-menu-item-1941'>
-<a class="mega-menu-link" href="https://cse.nd.edu/about-cse/administration-and-staff/">
-<no_tag>
-Administration
-</no_tag>
-<br>
-<no_tag>
-and Staff
-</no_tag>
+<li class="leaf">
+<a href="/admissions/graduate" title="Graduate Admissions main navigation link">
+Graduate Admissions
 </a>
 </li>
-<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-3320' id='mega-menu-item-3320'>
-<a class="mega-menu-link" href="https://cse.nd.edu/about-cse/faculty-job-openings/">
-<no_tag>
-Faculty job 
-</no_tag>
-<br>
-<no_tag>
-openings
-</no_tag>
+<li class="last leaf">
+<a href="/admissions/tuition-aid" title="Tuition &amp; Financial Aid main navigation link">
+Tuition &amp; Financial Aid
+</a>
+</li>
+</ul>
+</li>
+<li class="leaf medium-up-p-b-15 medium-up-m-b-15">
+<a href="http://athletics.wpi.edu/landing/index" title="Athletics main navigation link" class="l1">
+athletics
+</a>
+</li>
+<li class="last expanded">
+<a href="/student-experience" title="The Student Experience main navigation link" class="l1">
+the student experience
+</a>
+<ul class="menu">
+<li class="first leaf">
+<a href="/student-experience/community" title="Community &amp; Culture main navigation link">
+Community &amp; Culture
+</a>
+</li>
+<li class="leaf">
+<a href="/student-experience/housing-dining" title="Housing &amp; Dining main navigation link">
+Housing &amp; Dining
+</a>
+</li>
+<li class="leaf">
+<a href="/student-experience/getting-involved" title="Getting Involved main navigation link">
+Getting Involved
+</a>
+</li>
+<li class="leaf">
+<a href="/student-experience/sports-recreation" title="Sports &amp; Recreation main navigation link">
+Sports &amp; Recreation
+</a>
+</li>
+<li class="leaf">
+<a href="/student-experience/health-counseling" title="Health &amp; Wellness main navigation link">
+Health &amp; Wellness
+</a>
+</li>
+<li class="leaf">
+<a href="/student-experience/career-development" title="Career Development main navigation link">
+Career Development
+</a>
+</li>
+<li class="last leaf">
+<a href="/student-experience/resources" title="Resources &amp; Support main navigation link">
+Resources &amp; Support
 </a>
 </li>
 </ul>
 </li>
 </ul>
-</div>
+</li>
+<li class="last expanded columns small-12 medium-4">
+<span class="hide nolink">
+Third column
+</span>
+<ul class="menu">
+<li class="first expanded">
+<a href="https://www.wpi.edu/research" title="Research main navigation link" class="l1">
+Research
+</a>
+<ul class="menu">
+<li class="first leaf">
+<a href="/research/areas" title="Areas of Research main navigation link">
+Areas of Research
+</a>
+</li>
+<li class="leaf">
+<a href="/research/centers" title="Institutes &amp; Centers main navigation link">
+Institutes &amp; Centers
+</a>
+</li>
+<li class="leaf">
+<a href="/research/student" title="Student Research main navigation link">
+Student Research
+</a>
+</li>
+<li class="leaf">
+<a href="/research/partnerships" title="Research Partnerships main navigation link">
+Research Partnerships
+</a>
+</li>
+<li class="last leaf">
+<a href="/research/resources" title="Research Resources">
+Research Resources
+</a>
+</li>
+</ul>
+</li>
+<li class="expanded">
+<a href="/news" title="News &amp; Events main navigation link" class="l1">
+news &amp; events
+</a>
+<ul class="menu">
+<li class="first last leaf">
+<a href="/news/calendar">
+University Calendar
+</a>
+</li>
+</ul>
+</li>
+<li class="last leaf">
+<a href="/give" class="l1">
+Give to WPI
+</a>
+</li>
+</ul>
+</li>
+</ul>
  
 </div>
-</nav>
-<div class="nav-search-wrapper">
-<form method="get" action="https://cse.nd.edu/" id="search-nav-top" class="search-form" role="search" aria-label="Site search">
-<label class="screen-reader-text" for="s">
-Search for:
+<div class="audiences">
+<ul class="menu">
+<li class="first leaf">
+<a href="/student-experience/resources" title="Students audience link">
+Students
+</a>
+</li>
+<li class="leaf">
+<a href="/parents" title="Parents audience link">
+Parents
+</a>
+</li>
+<li class="leaf">
+<a href="/faculty-staff" title="Faculty &amp; Staff audience link">
+Faculty &amp; Staff
+</a>
+</li>
+<li class="leaf">
+<a href="/alumni" title="Alumni audience link">
+Alumni
+</a>
+</li>
+<li class="leaf">
+<a href="/employers-partners" title="Employers &amp; Partners audience link">
+Employers &amp; Partners
+</a>
+</li>
+<li class="last leaf">
+<a href="/news/media">
+Media
+</a>
+</li>
+</ul>
+ 
+</div>
+</div>
+</section>
+<section id="search-dropdown" aria-label="Main header search dropdown for WPI website" role="search">
+<div class="row">
+<form class="search-form hide-wysiwyg-dropdown" action="/search/google" method="post" id="search-form" accept-charset="UTF-8">
+<div>
+<div class="container-inline form-wrapper" id="edit-basic">
+<div class="form-item form-type-textfield form-item-keys">
+<label for="edit-keys">
+Enter your keywords 
 </label>
-<input type="search" name="s" class="search-input" id="s" autocomplete="off" placeholder="Search this site" title="type your search term" aria-label="Site Search input">
-<button class="search-button" type="submit" aria-label="Search">
-<svg class="icon" data-icon="search">
-<use xlink:href="#icon-search">
-</use>
-</svg>
-</button>
-<button class="close-search-button" type="button" aria-label="Clear and close search">
-<svg class="icon" data-icon="close" width="16" height="16">
-<use xlink:href="#icon-close">
-</use>
-</svg>
-</button>
-</form>
- 
-</div>
-</div>
-<!-- Mobile Navbar -->
-<div class="nav-mobile-util">
-<ul class="no-bullets">
-<li>
-<a href="https://cse.nd.edu/">
-<svg class="icon" data-icon="home">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-home">
-</use>
-</svg>
-<no_tag>
- Home
-</no_tag>
-</a>
-</li>
-<li>
-<button class="btn-search search-toggle">
-<svg class="icon" data-icon="search">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-search">
-</use>
-</svg>
-<no_tag>
- Search
-</no_tag>
-</button>
-</li>
-<li>
-<a href="#nav" class="nav-menu nav-skip">
-<svg version="1.1" class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 20 20" xml:space="preserve">
-<line class="ni ni1" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="0.98" y1="2" x2="18.94" y2="2"/>
-<line class="ni ni2" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="0.98" y1="8.69" x2="18.94" y2="8.69"/>
+<input placeholder="Search pages, people and campus locations" type="text" id="edit-keys" name="keys" value="" size="40" maxlength="255" class="form-text" />
 
+
+</div>
+<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" />
+</div>
+<input type="hidden" name="form_build_id" value="form-w8ETFnTIu3NkkUNCc_F7mWPBlhJa_Fs7cXsL_hN5nxM" />
+<input type="hidden" name="form_id" value="search_form" />
+
+
+</div>
+</form>
  
-</svg>
-<span class="ni ni3">
-Menu
+<p class="common-searches">
+Common Searches:
+</p>
+<ul class="menu">
+<li class="first expanded medium-6 column">
+<span class="hide nolink">
+First column
 </span>
+<ul class="menu">
+<li class="first leaf">
+<a href="/student-experience/career-development">
+What kind of jobs do graduates get?
+</a>
+</li>
+<li class="leaf">
+<a href="/about/worcester">
+Where is WPI?
+</a>
+</li>
+<li class="last leaf">
+<a href="/project-based-learning/project-based-education/global-project-program">
+Interested in Study Abroad?
 </a>
 </li>
 </ul>
-<div class="nav-search-wrapper">
-<form method="get" action="https://cse.nd.edu/" id="search-nav-mobile" class="search-form" role="search" aria-label="Site search">
-<label class="screen-reader-text" for="s">
-Search for:
-</label>
-<input type="search" name="s" class="search-input" id="s_mobile" autocomplete="off" placeholder="Search this site" title="type your search term" aria-label="Site Search input">
-<button class="search-button" type="submit" aria-label="Search">
-<svg class="icon" data-icon="search">
-<use xlink:href="#icon-search">
-</use>
-</svg>
-</button>
-<button class="search-close search-toggle" aria-label="Close Search">
-<svg class="icon" data-icon="close" width="16" height="16">
-<use xlink:href="#icon-close">
-</use>
-</svg>
-</button>
-</form>
+</li>
+<li class="last expanded medium-6 column">
+<span class="hide nolink">
+Second column
+</span>
+<ul class="menu">
+<li class="first leaf">
+<a href="/research/areas">
+What research is WPI known for?
+</a>
+</li>
+<li class="leaf">
+<a href="/project-based-learning">
+What is project-based learning?
+</a>
+</li>
+<li class="last leaf">
+<a href="/student-experience/sports-recreation">
+Does WPI have sports?
+</a>
+</li>
+</ul>
+</li>
+</ul>
  
 </div>
-</div>
-</header>
-<!-- #masthead -->
-<!-- Site Content -->
-<div id="content" class="X_site-content" >
-<main id="main" class="page-main" role="main">
-<article id="all-people-and-profiles" class="nohero defaultblue profiles-listing">
-<header class="entry-header">
+</section>
+<!-- End Custom Header -->
 <div class="breadcrumb">
-<ol class="breadcrumbs">
-<li>
-<a href="https://cse.nd.edu">
+<div class="element-invisible">
+You are here
+</div>
+<nav aria-label="Main breadcrumb section for the current page">
+<ul class="breadcrumbs" >
+<li class="icon-home">
+<a href="/" title="Home from breadcrumb navigation">
 Home
 </a>
 </li>
- 
-<svg class="breadcrumb-delimiter-svg" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5.2 8.09">
-<defs>
-<style>
-.f1dec71d-fdb2-4d8b-99d1-3d7eb0d2fd0c{fill:#ae9142;}
-</style>
-</defs>
-<path data-name="Path 78" class="f1dec71d-fdb2-4d8b-99d1-3d7eb0d2fd0c" d="M507.39,278.49a.33.33,0,0,0,0-.45h0l-3.73-3.72a.32.32,0,0,0-.45,0h0l-.84.83a.33.33,0,0,0,0,.45h0l2.67,2.67-2.67,2.66a.33.33,0,0,0,0,.45h0l.84.83a.31.31,0,0,0,.45,0h0Z" transform="translate(-502.28 -274.22)"/>
-</svg>
- 
-<li class="current">
-<!-- post+type->
-<no_tag>
-labels->
-</no_tag>
-<no_tag>
-name: -->
-</no_tag>
-<no_tag>
-Faculty
-</no_tag>
-<!-- $after: -->
+<li>
+<a href="/academics" title="Menu for group Academics from breadcrumb navigation">
+Academics
+</a>
 </li>
-<!-- (!is_single() && !is_page() && get_post_type() != post && !is_404()) -->
-</ol>
+<li>
+<a href="/academics/schools-departments-programs" title="Menu for group Schools, Departments &amp; Programs from breadcrumb navigation">
+Schools, Departments &amp; Programs 
+</a>
+</li>
+<li>
+<a href="/academics/departments/computer-science" title="Menu for group Computer Science from breadcrumb navigation">
+Computer Science
+</a>
+</li>
+<li class="current">
+<a href="#" title="Faculty & Staff from breadcrumb navigation">
+Faculty & Staff
+</a>
+</li>
+</ul>
+</nav>
 </div>
-<div class="header-text">
-<h1 class="page-title">
-Faculty
-</h1>
 </div>
 </header>
-<div class="entry-content">
-<div class="wp-block-uagb-table-of-contents uagb-toc__align-left people-filters" data-scroll="false" data-offset="0" data-delay="0">
-<div class="uagb-toc__wrap">
-<h2 class="h3">
-Search By
+<!--/.l-header -->
+<!--.l-main -->
+<div class="view-overlay-wrapper">
+<main class="l-main full-width">
+<!-- .l-main region -->
+<div class=" main">
+<a id="main-content">
+</a>
+<div class="page-options-buttons">
+
+ 
+</div>
+<div class="region region-content">
+<div id="block-system-main" class="block block-system">
+<div class="content">
+<div class="panelizer-view-mode node node-full node-page node-18191">
+<div class="panels-magellan-layout">
+<div class="magellan-header" id="magellan-header">
+<div class="panel-pane pane-slim-node-title">
+<div class="pane-content">
+<a href="/academics/departments/computer-science" title="Computer Science" class="slim-title">
+
+ Computer Science 
+</a>
+</div>
+</div>
+<div class="panel-separator">
+</div>
+<div class="panel-pane pane-wpi-hero-image" >
+<div class="pane-content">
+<div class="pin-container">
+<div class="banner-image-wrapper">
+<div
+ class="no-image" >
+<div class="banner-container">
+<h1 class="pane-title banner-title page-title">
+Faculty & Staff
+</h1>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="magellan-body">
+<div class="magellan-body-item clearfix" 
+ >
+<div data-equalize-on-stack="false" class="region foundation-basic-region row region-second " >
+<div class="foundation-pane ">
+<div class="panel-pane pane-fieldable-panels-pane pane-current-79276 pane-bundle-user-widget" data-gtm-widget-type="user_widget" data-gtm-widget-id="7865141">
+<h2 class="pane-title">
+
+ CS Faculty 
 </h2>
-<form method="get" action="https://cse.nd.edu/faculty" id="search-people" class="" role="search" aria-label="Faculty search">
-<label class="screen-reader-text" for="s">
-Search faculty:
-</label>
-<input type="search" name="s" class="" id="s" autocomplete="off" placeholder="Name or research area" title="type your search term" aria-label="Faculty search input">
-<input type="hidden" name="search-type" value="faculty" />
-<button class="" type="submit" aria-label="Search">
-<svg class="icon" data-icon="search">
-<use xlink:href="#icon-search">
-</use>
-</svg>
-</button>
-</form>
-<!-- 
-<div class="form-field-helper">
-e.g., Leigh Smith, nanotechnology
+<div class="pane-content">
+<div class="view view-directory view-id-directory view-display-id-entity_view_1 view-dom-id-a9f56d4d979027cf24009a4fcd8dde01">
+<div class="view-content">
+<section class=" views-table cols-17" aria-label="directory-table">
+<div class="member-container odd views-row-first views-row-last">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/cew.jpg?itok=iolm0mp1" width="220" height="220" alt="Craig Wills" />
+ 
 </div>
-<no_tag>
- -->
-</no_tag>
-<hr>
-<nav class="alphabet-navigation">
-<ul>
-<li>
-A
-</li>
-<li>
-<a href="?starts_with=B">
-B
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/cew">
+Craig E Wills
 </a>
-</li>
-<li>
-<a href="?starts_with=C">
-C
-</a>
-</li>
-<li>
-D
-</li>
-<li>
-E
-</li>
-<li>
-<a href="?starts_with=F">
-F
-</a>
-</li>
-<li>
-<a href="?starts_with=G">
-G
-</a>
-</li>
-<li>
-<a href="?starts_with=H">
-H
-</a>
-</li>
-<li>
-I
-</li>
-<li>
-<a href="?starts_with=J">
-J
-</a>
-</li>
-<li>
-<a href="?starts_with=K">
-K
-</a>
-</li>
-<li>
-<a href="?starts_with=L">
-L
-</a>
-</li>
-<li>
-<a href="?starts_with=M">
-M
-</a>
-</li>
-<li>
-<a href="?starts_with=N">
-N
-</a>
-</li>
-<li>
-O
-</li>
-<li>
-P
-</li>
-<li>
-Q
-</li>
-<li>
-R
-</li>
-<li>
-<a href="?starts_with=S">
-S
-</a>
-</li>
-<li>
-<a href="?starts_with=T">
-T
-</a>
-</li>
-<li>
-U
-</li>
-<li>
-<a href="?starts_with=V">
-V
-</a>
-</li>
-<li>
-<a href="?starts_with=W">
-W
-</a>
-</li>
-<li>
-X
-</li>
-<li>
-<a href="?starts_with=Y">
-Y
-</a>
-</li>
-<li>
-<a href="?starts_with=Z">
-Z
-</a>
-</li>
-</ul>
-</nav>
-<hr>
-<p>
-<a class="ndce-button1" href="https://engineering.nd.edu/faculty">
-View all Engineering faculty
-</a>
-</p>
-</div>
-</div>
-<article id="post-1011" class="post-1011 profile type-profile status-publish has-post-thumbnail hentry department-computer-science-and-engineering position-faculty">
-<div class="directory">
-<div class="grid directory-grid">
-<div>
-<div class="picture distributed">
-<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/2020/06/Billo-Richard-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Richard Billo" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/2020/06/Billo-Richard-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/2020/06/Billo-Richard-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/2020/06/Billo-Richard-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-</div>
-</div>
-<!-- 
-<div>
-<div class="picture">
-<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Billo-Richard-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Richard Billo" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Billo-Richard-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Billo-Richard-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Billo-Richard-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-</div>
-</div>
-<no_tag>
- -->
-</no_tag>
-<div>
-<h2 class="">
-<a href="https://cse.nd.edu/faculty/richard-billo/" rel="bookmark">
-Richard Billo
-</a>
-</h2>
-<h3 class="is-style-plain">
-Professor Emeritus, Computer Science Engineering
 </h3>
-<h4 class="is-style-plain">
-Areas of Interest
-</h4>
-<p>
-Advanced manufacturing and information systems
-</p>
+<div class="job-title job-title--has-department">
+Professor and Department Head
 </div>
-</div>
-</div>
-</article>
-<!-- #post-1011 -->
-<article id="post-1021" class="post-1021 profile type-profile status-publish has-post-thumbnail hentry department-computer-science-and-engineering position-faculty">
-<div class="directory">
-<div class="grid directory-grid">
-<div>
-<div class="picture distributed">
-<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/2020/06/Bowyer-Kevin-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Kevin W. Bowyer" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/2020/06/Bowyer-Kevin-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/2020/06/Bowyer-Kevin-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/2020/06/Bowyer-Kevin-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-</div>
-</div>
-<!-- 
-<div>
-<div class="picture">
-<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bowyer-Kevin-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Kevin W. Bowyer" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bowyer-Kevin-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bowyer-Kevin-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bowyer-Kevin-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-</div>
-</div>
-<no_tag>
- -->
-</no_tag>
-<div>
-<h2 class="">
-<a href="https://cse.nd.edu/faculty/kevin-bowyer/" rel="bookmark">
-Kevin Bowyer
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
 </a>
-</h2>
-<h3 class="is-style-plain">
-Schubmehl-Prein Family Professor, Computer Science and Engineering
-</h3>
-<h4 class="is-style-plain">
-Areas of Interest
-</h4>
-<p>
-Biometrics, data mining, computer vision, pattern recognition, applications to medical imaging, ethics and computing, computer science education
-</p>
 </div>
-</div>
-</div>
-</article>
-<!-- #post-1021 -->
-<article id="post-1192" class="post-1192 profile type-profile status-publish has-post-thumbnail hentry department-computer-science-and-engineering position-faculty">
-<div class="directory">
-<div class="grid directory-grid">
-<div>
-<div class="picture distributed">
-<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/2020/06/Brockman-Jay-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Jay Brockman" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/2020/06/Brockman-Jay-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/2020/06/Brockman-Jay-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/2020/06/Brockman-Jay-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-</div>
-</div>
-<!-- 
-<div>
-<div class="picture">
-<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/sites/7/2020/08/Brockman-Jay-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Jay Brockman" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/sites/7/2020/08/Brockman-Jay-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/08/Brockman-Jay-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/08/Brockman-Jay-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-</div>
-</div>
-<no_tag>
- -->
-</no_tag>
-<div>
-<h2 class="">
-<a href="https://cse.nd.edu/faculty/jay-brockman/" rel="bookmark">
-Jay Brockman
-</a>
-</h2>
-<h3 class="is-style-plain">
-Director, Center for Civic Innovation
-</h3>
-<p>
-Professor of the Practice, Computer Science and Engineering
-</p>
-</div>
-</div>
-</div>
-</article>
-<!-- #post-1192 -->
-<article id="post-1023" class="post-1023 profile type-profile status-publish has-post-thumbnail hentry department-computer-science-and-engineering position-faculty">
-<div class="directory">
-<div class="grid directory-grid">
-<div>
-<div class="picture distributed">
-<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/2020/06/Bualuan-Ramzi-HS.2-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Ramzi Bualuan" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/2020/06/Bualuan-Ramzi-HS.2-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/2020/06/Bualuan-Ramzi-HS.2-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/2020/06/Bualuan-Ramzi-HS.2-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-</div>
-</div>
-<!-- 
-<div>
-<div class="picture">
-<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bualuan-Ramzi-HS.2-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Ramzi Bualuan" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bualuan-Ramzi-HS.2-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bualuan-Ramzi-HS.2-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bualuan-Ramzi-HS.2-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-</div>
-</div>
-<no_tag>
- -->
-</no_tag>
-<div>
-<h2 class="">
-<a href="https://cse.nd.edu/faculty/ramzi-bualuan/" rel="bookmark">
-Ramzi Bualuan
-</a>
-</h2>
-<h3 class="is-style-plain">
-Teaching Professor, Computer Science and Engineering
-</h3>
-<p>
-Director of Undergraduate Studies
-</p>
-<h4 class="is-style-plain">
-Areas of Interest
-</h4>
-<p>
-Databases, advanced database projects, visual FX
-</p>
-</div>
-</div>
-</div>
-</article>
-<!-- #post-1023 -->
-<article id="post-1025" class="post-1025 profile type-profile status-publish has-post-thumbnail hentry department-computer-science-and-engineering position-faculty">
-<div class="directory">
-<div class="grid directory-grid">
-<div>
-<div class="picture distributed">
-<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/2020/06/Bui-Peter-HS.2-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Peter Bui" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/2020/06/Bui-Peter-HS.2-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/2020/06/Bui-Peter-HS.2-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/2020/06/Bui-Peter-HS.2-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-</div>
-</div>
-<!-- 
-<div>
-<div class="picture">
-<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bui-Peter-HS.2-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Peter Bui" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bui-Peter-HS.2-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bui-Peter-HS.2-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Bui-Peter-HS.2-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-</div>
-</div>
-<no_tag>
- -->
-</no_tag>
-<div>
-<h2 class="">
-<a href="https://cse.nd.edu/faculty/peter-bui/" rel="bookmark">
-Peter Bui
-</a>
-</h2>
-<h3 class="is-style-plain">
-Associate Teaching Professor, Computer Science and Engineering
-</h3>
-<h4 class="is-style-plain">
-Areas of Interest
-</h4>
-<p>
-Systems programming, operating systems, parallel computing, cloud computing, distributed computing, programming languages, compilers, web services
-</p>
-</div>
-</div>
-</div>
-</article>
-<!-- #post-1025 -->
-<article id="post-1027" class="post-1027 profile type-profile status-publish has-post-thumbnail hentry department-computer-science-and-engineering position-faculty">
-<div class="directory">
-<div class="grid directory-grid">
-<div>
-<div class="picture distributed">
-<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/2020/06/Chawla-Nitesh-cc-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Nitesh Chawla" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/2020/06/Chawla-Nitesh-cc-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/2020/06/Chawla-Nitesh-cc-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/2020/06/Chawla-Nitesh-cc-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-</div>
-</div>
-<!-- 
-<div>
-<div class="picture">
-<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chawla-Nitesh-cc-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Nitesh Chawla" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chawla-Nitesh-cc-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chawla-Nitesh-cc-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chawla-Nitesh-cc-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-</div>
-</div>
-<no_tag>
- -->
-</no_tag>
-<div>
-<h2 class="">
-<a href="https://cse.nd.edu/faculty/nitesh-chawla/" rel="bookmark">
-Nitesh Chawla
-</a>
-</h2>
-<h3 class="is-style-plain">
-Frank M. Freimann Professor of Computer Science and Engineering
-</h3>
-<p>
-Director, Lucy Family Institute for Data and Society
-</p>
-<h4 class="is-style-plain">
-Areas of Interest
-</h4>
-<p>
-Data science, artificial intelligence and analytics, ethical application of technology for the common good
-</p>
-</div>
-</div>
-</div>
-</article>
-<!-- #post-1027 -->
-<article id="post-1029" class="post-1029 profile type-profile status-publish has-post-thumbnail hentry department-computer-science-and-engineering position-faculty">
-<div class="directory">
-<div class="grid directory-grid">
-<div>
-<div class="picture distributed">
-<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/2020/06/Chen-Danny-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Danny Chen" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/2020/06/Chen-Danny-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/2020/06/Chen-Danny-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/2020/06/Chen-Danny-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-</div>
-</div>
-<!-- 
-<div>
-<div class="picture">
-<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chen-Danny-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Danny Chen" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chen-Danny-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chen-Danny-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chen-Danny-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-</div>
-</div>
-<no_tag>
- -->
-</no_tag>
-<div>
-<h2 class="">
-<a href="https://cse.nd.edu/faculty/danny-chen/" rel="bookmark">
-Danny Chen
-</a>
-</h2>
-<h3 class="is-style-plain">
-Professor, Computer Science and Engineering
-</h3>
-<h4 class="is-style-plain">
-Areas of Interest
-</h4>
-<p>
-Computational geometry and applications, biomedical imaging, automated medical treatment and diagnosis, parallel algorithms, machine learning
-</p>
-</div>
-</div>
-</div>
-</article>
-<!-- #post-1029 -->
-<article id="post-1031" class="post-1031 profile type-profile status-publish has-post-thumbnail hentry department-computer-science-and-engineering position-faculty">
-<div class="directory">
-<div class="grid directory-grid">
-<div>
-<div class="picture distributed">
-<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/2020/06/Chiang-David-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor David Chiang" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/2020/06/Chiang-David-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/2020/06/Chiang-David-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/2020/06/Chiang-David-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-</div>
-</div>
-<!-- 
-<div>
-<div class="picture">
-<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chiang-David-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor David Chiang" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chiang-David-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chiang-David-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Chiang-David-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-</div>
-</div>
-<no_tag>
- -->
-</no_tag>
-<div>
-<h2 class="">
-<a href="https://cse.nd.edu/faculty/david-chiang/" rel="bookmark">
-David Chiang
-</a>
-</h2>
-<h3 class="is-style-plain">
-Associate Professor, Computer Science and Engineering
-</h3>
-<h4 class="is-style-plain">
-Areas of Interest
-</h4>
-<p>
-Natural language processing, machine learning, and digital humanities
-</p>
-</div>
-</div>
-</div>
-</article>
-<!-- #post-1031 -->
-<article id="post-1033" class="post-1033 profile type-profile status-publish has-post-thumbnail hentry department-computer-science-and-engineering position-faculty">
-<div class="directory">
-<div class="grid directory-grid">
-<div>
-<div class="picture distributed">
-<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/2020/06/Jane2-1-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Jane Cleland-Huang" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/2020/06/Jane2-1-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/2020/06/Jane2-1-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/2020/06/Jane2-1-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-</div>
-</div>
-<!-- 
-<div>
-<div class="picture">
-<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Jane2-1-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Jane Cleland-Huang" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Jane2-1-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Jane2-1-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />
-</div>
-</div>
-<no_tag>
- -->
-</no_tag>
-<div>
-<h2 class="">
-<a href="https://cse.nd.edu/faculty/jane-cleland-huang/" rel="bookmark">
-Jane Cleland-Huang
-</a>
-</h2>
-<h3 class="is-style-plain">
-Professor, Computer Science and Engineering
-</h3>
-<p>
-Director of Graduate Studies
-</p>
-<h4 class="is-style-plain">
-Areas of Interest
-</h4>
-<p>
-Software requirements traceability, software architecture, application of machine learning and data mining methods to large-scale software and systems engineering problems
-</p>
-</div>
-</div>
-</div>
-</article>
-<!-- #post-1033 -->
-<article id="post-1035" class="post-1035 profile type-profile status-publish has-post-thumbnail hentry department-computer-science-and-engineering position-faculty">
-<div class="directory">
-<div class="grid directory-grid">
-<div>
-<div class="picture distributed">
-<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/2020/06/Czajka-Adam-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Adam Czajka" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/2020/06/Czajka-Adam-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/2020/06/Czajka-Adam-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/2020/06/Czajka-Adam-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-</div>
-</div>
-<!-- 
-<div>
-<div class="picture">
-<img width="300" height="300" src="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Czajka-Adam-HS-300x300.jpg" class="attachment-Profile 300x300 size-Profile 300x300 wp-post-image" alt="Professor Adam Czajka" loading="lazy" srcset="https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Czajka-Adam-HS-300x300.jpg 300w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Czajka-Adam-HS-150x150.jpg 150w, https://cse.nd.edu/wp-content/uploads/sites/7/2020/07/Czajka-Adam-HS-800x800.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-</div>
-</div>
-<no_tag>
- -->
-</no_tag>
-<div>
-<h2 class="">
-<a href="https://cse.nd.edu/faculty/adam-czajka/" rel="bookmark">
-Adam Czajka
-</a>
-</h2>
-<h3 class="is-style-plain">
-Assistant Professor, Computer Science and Engineering
-</h3>
-<h4 class="is-style-plain">
-Areas of Interest
-</h4>
-<p>
-Biometrics, security, computer vision, pattern recognition, signal and image processing
-</p>
-</div>
-</div>
-</div>
-</article>
-<!-- #post-1035 -->
-<nav class="navigation pagination" role="navigation" aria-label="Posts">
-<h2 class="screen-reader-text">
-Posts navigation
-</h2>
-<div class="nav-links">
-<span aria-current="page" class="page-numbers current">
-1
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
 </span>
-<a class="page-numbers" href="https://cse.nd.edu/faculty/page/2/">
-2
+ 
+<a href="mailto:cew@wpi.edu">
+cew@wpi.edu
 </a>
-<span class="page-numbers dots">
-&hellip;
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
 </span>
-<a class="page-numbers" href="https://cse.nd.edu/faculty/page/4/">
-4
+<no_tag>
+ Fuller Labs 234
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+<div class="phone-number">
+<span class="bold">
+Phone:
+</span>
+<no_tag>
+ +1 (508) 8315000 x5622
+</no_tag>
+</div>
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ My research has primarily focused on Internet application performance and measurement with more recent work examining issues related to Internet privacy. This work has led to a number of research publications and presentations as well as visibility in venues such as the New York Times, Wall Street Journal and NPR Science Friday. 
+
+ WPI is a great place for me to be a faculty member as I have the opportunity to teach and advise top-quality students as well as pursue interesting directions of research. ... 
+</no_tag>
+<a href="/people/faculty/cew" title="">
+View Profile
 </a>
-<a class="next page-numbers" href="https://cse.nd.edu/faculty/page/2/">
-Next
+ 
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+ 
+</div>
+</div>
+</div>
+<div class="foundation-pane ">
+<div class="panel-pane pane-fieldable-panels-pane pane-current-79271 pane-bundle-user-widget" data-gtm-widget-type="user_widget" data-gtm-widget-id="7865146">
+<div class="pane-content">
+<div class="view view-directory view-id-directory view-display-id-entity_view_1 view-dom-id-2d69033cd45e337c9d570645d5f6b212">
+<div class="view-content">
+<section class=" views-table cols-17" aria-label="directory-table">
+<div class="member-container odd views-row-first">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/emmanuel.jpg?itok=4UJFsqZb" width="220" height="220" alt="Emmanuel Agu" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/emmanuel">
+Emmanuel O. Agu
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Professor-Computer Science
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
 </a>
 </div>
-</nav>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:emmanuel@wpi.edu">
+emmanuel@wpi.edu
+</a>
 </div>
-</article>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Fuller Labs 139
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+<div class="phone-number">
+<span class="bold">
+Phone:
+</span>
+<no_tag>
+ +1 (508) 8315000 x5568
+</no_tag>
+</div>
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ Emmanuel Agu is currently an associate professor in the computer science department at WPI having received his Masters and PhD in electrical and computer engineering at the University of Massachusetts at Amherst. His research interests are in the areas of computer graphics, mobile computing, and wireless networks. He is especially interested in research into how to use a smartphone as a platform to deliver better healthcare. ... 
+</no_tag>
+<a href="/people/faculty/emmanuel" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container even">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/JoeBeck.jpg?itok=6uVBcXUS" width="220" height="220" alt="Joseph Beck" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/josephbeck">
+Joseph E. Beck
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Associate Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:josephbeck@wpi.edu">
+josephbeck@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Fuller Labs 138
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+<div class="phone-number">
+<span class="bold">
+Phone:
+</span>
+<no_tag>
+ +1 (508) 8315000 x6156
+</no_tag>
+</div>
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ Joseph Beck, assistant professor of Computer Science, has been at WPI since 2007. His research focuses on educational data mining, a new discipline that develops techniques for analyzing large educational data sets to make discoveries that will improve teaching and learning. His work centers on estimating how computer tutors impact learning. He established the first workshop in the field and in 2008 was program co-chair of the first International Conference on Educational Data Mining. ... 
+</no_tag>
+<a href="/people/faculty/josephbeck" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container odd">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/bbohrer_1.jpg?itok=g2iOSYMu" width="220" height="220" alt="Brandon Bohrer" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/bbohrer">
+Brandon Bohrer
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Assistant Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:bbohrer@wpi.edu">
+bbohrer@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Fuller Labs 132
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ Brandon's academic interests lie where logic meets computer 
+science: formal methods (the study of software correctness) and 
+programming language theory. Their dissertation focuses on 
+computer-assisted theorem-proving for cyber-physical systems: systems 
+where computers are responsible for keeping physical things and people 
+safe. Their favorite thing about these research topics is the 
+connection to many fields, including robotics, security, machine 
+learning, medicine, and even games. They completed their PhD at 
+Carnegie Mellon University in 2021. ... 
+</no_tag>
+<a href="/people/faculty/bbohrer" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container even">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/claypool.jpg?itok=6bTYzr5x" width="220" height="220" alt="Mark Claypool" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/claypool">
+Mark L. Claypool
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:claypool@wpi.edu">
+claypool@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Fuller Labs B24
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+<div class="phone-number">
+<span class="bold">
+Phone:
+</span>
+<no_tag>
+ +1 (508) 8315000 x5409
+</no_tag>
+</div>
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ Mark Claypool has been a professor of Computer Science and Interactive Media Game Development at WPI since 1997. Mark has a B.A. in Mathematics from Colorado College and M.S. and Ph.D. degrees in Computer Science from the University of Minnesota. He has published over 100 peer-reviewed conference and journal papers and written two books on computer games. He has chaired several ACM conferences on networks, games and multimedia and served on the technical program committee for over 40 of them. ... 
+</no_tag>
+<a href="/people/faculty/claypool" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container odd">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/jmcuneo.jpg?itok=uo7r7o09" width="220" height="219" alt="Joshua Cuneo" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/jmcuneo">
+Joshua M Cuneo
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Instructor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:jmcuneo@wpi.edu">
+jmcuneo@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Fuller Labs B33
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ I'm a transplanted San Francisco hippie who's found his way to New England through Georgia. My interests are in digital media, programming, scientific computing, space exploration, green technology, and the interdisciplinary uses of computing. When not teaching, I enjoy computer programming, reading, creative writing, video production, astronomy, hiking, traveling, and science fiction, among other interests. I also volunteer with FIRST Lego League and with the videography staff at DragonCon in Atlanta. I'm an avid Star Trek fan, but I usually leave my Vulcan ears at home. ... 
+</no_tag>
+<a href="/people/faculty/jmcuneo" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container even">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/ldecarli.jpg?itok=nt6fX8B0" width="220" height="220" alt="Lorenzo DeCarli" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/ldecarli">
+Lorenzo DeCarli
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Assistant Professor-Computer Science
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:ldecarli@wpi.edu">
+ldecarli@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ FL B20
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ I am generally interested in network security and traffic analysis , and in the challenges that arise when attempting to design security systems which are performant , effective , and usable . My interests cover: 
+
+ 
+	 IoT and residential network security 
+	 Web and cloud security 
+	 Software security 
+	 Malware detection and understanding 
+	 Usable security 
+ 
+ 
+</no_tag>
+<a href="/people/faculty/ldecarli" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container odd">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/dd.jpg?itok=u1SX4Igm" width="220" height="220" alt="Daniel Dougherty" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/dd">
+Daniel J. Dougherty
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:dd@wpi.edu">
+dd@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Fuller Labs 231
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+<div class="phone-number">
+<span class="bold">
+Phone:
+</span>
+<no_tag>
+ +1 (508) 8315000 x5621
+</no_tag>
+</div>
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ The common thread running through my teaching and research is the use of mathematical methods---especially methods based on logic---in designing and building systems. Interesting systems are too complex to be understood by informal intuitions, and it can be very powerful to use formal tools to help understand whether the system we are actually building really fulfills our ideas about what it is supposed to do. Tools based on logic can help people build things in a way guided by specification, and indeed they can help people arrive at the right formal specification in the first place. ... 
+</no_tag>
+<a href="/people/faculty/dd" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container even">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/meltabakh.jpg?itok=uq5iOGfj" width="220" height="220" alt="Mohamed Eltabakh" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/meltabakh">
+Mohamed Y. Eltabakh
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Associate Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:meltabakh@wpi.edu">
+meltabakh@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Unity Hall 365
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+<div class="phone-number">
+<span class="bold">
+Phone:
+</span>
+<no_tag>
+ +1 (508) 8315000 x6421
+</no_tag>
+</div>
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ Professor Eltabakh’s research is in the broad area of Database Management Systems and Information Management. In particular, his work is in the areas of query processing and optimization, indexing techniques, scientific data management, and large-scale data analytics. Prof. Eltabakh is currently exploring possible extensions to both database management systems and Hadoop framework to support scientific applications and health-care systems. He is a member of the Database Systems Research Group (DSRG) and a faculty member of the Bioinformatics and Computational Biology (BCB) program. ... 
+</no_tag>
+<a href="/people/faculty/meltabakh" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container odd">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/mengling.jpg?itok=7oWGFsM4" width="220" height="220" alt="Michael Engling" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/mengling">
+Michael Engling
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Assistant Teaching Professor-Computer Science
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:mengling@wpi.edu">
+mengling@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Fuller Labs 306
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ I was most recently Associate Director for Graduate Programs in Computer Science at Stevens Institute of Technology in Hoboken, New Jersey. While there I also served as supervisor of Curricular Practical Training and lectured on Algorithms, Computational Complexity, Discrete Structures, and the Theory of Computation, among other topics. I previously taught Mathematics at Hillsborough Community College in Tampa, Florida. My research interests include Computer Science Education, Security and Privacy, Cryptography, and Combinatorial Games. ... 
+</no_tag>
+<a href="/people/faculty/mengling" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container even">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/tian.jpg?itok=HJvH0uDF" width="220" height="220" alt="Tian Guo" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/tian">
+Tian Guo
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Assistant Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:tian@wpi.edu">
+tian@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Fuller Labs 138
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ I am an Assistant Professor in the Computer Science Department at the Worcester Polytechnic Institute. I completed my Ph.D. at the University of Massachusetts Amherst advised by Prof. Prashant Shenoy in 2016. I am a system builder. My research is about modeling system behaviors, especially these of large scale systems, and to build prototypes that help to empirically evaluate system's behaviors. Broadly, I am interested in designing systems to handle new trade-offs in cost, performance and efficiency. ... 
+</no_tag>
+<a href="/people/faculty/tian" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container odd">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/ltharrison.jpg?itok=c5YwKugH" width="220" height="220" alt="Lane Harrison" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/ltharrison">
+Lane T. Harrison
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Associate Professor-Computer Science
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:ltharrison@wpi.edu">
+ltharrison@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Fuller 136
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ Information visualization is a powerful means for understanding data and informing human minds. As people begin to rely on visualizations to make high-impact and even life-critical decisions, there is a growing need to ensure that information can be perceived accurately and precisely. My research addresses these challenges by leveraging cognitive and perceptual principles to quantify and model user performance with visualizations. ... 
+</no_tag>
+<a href="/people/faculty/ltharrison" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container even">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/nth.jpg?itok=TeqUJJbT" width="220" height="220" alt="Neil Heffernan" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/nth">
+Neil Heffernan
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:nth@wpi.edu">
+nth@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Unity Hall 388
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+<div class="phone-number">
+<span class="bold">
+Phone:
+</span>
+<no_tag>
+ +1 (508) 8315000 x5569
+</no_tag>
+</div>
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ Neil T. Heffernan enjoys doing educational data mining and running the ASSISTments system. ASSISTments helps schools teach better. It’s a web service hosted at WPI that allows teachers to assign nightly homework or daily class work. Students get instant feedback while teachers get live reports. Professor Heffernan enjoys supervising WPI students in creating ASSISTments content and features. He has 6 dozens paper in educational data mining, and 20+ papers in comparing different ways to optimize student learning. ... 
+</no_tag>
+<a href="/people/faculty/nth" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container odd">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/heineman.jpg?itok=LTgq04_e" width="220" height="220" alt="George Heineman" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/heineman">
+George T. Heineman
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Associate Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:heineman@wpi.edu">
+heineman@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Fuller Labs 133
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+<div class="phone-number">
+<span class="bold">
+Phone:
+</span>
+<no_tag>
+ +1 (508) 8315000 x5502
+</no_tag>
+</div>
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ Computer programming makes it possible to solve problems that otherwise could never be attempted. You can create worlds that could never be possible and help make this world a better place. Most of my professional and personal accomplishments were possible directly because of my understanding and practice of computer programming. For me, programming led me to appreciate fundamental concepts in computer science and directed me to major in CS. I've always been passionate about the possibilities of computer programming; this forms the basis for all of my teaching. ... 
+</no_tag>
+<a href="/people/faculty/heineman" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container even">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/xkong.jpg?itok=IuAdlTbr" width="220" height="220" alt="Xiangnan Kong" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/xkong">
+Xiangnan Kong
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Associate Professor-Computer Science
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:xkong@wpi.edu">
+xkong@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Unity Hall, Rm 382
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ Professor Kong’s research interests focus on data mining and machine learning, with emphasis on addressing the data science problems in biomedical and social applications. Data today involves an increasing number of data types that need to be handled differently from conventional data records, and an increasing number of data sources that need to be fused together. Dr. Kong is particularly interested in designing algorithms to tame data variety issues in various research fields, such as biomedical research, social computing, neuroscience, and business intelligence. ... 
+</no_tag>
+<a href="/people/faculty/xkong" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container odd">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/dkorkin.jpg?itok=DzE9RhxL" width="220" height="220" alt="Dmitry Korkin" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/dkorkin">
+Dmitry Korkin
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Professor-Computer Science
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:dkorkin@wpi.edu">
+dkorkin@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Fuller Labs, Room B22
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ My research is interdisciplinary and spans the fields of bioinformatics of complex disease, computational genomics, systems biology, and biomedical data analytics. We bring expertise in machine learning, data mining and massive data analytics to study molecular mechanisms underlying genetic disorders, such as cancer, diabetes, and autism, and deadly infections, such as pandemic flu. Our approaches benefit from integrating Next Generation Sequencing, high-throughput interactomics, and structural biology data. ... 
+</no_tag>
+<a href="/people/faculty/dkorkin" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container even">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/kmlee.jpg?itok=AZyy_8oY" width="220" height="220" alt="Kyumin Lee" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/kmlee">
+Kyumin Lee
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Associate Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:kmlee@wpi.edu">
+kmlee@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Unity Hall 363
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ Dr. Lee’s research interests are in social computing, information retrieval, data science, and cybersecurity over large-scale networked information systems like the Web, social media, crowdfunding, and crowd-based systems. My research focus has both positive and negative dimensions. On one hand, I focus on threats to these systems and design methods to mitigate negative behaviors; on the other, I look for positive opportunities to mine and analyze these systems for developing next generation algorithms and architectures that can empower decision makers. 
+ 
+</no_tag>
+<a href="/people/faculty/kmlee" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container odd">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/yli15.jpg?itok=l_4dpAZu" width="220" height="220" alt="Yanhua Li" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/yli15">
+Yanhua Li
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Associate Professor-Computer Science
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:yli15@wpi.edu">
+yli15@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Unity Hall 384
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ My broad research interests are in analyzing, understanding, and making sense of big data generated from various complex networks in many contexts, including urban network analysis, large-scale network data sampling, measurement, online social behavior modeling. My recent research focuses on exploring the challenges in managing and analyzing big data from urban networks, with an ultimate goal of improving human life quality and designing smarter cities. ... 
+</no_tag>
+<a href="/people/faculty/yli15" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container even">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/2021/09/01/liu-xiaozhong-2014-03.jpeg?itok=LmOxBFwf" width="220" height="220" alt="Prof. Xiaozhong Liu alt" title="Associate Professor @ CS and DS title" />
+<div class="image-caption white-text p-x-10 p-y-5 small-12" style='width:220px'>
+Associate Professor @ CS and DS
+</div>
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/xliu14">
+Xiaozhong Liu
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Associate Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:xliu14@wpi.edu">
+xliu14@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ Dr. Xiaozhong Liu is an Associate Professor at Computer Science and Data Science, WPI. Before that, he was Associate Professor atSchool of Informatics, Computing and Engineering Indiana University Bloomington.His research interests include natural language processing (NLP), text/graph mining, information retrieval/recommendation, metadata, and computational social science. His dissertation at Syracuse University (advisor Dr. Elizabeth D. Liddy) explored an innovative ranking method that weighted the retrieved results by leveraging dynamic community interests. ... 
+</no_tag>
+<a href="/people/faculty/xliu14" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container odd">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/rneamtu.jpg?itok=PoI7ajgZ" width="220" height="220" alt="Rodica Neamtu" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/rneamtu">
+Rodica Neamtu
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Associate Professor of Teaching
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:rneamtu@wpi.edu">
+rneamtu@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Fuller Labs FL129
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+<div class="phone-number">
+<span class="bold">
+Phone:
+</span>
+<no_tag>
+ +1 (508) 8316802
+</no_tag>
+</div>
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ I am a data mining researcher who investigates how to develop and leverage ground-breaking techniques to explore time series datasets at the confluence of theoretical computer science and application domains like medicine, neuroscience, economics, transportation, and complex decision making. With more than fifteen years of teaching experience in various academic institutions, I am committed to use my love and talent for teaching and research to empower others through education to make a difference in the world. ... 
+</no_tag>
+<a href="/people/faculty/rneamtu" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container even">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/dreichman.jpg?itok=P-h2Gg92" width="216" height="220" alt="Daniel Reichman Headshot" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/dreichman">
+Daniel Reichman
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Assistant Professor-Computer Science
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:dreichman@wpi.edu">
+dreichman@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ 100 Institute Road
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ I have completed my PhD at the Weizmann Institute of Science in 2014. Afterwards, I have been a postdoc at Cornell, UC Berkeley and Princeton. I am interested in how theoretical insights from computer science, discrete mathematics and probability theory can lead to better algorithms in the domains of artificial intelligence and machine learning. Intractability results such as NP hardness arise in numerous AI applications. Devising ``beyond worst case" approaches that can bypass intractability results is one of my main research interests. ... 
+</no_tag>
+<a href="/people/faculty/dreichman" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container odd">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/cdroberts.jpg?itok=Vh4b-beT" width="220" height="220" alt="Charles Roberts" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/cdroberts">
+Charles Davis Roberts
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Assistant Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:cdroberts@wpi.edu">
+cdroberts@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ FL B25b
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ My research examines human-centered computing in digital arts practice. I designed and developed a creative coding environment for the browser, Gibber (http://gibber.cc), that I use both for educational research and audiovisual performances. Gibber is used to teach computational media to middle school, high school and university students in locations around the world, and I've performed with it throughout the US, UK and Asia in the experimental performance genre known as live coding. 
+</no_tag>
+<a href="/people/faculty/cdroberts" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container even">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/MJB_2701.jpg?itok=2013JF7c" width="220" height="220" alt="Carolina Ruiz" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/ruiz">
+Carolina Ruiz
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Associate Dean of Arts &amp; Sciences
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:ruiz@wpi.edu">
+ruiz@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Fuller Labs 232
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+<div class="phone-number">
+<span class="bold">
+Phone:
+</span>
+<no_tag>
+ +1 (508) 8315000 x5640
+</no_tag>
+</div>
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ Carolina Ruiz is the Associate Dean of Arts and Sciences and the Harold L. Jurist ’61 and Heather E. Jurist Dean's Professor of Computer Science. She joined the WPI faculty in 1997. Prof. Ruiz’s research is in Artificial Intelligence, Machine Learning, and Data Mining, and their applications to Medicine and Health. She has worked on several clinical domains including sleep, stroke, obesity and pancreatic cancer. Prof. ... 
+</no_tag>
+<a href="/people/faculty/ruiz" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container odd">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/rundenst.jpg?itok=TvT9HSOs" width="220" height="220" alt="Elke Rundensteiner" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/rundenst">
+Elke A. Rundensteiner
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:rundenst@wpi.edu">
+rundenst@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Unity Hall 360/361
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+<div class="phone-number">
+<span class="bold">
+Phone:
+</span>
+<no_tag>
+ +1 (508) 8315000 x5815
+</no_tag>
+</div>
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ As founding Director of the interdisciplinary Data Science program here at WPI, I take great pleasure in doing all in my power to support the Data Science community in all its facets from research collaborations, new educational initiatives to our innovative Graduate Qualifying projects at the graduate level. 
+
+ Having served as primary advisor and mentor of over 35 PhD students who have secured successful professional careers in computing, I'm proud of all the great accomplishments of students I have had the opportunity to collaborate with. ... 
+</no_tag>
+<a href="/people/faculty/rundenst" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container even">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/gsarkozy.jpg?itok=pcOZ46uH" width="220" height="220" alt="Gabor Sarkozy" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/gsarkozy">
+Gabor N Sarkozy
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:gsarkozy@wpi.edu">
+gsarkozy@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Fuller Labs 134
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+<div class="phone-number">
+<span class="bold">
+Phone:
+</span>
+<no_tag>
+ +1 (508) 8315408
+</no_tag>
+</div>
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ My research interests are in graph theory, discrete mathematics, and theoretical computer science. I am especially interested in studying the structure of very large graphs,; an area that is getting more and more important these days. I enjoy teaching at WPI; in particular, I enjoy the project experience. I am the founder and director of the Budapest Project Center, the first and only WPI Project Center in Eastern Europe. I love sports, especially tennis and soccer. 
+ 
+</no_tag>
+<a href="/people/faculty/gsarkozy" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container odd">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/cshue.jpg?itok=WmQFLT_b" width="220" height="220" alt="Craig Shue" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/cshue">
+Craig A. Shue
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Associate Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:cshue@wpi.edu">
+cshue@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Fuller Labs 236
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+<div class="phone-number">
+<span class="bold">
+Phone:
+</span>
+<no_tag>
+ +1 (508) 8315000 x4933
+</no_tag>
+</div>
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ I am interested in computer networking and security. Given the significance of the Internet in our economy and society, I am interested in improvements and studies that can have a real-world impact. My recent work has focused on how to make both enterprise and residential networks more secure. In my research work, I am exploring ways to change the traditional computer network communication model using techniques such as software-defined networking and network function virtualization. ... 
+</no_tag>
+<a href="/people/faculty/cshue" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container even">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/tmsith.jpg?itok=ZH9bmLv_" width="220" height="215" alt="Therese Smith" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/tmsmith">
+Therese Mary Smith
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Assistant Teaching Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:tmsmith@wpi.edu">
+tmsmith@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ FL-144
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ Dr. Smith's research interests are in computational medicine and computer science education. Her interest in data flow and other massively parallel computer architectures led to an application of Petri nets in biological networks. She is interested in finding biomarkers in datasets of relatively invasive tests such as a biopsy or blood test, and seeking a version of the biological signal in less invasive tests, such as a breath test or cheek swab. Dr. Smith wishes to use her background as a CEO and entrepreneurto strengthen students’ self-confidence. 
+
+ Dr. ... 
+</no_tag>
+<a href="/people/faculty/tmsmith" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container odd">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/gmsmith.jpg?itok=PEA2LMGp" width="215" height="220" alt="Gillian Smith" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/gmsmith">
+Gillian Margaret Smith
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Associate Professor-Computer Science
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:gmsmith@wpi.edu">
+gmsmith@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Fuller Labs B23
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ Dr. Smith's research interests are in computational creativity, game design, computer science education, and the intersection of traditional crafts and computation. Her interdisciplinary work merges technical research in AI and HCI with creative practice in textiles and games, with a view towards addressing social issues and broadening participation and perspectives on computing. ... 
+</no_tag>
+<a href="/people/faculty/gmsmith" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container even">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/esolovey.jpg?itok=pvPXl0JI" width="220" height="220" alt="Erin Solovey" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/esolovey">
+Erin Solovey
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Assistant Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:esolovey@wpi.edu">
+esolovey@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ FL B21
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+<div class="phone-number">
+<span class="bold">
+Phone:
+</span>
+<no_tag>
+ +1 (508) 8315000 x6936
+</no_tag>
+</div>
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ My research is in human-computer interaction. One focus of my research is on next-generation interaction techniques, such as brain-computer interfaces, physiological computing, and reality-based interaction. I design, build and evaluate interactive computing systems that use machine learning approaches to adapt and support the user’s changing cognitive state and context. I also investigate novel paradigms for designing with accessibility in mind, particularly for the Deaf community. Much of my work also explores effective human interaction with complex and autonomous systems and vehicles. ... 
+</no_tag>
+<a href="/people/faculty/esolovey" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container odd">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/staneja_1.jpg?itok=NHQJVJLI" width="220" height="220" alt="Shubbhi Taneja" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/staneja">
+Shubbhi Taneja
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Assistant Teaching Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:staneja@wpi.edu">
+staneja@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ Dr. ShubbhiTaneja is anAssistant Teaching Professor at WPI sinceFall 2021. Prior to joining WPI, she workedas a tenure-track faculty for three yearsin the Department of Computer Science of California State University, Sonoma.She completed her Ph.D. ... 
+</no_tag>
+<a href="/people/faculty/staneja" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container even views-row-last">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/rjwalls.jpg?itok=W9MlmU0n" width="220" height="220" alt="Robert Walls" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/rjwalls">
+Robert Joseph Walls
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Assistant Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:rjwalls@wpi.edu">
+rjwalls@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Fuller Labs 147
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ My research focuses on systems security and performance. Consequently, my projects often lie at the intersection of software and hardware. Some of my projects include developing compiler-based defenses for embedded microcontrollers, providing security and privacy for deep learning, and reverse-engineering the behavior of proprietary GPU microarchitectures to improve system performance. 
+ 
+</no_tag>
+<a href="/people/faculty/rjwalls" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container odd">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/jweinstock.jpg?itok=cCrBdLM6" width="220" height="220" alt="Jonathan Weinstock" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/jweinstock">
+Jonathan Weinstock
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Assistant Teaching Professor-Computer Science
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:jweinstock@wpi.edu">
+jweinstock@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ 243 Fuller Labs
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ I am a practical and highly analytical problem solver, having worked in corporate R&D for 35 years at Bell Labs/Bellcore/Telcordia/Ericsson, Netapp, Motorola and Cisco Systems, and in academia as an Assistant Professor and as Adjunct Faculty. ... 
+</no_tag>
+<a href="/people/faculty/jweinstock" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container even">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/jrwhitehill.jpg?itok=mFV7aGqz" width="220" height="220" alt="Jacob Whitehill" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/jrwhitehill">
+Jacob Richard Whitehill
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Assistant Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:jrwhitehill@wpi.edu">
+jrwhitehill@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ 100 Institute RD
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ My research interests are in applied machine learning, computer vision, data science and their applications to education, affective computing, and human behavior recognition. My work is highly interdisciplinary and frequently intersects cognitive science, psychology, and education. Before joining WPI, I was a research scientist at the Office of the Vice Provost for Advances in Learning at Harvard University. In 2012, I co-founded Emotient, a San Diego-based startup company for automatic emotion and facial expression recognition. ... 
+</no_tag>
+<a href="/people/faculty/jrwhitehill" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container odd">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/wwong2.jpg?itok=iRKHvdAO" width="220" height="220" alt="Wilson Wong" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/wwong2">
+Wilson Wong
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Assistant Teaching Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:wwong2@wpi.edu">
+wwong2@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Fuller B19
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+<div class="phone-number">
+<span class="bold">
+Phone:
+</span>
+<no_tag>
+ +1 (508) 8315000 x5706
+</no_tag>
+</div>
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ Prior to entering academia, I worked as Chief Technologist, Director of Information Systems, and Director of Technical Operations at various corporations in the information systems and software field. For the past 20 years teaching in university courses, I have aimed to impart this industry experience in my software engineering and databases courses by incorporating real life projects, examples, and whenever possible, collaborations with business organizations such as Brigham &amp; Women's Hospital, the US Treasury, Dartmouth-Hitchcock Medical Center and Massachusetts General Hospital. ... 
+</no_tag>
+<a href="/people/faculty/wwong2" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container even">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/faculty-image/ayousefi.jpg?itok=KDv2CXf0" width="220" height="220" alt="Ali Yousefi" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/faculty/ayousefi">
+Ali Yousefi
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Assistant Professor
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:ayousefi@wpi.edu">
+ayousefi@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ 145 Fuller Lab.
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ My research focuses on developing methodological solutions to problems concerning neuroscience data analysis. ... 
+</no_tag>
+<a href="/people/faculty/ayousefi" title="">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+ 
+</div>
+</div>
+</div>
+</div>
+ 
+</div>
+<div class="magellan-body-item clearfix" 
+ >
+<div data-equalize-on-stack="false" class="region foundation-basic-region row region-third " >
+<div class="foundation-pane ">
+<div class="panel-pane pane-fieldable-panels-pane pane-current-98841 pane-bundle-user-widget" data-gtm-widget-type="user_widget" data-gtm-widget-id="7865151">
+<h2 class="pane-title">
+
+ CS Office Staff and Lab Managers 
+</h2>
+<div class="pane-content">
+<div class="view view-directory view-id-directory view-display-id-entity_view_1 view-dom-id-faea4551486b43e7c231992e7d324de1">
+<div class="view-content">
+<section class=" views-table cols-17" aria-label="directory-table">
+<div class="member-container odd views-row-first">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/2019/10/02/1refi%20%283%29_1.jpg?itok=4kzTbGcE" width="220" height="220" alt="Refie Cane" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/staff/rcane">
+Refie Cane
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Admin Assistant VI, Graduate Administrative Assistant
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:rcane@wpi.edu">
+rcane@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+<div class="clearfix">
+<div class="phone-number">
+<span class="bold">
+Phone:
+</span>
+<no_tag>
+ +1 (508) 8315000 x5357
+</no_tag>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="member-container even">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/2019/10/11/mcourtemanche.jpg?itok=41H5PgwD" width="220" height="220" alt="Mary Courtemanche" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/staff/mcourtemanche">
+Mary Katharine Courtemanche
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Administrative Assistant V
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:mcourtemanche@wpi.edu">
+mcourtemanche@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+<div class="clearfix">
+<div class="phone-number">
+<span class="bold">
+Phone:
+</span>
+<no_tag>
+ +1 (508) 8315357
+</no_tag>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="member-container odd">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/2021/10/26/kjcrighton.jpg?itok=9wNKWlTp" width="220" height="220" alt="Katherine Crighton" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/staff/kjcrighton">
+Katherine Crighton
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Operations Manager
+</div>
+<div class="department">
+<a href="/academics/departments/robotics-engineering">
+Robotics Engineering
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:kjcrighton@wpi.edu">
+kjcrighton@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+<div class="office-location">
+<span class="semibold">
+Office:
+</span>
+<no_tag>
+ Fuller Labs 233
+</no_tag>
+</div>
+</div>
+<div class="clearfix">
+<div class="phone-number">
+<span class="bold">
+Phone:
+</span>
+<no_tag>
+ +1 (508) 8315000 x5678
+</no_tag>
+</div>
+</div>
+</div>
+<div class="member-bio">
+<no_tag>
+
+ Katherine is the Operations Manager for the Computer ScienceDepartment. Their responsibilities include working with the Department Head, assistingfaculty, and managing budgetary and financial matters. They previously worked for the Robotics Engineering department, where they were honored to receive the 2020 Rho Beta Epsilon Award for Excellence in Robotics Education.They have a B.A. ... 
+</no_tag>
+<a href="/people/staff/kjcrighton" title="Katherine Crighton">
+View Profile
+</a>
+ 
+</div>
+</div>
+</div>
+</div>
+<div class="member-container even">
+<div class="member-information-container">
+<div class="member-photo">
+
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/staff/akao">
+Angela Kao
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Grants Manager
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:akao@wpi.edu">
+akao@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="member-container odd">
+<div class="member-information-container">
+<div class="member-photo has-image">
+<img src="https://www.wpi.edu/sites/default/files/styles/medium/public/2020/03/03/bwschowalter.jpg?itok=GQ7501jl" width="220" height="220" alt="Beckley Schowalter" />
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/staff/bwschowalter">
+Beckley Wooster Schowalter
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Scholarship for Service Program Manager
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:bwschowalter@wpi.edu">
+bwschowalter@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="member-container even views-row-last">
+<div class="member-information-container">
+<div class="member-photo">
+
+ 
+</div>
+<div class="member-information">
+<h3 class="name">
+ 
+<a href="/people/staff/mvoorhis">
+Michael C. Voorhis
+</a>
+</h3>
+<div class="job-title job-title--has-department">
+Lab Manager II
+</div>
+<div class="department">
+<a href="/academics/departments/computer-science">
+Computer Science
+</a>
+</div>
+<div class="member-contact-information-wrapper">
+<div class="clearfix">
+<div class="email">
+<span class="semibold">
+Email:
+</span>
+ 
+<a href="mailto:mvoorhis@wpi.edu">
+mvoorhis@wpi.edu
+</a>
+</div>
+</div>
+<div class="clearfix">
+
+
+ 
+ 
+</div>
+<div class="clearfix">
+<div class="phone-number">
+<span class="bold">
+Phone:
+</span>
+<no_tag>
+ +1 (508) 8315000 x5674
+</no_tag>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+ 
+</div>
+</div>
+</div>
+</div>
+ 
+</div>
+<div class="magellan-body-item clearfix" 
+ >
+<div class="region row full-width-row region-fourth" data-equalizer>
+<div class="foundation-pane ">
+<div class="panel-pane pane-fieldable-panels-pane pane-current-79281 pane-bundle-basic-pane" data-gtm-widget-type="basic_pane" data-gtm-widget-id="7865156">
+<h2 class="pane-title">
+
+ Associated Faculty 
+</h2>
+<div class="pane-content">
+<div class="fieldable-panels-pane">
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
+<div class="field-items">
+<div class="field-item even">
+<p>
+Please note: All phone extensions start with +1-508-831-.
+</p>
+<table class="responsive">
+<thead>
+<tr>
+<th>
+First Name
+</th>
+<th>
+Last Name
+</th>
+<th>
+Title
+</th>
+<th>
+Email
+</th>
+<th>
+Phone Extension
+</th>
+<th>
+Office Location
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+Jerry
+</td>
+<td>
+Breecher
+</td>
+<td>
+Adjunct Professor
+</td>
+<td>
+<a href="mailto:breecher@wpi.edu" title="Email Jerry Breecher">
+breecher@wpi.edu
+</a>
+</td>
+<td>
+5357
+</td>
+<td>
+Fuller Laboratories 243
+</td>
+</tr>
+<tr>
+<td>
+David
+</td>
+<td>
+Brown
+</td>
+<td>
+Emeritus Professor
+</td>
+<td>
+<a href="mailto:dcb@wpi.edu">
+dcb@wpi.edu
+</a>
+ 
+</td>
+<td>
+ 
+</td>
+<td>
+ 
+</td>
+</tr>
+<tr>
+<td>
+Berk
+</td>
+<td>
+Calli
+</td>
+<td>
+Assistant Professor
+</td>
+<td>
+<a href="mailto:bcalli@wpi.edu">
+bcalli@wpi.edu
+</a>
+</td>
+<td>
+5448
+</td>
+<td>
+50 Prescott
+</td>
+</tr>
+<tr>
+<td>
+Loris
+</td>
+<td>
+Fishera
+</td>
+<td>
+Assistant Professor
+</td>
+<td>
+<a href="mailto:lfichera@wpi.edu">
+lfichera@wpi.edu
+</a>
+</td>
+<td>
+4808
+</td>
+<td>
+50 Prescott
+</td>
+</tr>
+<tr>
+<td>
+Michael
+</td>
+<td>
+Gennert
+</td>
+<td>
+Professor
+</td>
+<td>
+<a href="mailto:michaelg@wpi.edu">
+michaelg@wpi.edu
+</a>
+</td>
+<td>
+5476
+</td>
+<td>
+85 Prescott 203
+</td>
+</tr>
+<tr>
+<td>
+Joshua
+</td>
+<td>
+Guttman
+</td>
+<td>
+Research Professor
+</td>
+<td>
+<a href="mailto:guttman@wpi.edu">
+guttman@wpi.edu
+</a>
+</td>
+<td>
+ 
+</td>
+<td>
+ 
+</td>
+</tr>
+<tr>
+<td>
+Micha
+</td>
+<td>
+Hofri
+</td>
+<td>
+Emeritus Professor
+</td>
+<td>
+<p>
+<a href="mailto:hofri@wpi.edu">
+hofri@wpi.edu
+</a>
+</p>
+</td>
+<td>
+6911
+</td>
+<td>
+Fuller Laboratories 133
+</td>
+</tr>
+<tr>
+<td>
+Hao
+</td>
+<td>
+Loi
+</td>
+<td>
+Adjunct Professor
+</td>
+<td>
+<a href="mailto:hcloi@wpi.edu">
+hcloi@wpi.edu
+</a>
+</td>
+<td>
+ 
+</td>
+<td>
+ 
+</td>
+</tr>
+<tr>
+<td>
+Aparna
+</td>
+<td>
+Mahadev
+</td>
+<td>
+Adjunct Professor
+</td>
+<td>
+<a href="mailto:amahadev@wpi.edu">
+amahadev@wpi.edu
+</a>
+</td>
+<td>
+ 
+</td>
+<td>
+ 
+</td>
+</tr>
+<tr>
+<td>
+Suzanne
+</td>
+<td>
+Mello-Stark
+</td>
+<td>
+Research Professor
+</td>
+<td>
+<a href="mailto:simellostark@wpi.edu">
+simellostark@wpi.edu
+</a>
+</td>
+<td>
+ 
+</td>
+<td>
+ 
+</td>
+</tr>
+<tr>
+<td>
+Carlo
+</td>
+<td>
+Pinciroli
+</td>
+<td>
+Assistant Professor
+</td>
+<td>
+<a href="mailto:cpinciroli@wpi.edu">
+cpinciroli@wpi.edu
+</a>
+</td>
+<td>
+6853
+</td>
+<td>
+85 Prescott 223B
+</td>
+</tr>
+<tr>
+<td>
+Gary
+</td>
+<td>
+Pollice
+</td>
+<td>
+Adjunct Instructor/Dir Ecuador PC
+</td>
+<td>
+<a href="mailto:gpollice@wpi.edu">
+gpollice@wpi.edu
+</a>
+</td>
+<td>
+ 
+</td>
+<td>
+ 
+</td>
+</tr>
+<tr>
+<td>
+Keith
+</td>
+<td>
+Pray
+</td>
+<td>
+Adjunct Instructor
+</td>
+<td>
+<a href="mailto:kap@wpi.edu">
+kap@wpi.edu
+</a>
+</td>
+<td>
+0926
+</td>
+<td>
+ 
+</td>
+</tr>
+<tr>
+<td>
+Candace
+</td>
+<td>
+Sidner
+</td>
+<td>
+Research Professor
+</td>
+<td>
+<a href="mailto:sidner@wpi.edu">
+sidner@wpi.edu
+</a>
+</td>
+<td>
+ 
+</td>
+<td>
+ 
+</td>
+</tr>
+<tr>
+<td>
+Jing
+</td>
+<td>
+Xiao
+</td>
+<td>
+Professor
+</td>
+<td>
+<a href="mailto:jxiao2@wpi.edu">
+jxiao2@wpi.edu
+</a>
+</td>
+<td>
+ 
+</td>
+<td>
+85 Prescott 201
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+ 
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--/.l-main region -->
+
+ 
+ 
 </main>
-<!-- #main -->
-
+<!--/.l-main -->
 
 
  
+ 
 </div>
-<!-- #content -->
-<!-- Dept Footer -->
-<div id="department-footer" class="department-footer-outer">
-<div class="department-footer-col department-footer-col1">
-<h2>
-Departments
-</h2>
-<ul>
-<li>
-<a href="https://ame.nd.edu">
-Aerospace and Mechanical Engineering
-</a>
-</li>
-<li>
-<a href="https://cbe.nd.edu">
-Chemical and Biomolecular Engineering
-</a>
-</li>
-<li>
-<a href="https://ceees.nd.edu">
-Civil and Environmental Engineering and Earth Sciences
-</a>
-</li>
-<li>
-<a href="https://cse.nd.edu">
-Computer Science and Engineering
-</a>
-</li>
-<li>
-<a href="https://ee.nd.edu">
-Electrical Engineering
-</a>
-</li>
-</ul>
-</div>
-<div class="department-footer-col department-footer-col2">
-<p>
-<!--
-
-
-
-<h2>
-Interdisciplinary programs
-</h2>
-<ul>
-<li>
-<a href="https://engineering.nd.edu/departments-programs/graduate-programs/phd-in-bioengineering/">
-Bioengineering
-</a>
-</li>
-<li>
-<a href="https://nano.nd.edu/materials-science/phd-program/">
-Materials Science and Engineering
-</a>
-</li>
-</ul>
+<!-- .l-footer -->
+<footer class="dark-gray-bg nocontent clearfix">
+<div class="l-footer row" role="contentinfo" aria-label="WPI Footer">
+<!-- 
+<div class="row">
 <no_tag>
-
-
-
--->
+ -->
 </no_tag>
-</p>
+<nav class="columns medium-7 medium-push-5 global-impact-section" aria-label="Beyond These Towers">
+<div class="white-text h5">
+THE CAMPAIGN FOR WORCESTER POLYTECHNIC INSTITUTE
 </div>
-<div class="department-footer-col department-footer-col3">
-<div class="wp-block-buttons">
-<p>
-<!--
-<a href="#">
-Apply
-</a>
+<div class="row">
+<img class="column medium-6 m-y-15 two-towers-footer" data-original="/sites/all/themes/wpi/public/assets/images/two-towers.svg" alt="Beyond These Towers">
+<div class="column medium-6">
+<h3 class="white-text beyond-these-towers-heading">
 <no_tag>
--->
+BEYOND
 </no_tag>
-</p>
-</div>
-</div>
-</div>
-<!-- Site Footer -->
-<footer id="footer" class="site-footer" role="contentinfo">
-<div class="footer-org" typeof="Organization" resource="#siteorg">
-<meta property="parentOrganization" resource="#parentorg" content="University of Notre Dame">
-<ul class="footer-breadcrumbs">
-<li>
-<a href="https://engineering.nd.edu">
-College of Engineering
-</a>
-</li>
- 
-</ul>
-<p>
-<a href="https://cse.nd.edu/" class="site-link" property="url">
-<span property="name">
-Computer Science and Engineering
-</span>
-</a>
-</p>
-<div class="footer-contacts">
-<p class="contact-info">
-<span class="address" property="address" typeof="PostalAddress">
-<span property="streetAddress">
-384 Fitzpatrick Hall
-</span>
-<br>
- 
-<span property="addressLocality">
-Notre Dame
-</span>
-<span property="addressRegion">
-IN
-</span>
- 
-<span property="postalCode">
-46556
-</span>
- 
-<span property="addressCountry">
-USA
-</span>
-</span>
-<span class="footer-phone" property="telephone" content="+1 (574) 631-8320">
-Phone (574) 631-8320
-</span>
- 
-<span class="footer-email" property="email">
-<a rel="noopener" href="mailto:cse@nd.edu">
-cse@nd.edu
-</a>
-</span>
- 
-</p>
-<nav class="social" aria-label="Social media navigation" vocab="">
-<ul>
-<li>
-<a class="soc-twitter" href="https://twitter.com/ND_CSE" rel="noopener" aria-label="Computer Science and Engineering on Twitter">
-<svg class="icon" data-icon="twitter" width="16" height="16" aria-hidden="true">
-<use xlink:href="#icon-twitter">
-</use>
-</svg>
+<br/>
+<span class="fw-normal">
 <no_tag>
- Twitter
+THESE
 </no_tag>
+<br/>
+<no_tag>
+TOWERS
+</no_tag>
+</span>
+</h3>
+<div class="white-text beyond-these-towers-desc">
+Now, more than ever, the world needs what we have created and what we do at WPI.
+</div>
+<div class="global-impact-footer-button-wrapper">
+<a href="https://wp.wpi.edu/beyondthesetowers/" class="global-impact-footer-button m-y-15" title="Footer link to Beyond These Towers campaign page. Opens in a new browser tab." target="_blank">
+BE A PART OF IT
 </a>
-</li>
- 
-</ul>
+</div>
+</div>
+</div>
 </nav>
-</div>
-<div property="logo" typeof="ImageObject">
-<meta property="url" content="https://static.nd.edu/images/webclips/default/webclip-60.png">
-</div>
-<p class="copyright">
-<a href="https://www.nd.edu/copyright/">
-&copy; 2022
+<div class="columns medium-5 medium-pull-7 footer-links-address small-only-m-t-15">
+<nav class="footer-links clearfix m-b-15" aria-label="List of footer links for WPI" id="footer-text-links">
+<div class="columns small-5 medium-6 footer-links-first-column small-only-p-r-0 medium-up-p-l-0">
+<div class="region region-footer-firstcolumn">
+<div id="block-menu-block-1" class="block block-menu-block" aria-label="Footer Menu Block" role="navigation">
+<div class="content">
+<div class="menu-block-wrapper menu-block-1 menu-name-menu-footer-menu parent-mlid-0 menu-level-1">
+<ul class="menu">
+<li class="first leaf menu-mlid-11006">
+<a href="/about" title="About WPI footer link">
+About WPI
 </a>
- 
-<a href="https://www.nd.edu">
-University of Notre Dame
+</li>
+<li class="leaf menu-mlid-48491">
+<a href="http://wpi.bncollege.com/webapp/wcs/stores/servlet/BNCBHomePage?storeId=32554&amp;catalogId=10001&amp;langId=-1" title="WPI Bookstore footer link">
+Bookstore
 </a>
-</p>
+</li>
+<li class="leaf menu-mlid-50611">
+<a href="https://canvas.wpi.edu/" title="WPI Canvas footer link">
+Canvas
+</a>
+</li>
+<li class="leaf menu-mlid-59361">
+<a href="https://careers.wpi.edu" title="WPI Careers footer link">
+Careers
+</a>
+</li>
+<li class="last leaf menu-mlid-82341">
+<a href="/directories">
+Directories
+</a>
+</li>
+</ul>
 </div>
-<div class="footer-parent" property="parentOrganization" typeof="CollegeOrUniversity" resource="#parentorg">
-<meta property="name" content="University of Notre Dame">
-<a href="https://www.nd.edu/" class="mark-footer" property="url logo" typeof="ImageObject" aria-label="University of Notre Dame">
-<img src="https://static.nd.edu/images/marks/gray/ndmark600.png" alt="University of Notre Dame" property="url">
+</div>
+</div>
+</div>
+</div>
+<div class="columns small-5 medium-6 small-push-2 medium-push-0 footer-links-second-column small-only-p-l-0">
+<div class="region region-footer-secondcolumn">
+<div id="block-menu-block-2" class="block block-menu-block" aria-label="Footer Menu Block 2 (temp)" role="navigation">
+<div class="content">
+<div class="menu-block-wrapper menu-block-2 menu-name-menu-footer-menu---right parent-mlid-0 menu-level-1">
+<ul class="menu">
+<li class="first leaf menu-mlid-59356">
+<a href="/about/diversity-equity-inclusion" title="About Worcester footer links">
+Diversity, Equity &amp; Inclusion
+</a>
+</li>
+<li class="leaf menu-mlid-82346">
+<a href="/about/innovation-entrepreneurship">
+Innovation &amp; Entrepreneurship
+</a>
+</li>
+<li class="leaf menu-mlid-34696">
+<a href="https://www.wpi.edu/library" title="George C. Gordon Library footer link">
+Library
+</a>
+</li>
+<li class="last leaf menu-mlid-34996">
+<a href="/offices" title="Office Listing footer link">
+Offices
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<a href="/student-experience/resources/be-well-together" class="covid-button-footer m-b-15 d-block" title="Footer link to WPI Mental Health Resources">
+MENTAL HEALTH RESOURCES
+</a>
+<div id="footer-social-links">
+<address class="footer-address">
+<no_tag>
 
- 
+ WORCESTER POLYTECHNIC INSTITUTE
+</no_tag>
+<br />
+<no_tag>
+
+ 100 Institute Road
+</no_tag>
+<br />
+<no_tag>
+
+ Worcester, MA | 01609-2280
+</no_tag>
+<br />
+<no_tag>
+
+ Ph: 
+</no_tag>
+<a href="tel:508-831-5000">
+508-831-5000
 </a>
-<div class="footer-parent-links">
-<nav aria-label="Footer links navigation">
-<ul class="footer-links">
-<li>
-<a href="https://search.nd.edu/" aria-label="Search Notre Dame">
-Search
+</address>
+<nav class="contact-us" aria-label="List of links to connecting with WPI">
+<a href="/contact?url=https%3A//www.wpi.edu/academics/departments/computer-science/faculty-staff" title="Contact WPI Footer Link">
+Contact Us
 </a>
-</li>
-<li>
-<a href="https://mobile.nd.edu/" aria-label="Notre Dame Mobile App">
-Mobile App
+<span class="contact-us-separator">
+ | 
+</span>
+<a href="/coming-to-campus" title="Coming to Campus Footer Link">
+ Coming to Campus
 </a>
-</li>
-<li>
-<a href="https://news.nd.edu/" aria-label="Notre Dame News">
-News
+<span class="contact-us-separator">
+ | 
+</span>
+<a href="/we-are-wpi" title="COVID-19 Resources Footer Link">
+ COVID-19
 </a>
-</li>
-<li>
-<a href="https://events.nd.edu/" aria-label="Notre Dame Events">
-Events
+<div class="emergency-accessibility">
+<a href="/about/emergency-management" title="Emergency Management Footer Link" class="emergency-management-footer-link">
+Emergency Management
 </a>
-</li>
-<li>
-<a href="https://www.nd.edu/visit/" aria-label="Visit Notre Dame">
-Visit
-</a>
-</li>
-<li>
-<a href="https://www.nd.edu/about/accessibility/" aria-label="Notre Dame Accessibility Information">
+<span class="contact-us-separator">
+ | 
+</span>
+<a href="/academics/faculty/disability-services/accessibility-guidelines-resources" title="Accessibility Guidelines & Resources Footer Link" class="accessibility-footer-link">
 Accessibility
 </a>
-</li>
-</ul>
+</div>
 </nav>
-<nav class="social" aria-label="Social media navigation" vocab="">
-<ul>
-<li>
-<a class="soc-facebook" href="https://www.facebook.com/notredame/" rel="noopener" aria-label="Notre Dame on Facebook">
-<svg class="icon" data-icon="facebook" width="16" height="16" aria-hidden="true">
-<use xlink:href="#icon-facebook">
-</use>
-</svg>
-<no_tag>
- Facebook
-</no_tag>
+<ul class="social-icons-container">
+<li class="icon-container">
+<a href="https://twitter.com/WPI" target="_blank" title="Link to Twitter WPI Feed">
+<div class="social-icon icon-twitter">
+<span class="show-for-sr">
+Twitter
+</span>
+</div>
 </a>
 </li>
-<li>
-<a class="soc-twitter" href="https://twitter.com/NotreDame/" rel="noopener" aria-label="Notre Dame on Twitter">
-<svg class="icon" data-icon="twitter" width="16" height="16" aria-hidden="true">
-<use xlink:href="#icon-twitter">
-</use>
-</svg>
-<no_tag>
- Twitter
-</no_tag>
+<li class="icon-container">
+<a href="https://www.instagram.com/wpi" target="_blank" title="Link to Instagram WPI">
+<div class="social-icon icon-instagram">
+<span class="show-for-sr">
+Instagram
+</span>
+</div>
 </a>
 </li>
-<li>
-<a class="soc-instagram" href="https://www.instagram.com/notredame/" rel="noopener" aria-label="Notre Dame on Instagram">
-<svg class="icon" data-icon="instagram" width="16" height="16" aria-hidden="true">
-<use xlink:href="#icon-instagram">
-</use>
-</svg>
-<no_tag>
- Instagram
-</no_tag>
+<li class="icon-container">
+<a href="https://www.facebook.com/wpi.edu" target="_blank" title="Link to Facebook WPI Page">
+<div class="social-icon icon-facebook">
+<span class="show-for-sr">
+Facebook
+</span>
+</div>
 </a>
 </li>
-<li>
-<a class="soc-youtube" href="https://www.youtube.com/user/NDdotEDU" rel="noopener" aria-label="Notre Dame on YouTube">
-<svg class="icon" data-icon="youtube" width="16" height="16" aria-hidden="true">
-<use xlink:href="#icon-youtube">
-</use>
-</svg>
-<no_tag>
- YouTube
-</no_tag>
+<li class="icon-container">
+<a href="https://www.youtube.com/user/WPI" target="_blank" title="Link to Youtube WPI channel">
+<div class="social-icon icon-youtube-play">
+<span class="show-for-sr">
+Youtube
+</span>
+</div>
 </a>
 </li>
-<li>
-<a class="soc-linkedin" href="https://www.linkedin.com/school/university-of-notre-dame/" rel="noopener" aria-label="Notre Dame on Linkedin">
-<svg class="icon" data-icon="linkedin" width="16" height="16" aria-hidden="true">
-<use xlink:href="#icon-linkedin">
-</use>
-</svg>
-<no_tag>
- LinkedIn
-</no_tag>
+<li class="icon-container">
+<a href="https://www.linkedin.com/school/worcester-polytechnic-institute/" target="_blank" title="Link to Linkedin WPI page">
+<div class="social-icon icon-linkedin">
+<span class="show-for-sr">
+Linkedin
+</span>
+</div>
 </a>
 </li>
 </ul>
-</nav>
+</div>
+<!-- 
+</div>
+<no_tag>
+ -->
+</no_tag>
+
+ 
 </div>
 </div>
 </footer>
+<!--/.l-footer -->
+<!-- Leave this menu for behat testing -->
+<!-- End -->
+
+
 </div>
-<!-- .wrapper -->
-<nav id="navbar" class="navbar nav-top" role="navigation">
-</nav>
-<script type='text/javascript' src='https://conductor.nd.edu/javascripts/themes/ndt/v3/ndt.js?ver=202006171118am' id='ndt3-ndt-js'>
-</script>
-<script type='text/javascript' src='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/js/theme.js?ver=202006171118am' id='ndt3-theme-js'>
-</script>
-<script type='text/javascript' src='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/js/navigation.js?ver=202006171118am' id='ndt3-navigation-js'>
-</script>
-<script type='text/javascript' src='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/inc/js/siteimprove-snippet.js?ver=202006171118am' id='site-improve-js'>
-</script>
-<script type='text/javascript' src='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/js/vendor/algoliasearchLite.min.js?ver=210225-210417' id='algolia-client-js'>
-</script>
-<script type='text/javascript' src='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/js/vendor/instantsearch.production.min.js?ver=210225-210417' id='algolia-instant-search-js'>
-</script>
-<script type='text/javascript' src='https://cse.nd.edu/wp-content/themes/ndt3-wp-master/js/algolia-search.js?ver=210225-210417' id='algolia-search-js'>
-</script>
-<script type='text/javascript' src='https://cse.nd.edu/wp-includes/js/hoverIntent.min.js?ver=1.8.1' id='hoverIntent-js'>
-</script>
-<script type='text/javascript' id='megamenu-js-extra'>
-<no_tag>
-
-/* 
-</no_tag>
-<![CDATA[ */
-var megamenu = {"timeout":"300","interval":"100"};
-/* ]]>
- */
-
-</script>
-<script type='text/javascript' src='https://cse.nd.edu/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=2.8' id='megamenu-js'>
-</script>
-<script type='text/javascript' src='https://cse.nd.edu/wp-content/plugins/megamenu-pro/assets/public.js?ver=2.1.1' id='megamenu-pro-js'>
-</script>
-<script type='text/javascript' src='https://cse.nd.edu/wp-includes/js/wp-embed.min.js?ver=5.5.8' id='wp-embed-js'>
-</script>
-<script type="text/javascript" id="uagb-script-frontend">
-document.addEventListener("DOMContentLoaded", function(){( function( $ ) { })(jQuery)})
+<!--/.page -->
+<script type="text/javascript">
+window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"8366c96dbc","applicationID":"56771062","transactionName":"M1FSZkBTC0BRBkwPCQobcVFGWwpdHxVZAQM7WVFcU1UAQW8LVwIDO0JZV0VtFVJXAA==","queueTime":0,"applicationTime":746,"atts":"HxZREAhJGE4=","errorBeacon":"bam-cell.nr-data.net","agent":""}
 </script>
 </body>
 </html>
-<!--
-Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
 
-Served from: cse.nd.edu @ 2022-02-20 23:13:23 by W3 Total Cache
--->
- 

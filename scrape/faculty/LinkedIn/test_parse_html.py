@@ -71,15 +71,15 @@ def getEducationInfo():
     return allEducationInfo, foundEducation
 
 
-# educationInfo, foundEducation = getEducationInfo()
-# print(educationInfo)
-# print(foundEducation)
+educationInfo, foundEducation = getEducationInfo()
+print(educationInfo)
+print(foundEducation)
 
-(education, found_education), (experience, found_experience) = get_background_info(html)
-print('Education:')
-print(education)
-print('Experience:')
-print(experience)
+# (education, found_education), (experience, found_experience) = get_background_info(html)
+# print('Education:')
+# print(education)
+# print('Experience:')
+# print(experience)
 
 
                     
