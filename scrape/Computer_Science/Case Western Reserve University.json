@@ -37,6 +37,687 @@
             ]
         ]
     },
+    "Nicholas Barendt": {
+        "status": "success",
+        "Education": [
+            [
+                "Case Western Reserve University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1998"
+                ],
+                [
+                    "More Info",
+                    "Thesis: A Distributed, Object-Oriented Software Architecture for Platform-Independent Machine Vision"
+                ]
+            ],
+            [
+                "Case Western Reserve University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1995"
+                ],
+                [
+                    "More Info",
+                    "Senior Design Project: SCSI-Digital Audio Converter"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Case Western Reserve University",
+                [
+                    "Company Name",
+                    "10 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Cleveland/Akron, Ohio Area"
+                ],
+                [
+                    "Location",
+                    "Executive Director, Institute for Smart, Secure and Connected Systems (ISSACS)"
+                ],
+                [
+                    "More Info",
+                    "Apr 2018 - Present · 4 yrs"
+                ]
+            ],
+            [
+                "Senior Advisor",
+                [
+                    "Company Name",
+                    "Hyr Medical"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2017 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Cleveland/Akron, Ohio Area"
+                ],
+                [
+                    "More Info",
+                    "A \"perfect storm\" is hitting healthcare human resourcing!"
+                ]
+            ],
+            [
+                "Director",
+                [
+                    "Company Name",
+                    "Case Alumni Association"
+                ],
+                [
+                    "Dates Employed",
+                    "2009 - 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs"
+                ],
+                [
+                    "Location",
+                    "Cleveland/Akron, Ohio Area"
+                ],
+                [
+                    "More Info",
+                    "Serving the needs of alumni and students of the Case School of Engineering and the CWRU College of Arts and Sciences."
+                ]
+            ],
+            [
+                "Organizer",
+                [
+                    "Company Name",
+                    "Cleveland GiveCamp"
+                ],
+                [
+                    "Dates Employed",
+                    "2009 - 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs"
+                ],
+                [
+                    "Location",
+                    "Cleveland/Akron, Ohio Area"
+                ],
+                [
+                    "More Info",
+                    "Help organize, plan, and run an annual event where software developers, designers, and other professionals come together for an intense, fun weekend to craft software solutions for area non-profits."
+                ]
+            ],
+            [
+                "LeanDog",
+                [
+                    "Company Name",
+                    "4 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Director of Studio"
+                ],
+                [
+                    "Location",
+                    "Apr 2013 - Jul 2016 · 3 yrs 4 mos"
+                ],
+                [
+                    "More Info",
+                    "Practical Security with MQTT and Mosquitto"
+                ]
+            ]
+        ]
+    },
+    "Michael Branicky": {
+        "status": "success",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Sc.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1995"
+                ]
+            ],
+            [
+                "Case Western Reserve University",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 - 1989"
+                ]
+            ],
+            [
+                "Case Western Reserve University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1983 - 1987"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "The University of Kansas",
+                [
+                    "Company Name",
+                    "8 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Director of CHASSI (Center for High-Assurance &amp; Secure Systems &amp; IoT), an NSF IUCRC Planning Grant"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Oct 2019 - Present · 2 yrs 6 mos"
+                ]
+            ],
+            [
+                "Expert",
+                [
+                    "Company Name",
+                    "National Science Foundation"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2012 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 2 mos"
+                ]
+            ],
+            [
+                "Professor and Chair, EECS",
+                [
+                    "Company Name",
+                    "Case Western Reserve University"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 1996 - Jun 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "16 yrs 9 mos"
+                ]
+            ],
+            [
+                "Owner and Chief Scientist",
+                [
+                    "Company Name",
+                    "BitBacker, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "May 2006 - Dec 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 8 mos"
+                ]
+            ],
+            [
+                "Program Director",
+                [
+                    "Company Name",
+                    "National Science Foundation"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2008 - Jun 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ]
+        ]
+    },
+    "Praphul Chandra, Adjunct Assistant Professor": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of Texas at El Paso",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Materials Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Aug 1993 - Dec 2000"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Tau Beta Pi (Treasurer: Aug 94-July 97), Alpha Sigma Mu (President: Aug 97-July 98; Treasurer: Aug 94-July 97), Sigma Xi, Member: ASM, TMS, IMS, APS, AFS, AIAA, Pandemonium - UTEP Steel Drum Research and Performance Teams (performed in 18 public concerts and recorded 2 CDs while contributing to research on steel drum materials, processing and music)"
+                ]
+            ],
+            [
+                "Kendriya Vidyalaya",
+                [
+                    "Degree Name",
+                    "1975 - 1987"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Adjunct Faculty",
+                [
+                    "Company Name",
+                    "Case Western Reserve University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Cleveland, Ohio, United States"
+                ],
+                [
+                    "More Info",
+                    "Case Western Reserve University (CWRU) and INSOFE jointly teach hybrid MS programs that combine traditional engineering areas like Biomedical Engineering, Mechanical Engineering and Civil Engineering with Data Sciences to make students future-ready.  The Data Science half is taught at INSOFE and then the remaining half of core engineering at Case School of Engineering, CWRU in the US."
+                ]
+            ],
+            [
+                "International School of Engineering (INSOFE)",
+                [
+                    "Company Name",
+                    "Full-time · 10 yrs 4 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "India"
+                ],
+                [
+                    "Location",
+                    "Professor and Mentor"
+                ],
+                [
+                    "More Info",
+                    "Feb 2013 - Present · 9 yrs 2 mos"
+                ]
+            ],
+            [
+                "Prithvi Information Solutions",
+                [
+                    "Company Name",
+                    "Full-time · 2 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Hyderabad, Telangana, India"
+                ],
+                [
+                    "Location",
+                    "Head, Advanced Business Solutions Center"
+                ],
+                [
+                    "More Info",
+                    "Apr 2010 - Nov 2011 · 1 yr 8 mos"
+                ]
+            ],
+            [
+                "COO",
+                [
+                    "Company Name",
+                    "Axaya Cybertech · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2006 - Aug 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Hyderabad, Telangana, India"
+                ],
+                [
+                    "More Info",
+                    "I managed entire operations in executing web development projects, while keeping abreast of the latest changes in web development practices such as Web 2.0 and Agile.  I streamlined the software development, project management and communication processes that helped us build high quality sites and portals."
+                ]
+            ],
+            [
+                "Defence Metallurgical Research Laboratory logo",
+                [
+                    "Company Name",
+                    "Scientist"
+                ],
+                [
+                    "Dates Employed",
+                    "Defence Metallurgical Research Laboratory"
+                ],
+                [
+                    "Employment Duration",
+                    "Full-time"
+                ],
+                [
+                    "Location",
+                    "Mar 2005 - Jan 2006 · 11 mos"
+                ],
+                [
+                    "More Info",
+                    "Hyderabad, Telangana, India"
+                ]
+            ]
+        ]
+    },
+    "Mahdi Cheraghchi Bashi Astaneh, Adjunct Assistant Professor": {
+        "status": "success",
+        "Education": [
+            [
+                "EPFL (École polytechnique fédérale de Lausanne)",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2010"
+                ],
+                [
+                    "More Info",
+                    "."
+                ]
+            ],
+            [
+                "EPFL (École polytechnique fédérale de Lausanne)",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2005"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: ."
+                ]
+            ],
+            [
+                "Sharif University of Technology",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Software Enginnering/Computer Hardware Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2004"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: ."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Michigan",
+                [
+                    "Company Name",
+                    "2 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Ann Arbor, MI"
+                ],
+                [
+                    "Location",
+                    "Assistant Professor"
+                ],
+                [
+                    "More Info",
+                    "Sep 2019 - Present · 2 yrs 7 mos"
+                ]
+            ],
+            [
+                "Imperial College London",
+                [
+                    "Company Name",
+                    "6 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Honorary Senior Lecturer (eq. Associate Professor)"
+                ],
+                [
+                    "Location",
+                    "Sep 2019 - Present · 2 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "London, England, United Kingdom"
+                ]
+            ],
+            [
+                "Adjunct Assistant Professor",
+                [
+                    "Company Name",
+                    "Case Western Reserve University"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2015 - Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Cleveland, OH"
+                ]
+            ],
+            [
+                "Technical consultant (Engineer II)",
+                [
+                    "Company Name",
+                    "Qualcomm"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2015 - Jun 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Berkeley, CA"
+                ],
+                [
+                    "More Info",
+                    "R&amp;D consulting appointment on new technologies."
+                ]
+            ],
+            [
+                "Visiting Assistant Project Scientist",
+                [
+                    "Company Name",
+                    "UC Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2015 - May 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "United States"
+                ],
+                [
+                    "More Info",
+                    "Show all 12 experiences"
+                ]
+            ]
+        ]
+    },
+    "Sanjaya Gajurel, Adjunct Assistant Professor": {
+        "status": "success",
+        "Education": [
+            [
+                "Case Western Reserve University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2008"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Involved in NASA research project on Intelligent Internet Protocol (IIP) for deep space communication; published conference and Journal papers on Mobile Ad Hoc Networks. First author of the papers on patented Swarm Routing Algorithm"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Case Western Reserve University",
+                [
+                    "Company Name",
+                    "12 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Adjunct Assistant Professor"
+                ],
+                [
+                    "Location",
+                    "Part-time"
+                ],
+                [
+                    "More Info",
+                    "Jan 2020 - Present · 2 yrs 3 mos"
+                ]
+            ],
+            [
+                "Director of Engineering",
+                [
+                    "Company Name",
+                    "Bluetronix Inc"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2007 - Oct 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Swarm Routing Algorithm Development"
+                ],
+                [
+                    "More Info",
+                    "Porting Algorithm to COTS (Commercial-Off-the-Shelf) Radios"
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "University of Bridgeport"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2007 - Jan 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 6 mos"
+                ],
+                [
+                    "Location",
+                    "Taught graduate level courses - Analysis of Algorithm &amp;amp; Data and Computer Communications"
+                ]
+            ]
+        ]
+    },
     "Roberto Galan": {
         "status": "success",
         "Education": [],
@@ -120,7 +801,7 @@
                 "Associate Professor",
                 [
                     "Company Name",
-                    "International School of Engineering (INSOFE) \u00b7 Full-time"
+                    "International School of Engineering (INSOFE) · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -221,6 +902,181 @@
             ]
         ]
     },
+    "Manish Gupta, Adjunct Assistant Professor": {
+        "status": "success",
+        "Education": [
+            [
+                "Case Western Reserve University",
+                [
+                    "Degree Name",
+                    "Master of Business Administration (M.B.A.) "
+                ],
+                [
+                    "Field Of Study",
+                    " Finance"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Activities and societies: Member: Consulting Club, IDEA (Innovation Design Entrepreneurial Association)"
+                ],
+                [
+                    "More Info",
+                    "Merit Scholarship Recipient"
+                ]
+            ],
+            [
+                "Case Western Reserve University",
+                [
+                    "Degree Name",
+                    "MS in Management - Finance (discontinued)"
+                ],
+                [
+                    "Field Of Study",
+                    " Corporate Finance"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Activities and societies: Member: Finance Club, GARP (Global Association of Risk Professionals)"
+                ],
+                [
+                    "More Info",
+                    "Merit Scholarship Recipient"
+                ]
+            ],
+            [
+                "Panjab University",
+                [
+                    "Degree Name",
+                    "Bachelor of Architecture (BArch)"
+                ],
+                [
+                    "Field Of Study",
+                    " Architectural and Building Sciences/Technology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Activities and societies: Led multiple teams to design and research awards at national, zonal and college-level competitions;"
+                ],
+                [
+                    "More Info",
+                    "Member: Student Executive Body"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Chief Executive Officer",
+                [
+                    "Company Name",
+                    "MANISH GUPTA MANAGEMENT CONSULTANTS"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "MGMC undertakes professional activities in the domain of management consulting, business consulting and new venture development. Select projects:"
+                ],
+                [
+                    "More Info",
+                    "1. Consulting for a retail establishment in the downtown of a major California city. Increased in-store sales to more than 800% (transactions) &amp; 1500% (revenues) over 10 weeks in the midst of a historically adverse business environment, even as retailers in the vicinity, including those in the same category, have continued to fold up"
+                ]
+            ],
+            [
+                "Founder, Director",
+                [
+                    "Company Name",
+                    "Manish Gupta Architects"
+                ],
+                [
+                    "Dates Employed",
+                    "2012 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "MGA undertakes professional activities in the domain of architecture and allied fields. Select projects:"
+                ],
+                [
+                    "More Info",
+                    "1. INR 250 million/USD 3.4 million, 22,000 sqft. luxury residence in North India (2017-2019)"
+                ]
+            ],
+            [
+                "The Goodyear Autonomous Vehicle Project",
+                [
+                    "Company Name",
+                    "The Goodyear Tire &amp; Rubber Company"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2015 - May 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ],
+                [
+                    "Location",
+                    "Ohio, United States"
+                ],
+                [
+                    "More Info",
+                    "Proposed and designed (front-end) a Cross-Platform Virtual A.I. Personal Concierge, rooted in User Experience Design (UX), to address passenger anxiety arising from loss of control during transition from self-driven to driver-less vehicles, a key hurdle in the wider acceptance of Autonomous Vehicles (AV)."
+                ]
+            ],
+            [
+                "Researcher, Case Writer",
+                [
+                    "Company Name",
+                    "Fowler Center for Business as an Agent of World Benefit"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - May 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 10 mos"
+                ],
+                [
+                    "Location",
+                    "Ohio, United States"
+                ],
+                [
+                    "More Info",
+                    "Primary Author, Published Business School Teaching Case - \"MobilityWorks: Faster, Higher, Stronger\"​"
+                ]
+            ],
+            [
+                "Chitkara University",
+                [
+                    "Company Name",
+                    "2 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "2013 - 2014 · 1 yr"
+                ],
+                [
+                    "More Info",
+                    "Chandigarh Area, India"
+                ]
+            ]
+        ]
+    },
     "Shuo Li, Visiting Associate Professor": {
         "status": "success",
         "Education": [
@@ -268,7 +1124,7 @@
                 "Financial Planning and Analysis Intern",
                 [
                     "Company Name",
-                    "Breakthrough Public Schools \u00b7 Part-time"
+                    "Breakthrough Public Schools · Part-time"
                 ],
                 [
                     "Dates Employed",
@@ -310,7 +1166,7 @@
                 "Investment Banking Analyst Intern",
                 [
                     "Company Name",
-                    "Alpha Capital Holdings, Inc. \u00b7 Internship"
+                    "Alpha Capital Holdings, Inc. · Internship"
                 ],
                 [
                     "Dates Employed",
@@ -326,14 +1182,14 @@
                 ],
                 [
                     "More Info",
-                    "\u2022\tProvided support for Managing Director regarding the firm\u2019s active M &amp; A and LBO deals including industry analysis, business profile, strategic options, valuation, negotiations, debt structure and pricing, equity structure, and returns."
+                    "•\tProvided support for Managing Director regarding the firm’s active M &amp; A and LBO deals including industry analysis, business profile, strategic options, valuation, negotiations, debt structure and pricing, equity structure, and returns."
                 ]
             ],
             [
                 "Business Consultant Intern",
                 [
                     "Company Name",
-                    "LXL Capital \u00b7 Internship"
+                    "LXL Capital · Internship"
                 ],
                 [
                     "Dates Employed",
@@ -349,14 +1205,14 @@
                 ],
                 [
                     "More Info",
-                    "\u2022\tDid related research and wrote a report about the distribution of low-value consumables manufacturers in China"
+                    "•\tDid related research and wrote a report about the distribution of low-value consumables manufacturers in China"
                 ]
             ],
             [
                 "Investment Intern",
                 [
                     "Company Name",
-                    "NanoVest \u00b7 Internship"
+                    "NanoVest · Internship"
                 ],
                 [
                     "Dates Employed",
@@ -372,7 +1228,313 @@
                 ],
                 [
                     "More Info",
-                    "\u2022\tResearched private markets, public markets, and events that may impact pricing."
+                    "•\tResearched private markets, public markets, and events that may impact pricing."
+                ]
+            ]
+        ]
+    },
+    "Eamon Johnson": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2000"
+                ]
+            ],
+            [
+                "Case Western Reserve University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ],
+            [
+                "Case Western Reserve University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Global Health Metrics, The Health Data Science Company",
+                [
+                    "Company Name",
+                    "7 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "CEO"
+                ],
+                [
+                    "Location",
+                    "Mar 2020 - Present · 2 yrs 1 mo"
+                ],
+                [
+                    "More Info",
+                    "CTO"
+                ]
+            ],
+            [
+                "Postdoctoral Scholar",
+                [
+                    "Company Name",
+                    "Jack, Joseph and Morton Mandel School of Applied Social Sciences at CWRU"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Mar 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Cleveland/Akron, Ohio Area"
+                ]
+            ],
+            [
+                "Case Western Reserve University",
+                [
+                    "Company Name",
+                    "6 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Analyst, Center on Urban Poverty and Community Development"
+                ],
+                [
+                    "Location",
+                    "Apr 2010 - May 2016 · 6 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Graduate Student, Computer Science"
+                ]
+            ],
+            [
+                "Senior Associate",
+                [
+                    "Company Name",
+                    "Diamond Management and Technology Consultants"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2000 - Jun 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 10 mos"
+                ]
+            ],
+            [
+                "Application Architect",
+                [
+                    "Company Name",
+                    "Digital Innovators"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2001 - Aug 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "11 mos"
+                ],
+                [
+                    "Location",
+                    "Show all 8 experiences"
+                ]
+            ]
+        ]
+    },
+    "Amey Joshi, Adjunct Assistant Professor": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Mechanical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 2018 - Dec 2022"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.00/4.00"
+                ]
+            ],
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Mechanical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2018 - 2020"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.00/4.00"
+                ]
+            ],
+            [
+                "National Institute of Technology Karnataka",
+                [
+                    "Degree Name",
+                    "Bachelor of Technology (B.Tech.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mechanical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2017"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: BAJA NITK Racing, SAE NITK - Student Chapter"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Minnesota-Twin Cities",
+                [
+                    "Company Name",
+                    "3 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Greater Minneapolis-St. Paul Area"
+                ],
+                [
+                    "Location",
+                    "Graduate Research Assistant"
+                ],
+                [
+                    "More Info",
+                    "Nov 2018 - Present · 3 yrs 5 mos"
+                ]
+            ],
+            [
+                "Tata Motors",
+                [
+                    "Company Name",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Senior Manager"
+                ],
+                [
+                    "Location",
+                    "Mar 2018 - Aug 2018 · 6 mos"
+                ],
+                [
+                    "More Info",
+                    "Pune, Maharashtra, India"
+                ]
+            ],
+            [
+                "Head, Design and Analysis Subsystem",
+                [
+                    "Company Name",
+                    "Baja NITK Racing"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2014 - Jun 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "NITK"
+                ],
+                [
+                    "More Info",
+                    "• Designed, analyzed and manufactured lightest all-terrain-vehicle chassis till now in NITK according to BAJA SAE India rule-book"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Indian Institute of Science (IISc)"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2016 - Jan 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ],
+                [
+                    "Location",
+                    "Bangalore, India"
+                ],
+                [
+                    "More Info",
+                    "Instructor-Dr. Akshay Naik(Assistant Professor)"
+                ]
+            ],
+            [
+                "Student Research Intern",
+                [
+                    "Company Name",
+                    "The University of Texas at Austin"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 - Aug 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Austin, Texas Area"
+                ],
+                [
+                    "More Info",
+                    "Instructor-Dr. Michael Cullinan(Assistant Professor)"
                 ]
             ]
         ]
@@ -412,7 +1574,7 @@
                 "Adj Prof at Case (Engineering)",
                 [
                     "Company Name",
-                    "Case Western Reserve University \u00b7 Part-time"
+                    "Case Western Reserve University · Part-time"
                 ],
                 [
                     "Dates Employed",
@@ -526,6 +1688,259 @@
         "Education": [],
         "Experience": []
     },
+    "Anand Narasimhamurthy, Adjunct Assistant Professor": {
+        "status": "success",
+        "Education": [
+            [
+                "Penn State University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2006"
+                ]
+            ],
+            [
+                "Penn State University",
+                [
+                    "Degree Name",
+                    "Master of Engineering"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2003"
+                ]
+            ],
+            [
+                "Bangalore University",
+                [
+                    "Degree Name",
+                    "B.E."
+                ],
+                [
+                    "Field Of Study",
+                    " Electronics and Communication Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1998"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "BITS Pilani, Hyderabad Campus"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 - Jan 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Hyderabad, Telangana"
+                ],
+                [
+                    "More Info",
+                    "Responsibilities included teaching, research guidance and administrative work such as being a part of interview panel for new faculty recruitment."
+                ]
+            ],
+            [
+                "PESIT South Campus - India logo",
+                [
+                    "Company Name",
+                    "Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "PESIT Bangalore South Campus - India"
+                ],
+                [
+                    "Location",
+                    "Jan 2014 - Jun 2015 · 1 yr 6 mos"
+                ],
+                [
+                    "More Info",
+                    "Bengaluru, India"
+                ]
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "GE Global Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2008 - Jan 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Bangalore,India"
+                ],
+                [
+                    "More Info",
+                    "Research Scientist in Medical Image Analysis Lab. Responsibilities included algorithm design and implementation, prototype development and transition to business."
+                ]
+            ],
+            [
+                "Post doctoral researcher",
+                [
+                    "Company Name",
+                    "University College Dublin"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2007 - Jul 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Dublin, Ireland"
+                ],
+                [
+                    "More Info",
+                    "Post doctoral researcher in the Machine Learning Group in CASL, University College Dublin (UCD)."
+                ]
+            ],
+            [
+                "Research Officer",
+                [
+                    "Company Name",
+                    "Bangor University"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2006 - May 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Bangor, Wales, United Kingdom"
+                ],
+                [
+                    "More Info",
+                    "Post doctoral researcher at School of Computer Science and Informatics (now School of Electronics and Computer Science) in University of Wales, Bangor (now Bangor University)."
+                ]
+            ]
+        ]
+    },
+    "Gideon Samid": {
+        "status": "success",
+        "Education": [
+            [
+                "Technion - Israel Institute of Technology",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " MSc., PE"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Activities and societies: AACE, ACM, IACR. AIChE, FiiMA"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "BitMint",
+                [
+                    "Company Name",
+                    "12 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Chief Technology Officer"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Jan 2011 - Present · 11 yrs 3 mos"
+                ]
+            ],
+            [
+                "D&amp;G Sciences -- Innovation Productivity Corporation",
+                [
+                    "Company Name",
+                    "18 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "McLean, Virginia, United States"
+                ],
+                [
+                    "Location",
+                    "President"
+                ],
+                [
+                    "More Info",
+                    "Full-time"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Maryland"
+                ],
+                [
+                    "Dates Employed",
+                    "2010 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "12 yrs 3 mos"
+                ]
+            ],
+            [
+                "Faculty",
+                [
+                    "Company Name",
+                    "Dept. of Computer Science, Case Western Reserve University"
+                ],
+                [
+                    "Dates Employed",
+                    "2005 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "17 yrs 3 mos"
+                ]
+            ]
+        ]
+    },
     "Miguel Zubizarreta-Ada, Adjunct Professor": {
         "status": "success",
         "Education": [
@@ -559,6 +1974,89 @@
             ]
         ]
     },
+    "Gurkan Bebek": {
+        "status": "success",
+        "Education": [
+            [
+                "Case Western Reserve University",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Clinical Research"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2017"
+                ],
+                [
+                    "More Info",
+                    "The Clinical and Translational Science Collaborative (CTSC) KL2 Training Program"
+                ]
+            ],
+            [
+                "Case Western Reserve University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2006"
+                ],
+                [
+                    "More Info",
+                    "Case Western Reserve University Prime Fellowship 2001--2006"
+                ]
+            ],
+            [
+                "Bilkent University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2001"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: SOYAT (Sosyal Yardımlaşma Topluluğu), Founder, President (1999-2001)"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Case Western Reserve University",
+                [
+                    "Company Name",
+                    "20 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Assistant Professor"
+                ],
+                [
+                    "Location",
+                    "Jan 2016 - Present · 6 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Cleveland, Ohio"
+                ]
+            ]
+        ]
+    },
     "Marc Buchner": {
         "status": "success",
         "Education": [],
@@ -567,7 +2065,7 @@
                 "Professor",
                 [
                     "Company Name",
-                    "CWRU \u00b7 Full-time"
+                    "CWRU · Full-time"
                 ]
             ]
         ]
@@ -585,11 +2083,264 @@
             ]
         ]
     },
+    "Roger French": {
+        "status": "success",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Materials Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1979 - 1985"
+                ]
+            ],
+            [
+                "Cornell University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Materials Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1975 - 1979"
+                ],
+                [
+                    "More Info",
+                    "brighton"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Case Western Reserve University",
+                [
+                    "Company Name",
+                    "11 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Kyocera Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2016 - Present · 5 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Cleveland, Ohio"
+                ]
+            ],
+            [
+                "DuPont",
+                [
+                    "Company Name",
+                    "24 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Fellow"
+                ],
+                [
+                    "Location",
+                    "Apr 2006 - Aug 2010 · 4 yrs 5 mos"
+                ],
+                [
+                    "More Info",
+                    "Optical Properties, Electronic Structure and Electrodynamics of Optical, Polymer and Ceramic Materials."
+                ]
+            ],
+            [
+                "Adjunct Professor Of Materials Science",
+                [
+                    "Company Name",
+                    "University of Pennsylvania"
+                ],
+                [
+                    "Dates Employed",
+                    "1996 - Aug 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "14 yrs 8 mos"
+                ]
+            ]
+        ]
+    },
+    "Michael Fu": {
+        "status": "success",
+        "Education": [
+            [
+                "Case Western Reserve University",
+                [
+                    "Degree Name",
+                    "PhD."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2011"
+                ]
+            ],
+            [
+                "Case Western Reserve University",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2006"
+                ]
+            ],
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " EECS, English Minor"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2003"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Case Western Reserve University",
+                [
+                    "Company Name",
+                    "9 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Assistant Professor, Electrical Engineering and Computer Science"
+                ],
+                [
+                    "Location",
+                    "Jul 2017 - Present · 4 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Cleveland/Akron, Ohio Area"
+                ]
+            ],
+            [
+                "Assistant Professor, Physical Medicine &amp; Rehabilitation",
+                [
+                    "Company Name",
+                    "MetroHealth"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Cleveland/Akron, Ohio Area"
+                ]
+            ],
+            [
+                "Biomedical Research Engineer",
+                [
+                    "Company Name",
+                    "Louis Stokes Cleveland Dept. of Veterans Affairs Medical Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 - Jun 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "11 mos"
+                ],
+                [
+                    "Location",
+                    "Investigator, Cleveland FES Center"
+                ],
+                [
+                    "More Info",
+                    "Currently investigating new methods of stroke rehabilitation to promote motor-function recovery in stroke survivors."
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "Case Western Reserve University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2006 - May 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Medical robotics and haptic systems"
+                ],
+                [
+                    "More Info",
+                    "Human operator modeling"
+                ]
+            ],
+            [
+                "Lewis' Educational and Research Collaborative Internship Program Fellow",
+                [
+                    "Company Name",
+                    "NASA Glenn Research Center"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2007 - Aug 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Distributed mobile robotics researcher"
+                ],
+                [
+                    "More Info",
+                    "Wireless robot-to-robot communication"
+                ]
+            ]
+        ]
+    },
     "Mark Griswold": {
         "status": "success",
         "Education": [
             [
-                "The Julius Maximilians University of W\u00fcrzburg",
+                "The Julius Maximilians University of Würzburg",
                 [
                     "Degree Name",
                     "PhD"
@@ -633,6 +2384,209 @@
                 [
                     "Employment Duration",
                     "16 yrs 10 mos"
+                ]
+            ]
+        ]
+    },
+    "Evren Gurkan-Cavusoglu": {
+        "status": "success",
+        "Education": [
+            [
+                "Case Western Reserve University",
+                [
+                    "Degree Name",
+                    "Master of Business Administration - MBA"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2016"
+                ]
+            ],
+            [
+                "Orta Doğu Teknik Üniversitesi / Middle East Technical University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Electronics Engineering"
+                ]
+            ],
+            [
+                "The University of Sheffield",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Automatic Control and Systems Engineerin"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Case Western Reserve University",
+                [
+                    "Company Name",
+                    "18 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Aug 2019 - Present · 2 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor"
+                ]
+            ]
+        ]
+    },
+    "Fulai Jin": {
+        "status": "success",
+        "Education": [
+            [
+                "David Geffen School of Medicine at UCLA",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Molecular &amp; Medical Pharmacology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2007"
+                ],
+                [
+                    "More Info",
+                    "Also completed the core courses for the master program from Department of Biostatistics"
+                ]
+            ],
+            [
+                "University of Science and Technology of China",
+                [
+                    "Degree Name",
+                    "B.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    " Biological Sciences"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2001"
+                ]
+            ],
+            [
+                "University of Science and Technology of China",
+                [
+                    "Degree Name",
+                    "B.E."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Sciences"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2001"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Case Western Reserve University",
+                [
+                    "Company Name",
+                    "7 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Assistant Professor"
+                ],
+                [
+                    "Location",
+                    "Apr 2015 - Present · 7 yrs"
+                ],
+                [
+                    "More Info",
+                    "Visiting Assistant Professor"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Ludwig Institute for Cancer Research, San Diego"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2007 - Jun 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs"
+                ],
+                [
+                    "Location",
+                    "Greater San Diego Area"
+                ],
+                [
+                    "More Info",
+                    "Studying transcription regulation using high-throughput genomic technologies."
+                ]
+            ],
+            [
+                "UCLA",
+                [
+                    "Company Name",
+                    "4 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Greater Los Angeles Area"
+                ],
+                [
+                    "Location",
+                    "Graduate Research Fellow"
+                ],
+                [
+                    "More Info",
+                    "Sep 2002 - Jun 2007 · 4 yrs 10 mos"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Chinese Academy of Sciences"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2000 - Jul 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Shanghai, China"
+                ],
+                [
+                    "More Info",
+                    "Profiling of cancer patient transcriptome using cDNA microarrays."
                 ]
             ]
         ]
@@ -814,7 +2768,7 @@
                 "Harvard University",
                 [
                     "Degree Name",
-                    "Master\u2019s Degree"
+                    "Master’s Degree"
                 ],
                 [
                     "Field Of Study",
@@ -865,7 +2819,7 @@
                 "Visting Scientist/Consultant",
                 [
                     "Company Name",
-                    "MLL M\u00fcnchner Leuk\u00e4mielabor"
+                    "MLL Münchner Leukämielabor"
                 ],
                 [
                     "Dates Employed",
@@ -959,7 +2913,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "Case Western Reserve University \u00b7 Full-time"
+                    "Case Western Reserve University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1139,10 +3093,270 @@
             ]
         ]
     },
+    "Aziz Nazha": {
+        "status": "success",
+        "Education": [
+            [
+                "Tishreen University",
+                [
+                    "Degree Name",
+                    "Doctor of Medicine (M.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Medicine"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2007"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Amazon Web Services (AWS)",
+                [
+                    "Company Name",
+                    "Full-time · 1 yr 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "New Jersey, United States"
+                ],
+                [
+                    "Location",
+                    "World Wide Public Sector. Tech Business Development Manager, Healthcare Solutions"
+                ],
+                [
+                    "More Info",
+                    "Jan 2022 - Present · 3 mos"
+                ]
+            ],
+            [
+                "Adjunct Assistant Professor, Computer Science Department",
+                [
+                    "Company Name",
+                    "Case School of Engineering at Case Western Reserve University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Feb 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 7 mos"
+                ]
+            ],
+            [
+                "Cleveland Clinic",
+                [
+                    "Company Name",
+                    "7 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Director, Center for Clinical Artificial Intelligence"
+                ],
+                [
+                    "Location",
+                    "Mar 2019 - Feb 2021 · 2 yrs"
+                ],
+                [
+                    "More Info",
+                    "Cleveland/Akron, Ohio Area"
+                ]
+            ],
+            [
+                "Assistant Professor Of Medicine",
+                [
+                    "Company Name",
+                    "Case Western Reserve University School of Medicine"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Feb 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Cleveland/Akron, Ohio Area"
+                ]
+            ],
+            [
+                "Assistant Professor Of Medicine",
+                [
+                    "Company Name",
+                    "Cleveland Clinic Lerner College of Medicine · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Feb 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Show all 13 experiences"
+                ]
+            ]
+        ]
+    },
     "Christos Papachristou": {
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "Satya Sahoo": {
+        "status": "success",
+        "Education": [
+            [
+                "Wright State University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010"
+                ]
+            ],
+            [
+                "The University of Georgia",
+                [
+                    "Degree Name",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2007"
+                ]
+            ],
+            [
+                "Delhi University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.Sc.) Honors Program"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematical Statistics and Probability"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Case Western Reserve University",
+                [
+                    "Company Name",
+                    "11 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "2017 - Present · 5 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor"
+                ]
+            ],
+            [
+                "Member",
+                [
+                    "Company Name",
+                    "W3C Health Care and Life Sciences Special Interest Group"
+                ],
+                [
+                    "Dates Employed",
+                    "2008 - 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ],
+            [
+                "Member",
+                [
+                    "Company Name",
+                    "W3C RDB2RDF XG"
+                ],
+                [
+                    "Dates Employed",
+                    "2008 - 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Survey of current approaches to map RDB to RDF."
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft Research Redmond"
+                ],
+                [
+                    "Dates Employed",
+                    "2008"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ],
+                [
+                    "Location",
+                    "Redmond"
+                ],
+                [
+                    "More Info",
+                    "Trident scientific workflow workbench"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "National Institutes of Health (Lister Hill National Center for Biomedical Communications)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2007 - Aug 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Biomedical Knowledge Repository (BKR) Project"
+                ],
+                [
+                    "More Info",
+                    "Show all 8 experiences"
+                ]
+            ]
+        ]
     },
     "Peter Thomas": {
         "status": "success",
@@ -1296,5 +3510,61 @@
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "Xiong (Bill) Yu": {
+        "status": "success",
+        "Education": [
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Civil Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2003"
+                ]
+            ],
+            [
+                "Tsinghua University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Civil"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 2000"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Case Western Reserve University",
+                [
+                    "Company Name",
+                    "17 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Opal J. and Richard A. Vanderhoof Professor and Chair, Dept. of Civil and Environmental Engineering"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Jan 2021 - Present · 1 yr 3 mos"
+                ]
+            ]
+        ]
     }
 }

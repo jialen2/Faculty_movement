@@ -40,7 +40,7 @@
                 "Assistant Professor Of Computer Science &amp; Engineering",
                 [
                     "Company Name",
-                    "P.C. Rossin College of Engineering and Applied Science at Lehigh University \u00b7 Full-time"
+                    "P.C. Rossin College of Engineering and Applied Science at Lehigh University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -82,7 +82,7 @@
                 "Machine Learning Research Intern",
                 [
                     "Company Name",
-                    "Adobe \u00b7 Internship"
+                    "Adobe · Internship"
                 ],
                 [
                     "Dates Employed",
@@ -122,6 +122,290 @@
                 [
                     "More Info",
                     "Organized events and led programs to strengthen interactions in the grad student community for the Department of Computer Science and Engineering at Notre Dame. Also, led discussions in improving the quality of the academic and co-curricular life at graduate school. Helped to organize visits of incoming graduate students."
+                ]
+            ]
+        ]
+    },
+    "Arielle Carr": {
+        "status": "success",
+        "Education": [
+            [
+                "Virginia Tech",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2021"
+                ]
+            ],
+            [
+                "Virginia Tech",
+                [
+                    "Degree Name",
+                    "Master of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2015"
+                ]
+            ],
+            [
+                "Virginia Tech",
+                [
+                    "Degree Name",
+                    "Bachelor of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: • Summa Cum Laude • President Math Honors Society • Kimball Award • TW Hatcher/Math Scholarship"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lehigh University",
+                [
+                    "Company Name",
+                    "4 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Assistant Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2021 - Present · 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Computer Science and Engineering Department"
+                ]
+            ],
+            [
+                "Graduate Teaching Assistant, Mathematics",
+                [
+                    "Company Name",
+                    "Virginia Tech"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - May 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Instructor of record for freshman-level engineering integral calculus (x5), senior-level numerical analysis (x2), and sophomore-level linear algebra (x1).  I was a member on the common time exam writing committee twice for integral calculus. This included writing clear questions addressing the main objectives of the course as well as several iterations proofreading the exam to ensure its accuracy.  This exam is administered to hundreds of students.   The numerical analysis course required me to independently develop the curriculum for the semester as well as critically analyze students' code and numerical results."
+                ],
+                [
+                    "More Info",
+                    "From August 2015 until May 2018, I  served as a Senior Graduate Teaching Assistant, a position awarded to graduate students who have shown leadership and excellence in teaching.  As an SGTA, I mentored other graduate students and I was responsible for organizing seminars and programs focused on teaching topics and techniques including:"
+                ]
+            ],
+            [
+                "Mathematics Teacher",
+                [
+                    "Company Name",
+                    "Roanoke City Public Schools"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2008 - Jan 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Instructed full time in the areas of 4th and 6th grade math with a special focus on remediation based on diagnostic test-determined weakness areas.  Led the supplemental after-school math tutoring program for 6th, 7th, and 8th graders. Worked part time, co-teaching Algebra and Geometry in a recovery high school with a goal of remediating and graduating high school students with below-passing test scores."
+                ]
+            ]
+        ]
+    },
+    "Brian D. Davison": {
+        "status": "success",
+        "Education": [
+            [
+                "Rutgers University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 2002"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: CSGSS, Machine Learning Research Group"
+                ]
+            ],
+            [
+                "Rutgers University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1995"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: CSGSS, Machine Learning Research Group"
+                ]
+            ],
+            [
+                "Bucknell University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 - 1991"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Alpha Phi Omega service fraternity, Concert Chorale, The Bucknellian, Bucknell Engineer, Tau Beta Pi, ACM"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lehigh University",
+                [
+                    "Company Name",
+                    "Full-time · 20 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "May 2021 - Present · 11 mos"
+                ],
+                [
+                    "More Info",
+                    "Bethlehem, Pennsylvania, United States"
+                ]
+            ],
+            [
+                "Associate Director",
+                [
+                    "Company Name",
+                    "Institute for Data, Intelligent Systems &amp; Computation (I-DISC)"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 7 mos"
+                ],
+                [
+                    "Location",
+                    "Bethlehem, Pennsylvania, United States"
+                ],
+                [
+                    "More Info",
+                    "Supporting interdisciplinary research across the university."
+                ]
+            ],
+            [
+                "Owner",
+                [
+                    "Company Name",
+                    "Davison Computer Services"
+                ],
+                [
+                    "Dates Employed",
+                    "1992 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "30 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Consulting services in information retrieval, web mining, and web caching.  Experience providing technical expertise in intellectual property proceedings."
+                ]
+            ],
+            [
+                "ACM Transactions on the Web",
+                [
+                    "Company Name",
+                    "8 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Editor in Chief"
+                ],
+                [
+                    "Location",
+                    "Jan 2015 - Jan 2021 · 6 yrs 1 mo"
+                ],
+                [
+                    "More Info",
+                    "Along with the very capable Marianne Winslett (2015-2017)."
+                ]
+            ],
+            [
+                "Creator",
+                [
+                    "Company Name",
+                    "web-caching.com"
+                ],
+                [
+                    "Dates Employed",
+                    "1998 - 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "20 yrs"
+                ],
+                [
+                    "Location",
+                    "Created site with resources and tools about web caching and content delivery."
+                ],
+                [
+                    "More Info",
+                    "Show all 12 experiences"
                 ]
             ]
         ]
@@ -223,7 +507,7 @@
                 ],
                 [
                     "More Info",
-                    "Conduct research on \u201csocial machines\u201d associated with research on the SOCIAM programme, a research project between the University of Southampton, University of Oxford, and the University of Edinburgh."
+                    "Conduct research on “social machines” associated with research on the SOCIAM programme, a research project between the University of Southampton, University of Oxford, and the University of Edinburgh."
                 ]
             ],
             [
@@ -324,7 +608,7 @@
                 "Professor of Practice in Computer Science",
                 [
                     "Company Name",
-                    "Lehigh University \u00b7 Full-time"
+                    "Lehigh University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -488,7 +772,7 @@
                 "Financial Analyst",
                 [
                     "Company Name",
-                    "Canadian Human Rights Commission \u00b7 Full-time"
+                    "Canadian Human Rights Commission · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -511,7 +795,7 @@
                 "Board of Ambassador Representative",
                 [
                     "Company Name",
-                    "Chartered Professional Accountants of Ontario (CPA Ontario) \u00b7 Part-time"
+                    "Chartered Professional Accountants of Ontario (CPA Ontario) · Part-time"
                 ],
                 [
                     "Dates Employed",
@@ -534,7 +818,7 @@
                 "Financial Assistant",
                 [
                     "Company Name",
-                    "Office of the Official Secretary to the Governor-General \u00b7 Full-time"
+                    "Office of the Official Secretary to the Governor-General · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -557,7 +841,7 @@
                 "Security Officer",
                 [
                     "Company Name",
-                    "Securitas Security Services USA, Inc. \u00b7 Part-time"
+                    "Securitas Security Services USA, Inc. · Part-time"
                 ],
                 [
                     "Dates Employed",
@@ -640,7 +924,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "Lehigh University \u00b7 Full-time"
+                    "Lehigh University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -770,6 +1054,163 @@
             ]
         ]
     },
+    "Brian Y. Chen": {
+        "status": "success",
+        "Education": [
+            [
+                "Rice University",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Ph.D., Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2006"
+                ]
+            ],
+            [
+                "Rutgers University",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2000"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lehigh University",
+                [
+                    "Company Name",
+                    "11 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Bethlehem, Pennsylvania"
+                ],
+                [
+                    "Location",
+                    "Associate Professor"
+                ],
+                [
+                    "More Info",
+                    "May 2016 - Present · 5 yrs 11 mos"
+                ]
+            ],
+            [
+                "Postdoctoral Research Scientist",
+                [
+                    "Company Name",
+                    "Columbia University"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2006 - Aug 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "New York, NY"
+                ]
+            ]
+        ]
+    },
+    "Mooi Choo Chuah": {
+        "status": "success",
+        "Education": [
+            [
+                "UC San Diego",
+                [
+                    "Degree Name",
+                    "1987 - 1991"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lehigh University",
+                [
+                    "Company Name",
+                    "18 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Full Professor"
+                ],
+                [
+                    "Location",
+                    "2014 - Present · 8 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Computer Engineering Co-Director (2005-2018)"
+                ]
+            ],
+            [
+                "Technical Manager",
+                [
+                    "Company Name",
+                    "Bell Labs Lucent Technologies"
+                ],
+                [
+                    "Dates Employed",
+                    "2001 - 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ],
+            [
+                "Technical Manager",
+                [
+                    "Company Name",
+                    "Lucent Technologies"
+                ],
+                [
+                    "Dates Employed",
+                    "2001 - 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ],
+            [
+                "Bell Labs Lucent Technologies",
+                [
+                    "Company Name",
+                    "9 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "DMTS"
+                ],
+                [
+                    "Location",
+                    "1999 - 2000 · 1 yr"
+                ],
+                [
+                    "More Info",
+                    "MTS"
+                ]
+            ]
+        ]
+    },
     "Sharon M. Kalafut": {
         "status": "success",
         "Education": [
@@ -807,6 +1248,620 @@
             ]
         ]
     },
+    "Bilal Khan": {
+        "status": "success",
+        "Education": [
+            [
+                "The City University of New York",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Jan 1999 - Jun 2003"
+                ],
+                [
+                    "More Info",
+                    "Advisor: Alexei Misnikov, Committee: Janos Pach, Joseph Roitberg"
+                ]
+            ],
+            [
+                "The Johns Hopkins University",
+                [
+                    "Degree Name",
+                    "M.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 1994 - Jan 1997"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Advisor: Baruch Awerbuch"
+                ]
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "B.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1993"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lehigh University",
+                [
+                    "Company Name",
+                    "Full-time · 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Bethlehem, Pennsylvania, United States"
+                ],
+                [
+                    "Location",
+                    "Director of the Health Data Warehouse and Laboratory for Data Science"
+                ],
+                [
+                    "More Info",
+                    "Jan 2022 - Present · 3 mos"
+                ]
+            ],
+            [
+                "Happold Professor Of Computer Science and Sociology",
+                [
+                    "Company Name",
+                    "University of Nebraska-Lincoln"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2016 - Jan 2022"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Lincoln, Nebraska"
+                ],
+                [
+                    "More Info",
+                    "Research in computational social science: sociology, public health, criminal justice; cognitive radio networks, wireless communications, group theory, combinatorics, network science, graph theory."
+                ]
+            ],
+            [
+                "Professor of Mathematics and Computer Science",
+                [
+                    "Company Name",
+                    "City University of New York"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2004 - Dec 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "11 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Research in digital and social networks; computer security; digital forensics; wireless communications; group theory; combinatorics; graph theory; modeling and simulation in public health, sociology, anthropology, and criminal justice."
+                ],
+                [
+                    "More Info",
+                    "D4CS"
+                ]
+            ],
+            [
+                "Principal Investigator",
+                [
+                    "Company Name",
+                    "Center for Computational Sciences, U.S. Naval Research Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 1996 - Sep 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Research and development in optical and wireless networks."
+                ]
+            ],
+            [
+                "Software Architect",
+                [
+                    "Company Name",
+                    "Linden Media Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1994 - Jan 1996"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 5 mos"
+                ],
+                [
+                    "Location",
+                    "Back end web development."
+                ],
+                [
+                    "More Info",
+                    "Show all 8 experiences"
+                ]
+            ]
+        ]
+    },
+    "Hank (Henry) Korth": {
+        "status": "success",
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " M.A., M.S.E., Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1977 - 1981"
+                ]
+            ],
+            [
+                "Williams College",
+                [
+                    "Degree Name",
+                    "A.B"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1973 - 1977"
+                ]
+            ],
+            [
+                "Brunswick School",
+                [
+                    "Degree Name",
+                    "high school"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1961 - 1973"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lehigh University",
+                [
+                    "Company Name",
+                    "19 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor, Computer Science and Engineering"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Jan 2003 - Present · 19 yrs 3 mos"
+                ]
+            ],
+            [
+                "Director, Database Principles Research",
+                [
+                    "Company Name",
+                    "Lucent Technolgies - Bell Laboratories · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1995 - Dec 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 5 mos"
+                ]
+            ],
+            [
+                "Director, Matsushita Information Technology Lab (MITL) and VP Panasonic Technologies",
+                [
+                    "Company Name",
+                    "Panasonic · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1991 - Aug 1995"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ],
+            [
+                "Associate Professor, Computer Science",
+                [
+                    "Company Name",
+                    "University of Texas at Austin · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1983 - Aug 1991"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs"
+                ]
+            ],
+            [
+                "Research Staff Member",
+                [
+                    "Company Name",
+                    "IBM · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1981 - Aug 1983"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 3 mos"
+                ]
+            ]
+        ]
+    },
+    "Stephen Lee-Urban": {
+        "status": "success",
+        "Education": [
+            [
+                "Lehigh University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Communications Officer -- Graduate Student Senate Executive Board"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Research Scientist",
+                [
+                    "Company Name",
+                    "Georgia Tech Research Institute · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2013 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Atlanta, GA"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "Georgia Institute of Technology · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2011 - Sep 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ],
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "Walt Disney Imagineering"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2011 - Oct 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ]
+            ],
+            [
+                "Lehigh University",
+                [
+                    "Company Name",
+                    "7 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Assistant"
+                ],
+                [
+                    "Location",
+                    "Sep 2003 - Mar 2011 · 7 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Teaching Assistant"
+                ]
+            ],
+            [
+                "Programmer - Intern",
+                [
+                    "Company Name",
+                    "AirClic"
+                ],
+                [
+                    "Dates Employed",
+                    "2003 - 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ]
+        ]
+    },
+    "Daniel P. Lopresti": {
+        "status": "success",
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 - 1986"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Princeton University Orchestra"
+                ]
+            ],
+            [
+                "Dartmouth College",
+                [
+                    "Degree Name",
+                    "A.B."
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics and Engineering Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978 - 1982"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Dartmouth Players, Dartmouth Symphony Orchestra"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lehigh University",
+                [
+                    "Company Name",
+                    "18 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor of Computer Science &amp; Engineering"
+                ],
+                [
+                    "Location",
+                    "Jul 2003 - Present · 18 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Director, Data X Strategic Initiative"
+                ]
+            ],
+            [
+                "Member of Technical Staff",
+                [
+                    "Company Name",
+                    "Bell Labs, Lucent Technologies"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 1997 - Dec 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 3 mos"
+                ]
+            ],
+            [
+                "Principal Scientist",
+                [
+                    "Company Name",
+                    "Matsushita Information Technology Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1991 - Oct 1997"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 5 mos"
+                ]
+            ],
+            [
+                "Assistant Professor of Computer Science",
+                [
+                    "Company Name",
+                    "Brown University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1986 - May 1991"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 9 mos"
+                ]
+            ]
+        ]
+    },
+    "Corey Montella": {
+        "status": "success",
+        "Education": [
+            [
+                "Lehigh University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2018"
+                ]
+            ],
+            [
+                "Carnegie Mellon University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Physics, Business Administration"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2009"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Undergraduate Entrepreneurship Association"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Practice",
+                [
+                    "Company Name",
+                    "Lehigh University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Bethlehem, Pennsylvania"
+                ]
+            ],
+            [
+                "Software Engineer",
+                [
+                    "Company Name",
+                    "Eve"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2015 - Feb 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "San Francisco, CA"
+                ]
+            ],
+            [
+                "Lehigh University",
+                [
+                    "Company Name",
+                    "4 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Reseach Assistant"
+                ],
+                [
+                    "Location",
+                    "May 2011 - Jan 2015 · 3 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "I am currently part of a team of robotics researchers at Lehigh University, headed by Professor John Spletzer. Our primary focus is assistive technologies, vision-aided robotics, and multi-agent systems. My research is focused on outdoor mobile robots, including a smart autonomous wheelchair and an unmanned aerial vehicle."
+                ]
+            ]
+        ]
+    },
     "Hector Munoz-Avila": {
         "status": "success",
         "Education": [],
@@ -825,10 +1880,240 @@
         "Education": [],
         "Experience": []
     },
-    "David Salda\u00f1a": {
+    "Roberto Palmieri": {
+        "status": "success",
+        "Education": [
+            [
+                "Sapienza Università di Roma",
+                [
+                    "Degree Name",
+                    "Master of Computer Engineering"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Software Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2008"
+                ],
+                [
+                    "More Info",
+                    "Grade: 110 cum laude"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Lehigh University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Bethlehem, PA"
+                ]
+            ],
+            [
+                "Virginia Tech",
+                [
+                    "Company Name",
+                    "4 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Assistant Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2014 - Aug 2017 · 3 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Postdoctoral Research Associate position"
+                ]
+            ],
+            [
+                "Post-doc",
+                [
+                    "Company Name",
+                    "Dipartimento di Informatica e Sistemistica \"A. Ruberti\""
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2012 - Dec 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ]
+        ]
+    },
+    "David Saldaña": {
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "Michael F. Spear": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Rochester",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2009"
+                ]
+            ],
+            [
+                "University of Alaska Anchorage",
+                [
+                    "Degree Name",
+                    "MBA"
+                ],
+                [
+                    "Field Of Study",
+                    " Business Administration"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2003"
+                ]
+            ],
+            [
+                "United States Military Academy at West Point",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1999"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lehigh University",
+                [
+                    "Company Name",
+                    "12 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Jun 2016 - Present · 5 yrs 10 mos"
+                ],
+                [
+                    "More Info",
+                    "Bethlehem, PA"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Rochester"
+                ],
+                [
+                    "Dates Employed",
+                    "2004 - 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "IBM"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2007 - Aug 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "T.J. Watson Research Center (Yorktown Heights, NY)"
+                ],
+                [
+                    "More Info",
+                    "Research intern, investigating topics related to transactional memory and high performance computing"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2005 - Aug 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Redmond, WA"
+                ],
+                [
+                    "More Info",
+                    "Research intern working in Operating Systems group, developing declarative device driver interface for Singularity operating system"
+                ]
+            ],
+            [
+                "United States Air Force",
+                [
+                    "Company Name",
+                    "4 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Executive Officer, 314 Maintenance Group"
+                ],
+                [
+                    "Location",
+                    "Nov 2002 - Jul 2004 · 1 yr 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Little Rock AFB, AR"
+                ]
+            ]
+        ]
     },
     "Lichao Sun": {
         "status": "success",
@@ -884,7 +2169,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "Lehigh University \u00b7 Full-time"
+                    "Lehigh University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -903,7 +2188,7 @@
                 "Applied Scientist",
                 [
                     "Company Name",
-                    "Amazon Web Services (AWS) \u00b7 Internship"
+                    "Amazon Web Services (AWS) · Internship"
                 ],
                 [
                     "Dates Employed",
@@ -1194,7 +2479,7 @@
                 "Northeastern University (CN)",
                 [
                     "Degree Name",
-                    "Bachelor\u2019s Degree"
+                    "Bachelor’s Degree"
                 ],
                 [
                     "Field Of Study",
@@ -1362,7 +2647,7 @@
                 "Professor of Practice",
                 [
                     "Company Name",
-                    "Lehigh University \u00b7 Full-time"
+                    "Lehigh University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1467,6 +2752,154 @@
                 [
                     "More Info",
                     "Worked as a Teaching Assistant for a few courses in the Computer Science and Engineering Dept."
+                ]
+            ]
+        ]
+    },
+    "George Witmer": {
+        "status": "success",
+        "Education": [
+            [
+                "Lehigh University College of Business",
+                [
+                    "Degree Name",
+                    "Masters"
+                ],
+                [
+                    "Field Of Study",
+                    " Business Administration (MBA)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2005"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.99/4.0"
+                ]
+            ],
+            [
+                "University of Houston",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Chemical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 - 1986"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.99/4.0"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Chemical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978 - 1982"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.97"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lehigh University",
+                [
+                    "Company Name",
+                    "5 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor of Practice"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Aug 2020 - Present · 1 yr 8 mos"
+                ]
+            ],
+            [
+                "Enterprise Architect",
+                [
+                    "Company Name",
+                    "Lutron Electronics"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2017 - Oct 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ],
+                [
+                    "Location",
+                    "Coopersburg, PA"
+                ],
+                [
+                    "More Info",
+                    "Consulting engagement.  Application Rationalization, Corporate Data Strategy, Enterprise Applications Strategy (Sales/Marketing/Service and Manufacturing Operations), IT Services Planning and Optimization"
+                ]
+            ],
+            [
+                "Enterprise Architect",
+                [
+                    "Company Name",
+                    "PPL Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2015 - Feb 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Allentown, Pennsylvania Area"
+                ],
+                [
+                    "More Info",
+                    "•  Accountable for IT standards development, management and governance including technology introduction, IT risk and project architecture compliance."
+                ]
+            ],
+            [
+                "Air Products and Chemicals",
+                [
+                    "Company Name",
+                    "28 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "IT Innovation Manager"
+                ],
+                [
+                    "Location",
+                    "Apr 2007 - Dec 2014 · 7 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Allentown, Pennsylvania Area"
                 ]
             ]
         ]

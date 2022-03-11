@@ -46,7 +46,7 @@
                 "Associate Professor Of Computer Science",
                 [
                     "Company Name",
-                    "Georgia Institute of Technology \u00b7 Full-time"
+                    "Georgia Institute of Technology · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -65,7 +65,7 @@
                 "Co-Founder",
                 [
                     "Company Name",
-                    "BlueConduit \u00b7 Part-time"
+                    "BlueConduit · Part-time"
                 ],
                 [
                     "Dates Employed",
@@ -88,7 +88,7 @@
                 "Academic Researcher",
                 [
                     "Company Name",
-                    "Microsoft \u00b7 Full-time"
+                    "Microsoft · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -111,7 +111,7 @@
                 "Visiting Research Scientist",
                 [
                     "Company Name",
-                    "Google \u00b7 Full-time"
+                    "Google · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -134,7 +134,7 @@
                 "Co-Founder",
                 [
                     "Company Name",
-                    "In8 \u00b7 Full-time"
+                    "In8 · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -151,6 +151,112 @@
                 [
                     "More Info",
                     "Co-founded a small data analytics startup with Elad Hazan in 2017; the company was later acquired by Google."
+                ]
+            ]
+        ]
+    },
+    "Mustaque Ahamad": {
+        "status": "success",
+        "Education": [
+            [
+                "Stony Brook University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1985"
+                ],
+                [
+                    "More Info",
+                    "Birla Institute of Technology &amp; Science, Pilani, India"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Company Name",
+                    "36 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor of Computer Science"
+                ],
+                [
+                    "Location",
+                    "Sep 1985 - Present · 36 yrs 6 mos"
+                ],
+                [
+                    "More Info",
+                    "Director, Georgia Tech Information Security Center"
+                ]
+            ],
+            [
+                "Co-founder and Chief Scientist",
+                [
+                    "Company Name",
+                    "Codoxo"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2017 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Greater Atlanta Area"
+                ]
+            ],
+            [
+                "Co-founder &amp; Chief Scientist (May 2011 - July 2020)",
+                [
+                    "Company Name",
+                    "Pindrop"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2011 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Atlanta Area"
+                ],
+                [
+                    "More Info",
+                    "Homepage"
+                ]
+            ],
+            [
+                "Global Professor, New York University Abu Dhabi",
+                [
+                    "Company Name",
+                    "New York University Abu Dhabi"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2012 - Aug 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                [
+                    "Location",
+                    "Abu Dhabi, UAE"
                 ]
             ]
         ]
@@ -180,6 +286,116 @@
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "Ramin Ayanzadeh": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Maryland Baltimore County",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2020"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Meyerhoff Graduate Fellowship, Awarded the 2018—2019 NIH Meyerhoff graduate fellowship. 6-12 awardees among under representative graduate students researching NIH mission"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Georgia Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ],
+                [
+                    "Location",
+                    "Atlanta, Georgia, United States"
+                ]
+            ],
+            [
+                "University of Maryland Baltimore County",
+                [
+                    "Company Name",
+                    "7 yrs 5 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Baltimore, Maryland, United States"
+                ],
+                [
+                    "Location",
+                    "Research Assistant Professor"
+                ],
+                [
+                    "More Info",
+                    "Jun 2020 - Dec 2020 · 7 mos"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Boston Scientific · Internship"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2018 - Feb 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Boston Area"
+                ],
+                [
+                    "More Info",
+                    "Explored machine learning applications for medical instruments:"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Center for Shock, Trauma and Anesthesiology Research · Internship"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2017 - Aug 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Baltimore, Maryland, United States"
+                ],
+                [
+                    "More Info",
+                    "Fast similarity search for intracranial pressure prediction:"
+                ]
+            ]
+        ]
     },
     "Alexandra Boldyreva": {
         "status": "fail",
@@ -330,11 +546,158 @@
             ]
         ]
     },
+    "Thomas Conte": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1988 - 1992"
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1988"
+                ]
+            ],
+            [
+                "University of Delaware",
+                [
+                    "Degree Name",
+                    "BEE"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 - 1986"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Company Name",
+                    "13 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Dean for Research, College of Computing"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Mar 2021 - Present · 1 yr"
+                ]
+            ],
+            [
+                "IEEE",
+                [
+                    "Company Name",
+                    "9 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "IEEE Division V Director"
+                ],
+                [
+                    "Location",
+                    "Jan 2020 - Present · 2 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Co-Chair, IEEE Rebooting Computing Initiative"
+                ]
+            ],
+            [
+                "2015 President",
+                [
+                    "Company Name",
+                    "IEEE Computer Society"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2015 - Jan 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ]
+            ],
+            [
+                "1st Vice President",
+                [
+                    "Company Name",
+                    "IEEE Computer Society"
+                ],
+                [
+                    "Dates Employed",
+                    "2011 - 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Direct the management of publications for the Computer Society"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "North Carolina State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1995 - Jun 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "13 yrs"
+                ],
+                [
+                    "Location",
+                    "Computer architecture, processor design, DSP architectures, memory systems and DRAM architectures, compiler optimization, bus architectures, computer communications, wireless networking, benchmarking"
+                ],
+                [
+                    "More Info",
+                    "See all 13 experiences"
+                ]
+            ]
+        ]
+    },
     "Alexandros Daglis": {
         "status": "success",
         "Education": [
             [
-                "EPFL (\u00c9cole polytechnique f\u00e9d\u00e9rale de Lausanne)",
+                "EPFL (École polytechnique fédérale de Lausanne)",
                 [
                     "Degree Name",
                     "Doctor of Science"
@@ -356,7 +719,7 @@
                 "National Technical University of Athens",
                 [
                     "Degree Name",
-                    "Master\u2019s Degree"
+                    "Master’s Degree"
                 ],
                 [
                     "Field Of Study",
@@ -396,7 +759,7 @@
                 "PHD Candidate",
                 [
                     "Company Name",
-                    "EPFL (\u00c9cole polytechnique f\u00e9d\u00e9rale de Lausanne)"
+                    "EPFL (École polytechnique fédérale de Lausanne)"
                 ],
                 [
                     "Dates Employed",
@@ -432,6 +795,244 @@
                 [
                     "More Info",
                     "Worked on hybrid coherence schemes for The Machine."
+                ]
+            ]
+        ]
+    },
+    "Alberto Dainotti": {
+        "status": "success",
+        "Education": [
+            [
+                "Università degli Studi di Napoli Federico II",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2008"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Georgia Institute of Technology · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "Atlanta, Georgia, United States"
+                ]
+            ],
+            [
+                "University of California San Diego",
+                [
+                    "Company Name",
+                    "10 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Greater San Diego Area"
+                ],
+                [
+                    "Location",
+                    "Research Scientist"
+                ],
+                [
+                    "More Info",
+                    "Jan 2013 - Present · 9 yrs 2 mos"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "Università degli Studi di Napoli Federico II"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2008 - Dec 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Naples Area, Italy"
+                ]
+            ],
+            [
+                "Adjunct Professor Of Computer Science",
+                [
+                    "Company Name",
+                    "Universita degli Studi di Napoli \"L'Orientale\"​"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2008 - Mar 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 7 mos"
+                ],
+                [
+                    "Location",
+                    "Naples Area, Italy"
+                ]
+            ]
+        ]
+    },
+    "Richard DeMillo": {
+        "status": "success",
+        "Education": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Information and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1969 - 1972"
+                ]
+            ],
+            [
+                "University of St. Thomas",
+                [
+                    "Degree Name",
+                    "B.A."
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1965 - 1969"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Alpha Kappa Psi Fraternity"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Company Name",
+                    "19 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Chair School of Cybersecurity and Privacy"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Sep 2020 - Present · 1 yr 6 mos"
+                ]
+            ],
+            [
+                "Member ACE National Advisory Board",
+                [
+                    "Company Name",
+                    "American Medical Association"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2010 - Nov 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ],
+                [
+                    "More Info",
+                    "Senior adviser on Accelerating Change in Medical Education."
+                ]
+            ],
+            [
+                "Consulting Chief Scientist",
+                [
+                    "Company Name",
+                    "Qatar Foundation"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2013 - May 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "9 mos"
+                ],
+                [
+                    "Location",
+                    "Qatar Computing Research Institute, Doha, Qatar"
+                ],
+                [
+                    "More Info",
+                    "Strategic advice on research planning, leadership on special projects and programs, public engagement on behalf of the Qatar Computing Research Institute."
+                ]
+            ],
+            [
+                "Board Member",
+                [
+                    "Company Name",
+                    "Dell SecureWorks"
+                ],
+                [
+                    "Dates Employed",
+                    "2006 - 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ]
+            ],
+            [
+                "Board of Directors",
+                [
+                    "Company Name",
+                    "RSA Security"
+                ],
+                [
+                    "Dates Employed",
+                    "2001 - 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "See all 14 experiences"
                 ]
             ]
         ]
@@ -490,7 +1091,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "Georgia Institute of Technology \u00b7 Full-time"
+                    "Georgia Institute of Technology · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -505,7 +1106,7 @@
                 "Postdoctoral Fellow",
                 [
                     "Company Name",
-                    "University of Michigan \u00b7 Full-time"
+                    "University of Michigan · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -576,7 +1177,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "Georgia Institute of Technology \u00b7 Full-time"
+                    "Georgia Institute of Technology · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -651,6 +1252,103 @@
         "Education": [],
         "Experience": []
     },
+    "Merrick Furst": {
+        "status": "success",
+        "Education": [
+            [
+                "Cornell University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Company Name",
+                    "19 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Founder of Flashpoint"
+                ],
+                [
+                    "Location",
+                    "Jun 2011 - Present · 10 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Distinguished Professor"
+                ]
+            ],
+            [
+                "Partner",
+                [
+                    "Company Name",
+                    "Profounder, LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "2008 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "14 yrs 2 mos"
+                ]
+            ],
+            [
+                "Founder &amp; Board Member",
+                [
+                    "Company Name",
+                    "Damballa, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "2006 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "16 yrs 2 mos"
+                ]
+            ],
+            [
+                "Professor &amp; Associate Dean",
+                [
+                    "Company Name",
+                    "Carnegie Mellon University"
+                ],
+                [
+                    "Dates Employed",
+                    "1980 - 2000"
+                ],
+                [
+                    "Employment Duration",
+                    "20 yrs"
+                ]
+            ],
+            [
+                "Director and Professor",
+                [
+                    "Company Name",
+                    "International Computer Science Institute, Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "1997 - 1998"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ]
+        ]
+    },
     "Zvi Galil": {
         "status": "fail",
         "Education": [],
@@ -693,6 +1391,111 @@
             ]
         ]
     },
+    "Daniel Genkin": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Sr. Director, DevOps",
+                [
+                    "Company Name",
+                    "Kareo · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Location",
+                    "Irvine, California, United States"
+                ]
+            ],
+            [
+                "Cloudrail Advisor",
+                [
+                    "Company Name",
+                    "Indeni · Part-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "11 mos"
+                ],
+                [
+                    "Location",
+                    "One of the main Cloudrail's focuses is automating security reviews of infrastructure-as-code. This, coupled with many other Cloudrail's innovative features, allows you to build a cloud fast, secure, and drastically reduce the security maintenance phase, enabling you to stay proactive and minimize remediation costs."
+                ]
+            ],
+            [
+                "Executive Director, Technical Operations and Cloud Architecture",
+                [
+                    "Company Name",
+                    "The Walt Disney Company · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2019 - May 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Playa Vista"
+                ],
+                [
+                    "More Info",
+                    "Some of my current passions include:"
+                ]
+            ],
+            [
+                "Fox Networks Group",
+                [
+                    "Company Name",
+                    "Full-time · 3 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Greater Los Angeles Area"
+                ],
+                [
+                    "Location",
+                    "Executive Director, Technical Operations/Cloud Architecture (DevSecOps/DevFinOps/AWS/GCP)"
+                ],
+                [
+                    "More Info",
+                    "Dec 2017 - Mar 2019 · 1 yr 4 mos"
+                ]
+            ],
+            [
+                "HireRight",
+                [
+                    "Company Name",
+                    "11 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Manager, Platform Engineering and Support (DevOps)"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Mar 2011 - Jul 2015 · 4 yrs 5 mos"
+                ]
+            ]
+        ]
+    },
     "Seymour Goodman": {
         "status": "fail",
         "Education": [],
@@ -715,6 +1518,322 @@
             ]
         ],
         "Experience": []
+    },
+    "Vladimir Kolesnikov": {
+        "status": "success",
+        "Education": [
+            [
+                "Bauman Moscow&nbsp;State Technical University",
+                [
+                    "Degree Name",
+                    "Bachelor"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Meta",
+                [
+                    "Company Name",
+                    "11 yrs 4 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Director Of Engineering"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Jan 2021 - Present · 1 yr 2 mos"
+                ]
+            ],
+            [
+                "Open Source Developer",
+                [
+                    "Company Name",
+                    "Open Source"
+                ],
+                [
+                    "Dates Employed",
+                    "2010 - 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "- Developed open source client search through Ruby on Rails API Documentation. Originally hosted on railsapp.com with 4k monthly visitors with roughly 1.5k monthly downloads. Later the code was used in official RoR documentation at http://api.rubyonrails.org/ (https://github.com/zzak/sdoc)"
+                ],
+                [
+                    "More Info",
+                    "- Built a popular open source Twitter Streaming API library in Ruby, that was downloaded more than 1 million times (https://rubygems.org/gems/twitter-stream/versions/0.1.16)"
+                ]
+            ],
+            [
+                "Yandex",
+                [
+                    "Company Name",
+                    "3 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Moscow, Russian Federation"
+                ],
+                [
+                    "Location",
+                    "Engineering Team Lead"
+                ],
+                [
+                    "More Info",
+                    "Dec 2009 - Nov 2010 · 1 yr"
+                ]
+            ],
+            [
+                "Web-Developer",
+                [
+                    "Company Name",
+                    "Art. Lebedev Studio"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2006 - May 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ],
+                [
+                    "Location",
+                    "Moscow, Russian Federation"
+                ],
+                [
+                    "More Info",
+                    "Implemented pixel perfect, highly interactive web pages (https://www.artlebedev.ru/kolesnikov/)"
+                ]
+            ],
+            [
+                "QA Engineer",
+                [
+                    "Company Name",
+                    "Luxoft"
+                ],
+                [
+                    "Dates Employed",
+                    "2005 - 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ]
+        ]
+    },
+    "Wenke Lee": {
+        "status": "success",
+        "Education": [
+            [
+                "Columbia University in the City of New York",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1999"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Company Name",
+                    "21 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Co-Executive Director of the Institute for Information Security &amp; Privacy (IISP) at Georgia Tech"
+                ],
+                [
+                    "Location",
+                    "Jul 2015 - Present · 6 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Greater Atlanta Area"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Georgia Tech"
+                ],
+                [
+                    "Dates Employed",
+                    "2001 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "21 yrs 2 mos"
+                ]
+            ],
+            [
+                "Ph.D. student",
+                [
+                    "Company Name",
+                    "Columbia University"
+                ],
+                [
+                    "Dates Employed",
+                    "1994 - 1999"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ],
+            [
+                "Senior Software Analyst",
+                [
+                    "Company Name",
+                    "Intergraph Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "1990 - 1994"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ]
+        ]
+    },
+    "Ling Liu": {
+        "status": "success",
+        "Education": [
+            [
+                "Tilburg University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1993"
+                ],
+                [
+                    "More Info",
+                    "PhD"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Company Name",
+                    "22 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 1999 - Present · 22 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Greater Atlanta Area"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "School of Computing Science, Georgia Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1999 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "22 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Atlanta Area"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "College of Computing, Ga Tech"
+                ],
+                [
+                    "Dates Employed",
+                    "1999 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "23 yrs 2 mos"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Oregon Graduate Institute of Science and Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1997 - Jul 1999"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Alberta"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1994 - Jul 1998"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 1 mo"
+                ]
+            ]
+        ]
     },
     "Shamkant Navathe": {
         "status": "success",
@@ -789,6 +1908,81 @@
                 [
                     "Location",
                     "Professor and senior facuty in Database Research Center, CIS department, College of Engineering"
+                ]
+            ]
+        ]
+    },
+    "Alessandro Orso": {
+        "status": "success",
+        "Education": [
+            [
+                "Politecnico di Milano",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1999"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Company Name",
+                    "17 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Dean"
+                ],
+                [
+                    "Location",
+                    "Nov 2020 - Present · 1 yr 4 mos"
+                ],
+                [
+                    "More Info",
+                    "Associate Dean for Off-Campus and Special Initiatives"
+                ]
+            ],
+            [
+                "Expert Witness",
+                [
+                    "Company Name",
+                    "Federal District Court"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2015 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Patent infringement, patent validity (including IPRs), trade secret, and copyright cases in a number of areas, including software engineering, program analysis, reverse engineering, testing, security, and web and mobile technology."
+                ]
+            ],
+            [
+                "Ph.D. student",
+                [
+                    "Company Name",
+                    "Politecnico di Milano"
+                ],
+                [
+                    "Dates Employed",
+                    "1996 - 1999"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
                 ]
             ]
         ]
@@ -1063,6 +2257,85 @@
             ]
         ]
     },
+    "Milos Prvulovic": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2003"
+                ],
+                [
+                    "More Info",
+                    "Thesis: Architectural Support for Reliable Parallel Computing"
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2001"
+                ],
+                [
+                    "More Info",
+                    "Thesis: Removing Architectural Bottlenecks to the Scalability of Speculative Parallelization"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Company Name",
+                    "18 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Apr 2009 - Present · 12 yrs 11 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Illinois at Urbana-Champaign"
+                ],
+                [
+                    "Dates Employed",
+                    "1999 - 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ]
+        ]
+    },
     "Calton Pu": {
         "status": "success",
         "Education": [
@@ -1082,7 +2355,7 @@
                 ]
             ],
             [
-                "Universidade de S\u00e3o Paulo",
+                "Universidade de São Paulo",
                 [
                     "Degree Name",
                     "B.S."
@@ -1097,7 +2370,7 @@
                 ]
             ],
             [
-                "Universidade de S\u00e3o Paulo",
+                "Universidade de São Paulo",
                 [
                     "Degree Name",
                     "B.S."
@@ -1176,6 +2449,96 @@
             ]
         ]
     },
+    "Moinuddin Qureshi": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of Texas at Austin",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2007"
+                ]
+            ],
+            [
+                "The University of Texas at Austin",
+                [
+                    "Degree Name",
+                    "Master of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2003"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Company Name",
+                    "10 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor of Computer Science"
+                ],
+                [
+                    "Location",
+                    "Jul 2020 - Present · 1 yr 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Atlanta, Georgia, United States"
+                ]
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "IBM T. J. Watson Research Center  NY"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2007 - Aug 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 1 mo"
+                ]
+            ],
+            [
+                "IC Design Engineer",
+                [
+                    "Company Name",
+                    "Texas Instruments (India)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2001 - Jul 2001"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "Bengaluru, Karnataka, India"
+                ]
+            ]
+        ]
+    },
     "Umakishore Ramachandran": {
         "status": "success",
         "Education": [],
@@ -1220,7 +2583,7 @@
                 "Professor",
                 [
                     "Company Name",
-                    "Georgia Institute of Technology \u00b7 Full-time"
+                    "Georgia Institute of Technology · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1233,6 +2596,316 @@
                 [
                     "Location",
                     "Atlanta, Georgia"
+                ]
+            ]
+        ]
+    },
+    "Ahmed Saeed": {
+        "status": "success",
+        "Education": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2019"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Graduate Student Government Association, College of Computing Graduate Student Council"
+                ]
+            ],
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2018"
+                ]
+            ],
+            [
+                "Alexandria University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer and Systems Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: ACM and OSUM"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Georgia Institute of Technology · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "Atlanta, Georgia, United States"
+                ]
+            ],
+            [
+                "Postdoctoral Associate",
+                [
+                    "Company Name",
+                    "Massachusetts Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2019 - Jul 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 11 mos"
+                ]
+            ],
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Company Name",
+                    "5 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Assistant"
+                ],
+                [
+                    "Location",
+                    "Aug 2014 - Aug 2019 · 5 yrs 1 mo"
+                ],
+                [
+                    "More Info",
+                    "Atlanta"
+                ]
+            ],
+            [
+                "Software Engineering Intern",
+                [
+                    "Company Name",
+                    "Google"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2018 - Dec 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ]
+            ],
+            [
+                "Software Engineering Intern",
+                [
+                    "Company Name",
+                    "Google"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2016 - Jan 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "9 mos"
+                ],
+                [
+                    "Location",
+                    "Mountain View, California"
+                ],
+                [
+                    "More Info",
+                    "See all 14 experiences"
+                ]
+            ]
+        ]
+    },
+    "Vivek Sarkar": {
+        "status": "success",
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering (Computer Systems)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 - 1987"
+                ],
+                [
+                    "More Info",
+                    "Advisor: John L. Hennessy"
+                ]
+            ],
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1982"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Theatre, Hoofer Sailing Club"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Kanpur",
+                [
+                    "Degree Name",
+                    "B.Tech."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering, Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1976 - 1981"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Theatre, Debate, Gliding"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Company Name",
+                    "4 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Chair, School of Computer Science"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Aug 2020 - Present · 1 yr 7 mos"
+                ]
+            ],
+            [
+                "Adjunct Professor",
+                [
+                    "Company Name",
+                    "Department of Computer Science, Rice University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Houston, Texas Area"
+                ]
+            ],
+            [
+                "Rice University",
+                [
+                    "Company Name",
+                    "10 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor of Computer Science and E.D. Butcher Chair in Engineering"
+                ],
+                [
+                    "Location",
+                    "Jul 2007 - Aug 2017 · 10 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "See http://vsarkar.rice.edu"
+                ]
+            ],
+            [
+                "Senior Manager, Programming Technologies",
+                [
+                    "Company Name",
+                    "IBM Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2000 - Jul 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs"
+                ]
+            ],
+            [
+                "Research Staff Member",
+                [
+                    "Company Name",
+                    "IBM T.J. Watson Research Center"
+                ],
+                [
+                    "Dates Employed",
+                    "1987 - 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "20 yrs"
+                ],
+                [
+                    "Location",
+                    "See all 8 experiences"
                 ]
             ]
         ]
@@ -1291,7 +2964,7 @@
                 "Assistant Professor in the School of Computer Science",
                 [
                     "Company Name",
-                    "Georgia Institute of Technology \u00b7 Full-time"
+                    "Georgia Institute of Technology · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1310,7 +2983,7 @@
                 "Research Instructor of Computer Science (Postdoc)",
                 [
                     "Company Name",
-                    "Princeton University \u00b7 Full-time"
+                    "Princeton University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1338,6 +3011,158 @@
                 [
                     "Location",
                     "Princeton, New Jersey, United States"
+                ]
+            ]
+        ]
+    },
+    "Alexey Tumanov": {
+        "status": "success",
+        "Education": [
+            [
+                "Carnegie Mellon University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Systems"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0/4.0"
+                ]
+            ],
+            [
+                "York University",
+                [
+                    "Degree Name",
+                    "M.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006"
+                ],
+                [
+                    "More Info",
+                    "Thesis: “Variability-aware latency amelioration in Distributed Interactive Virtual Environments”"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Georgia Institute of Technology · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Atlanta Area"
+                ],
+                [
+                    "More Info",
+                    "School of Computer Science"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "University of California, Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2016 - Aug 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "Berkeley, CA"
+                ],
+                [
+                    "More Info",
+                    "RISE Lab"
+                ]
+            ],
+            [
+                "Carnegie Mellon University",
+                [
+                    "Company Name",
+                    "6 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Greater Pittsburgh Area"
+                ],
+                [
+                    "Location",
+                    "Graduate Research Assistant"
+                ],
+                [
+                    "More Info",
+                    "Aug 2010 - Aug 2016 · 6 yrs 1 mo"
+                ]
+            ],
+            [
+                "Microsoft",
+                [
+                    "Company Name",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Consultant"
+                ],
+                [
+                    "Location",
+                    "Sep 2015 - May 2016 · 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Research Intern"
+                ]
+            ],
+            [
+                "Software Engineering Intern",
+                [
+                    "Company Name",
+                    "Google"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Sep 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Mountain View, CA"
+                ],
+                [
+                    "More Info",
+                    "Team: Cluster management - Omega"
                 ]
             ]
         ]
@@ -1394,7 +3219,7 @@
                 "Incoming Software Engineer Internship",
                 [
                     "Company Name",
-                    "Meta \u00b7 Full-time"
+                    "Meta · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1417,7 +3242,7 @@
                 "Software Engineer Intern",
                 [
                     "Company Name",
-                    "HubSpot \u00b7 Internship"
+                    "HubSpot · Internship"
                 ],
                 [
                     "Dates Employed",
@@ -1440,7 +3265,7 @@
                 "Software Enginner Co-Op",
                 [
                     "Company Name",
-                    "Itential \u00b7 Internship"
+                    "Itential · Internship"
                 ],
                 [
                     "Dates Employed",
@@ -1456,7 +3281,7 @@
                 ],
                 [
                     "More Info",
-                    "\u00b7 Designed and implemented project management tools with Node.js, Yargs, and GitLab/JIRA API"
+                    "· Designed and implemented project management tools with Node.js, Yargs, and GitLab/JIRA API"
                 ]
             ]
         ]
@@ -1536,7 +3361,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "Georgia Institute of Technology \u00b7 Full-time"
+                    "Georgia Institute of Technology · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1555,7 +3380,7 @@
                 "Postdoctoral Researcher",
                 [
                     "Company Name",
-                    "University of California, Davis \u00b7 Full-time"
+                    "University of California, Davis · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1574,7 +3399,7 @@
                 "Postdoctoral Researcher",
                 [
                     "Company Name",
-                    "The Hong Kong University of Science and Technology \u00b7 Full-time"
+                    "The Hong Kong University of Science and Technology · Full-time"
                 ],
                 [
                     "Dates Employed",

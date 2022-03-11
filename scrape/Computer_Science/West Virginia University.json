@@ -65,6 +65,50 @@
             ]
         ]
     },
+    "Kevin Bandura": {
+        "status": "success",
+        "Education": [
+            [
+                "Carnegie Mellon University"
+            ]
+        ],
+        "Experience": [
+            [
+                "West Virginia University",
+                [
+                    "Company Name",
+                    "6 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Aug 2021 - Present · 8 mos"
+                ]
+            ],
+            [
+                "Postdoc Fellow",
+                [
+                    "Company Name",
+                    "McGill University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 8 mos"
+                ]
+            ]
+        ]
+    },
     "Xian-An Cao": {
         "status": "success",
         "Education": [],
@@ -116,6 +160,104 @@
             ]
         ]
     },
+    "William Cawthorne": {
+        "status": "success",
+        "Education": [
+            [
+                "West Virginia University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 1999"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0"
+                ]
+            ],
+            [
+                "West Virginia University",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1997"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0"
+                ]
+            ],
+            [
+                "West Virginia University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1994"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.97"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "General Motors",
+                [
+                    "Company Name",
+                    "19 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Senior Manager"
+                ],
+                [
+                    "Location",
+                    "Nov 2016 - Present · 5 yrs 5 mos"
+                ],
+                [
+                    "More Info",
+                    "Pontiac, Michigan"
+                ]
+            ],
+            [
+                "Project Engineer",
+                [
+                    "Company Name",
+                    "Allison Transmission"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1999 - Aug 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 1 mo"
+                ]
+            ]
+        ]
+    },
     "Muhammad Choudhry": {
         "status": "success",
         "Education": [],
@@ -129,6 +271,178 @@
             ]
         ]
     },
+    "Mashawn Coltus": {
+        "status": "success",
+        "Education": [
+            [
+                "Albert Gallatin Area Senior High School",
+                [
+                    "Degree Name",
+                    "1995 - 1998"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "West Virginia Career Institute"
+                ],
+                [
+                    "More Info",
+                    "Associate's degree, Accounting/IT"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Accounting Assistant II",
+                [
+                    "Company Name",
+                    "West Virginia University · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ]
+            ],
+            [
+                "Accounting Manager",
+                [
+                    "Company Name",
+                    "Hranec Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2018 - Jan 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ]
+            ],
+            [
+                "Office Administrator",
+                [
+                    "Company Name",
+                    "Piccolomini Contractors Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2016 - Sep 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Waltersburg, Pennsylvania"
+                ],
+                [
+                    "More Info",
+                    "Payroll, A/R, A/P, quarterly taxes reports, AIA Billings"
+                ]
+            ],
+            [
+                "Fayette Resources Inc logo",
+                [
+                    "Company Name",
+                    "Rep Payee"
+                ],
+                [
+                    "Dates Employed",
+                    "Fayette Resources Inc"
+                ],
+                [
+                    "Location",
+                    "Jul 2014 - Mar 2016 · 1 yr 9 mos"
+                ]
+            ]
+        ]
+    },
+    "Wils Cooley": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "West Virginia University",
+                [
+                    "Company Name",
+                    "48 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor Emeritus"
+                ],
+                [
+                    "Location",
+                    "2007 - Present · 15 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor, Associate Professor, Professor"
+                ]
+            ],
+            [
+                "Exchange Faculty",
+                [
+                    "Company Name",
+                    "University of Hertfordshire"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 1993 - Jun 1993"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "Hatfield, Hertfordshire, UK"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Carnegie-Mellon University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1968 - May 1973"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Pittsburgh, PA"
+                ]
+            ],
+            [
+                "Visiting Research Assistant",
+                [
+                    "Company Name",
+                    "University of California, San Diego"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1971 - Aug 1971"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "San Diego, CA"
+                ]
+            ]
+        ]
+    },
     "Beth Corcoran": {
         "status": "success",
         "Education": [],
@@ -138,6 +452,575 @@
                 [
                     "Company Name",
                     "West Virginia University"
+                ]
+            ]
+        ]
+    },
+    "Kenneth Costello": {
+        "status": "success",
+        "Education": [
+            [
+                "West Virginia University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Software Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 1998"
+                ],
+                [
+                    "More Info",
+                    "Software Engineerg"
+                ]
+            ],
+            [
+                "Penn State University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Aerospace Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 - 1986"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: ROTC"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Engineering Services Group Lead",
+                [
+                    "Company Name",
+                    "NASA - National Aeronautics and Space Administration"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2017 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Fairmont, WV"
+                ]
+            ],
+            [
+                "Fast pitch softball umpire",
+                [
+                    "Company Name",
+                    "CSUA · Freelance"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2011 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "11 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "United States"
+                ],
+                [
+                    "More Info",
+                    "For the past 9 years I have worked various levels of fastpitch softball umpiring. I started out working in the recreational league that I managed and have moved onto working travel tournaments, middle school and high school softball as well as junior college and NCAA Division III and Division II games.  I have worked regional tournament games at the high school level as well as at the collegiate level.  I have also worked USA Softball national tournaments. Continually improving my skills hoping to get to that NCAA Division II tournament or NCAA Division I games."
+                ]
+            ],
+            [
+                "NASA",
+                [
+                    "Company Name",
+                    "13 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Senior Engineer"
+                ],
+                [
+                    "Location",
+                    "Apr 2010 - Present · 12 yrs"
+                ],
+                [
+                    "More Info",
+                    "Fairmont, WV"
+                ]
+            ],
+            [
+                "Instructor, Software Engineering",
+                [
+                    "Company Name",
+                    "West Virginia University"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2005 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "16 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Morgantown, WV"
+                ],
+                [
+                    "More Info",
+                    "I teach two classes in the WVU Master's of Software Engineering Program - Software Analysis and Design and Software Evolution.  I have also recently started teaching a class in Verification and Validation in the same program at WVU."
+                ]
+            ],
+            [
+                "NASA",
+                [
+                    "Company Name",
+                    "5 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "NASA IV&amp;V Program Lead Engineer"
+                ],
+                [
+                    "Location",
+                    "Apr 2004 - Feb 2007 · 2 yrs 11 mos"
+                ],
+                [
+                    "More Info",
+                    "Senior Engineer"
+                ]
+            ]
+        ]
+    },
+    "Jeremy Dawson": {
+        "status": "success",
+        "Education": [
+            [
+                "West Virginia University",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2019 - 2021"
+                ],
+                [
+                    "More Info",
+                    "Grade: GPA: 3.62"
+                ]
+            ],
+            [
+                "West Virginia University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2019"
+                ],
+                [
+                    "More Info",
+                    "Grade: GPA: 3.62"
+                ]
+            ],
+            [
+                "West Virginia University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2019"
+                ],
+                [
+                    "More Info",
+                    "Grade: GPA: 3.62"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "West Virginia University - Dr. Jeremy Dawson",
+                [
+                    "Company Name",
+                    "3 yrs 11 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Morgantown, West Virginia, United States"
+                ],
+                [
+                    "Location",
+                    "Graduate Research Assistant"
+                ],
+                [
+                    "More Info",
+                    "May 2019 - Present · 2 yrs 11 mos"
+                ]
+            ],
+            [
+                "Electrical Engineering Intern",
+                [
+                    "Company Name",
+                    "STV · Internship"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2017 - Aug 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "New York, New York, United States"
+                ],
+                [
+                    "More Info",
+                    "Assisted Senior Engineers with design work using AutoCad, Revit, and MicroStation"
+                ]
+            ],
+            [
+                "Engineering Intern",
+                [
+                    "Company Name",
+                    "Middlesex County Department of Engineering · Internship"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 - Aug 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "New Brunswick, New Jersey"
+                ],
+                [
+                    "More Info",
+                    "Studied electrical diagrams of roadways and traffic lights to identify errors in the consultants’ diagrams"
+                ]
+            ]
+        ]
+    },
+    "Omid Dehzangi": {
+        "status": "success",
+        "Education": [
+            [
+                "Nanyang Technological University Singapore",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Discriminative Learning for Speech Processing and Recognition"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Automatic speech recognition, Speaker and language recognition, signal processing, pattern recognition."
+                ]
+            ],
+            [
+                "Shiraz University",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Artificial Intelligence"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2007"
+                ],
+                [
+                    "More Info",
+                    "Master thesis title: \"ROC analysis for designing Classification Systems\""
+                ]
+            ],
+            [
+                "Shiraz University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2004"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor &amp; Data Analytic Lead",
+                [
+                    "Company Name",
+                    "West Virginia University · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Morgantown, WV"
+                ],
+                [
+                    "More Info",
+                    "Rockefeller Neuroscience Institute,"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Michigan"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Jun 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Omid Dehzangi is an Assistant Professor in the Department of Computer and Information Science at University of Michigan-Dearborn."
+                ],
+                [
+                    "More Info",
+                    "His research interests lie broadly in the area of wearable embedded systems, their signal processing and data analytic algorithm design with the emphasis on medical applications."
+                ]
+            ],
+            [
+                "The University of Texas at Dallas",
+                [
+                    "Company Name",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Post Doctoral Research Associate"
+                ],
+                [
+                    "Location",
+                    "Jan 2013 - Jul 2014 · 1 yr 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Dallas/Fort Worth Area"
+                ]
+            ],
+            [
+                "Entrepreneur Lead",
+                [
+                    "Company Name",
+                    "NSF  I-CORPS"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2013 - Jul 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "* NSF award as co-PI and entrepreneur lead for innovation in self-calibrating Brain-Computer Interface signal processing for healthcare"
+                ]
+            ],
+            [
+                "Intern and collaborative studies",
+                [
+                    "Company Name",
+                    "Institute for Infocom research"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2008 - Oct 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Singapore"
+                ],
+                [
+                    "More Info",
+                    "* Worked closely with scientists at the Institute for Infocom Research (I2R) working in the field of speech and natural language processing. I have developed and improved state of the art speaker and spoken language recognition systems and tested NIST Speaker Recognition Evaluation (SRE) and Language Recognition Evaluation (LRE) tasks and data sets."
+                ]
+            ]
+        ]
+    },
+    "Tom Devine": {
+        "status": "success",
+        "Education": [
+            [
+                "Fairmont State University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.96"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Teaching Assistant Professor",
+                [
+                    "Company Name",
+                    "West Virginia University · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "Morgantown, West Virginia, United States"
+                ]
+            ],
+            [
+                "Assistant Professor of Computer Science and Cybersecurity",
+                [
+                    "Company Name",
+                    "Fairmont State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Aug 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Fairmont, WV"
+                ]
+            ],
+            [
+                "West Virginia University",
+                [
+                    "Company Name",
+                    "5 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Morgantown, WV"
+                ],
+                [
+                    "Location",
+                    "Ruby Distinguished Doctoral Fellow"
+                ],
+                [
+                    "More Info",
+                    "Sep 2012 - Aug 2015 · 3 yrs"
+                ]
+            ],
+            [
+                "Owner/Operator",
+                [
+                    "Company Name",
+                    "TPE Computer Services"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2008 - Apr 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Fairmont, WV"
+                ]
+            ],
+            [
+                "Summer Research Assistant",
+                [
+                    "Company Name",
+                    "National Astronomy and Ionosphere Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2010 - Aug 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ],
+                [
+                    "Location",
+                    "Arecibo, PR"
+                ],
+                [
+                    "More Info",
+                    "See all 8 experiences"
                 ]
             ]
         ]
@@ -200,7 +1083,7 @@
                 "Senior Software Engineer",
                 [
                     "Company Name",
-                    "IDEMIA National Security Solutions \u00b7 Full-time"
+                    "IDEMIA National Security Solutions · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -305,6 +1188,309 @@
                 [
                     "More Info",
                     "Communicate and reinforce the SN3 and DOE LM's vision, mission, values, and goals."
+                ]
+            ]
+        ]
+    },
+    "Gianfranco Doretto": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Los Angeles",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005"
+                ]
+            ],
+            [
+                "University of California, Los Angeles",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002"
+                ]
+            ],
+            [
+                "Università degli Studi di Padova",
+                [
+                    "Degree Name",
+                    "D.Eng. (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electronics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "West Virginia University",
+                [
+                    "Company Name",
+                    "11 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Computer Science and Electrical Engineering Department"
+                ],
+                [
+                    "Location",
+                    "Associate Professor"
+                ],
+                [
+                    "More Info",
+                    "Aug 2016 - Present · 5 yrs 8 mos"
+                ]
+            ],
+            [
+                "Co-Founder and CTO",
+                [
+                    "Company Name",
+                    "IstoVisio, Inc. (syGlass)"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Morgantown, WV"
+                ]
+            ],
+            [
+                "GE Global Research",
+                [
+                    "Company Name",
+                    "5 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Visualization and Computer Vision Laboratory"
+                ],
+                [
+                    "Location",
+                    "Lead Scientist"
+                ],
+                [
+                    "More Info",
+                    "Jan 2009 - Jul 2010 · 1 yr 7 mos"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of California, Los Angeles"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2000 - Jan 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Computer Science Department"
+                ]
+            ],
+            [
+                "Visiting Scholar",
+                [
+                    "Company Name",
+                    "Washington University in St. Louis"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2000 - Aug 2000"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ],
+                [
+                    "Location",
+                    "Electrical Engineering Department"
+                ],
+                [
+                    "More Info",
+                    "See all 10 experiences"
+                ]
+            ]
+        ]
+    },
+    "Dale Dzielski": {
+        "status": "success",
+        "Education": [
+            [
+                "Regent University",
+                [
+                    "Degree Name",
+                    "MBA"
+                ],
+                [
+                    "Field Of Study",
+                    " Executive Management"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1990"
+                ]
+            ],
+            [
+                "Fairmont State University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Business Administration"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 - 1986"
+                ],
+                [
+                    "More Info",
+                    "Fairmont senior high school"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "West Virginia University",
+                [
+                    "Company Name",
+                    "15 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Program Director"
+                ],
+                [
+                    "Location",
+                    "Jan 2018 - Present · 4 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Lecturer and Software Engineering Program Coordinator"
+                ]
+            ],
+            [
+                "Program Manager",
+                [
+                    "Company Name",
+                    "The NSF Center for Identification Technology Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2013 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs"
+                ],
+                [
+                    "Location",
+                    "Morgantown, WV"
+                ],
+                [
+                    "More Info",
+                    "Provide program management to the CITeR Program at WVU.  Assist with proposal development, networking, marketing, and projects oversight.  Work closely with the Principle Investigator (PI) and Director of CITeR to fulfill the program strategic mission and support the successful execution."
+                ]
+            ],
+            [
+                "Program Manager",
+                [
+                    "Company Name",
+                    "Ultra Electronics - ProLogic"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2012 - Aug 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Location",
+                    "DoE/NETL Morgantown, WV"
+                ],
+                [
+                    "More Info",
+                    "Enterprise Architecture Team Lead"
+                ]
+            ],
+            [
+                "Project Manager with Active Secret DoD Security Clearance",
+                [
+                    "Company Name",
+                    "ManTech Advanced Systems Int., Inc"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2003 - Dec 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Fairmont, WV"
+                ],
+                [
+                    "More Info",
+                    "Provided management oversight and business support for"
+                ]
+            ],
+            [
+                "Senior Business Analyst/Project Lead",
+                [
+                    "Company Name",
+                    "ProLogic, Inc"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 1998 - May 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Performed Senior Business Analysis functions and served as Project Lead for ManTech projects including:"
+                ],
+                [
+                    "More Info",
+                    "The Defense Logistics Agency (DLA) Supply Chain Technology and Analysis Research Project for the DLA Supply Chain Integration Office"
                 ]
             ]
         ]
@@ -464,10 +1650,292 @@
         "Education": [],
         "Experience": []
     },
+    "Victor Fragoso": {
+        "status": "success",
+        "Education": [
+            [
+                "UC Santa Barbara",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2014"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Four Eyes Lab"
+                ]
+            ],
+            [
+                "Universidad Nacional Autónoma de México",
+                [
+                    "Degree Name",
+                    "BE"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2008"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Researcher",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Redmond, WA"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "West Virginia University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - May 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 10 mos"
+                ]
+            ],
+            [
+                "Visiting Assistant Professor",
+                [
+                    "Company Name",
+                    "Carnegie Mellon University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 - Aug 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Pittsburgh, PA"
+                ]
+            ],
+            [
+                "UC Santa Barbara",
+                [
+                    "Company Name",
+                    "5 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Lecturer"
+                ],
+                [
+                    "Location",
+                    "Apr 2015 - Jun 2015 · 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Taught CS/ECE 281B Advanced Topics in Computer Vision."
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Computer Science Dept., UC Santa Barbara"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2009 - Dec 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "See all 12 experiences"
+                ]
+            ]
+        ]
+    },
     "Katerina Goseva-Popstojanova": {
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "David Graham": {
+        "status": "success",
+        "Education": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2006"
+                ],
+                [
+                    "More Info",
+                    "Master of Science (MS), Electrical and Computer Engineering"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "West Virginia University",
+                [
+                    "Company Name",
+                    "15 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Morgantown, WV"
+                ],
+                [
+                    "Location",
+                    "Associate Professor"
+                ],
+                [
+                    "More Info",
+                    "Aug 2012 - Present · 9 yrs 8 mos"
+                ]
+            ],
+            [
+                "Co-Founder",
+                [
+                    "Company Name",
+                    "Aspinity"
+                ],
+                [
+                    "Dates Employed",
+                    "2012 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 3 mos"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "Georgia Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2001 - Aug 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Atlanta, GA"
+                ]
+            ]
+        ]
+    },
+    "Yu Gu": {
+        "status": "success",
+        "Education": [
+            [
+                "West Virginia University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Aerospace Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2004"
+                ]
+            ],
+            [
+                "Shanghai Jiao Tong University",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Controls"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 1999"
+                ]
+            ],
+            [
+                "Shanghai University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Controls"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 1996"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "West Virginia University",
+                [
+                    "Company Name",
+                    "17 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Aug 2017 - Present · 4 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor"
+                ]
+            ]
+        ]
     },
     "Guodong Guo": {
         "status": "success",
@@ -496,7 +1964,7 @@
                 "Head of IDL (Institute of Deep Learning)",
                 [
                     "Company Name",
-                    "Baidu Research \u00b7 Full-time"
+                    "Baidu Research · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -526,7 +1994,7 @@
                 "Research Scientist",
                 [
                     "Company Name",
-                    "Microsoft Research Asia \u00b7 Full-time"
+                    "Microsoft Research Asia · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -565,6 +2033,336 @@
                 [
                     "Company Name",
                     "Lane Department of Computer Science and Electrical Engineering"
+                ]
+            ]
+        ]
+    },
+    "Mohamed Hefeida": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Chicago",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2013"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.8/4.0"
+                ]
+            ],
+            [
+                "Arab Academy for Science, Technology and Maritime Transport",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Laser and Optical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2006"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.88/4.0"
+                ]
+            ],
+            [
+                "Arab Academy for Science, Technology and Maritime Transport",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electronics and Communications Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2004"
+                ],
+                [
+                    "More Info",
+                    "Grade: First Rank: 3.98/4.0"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Teaching Associate Professor at West Virginia University",
+                [
+                    "Company Name",
+                    "West Virginia University · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "Morgantown, WV, United States"
+                ]
+            ],
+            [
+                "Clinical Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Idaho"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Aug 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "United States"
+                ]
+            ],
+            [
+                "Assistant Professor of Electrical Engineering",
+                [
+                    "Company Name",
+                    "American University of the Middle East (AUM)"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2014 - Jul 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Egaila, Kuwait"
+                ],
+                [
+                    "More Info",
+                    "• Teaching: Undergraduate course in Electrical and Computer Engineering"
+                ]
+            ],
+            [
+                "Visiting Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Illinois at Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ],
+                [
+                    "More Info",
+                    "• Teaching: Graduate &amp; Undergraduate EE/CE courses (Advanced Computer Architecture, Advanced"
+                ]
+            ],
+            [
+                "University of Illinois at Chicago",
+                [
+                    "Company Name",
+                    "5 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Instructor"
+                ],
+                [
+                    "Location",
+                    "Jan 2013 - May 2013 · 5 mos"
+                ],
+                [
+                    "More Info",
+                    "Greater Chicago Area"
+                ]
+            ]
+        ]
+    },
+    "Lawrence Hornak": {
+        "status": "success",
+        "Education": [
+            [
+                "Rutgers University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991"
+                ]
+            ],
+            [
+                "Stevens Institute of Technology",
+                [
+                    "Degree Name",
+                    "Master of Engineering (M.Eng.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986"
+                ]
+            ],
+            [
+                "Binghamton University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "The University of Georgia",
+                [
+                    "Company Name",
+                    "8 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Vice President for Research, Integrative Team initiatives"
+                ],
+                [
+                    "Location",
+                    "2020 - Present · 2 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Athens, GA"
+                ]
+            ],
+            [
+                "Founding Partner",
+                [
+                    "Company Name",
+                    "NexID Biometrics, LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "2006 - 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "13 yrs"
+                ],
+                [
+                    "Location",
+                    "Potsdam, NY"
+                ],
+                [
+                    "More Info",
+                    "Spoof Mitigation and Liveness Detection Solutions for the Biometric Authentication Industry"
+                ]
+            ],
+            [
+                "Program Director",
+                [
+                    "Company Name",
+                    "National Science Foundation"
+                ],
+                [
+                    "Dates Employed",
+                    "2010 - 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                [
+                    "Location",
+                    "Arlington, VA"
+                ],
+                [
+                    "More Info",
+                    "Program Director, Engineering Directorate, Industrial \t\t\t\t\t\tInnovations and Partnership Division, Industry/University \t\t\t\t\tCooperative Research Centers Program.  Interagency Personnel Act (IPA) Appointment on rotation from WVU."
+                ]
+            ],
+            [
+                "R. C. Byrd Professor",
+                [
+                    "Company Name",
+                    "West Virginia University"
+                ],
+                [
+                    "Dates Employed",
+                    "1991 - 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "23 yrs"
+                ],
+                [
+                    "Location",
+                    "Morgantown, WV"
+                ],
+                [
+                    "More Info",
+                    "Lane Dept. of Computer Science and Electrical Engineering (CSEE), College of Eng. and Min Resources (CEMR)."
+                ]
+            ],
+            [
+                "Member of Technical Staff",
+                [
+                    "Company Name",
+                    "AT&amp;T Bell Laboratories"
+                ],
+                [
+                    "Dates Employed",
+                    "1982 - 1991"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs"
+                ],
+                [
+                    "Location",
+                    "Holmdel, NJ"
+                ],
+                [
+                    "More Info",
+                    "Communications Systems Research Laboratory, Holmdel, NJ"
                 ]
             ]
         ]
@@ -683,6 +2481,173 @@
                 [
                     "Location",
                     "Columbus, Ohio Area + Baltimore"
+                ]
+            ]
+        ]
+    },
+    "Juggy Jagannathan": {
+        "status": "success",
+        "Education": [
+            [
+                "Vanderbilt University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Biomedical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978 - 1981"
+                ],
+                [
+                    "More Info",
+                    "Developed an expert system to analyse EEG signals - one of the first expert systems built in healthcare and for signal processing domain."
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Madras",
+                [
+                    "Degree Name",
+                    "BTech"
+                ],
+                [
+                    "Field Of Study",
+                    " EE"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1972 - 1977"
+                ]
+            ],
+            [
+                "Loyola College",
+                [
+                    "Degree Name",
+                    "Pre-University Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Math-Physics-Chemistry"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1971 - 1972"
+                ],
+                [
+                    "More Info",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "AI Evangelist",
+                [
+                    "Company Name",
+                    "3M|M*Modal"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Morgantown"
+                ],
+                [
+                    "More Info",
+                    "Research AI and Deep learning solutions and promote the same."
+                ]
+            ],
+            [
+                "West Virginia University",
+                [
+                    "Company Name",
+                    "31 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Adjunct Faculty of Computer Science"
+                ],
+                [
+                    "Location",
+                    "2007 - Present · 15 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Morgantown, WV"
+                ]
+            ],
+            [
+                "VP of Research",
+                [
+                    "Company Name",
+                    "M*Modal"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2003 - Feb 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "16 yrs"
+                ],
+                [
+                    "Location",
+                    "Morgantown, WV"
+                ],
+                [
+                    "More Info",
+                    "Responsible for exploring new product directions - particularly leveraging natural language understanding and deep learning technologies."
+                ]
+            ],
+            [
+                "CTO &amp; COO",
+                [
+                    "Company Name",
+                    "CareFlow|Net"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1996 - Mar 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Morgantown, WV"
+                ],
+                [
+                    "More Info",
+                    "Small business startup which grew to gross $3 Million in annual revenues when it was acquired by MedQuist."
+                ]
+            ],
+            [
+                "Teknowledge Corporation logo",
+                [
+                    "Company Name",
+                    "Manager"
+                ],
+                [
+                    "Dates Employed",
+                    "Teknowledge Corporation"
+                ],
+                [
+                    "Location",
+                    "Nov 1988 - Mar 1991 · 2 yrs 5 mos"
+                ],
+                [
+                    "More Info",
+                    "Pittsburgh"
                 ]
             ]
         ]
@@ -817,6 +2782,350 @@
         "Education": [],
         "Experience": []
     },
+    "David Krovich": {
+        "status": "success",
+        "Education": [
+            [
+                "West Virginia University",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Software Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: CyberWVU"
+                ]
+            ],
+            [
+                "West Virginia University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1997"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: ACM, Slackworks."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "West Virginia University",
+                [
+                    "Company Name",
+                    "20 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Associate"
+                ],
+                [
+                    "Location",
+                    "Jan 2017 - Present · 5 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Graduate Research Assistant"
+                ]
+            ],
+            [
+                "Senior Systems Administrator",
+                [
+                    "Company Name",
+                    "Pinpoint Networks"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2000 - Oct 2001"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Assembled and maintained a highly available infrastructure to serve the needs of fast growing dot com."
+                ]
+            ],
+            [
+                "West Virginia University",
+                [
+                    "Company Name",
+                    "3 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Manager of Information  Systems/Technology"
+                ],
+                [
+                    "Location",
+                    "Mar 1998 - Oct 2000 · 2 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "West Virginia"
+                ]
+            ]
+        ]
+    },
+    "Vinod Kulathumani": {
+        "status": "success",
+        "Education": [
+            [
+                "The Ohio State University",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2008"
+                ],
+                [
+                    "More Info",
+                    "Explored research problems related to fault tolerant network services for designing control and monitoring applications using wireless sensor networks."
+                ]
+            ],
+            [
+                "University of Mumbai",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1999"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Applied Scientist",
+                [
+                    "Company Name",
+                    "Amazon · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 10 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Boston"
+                ],
+                [
+                    "More Info",
+                    "Leading the location system research for Amazon's smart shopping cart which includes cart positioning using CV and AI technologies as well as support applications such as product location tracking, dynamic product recommendations and customer navigation."
+                ]
+            ],
+            [
+                "Co-founder / Consultant",
+                [
+                    "Company Name",
+                    "Aspinity Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Morgantown WV"
+                ],
+                [
+                    "More Info",
+                    "Aspinity’s innovations enable data to be processed at the sensor in the native analog form - it is based on a patent-pending selective wakeup technology that uses analog signal processing."
+                ]
+            ],
+            [
+                "TVision",
+                [
+                    "Company Name",
+                    "1 yr 11 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Chief Scientist"
+                ],
+                [
+                    "Location",
+                    "Jan 2020 - Jul 2020 · 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Greater Boston Area"
+                ]
+            ],
+            [
+                "Faculty advisor, Connected and Automated vehicles",
+                [
+                    "Company Name",
+                    "EcoCAR Mobility Challenge"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "11 mos"
+                ],
+                [
+                    "Location",
+                    "West Virginia University"
+                ],
+                [
+                    "More Info",
+                    "Advisor for the CAV component of the program which involves sensor fusion, computer vision and ADAS system integration. The EcoCAR challenge sponsored by the U.S. Department of Energy, General Motors and The MathWorks, and managed by Argonne National Laboratory — challenges students to develop connected and automated vehicle technologies, using a 2019 Chevrolet Blazer as the vehicle platform. The goal is to reduce energy consumption while maintaining the performance, safety and overall sporty design and feel of the original Blazer and appeal specifically to the emerging car-sharing market."
+                ]
+            ],
+            [
+                "West Virginia University",
+                [
+                    "Company Name",
+                    "10 yrs 11 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Aug 2014 - Jun 2019 · 4 yrs 11 mos"
+                ],
+                [
+                    "More Info",
+                    "Director of the Embedded Systems Research Group at West Virginia University."
+                ]
+            ]
+        ]
+    },
+    "Xin Li": {
+        "status": "success",
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2000"
+                ],
+                [
+                    "More Info",
+                    "Thesis: Edge-Directed Statistical Inference and Its Applications into Image Processing"
+                ]
+            ],
+            [
+                "University of Science and Technology of China",
+                [
+                    "Degree Name",
+                    "B.S"
+                ],
+                [
+                    "Field Of Study",
+                    " Electronics Engineering and Information Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996"
+                ],
+                [
+                    "More Info",
+                    "No. 3 Middle School, Shashi Hubei"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "West Virginia University",
+                [
+                    "Company Name",
+                    "12 yrs 11 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "May 2015 - Present · 6 yrs 11 mos"
+                ],
+                [
+                    "More Info",
+                    "Associate Professor"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "2003-2008"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2003 - May 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 5 mos"
+                ]
+            ],
+            [
+                "Sharp Labs of America logo",
+                [
+                    "Company Name",
+                    "Member of Technical Staff"
+                ],
+                [
+                    "Dates Employed",
+                    "Sharp Labs of America"
+                ],
+                [
+                    "Location",
+                    "Aug 2000 - Dec 2002 · 2 yrs 5 mos"
+                ]
+            ]
+        ]
+    },
     "Bin Liu": {
         "status": "success",
         "Education": [
@@ -856,7 +3165,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "West Virginia University \u00b7 Full-time"
+                    "West Virginia University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -871,7 +3180,7 @@
                 "Research Scientist",
                 [
                     "Company Name",
-                    "IBM Research \u00b7 Full-time"
+                    "IBM Research · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -890,7 +3199,7 @@
                 "PhD student",
                 [
                     "Company Name",
-                    "Rutgers University \u00b7 Full-time"
+                    "Rutgers University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1020,7 +3329,7 @@
                 "Engineering Scientist",
                 [
                     "Company Name",
-                    "West Virginia University \u00b7 Full-time"
+                    "West Virginia University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1039,7 +3348,7 @@
                 "Post-Doctoral Research Associate",
                 [
                     "Company Name",
-                    "Washington State University \u00b7 Full-time"
+                    "Washington State University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1058,7 +3367,7 @@
                 "Research Associate",
                 [
                     "Company Name",
-                    "Indian Institute of Technology, Bombay \u00b7 Full-time"
+                    "Indian Institute of Technology, Bombay · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1128,6 +3437,161 @@
                 [
                     "Employment Duration",
                     "43 yrs 7 mos"
+                ]
+            ]
+        ]
+    },
+    "Piyush Mehta": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of Kansas",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD) with HONORS"
+                ],
+                [
+                    "Field Of Study",
+                    " Aerospace Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2013"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Project Manager/Lead: Intro to Flight Test Engineering, The University of Kansas"
+                ]
+            ],
+            [
+                "The University of Kansas",
+                [
+                    "Degree Name",
+                    "Bachelor of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Aerospace Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2009"
+                ]
+            ],
+            [
+                "Utah State University",
+                [
+                    "Degree Name",
+                    "Aerospace"
+                ],
+                [
+                    "Field Of Study",
+                    " Aeronautical and Astronautical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2007"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Special Government Employee",
+                [
+                    "Company Name",
+                    "NASA Space Weather Council"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2022 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ]
+            ],
+            [
+                "West Virginia University",
+                [
+                    "Company Name",
+                    "3 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Adjunct Assistant Professor in LCSEE"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Aug 2021 - Present · 8 mos"
+                ]
+            ],
+            [
+                "University of Minnesota",
+                [
+                    "Company Name",
+                    "1 yr 11 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Associate"
+                ],
+                [
+                    "Location",
+                    "Mar 2018 - Aug 2018 · 6 mos"
+                ],
+                [
+                    "More Info",
+                    "Postdoctoral Research Associate"
+                ]
+            ],
+            [
+                "Marie Curie Fellow",
+                [
+                    "Company Name",
+                    "University of Strathclyde"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2014 - Mar 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Glasgow, United Kingdom"
+                ],
+                [
+                    "More Info",
+                    "&gt; Modeling and Simulation of Atmospheric Reentry as part of the STARDUST project."
+                ]
+            ],
+            [
+                "Visiting Fellow",
+                [
+                    "Company Name",
+                    "Deimos Space"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2015 - Dec 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Madrid Area, Spain"
+                ],
+                [
+                    "More Info",
+                    "See all 19 experiences"
                 ]
             ]
         ]
@@ -1203,10 +3667,288 @@
             ]
         ]
     },
+    "Gregory Mundy": {
+        "status": "success",
+        "Education": [
+            [
+                "West Virginia University",
+                [
+                    "Degree Name",
+                    "Master of Science (M.Sc.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2004"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Upsilon Pi Epsilon, IEEE, ACM"
+                ]
+            ],
+            [
+                "West Virginia University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.Sc.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2001"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Upsilon Pi Epsilon, IEEE, ACM"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Head Of Engineering",
+                [
+                    "Company Name",
+                    "Axle   · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Location",
+                    "New York, United States"
+                ]
+            ],
+            [
+                "BrightHive",
+                [
+                    "Company Name",
+                    "2 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Chicago, Illinois"
+                ],
+                [
+                    "Location",
+                    "VP Of Engineering"
+                ],
+                [
+                    "More Info",
+                    "Full-time"
+                ]
+            ],
+            [
+                "Global Science &amp; Technology, Inc",
+                [
+                    "Company Name",
+                    "12 yrs 4 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Fairmont, WV"
+                ],
+                [
+                    "Location",
+                    "Lead Software Engineer, GST Weather Group"
+                ],
+                [
+                    "More Info",
+                    "Full-time"
+                ]
+            ],
+            [
+                "Assistant Professor of Computer Science &amp; Management Information Systems",
+                [
+                    "Company Name",
+                    "Alderson-Broaddus College"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2004 - May 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Philippi, WV"
+                ]
+            ]
+        ]
+    },
+    "Nasser Nasrabadi": {
+        "status": "success",
+        "Education": [
+            [
+                "Imperial College London",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1980 - 1984"
+                ]
+            ],
+            [
+                "Imperial College London",
+                [
+                    "Degree Name",
+                    "Bachelor's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1977 - 1980"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "West Virginia University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "LCSEE"
+                ]
+            ],
+            [
+                "Senior Research Scientist (ST)",
+                [
+                    "Company Name",
+                    "US Army Research Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 1996 - Aug 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "18 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Adelphi, MD 20817 USA"
+                ]
+            ],
+            [
+                "Associate Professor (Tenured)",
+                [
+                    "Company Name",
+                    "State University of New York (SUNY) at Buffalo"
+                ],
+                [
+                    "Dates Employed",
+                    "1991 - 1996"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "Amherst, NY"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Worcester Polytechnic Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "1986 - 1991"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "Worcester, MA USA"
+                ]
+            ],
+            [
+                "Tilburg University/ Philips Research logo",
+                [
+                    "Company Name",
+                    "Senior Member of Research Stuff"
+                ],
+                [
+                    "Dates Employed",
+                    "Tilburg University/ Philips Research"
+                ],
+                [
+                    "Location",
+                    "Jan 1985 - Aug 1986 · 1 yr 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Briarcliff manor, NY 10510"
+                ]
+            ]
+        ]
+    },
     "Afzel Noore": {
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "Roy Nutter Jr.": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "West Virginia University",
+                [
+                    "Company Name",
+                    "48 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor Emeritus"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Dec 2021 - Present · 4 mos"
+                ]
+            ]
+        ]
     },
     "Guilherme Pereira": {
         "status": "success",
@@ -1260,6 +4002,191 @@
             ]
         ]
     },
+    "Robert Phipps": {
+        "status": "success",
+        "Education": [
+            [
+                "West Virginia University",
+                [
+                    "Degree Name",
+                    "Master of Arts (M.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " History"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 1995"
+                ]
+            ],
+            [
+                "Shepherd University",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Secondary Education and Teaching"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1993"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "West Virginia University",
+                [
+                    "Company Name",
+                    "24 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professional Technologist III"
+                ],
+                [
+                    "Location",
+                    "Jun 2000 - Present · 21 yrs 10 mos"
+                ],
+                [
+                    "More Info",
+                    "Morgantown, WV"
+                ]
+            ]
+        ]
+    },
+    "Brian Powell": {
+        "status": "success",
+        "Education": [
+            [
+                "West Virginia University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2018"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: IEEE, ACM, Upsilon Pi Epsilon, Phi Kappa Phi, American Society for Engineering Education"
+                ]
+            ],
+            [
+                "West Virginia University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: ACM, IEEE, Upsilon Pi Epsilon"
+                ]
+            ],
+            [
+                "Malone University",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Association of Information Technology Professionals, Sigma Zeta Mathematics &amp; Science Honorary, Malone College Advanced Computer Science Laboratory"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "West Virginia University",
+                [
+                    "Company Name",
+                    "18 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Teaching Assistant Professor in Lane Department of Computer Science &amp; Electrical Engineering"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Aug 2018 - Present · 3 yrs 8 mos"
+                ]
+            ],
+            [
+                "Owner",
+                [
+                    "Company Name",
+                    "Allegheny Geotourism"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 - Feb 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Morgantown, WV"
+                ],
+                [
+                    "More Info",
+                    "Owner of small business focused on helping communities grow their tourism economies by developing geocaching trails."
+                ]
+            ],
+            [
+                "Developer/Systems Administrator",
+                [
+                    "Company Name",
+                    "In the Round Design Group"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2002 - Aug 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 4 mos"
+                ],
+                [
+                    "Location",
+                    "Canton, OH"
+                ],
+                [
+                    "More Info",
+                    "Lead developer and systems administrator for a rapidly-growing small business that provided website development, programming, and hosting services for clients around Northeastern Ohio."
+                ]
+            ]
+        ]
+    },
     "Ron Reaser": {
         "status": "fail",
         "Education": [],
@@ -1273,7 +4200,7 @@
                 "Professor",
                 [
                     "Company Name",
-                    "West Virginia University \u00b7 Full-time"
+                    "West Virginia University · Full-time"
                 ]
             ]
         ]
@@ -1300,6 +4227,149 @@
                 [
                     "Employment Duration",
                     "19 yrs 8 mos"
+                ]
+            ]
+        ]
+    },
+    "Arun Ross": {
+        "status": "success",
+        "Education": [
+            [
+                "Michigan State University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2003"
+                ]
+            ],
+            [
+                "Michigan State University",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 1999"
+                ]
+            ],
+            [
+                "Birla Institute of Technology and Science, Pilani",
+                [
+                    "Degree Name",
+                    "B.E. (Hons)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 1996"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Michigan State University",
+                [
+                    "Company Name",
+                    "9 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "John and Eva Cillag Endowed Chair in Science and Engineering"
+                ],
+                [
+                    "Location",
+                    "Aug 2019 - Present · 2 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Professor"
+                ]
+            ],
+            [
+                "MSU Site Director",
+                [
+                    "Company Name",
+                    "NSF Center for Identification Technology Research (CITeR)"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 6 mos"
+                ]
+            ],
+            [
+                "West Virginia University",
+                [
+                    "Company Name",
+                    "18 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Adjunct Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Jan 2013 - Present · 9 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor; Associate Professor"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Michigan State University"
+                ],
+                [
+                    "Dates Employed",
+                    "1998 - 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ],
+            [
+                "Summer Intern",
+                [
+                    "Company Name",
+                    "Siemens Corporate Research, Princeton"
+                ],
+                [
+                    "Dates Employed",
+                    "2000 - 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Spent three summers with the Imaging and Visualization Group."
+                ],
+                [
+                    "More Info",
+                    "See all 9 experiences"
                 ]
             ]
         ]
@@ -1334,7 +4404,7 @@
                 ]
             ],
             [
-                "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+                "Universidad Nacional Autónoma de México",
                 [
                     "Degree Name",
                     "Bachelor of Science - BS"
@@ -1354,7 +4424,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "Northeastern University \u00b7 Full-time"
+                    "Northeastern University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1373,7 +4443,7 @@
                 "Affiliate Assistant Professor",
                 [
                     "Company Name",
-                    "University of Washington \u00b7 Part-time"
+                    "University of Washington · Part-time"
                 ],
                 [
                     "Dates Employed",
@@ -1392,7 +4462,7 @@
                 "Senior Software Engineer at Microsoft Bing",
                 [
                     "Company Name",
-                    "Microsoft \u00b7 Full-time"
+                    "Microsoft · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1556,6 +4626,142 @@
         "Education": [],
         "Experience": []
     },
+    "Layth Sliman": {
+        "status": "success",
+        "Education": [
+            [
+                "Université Paris-Saclay",
+                [
+                    "Degree Name",
+                    "Habilitation à diriger des recherches (State doctorate)"
+                ],
+                [
+                    "Field Of Study",
+                    " Informatique"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2018 - 2020"
+                ],
+                [
+                    "More Info",
+                    "Grade: TRÈS HONORABLE"
+                ]
+            ],
+            [
+                "INSA Lyon - Institut National des Sciences Appliquées de Lyon",
+                [
+                    "Degree Name",
+                    "Research Doctorate"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer and Information Systems Security/Information Assurance"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2009"
+                ]
+            ],
+            [
+                "INSA Lyon - Institut National des Sciences Appliquées de Lyon",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Science/Studies"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2006"
+                ],
+                [
+                    "More Info",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "EFREI",
+                [
+                    "Company Name",
+                    "11 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Chercheur"
+                ],
+                [
+                    "Location",
+                    "Sep 2010 - Present · 11 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Enseignant Chercheur et responsable filère mastère BI"
+                ]
+            ],
+            [
+                "Ingénieur d'Etudes",
+                [
+                    "Company Name",
+                    "INP Toulouse - Institut National Polytechnique de Toulouse"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2010 - Sep 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Location",
+                    "Région de Tarbes, France"
+                ]
+            ],
+            [
+                "INSA Lyon",
+                [
+                    "Company Name",
+                    "3 yrs 4 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Attaché Temporaire d'Enseignement et de Recherche"
+                ],
+                [
+                    "Location",
+                    "Oct 2009 - Apr 2010 · 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Région de Lyon, France"
+                ]
+            ],
+            [
+                "Ingénieur de recherche et enseignant à la faculté de génie Informatique",
+                [
+                    "Company Name",
+                    "Albaath university"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2000 - Sep 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Université AlBaath"
+                ]
+            ]
+        ]
+    },
     "Jignesh Solanki": {
         "status": "success",
         "Education": [
@@ -1628,6 +4834,149 @@
             ]
         ]
     },
+    "Anurag Srivastava": {
+        "status": "success",
+        "Education": [
+            [
+                "Illinois Institute of Technology",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2005"
+                ]
+            ],
+            [
+                "Indian Institute of Technology (Banaras Hindu University), Varanasi",
+                [
+                    "Degree Name",
+                    "Masters"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 1999"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Kanpur",
+                [
+                    "Degree Name",
+                    "See all 5 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Raymond J. Lane Professor and Chairperson of Computer Science and Electrical Engineering Department",
+                [
+                    "Company Name",
+                    "West Virginia University · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 mos"
+                ],
+                [
+                    "Location",
+                    "Morgantown, West Virginia, United States"
+                ],
+                [
+                    "More Info",
+                    "Statler College Faculty-Staff Directory | Anurag Srivastava"
+                ]
+            ],
+            [
+                "Senior Scientist",
+                [
+                    "Company Name",
+                    "Pacific Northwest National Laboratory · Part-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ]
+            ],
+            [
+                "Washington State University",
+                [
+                    "Company Name",
+                    "11 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Adjunct Professor"
+                ],
+                [
+                    "Location",
+                    "Part-time"
+                ],
+                [
+                    "More Info",
+                    "Jul 2021 - Present · 9 mos"
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "Peak Reliability"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 - Aug 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ],
+                [
+                    "Location",
+                    "Vancouver, WA"
+                ]
+            ],
+            [
+                "Guest Professor",
+                [
+                    "Company Name",
+                    "E.ON ERC, RWTH Aachen University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 - Jul 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ],
+                [
+                    "Location",
+                    "Aachen, Germany"
+                ],
+                [
+                    "More Info",
+                    "See all 17 experiences"
+                ]
+            ]
+        ]
+    },
     "K. Subramani": {
         "status": "success",
         "Education": [],
@@ -1671,6 +5020,102 @@
                 [
                     "Company Name",
                     "WVU"
+                ]
+            ]
+        ]
+    },
+    "George Trapp": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "George Trapp",
+                [
+                    "Company Name",
+                    "52 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Ph D."
+                ],
+                [
+                    "Location",
+                    "Jan 1970 - Present · 52 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Professor"
+                ]
+            ]
+        ]
+    },
+    "Matthew Valenti": {
+        "status": "success",
+        "Education": [
+            [
+                "Virginia Tech",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1999"
+                ]
+            ],
+            [
+                "The Johns Hopkins University",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 1995"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "West Virginia University",
+                [
+                    "Company Name",
+                    "22 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Aug 1999 - Present · 22 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Raymond J. Lane Chair of the Lane Department of CS and EE"
+                ]
+            ],
+            [
+                "Electronics Engineer",
+                [
+                    "Company Name",
+                    "Naval Research Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "May 1991 - Aug 1995"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 4 mos"
                 ]
             ]
         ]
@@ -1792,7 +5237,7 @@
                 "Director of Data Science",
                 [
                     "Company Name",
-                    "VMware \u00b7 Full-time"
+                    "VMware · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1815,7 +5260,7 @@
                 "Principal Architect,Director",
                 [
                     "Company Name",
-                    "Futurewei Technologies, Inc. \u00b7 Full-time"
+                    "Futurewei Technologies, Inc. · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1838,7 +5283,7 @@
                 "Staff Software Engineer",
                 [
                     "Company Name",
-                    "Samsung Electronics America \u00b7 Full-time"
+                    "Samsung Electronics America · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1944,7 +5389,7 @@
                 "Assistant Professor of Radiology",
                 [
                     "Company Name",
-                    "Washington University in St. Louis \u00b7 Full-time"
+                    "Washington University in St. Louis · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1963,7 +5408,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "West Virginia University \u00b7 Full-time"
+                    "West Virginia University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -2018,6 +5463,98 @@
             ]
         ]
     },
+    "Scott Warden": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "West Virginia DOT logo",
+                [
+                    "Company Name",
+                    "Warden"
+                ],
+                [
+                    "Dates Employed",
+                    "West Virginia DOT"
+                ]
+            ]
+        ]
+    },
+    "Brian Woerner": {
+        "status": "success",
+        "Education": [
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer and Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 - 1996"
+                ]
+            ],
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering Systems"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1991"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "West Virginia University",
+                [
+                    "Company Name",
+                    "17 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Morgantown, WV"
+                ],
+                [
+                    "Location",
+                    "Professor"
+                ],
+                [
+                    "More Info",
+                    "Full-time"
+                ]
+            ],
+            [
+                "Virginia Tech",
+                [
+                    "Company Name",
+                    "Full-time · 12 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Blacksburg, VA"
+                ],
+                [
+                    "Location",
+                    "Professor"
+                ],
+                [
+                    "More Info",
+                    "Aug 2001 - 2004 · 2 yrs 6 mos"
+                ]
+            ]
+        ]
+    },
     "Piotr Wojciechowski": {
         "status": "fail",
         "Education": [],
@@ -2037,6 +5574,142 @@
                 [
                     "Company Name",
                     "West Virginia University"
+                ]
+            ]
+        ]
+    },
+    "Scott Zemerick": {
+        "status": "success",
+        "Education": [
+            [
+                "West Virginia University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2020"
+                ]
+            ],
+            [
+                "West Virginia University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2002"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Chief Systems Engineer",
+                [
+                    "Company Name",
+                    "TMC Technologies of WV / NASA"
+                ],
+                [
+                    "Dates Employed",
+                    "2011 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "11 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "simulator design and development, hardware modeling, MIL-STD-1553, space systems, spacecraft flight software, cubesats/smallsats, R&amp;D, sensor platforms, sensor integration, embedded systems"
+                ]
+            ],
+            [
+                "Team Member",
+                [
+                    "Company Name",
+                    "West Virginia University Robotics Team"
+                ],
+                [
+                    "Dates Employed",
+                    "2012 - 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Participating in the WVU Robotics Team Competitions.  Designed cellular communications TCP/IP socket software to facilitate teleoperation of the robot.  Integrated custom Axis camera software."
+                ]
+            ],
+            [
+                "Systems Engineer",
+                [
+                    "Company Name",
+                    "Augusta Systems/Intergraph"
+                ],
+                [
+                    "Dates Employed",
+                    "2005 - 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
+                ],
+                [
+                    "Location",
+                    "Smart grid deployment, physical security integration, monitoring system design, wireless deployment, middleware, sensors, software APIs, software/hardware interfacing, unmanned vehicles, prototype development"
+                ]
+            ],
+            [
+                "Vice President",
+                [
+                    "Company Name",
+                    "Zemerick Software, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "2001 - 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs"
+                ],
+                [
+                    "Location",
+                    "Designed, developed, and marketed commercial software for parental control, business compliance, and investigative software for law enforcement agencies. Over 10,000 customers worldwide."
+                ]
+            ],
+            [
+                "Titan Corporation logo",
+                [
+                    "Company Name",
+                    "Systems Engineer"
+                ],
+                [
+                    "Dates Employed",
+                    "Titan Corporation"
+                ],
+                [
+                    "Location",
+                    "2002 - 2005 · 3 yrs"
+                ],
+                [
+                    "More Info",
+                    "Contractor for GE Aircraft Engines. Specialized in control engine software for the F136."
                 ]
             ]
         ]

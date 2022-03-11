@@ -209,6 +209,130 @@
             ]
         ]
     },
+    "Saunders, Adam": {
+        "status": "success",
+        "Education": [
+            [
+                "College of the Holy Cross",
+                [
+                    "Degree Name",
+                    "Bachelor's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Accounting"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2017 - 2021"
+                ]
+            ],
+            [
+                "Plymouth High School",
+                [
+                    "Degree Name",
+                    "High School Diploma"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2017"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Tax Staff",
+                [
+                    "Company Name",
+                    "EY · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago, Illinois, United States"
+                ]
+            ],
+            [
+                "FSO Tax Intern",
+                [
+                    "Company Name",
+                    "EY · Internship"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 - Aug 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago, Illinois, United States"
+                ]
+            ],
+            [
+                "Pro Shop",
+                [
+                    "Company Name",
+                    "The Inn at St. John's"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2019 - Aug 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ]
+            ],
+            [
+                "Emerging Leaders Program-Participant",
+                [
+                    "Company Name",
+                    "EY · Part-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "1 mo"
+                ],
+                [
+                    "Location",
+                    "Boston, Massachusetts"
+                ]
+            ],
+            [
+                "Cart Staff",
+                [
+                    "Company Name",
+                    "The Inn at St. John's"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2018 - Aug 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "See all 6 experiences"
+                ]
+            ]
+        ]
+    },
     "Schwendenmann, Michael": {
         "status": "success",
         "Education": [
@@ -216,7 +340,7 @@
                 "Western New England University",
                 [
                     "Degree Name",
-                    "Bachelor\u2019s Degree"
+                    "Bachelor’s Degree"
                 ],
                 [
                     "Field Of Study",
@@ -264,11 +388,11 @@
                 ],
                 [
                     "Location",
-                    "\u2022\tCo-managed a $3 million dollar book of business"
+                    "•\tCo-managed a $3 million dollar book of business"
                 ],
                 [
                     "More Info",
-                    "\u2022\tManaged 50 temporary employees on average"
+                    "•\tManaged 50 temporary employees on average"
                 ]
             ],
             [
@@ -291,7 +415,7 @@
                 ],
                 [
                     "More Info",
-                    "\u2022\tFinancial and marketing small business consulting"
+                    "•\tFinancial and marketing small business consulting"
                 ]
             ]
         ]
@@ -371,6 +495,843 @@
             ]
         ]
     },
+    "Serafini, Marco": {
+        "status": "success",
+        "Education": [
+            [
+                "Technische Universität Darmstadt",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Grade: Ausgezeichnet (Excellent)"
+                ]
+            ],
+            [
+                "Università degli Studi di Firenze",
+                [
+                    "Degree Name",
+                    "Laurea"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2004"
+                ],
+                [
+                    "More Info",
+                    "Grade: 110/110 summa cum laude"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Massachusetts Amherst"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Amherst"
+                ]
+            ],
+            [
+                "Qatar Computing Research Institute",
+                [
+                    "Company Name",
+                    "5 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Senior Scientist"
+                ],
+                [
+                    "Location",
+                    "Sep 2017 - Aug 2018 · 1 yr"
+                ],
+                [
+                    "More Info",
+                    "Doha, Qatar"
+                ]
+            ],
+            [
+                "Postdoc",
+                [
+                    "Company Name",
+                    "Yahoo! Research"
+                ],
+                [
+                    "Dates Employed",
+                    "2010 - Jan 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Barcelona"
+                ],
+                [
+                    "More Info",
+                    "Large-scale, dependable distributed systems."
+                ]
+            ]
+        ]
+    },
+    "Sharma, Sahil": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "Masters"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2019 - 2021"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Graduate Student Assistant in the WEB Du Bois Library of UMass"
+                ]
+            ],
+            [
+                "SRM University",
+                [
+                    "Degree Name",
+                    "BACHELOR OF TECHNOLOGY"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Grade: 9.0/10"
+                ]
+            ],
+            [
+                "Kendriya Vidyalaya",
+                [
+                    "Degree Name",
+                    "High School"
+                ],
+                [
+                    "Field Of Study",
+                    " Physics, Chemistry, Maths with Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Grade: 92.4%"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Company Name",
+                    "1 yr 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Fellow"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "May 2021 - Present · 10 mos"
+                ]
+            ],
+            [
+                "Software Engineer Intern",
+                [
+                    "Company Name",
+                    "Tesla · Internship"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2020 - Aug 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Amherst, Massachusetts, United States"
+                ],
+                [
+                    "More Info",
+                    "- Developed a Splunk dashboard to track important QA metrics which will be used extensively by the software team to track progress and gain confidence before release signoffs. This is expected to increase test coverage and gather insights quickly into the critical aspects of testing."
+                ]
+            ],
+            [
+                "Software Engineer",
+                [
+                    "Company Name",
+                    "SonicWALL Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 - Jul 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Bengaluru Area, India"
+                ],
+                [
+                    "More Info",
+                    "I worked under the Endpoint Protection, Remote Access (SSLVPN, VPN - Enterprise and small businesses) and Firewall product lines."
+                ]
+            ]
+        ]
+    },
+    "Shaw, Kerry": {
+        "status": "success",
+        "Education": [
+            [
+                "Colby College",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " English Literature"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 1997"
+                ]
+            ],
+            [
+                "Simmons University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Library &amp; Information Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2002"
+                ]
+            ],
+            [
+                "University of Denver",
+                [
+                    "Degree Name",
+                    "Publishing Institute"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997"
+                ],
+                [
+                    "More Info",
+                    "A four-week intensive program focusing on all aspects of the book publishing industry"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Manning College of Information and Computer Sciences, UMass Amherst",
+                [
+                    "Company Name",
+                    "6 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Director of Strategic Initiatives and Communication"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Jan 2022 - Present · 2 mos"
+                ]
+            ],
+            [
+                "Next-Mark, LLC",
+                [
+                    "Company Name",
+                    "2 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Sarasota, Florida Area"
+                ],
+                [
+                    "Location",
+                    "Director, Client Experience"
+                ],
+                [
+                    "More Info",
+                    "Jan 2014 - Apr 2015 · 1 yr 4 mos"
+                ]
+            ],
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Company Name",
+                    "9 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Director, Academic Computing"
+                ],
+                [
+                    "Location",
+                    "Sep 2010 - May 2012 · 1 yr 9 mos"
+                ],
+                [
+                    "More Info",
+                    "* In collaboration with the Director of Academic Computing, managed day-to-day operations of OIT’s Academic Computing department, a group dedicated to integrating technology into the classroom; oversaw hiring, personnel actions, and management of facilities and assets"
+                ]
+            ],
+            [
+                "Lead Content Strategist",
+                [
+                    "Company Name",
+                    "Ogilvy &amp; Mather"
+                ],
+                [
+                    "Dates Employed",
+                    "2000 - 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "* Advised clients on Web site content selection, publication, and maintenance, including work flow processes and content management tool selection"
+                ],
+                [
+                    "More Info",
+                    "* Produced design specifications for content management systems, including metadata schemes and classification systems"
+                ]
+            ],
+            [
+                "Editor",
+                [
+                    "Company Name",
+                    "piiq.com, Inc"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1999 - Apr 2000"
+                ],
+                [
+                    "Employment Duration",
+                    "9 mos"
+                ],
+                [
+                    "Location",
+                    "* Wrote, edited, and proofread copy on piiq.com’s front and internal pages"
+                ],
+                [
+                    "More Info",
+                    "* Planned production and editorial schedule"
+                ]
+            ]
+        ]
+    },
+    "Sheldon, Dan": {
+        "status": "success",
+        "Education": [
+            [
+                "Cornell University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2009"
+                ]
+            ],
+            [
+                "Dartmouth College",
+                [
+                    "Degree Name",
+                    "A.B."
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1999"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Massachusetts Amherst"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 7 mos"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Mount Holyoke College"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 7 mos"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Oregon State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2010 - Aug 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ]
+            ],
+            [
+                "Ph.D. Candidate, Computer Science",
+                [
+                    "Company Name",
+                    "Cornell University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2004 - Dec 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 5 mos"
+                ]
+            ],
+            [
+                "DataPower Technology logo",
+                [
+                    "Company Name",
+                    "Software Developer"
+                ],
+                [
+                    "Dates Employed",
+                    "DataPower Technology"
+                ],
+                [
+                    "Location",
+                    "2002 - 2004 · 2 yrs"
+                ],
+                [
+                    "More Info",
+                    "See all 6 experiences"
+                ]
+            ]
+        ]
+    },
+    "Shenoy, Prashant": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of Texas at Austin",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Sciences"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 1993 - Aug 1998"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Bombay",
+                [
+                    "Degree Name",
+                    "B.Tech"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Jul 1989 - Jun 1993"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Company Name",
+                    "23 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Distinguished Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2020 - Present · 1 yr 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Amherst, Massachusetts, United States"
+                ]
+            ],
+            [
+                "Technical Advisor, Board member",
+                [
+                    "Company Name",
+                    "Heystack"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 6 mos"
+                ]
+            ]
+        ]
+    },
+    "Shiao, Jennifer": {
+        "status": "success",
+        "Education": [
+            [
+                "Tufts University",
+                [
+                    "Degree Name",
+                    "B.A."
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1994"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Director for Communications and Marketing, College of Information and Computer Sciences",
+                [
+                    "Company Name",
+                    "College of Information and Computer Sciences, UMass Amherst · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 6 mos"
+                ]
+            ],
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Company Name",
+                    "9 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Director for Strategic Communications, Center for Data Science"
+                ],
+                [
+                    "Location",
+                    "Mar 2018 - Nov 2021 · 3 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Amherst, MA"
+                ]
+            ],
+            [
+                "Manager",
+                [
+                    "Company Name",
+                    "Procter &amp; Gamble"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2006 - Jun 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 10 mos"
+                ]
+            ],
+            [
+                "Market Analytics Team Leader",
+                [
+                    "Company Name",
+                    "Tom's of Maine"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2004 - Sep 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 6 mos"
+                ]
+            ],
+            [
+                "Market Analytics Manager",
+                [
+                    "Company Name",
+                    "Gillette"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2000 - Apr 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "See all 12 experiences"
+                ]
+            ]
+        ]
+    },
+    "Siegelmann, Hava": {
+        "status": "success",
+        "Education": [
+            [
+                "Rutgers University",
+                [
+                    "Degree Name",
+                    "PHD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1993"
+                ],
+                [
+                    "More Info",
+                    "University Fellow of Excellence"
+                ]
+            ],
+            [
+                "The Hebrew University of Jerusalem",
+                [
+                    "Degree Name",
+                    "Master of Science (MSc)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1992"
+                ],
+                [
+                    "More Info",
+                    "Cum Laude"
+                ]
+            ],
+            [
+                "Technion - Israel Institute of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (BA)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 - 1988"
+                ],
+                [
+                    "More Info",
+                    "Summa Cum Laude"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Company Name",
+                    "Full-time · 20 yrs 4 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Nov 2001 - Present · 20 yrs 4 mos"
+                ],
+                [
+                    "More Info",
+                    "Research and development - Forefront of Machine Intelligence, Combined with Human Intelligence, Low power AI (mathematics, software,hardware)"
+                ]
+            ],
+            [
+                "Program Manager",
+                [
+                    "Company Name",
+                    "Defense Advanced Research Projects Agency (DARPA) · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 - 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 8 mos"
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "Harvard University · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2008 - Dec 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Research in Evolutionary Dynamics, Applications in Economy, Society, Cellular Biology"
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "mit · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "2000 - 2001"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Research and Leadership - Laboratory of Information and Decision Systems"
+                ]
+            ],
+            [
+                "Faculty and Head- Information Systems Engineering",
+                [
+                    "Company Name",
+                    "Technion - Israel Institute of Technology · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 1994 - 2001"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "State of Israel Alon Fellow. Head of Information Systems Engineering: Lead Joint Activity of Industry and Government To Create Top Notch Program (Undergrad/Grad), Support Much of Israeli Technological Start-ups"
+                ]
+            ]
+        ]
+    },
     "Sihvonen-Binder, Paul": {
         "status": "fail",
         "Education": [],
@@ -446,7 +1407,7 @@
                 ],
                 [
                     "Location",
-                    "Helped pioneer content delivery networks (CDNs) that currently deliver much of the world\u2019s web content, streaming videos, and online applications. Was responsible for the end-to-end performance of all Akamai products and services."
+                    "Helped pioneer content delivery networks (CDNs) that currently deliver much of the world’s web content, streaming videos, and online applications. Was responsible for the end-to-end performance of all Akamai products and services."
                 ]
             ]
         ]
@@ -504,6 +1465,145 @@
         ],
         "Experience": []
     },
+    "Smith, Katie": {
+        "status": "success",
+        "Education": [
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Anthropology/Primatology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2012"
+                ]
+            ],
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "Master's"
+                ],
+                [
+                    "Field Of Study",
+                    " Anthropology/Primatology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2012"
+                ]
+            ],
+            [
+                "The University of Texas at San Antonio",
+                [
+                    "Degree Name",
+                    "Bachelor's"
+                ],
+                [
+                    "Field Of Study",
+                    " Anthropology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Research Administrator",
+                [
+                    "Company Name",
+                    "University of Massachusetts Amherst · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "Amherst, Massachusetts, United States"
+                ]
+            ],
+            [
+                "Purdue University",
+                [
+                    "Company Name",
+                    "9 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Visiting Scholar"
+                ],
+                [
+                    "Location",
+                    "Jan 2013 - Present · 9 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Limited Term Lecturer"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "The University of Southern Mississippi"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Jul 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ],
+            [
+                "Adjunct Faculty",
+                [
+                    "Company Name",
+                    "University of Houston-Clear Lake"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2014 - Jun 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 6 mos"
+                ]
+            ],
+            [
+                "Post Doctoral Fellow",
+                [
+                    "Company Name",
+                    "University of Houston"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - May 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Houston, Texas"
+                ]
+            ]
+        ]
+    },
     "Sondheimer, Norman": {
         "status": "success",
         "Education": [
@@ -532,7 +1632,7 @@
                 "Undergraduate Research Assistant",
                 [
                     "Company Name",
-                    "University of Massachusetts Amherst \u00b7 Internship"
+                    "University of Massachusetts Amherst · Internship"
                 ],
                 [
                     "Dates Employed",
@@ -555,7 +1655,7 @@
                 "Technology Assistant",
                 [
                     "Company Name",
-                    "Fair Lawn Public Schools \u00b7 Part-time"
+                    "Fair Lawn Public Schools · Part-time"
                 ],
                 [
                     "Dates Employed",
@@ -568,6 +1668,169 @@
                 [
                     "Location",
                     "Deployed Windows 10 across the district and installed various hardware upgrades. Also worked on the one-to-one laptop initiative."
+                ]
+            ]
+        ]
+    },
+    "Souza, Abel": {
+        "status": "success",
+        "Education": [
+            [
+                "Umeå University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2020"
+                ],
+                [
+                    "More Info",
+                    "Autonomous tools for high performance in large datacentres"
+                ]
+            ],
+            [
+                "Umeå University",
+                [
+                    "Degree Name",
+                    "Licentiate degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2018"
+                ],
+                [
+                    "More Info",
+                    "PhLic in Computer Science"
+                ]
+            ],
+            [
+                "Universidade Federal Fluminense",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2014"
+                ],
+                [
+                    "More Info",
+                    "See all 5 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "University of Massachusetts Amherst · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 mos"
+                ],
+                [
+                    "Location",
+                    "Amherst, Massachusetts, United States"
+                ]
+            ],
+            [
+                "Umeå University",
+                [
+                    "Company Name",
+                    "Full-time · 6 yrs 4 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Doctoral Researcher"
+                ],
+                [
+                    "Location",
+                    "May 2020 - May 2021 · 1 yr 1 mo"
+                ],
+                [
+                    "More Info",
+                    "Umeå, Västerbotten, Sweden"
+                ]
+            ],
+            [
+                "Research Affiliate",
+                [
+                    "Company Name",
+                    "Berkeley Lab"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2017 - Aug 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ],
+                [
+                    "Location",
+                    "Berkeley, CA"
+                ]
+            ],
+            [
+                "Federal Fluminense University",
+                [
+                    "Company Name",
+                    "7 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Rio de Janeiro Area, Brazil"
+                ],
+                [
+                    "Location",
+                    "Undergraduate Student"
+                ],
+                [
+                    "More Info",
+                    "Mar 2009 - Dec 2014 · 5 yrs 10 mos"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "National Laboratory for Scientific Computing (LNCC)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2014 - Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ],
+                [
+                    "Location",
+                    "Petropólis"
+                ],
+                [
+                    "More Info",
+                    "- Study of Finite Element Methods;"
                 ]
             ]
         ]
@@ -687,6 +1950,150 @@
             ]
         ]
     },
+    "Stawasz, Pamela": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "M.Ed."
+                ],
+                [
+                    "Field Of Study",
+                    " Higher Education Administration/Service Learning"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2008"
+                ],
+                [
+                    "More Info",
+                    "Department of Educational Policy, Research and Administration; School of Education"
+                ]
+            ],
+            [
+                "Trinity College-Hartford",
+                [
+                    "Degree Name",
+                    "BA with Honors"
+                ],
+                [
+                    "Field Of Study",
+                    " History"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1994"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Guided Studies Program (honors interdisciplinary academic program),"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Company Name",
+                    "Full-time · 4 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Academic Advisor"
+                ],
+                [
+                    "Location",
+                    "May 2019 - Present · 2 yrs 10 mos"
+                ],
+                [
+                    "More Info",
+                    "United States"
+                ]
+            ],
+            [
+                "Alumnae Association",
+                [
+                    "Company Name",
+                    "Mount Holyoke College"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2017 - Jun 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Location",
+                    "South Hadley, Massachusetts"
+                ]
+            ],
+            [
+                "Volunteer and Office Manager",
+                [
+                    "Company Name",
+                    "Safe Passage (Northampton, MA) · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2015 - Jan 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Northampton, Massachusetts"
+                ]
+            ],
+            [
+                "Amherst College",
+                [
+                    "Company Name",
+                    "11 yrs 4 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Director of Residential Life"
+                ],
+                [
+                    "Location",
+                    "Aug 2011 - 2014 · 2 yrs 6 mos"
+                ],
+                [
+                    "More Info",
+                    "Amherst College, Amherst, MA"
+                ]
+            ],
+            [
+                "Curriculum Development",
+                [
+                    "Company Name",
+                    "New Hampshire Equestrian Academy Charter School · Freelance"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2006 - Aug 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "New Hampshire Equestrian Academy Charter School, Concord, NH"
+                ],
+                [
+                    "More Info",
+                    "•\tResearched and designed 9th-grade Language Arts curriculum, meeting all state curriculum standards and expectations, for new charter school"
+                ]
+            ]
+        ]
+    },
     "Stone, Andrew": {
         "status": "success",
         "Education": [],
@@ -712,6 +2119,572 @@
                 [
                     "More Info",
                     "In charge of opening and closing the store. This included cleaning the restaurant, clearing out the cash registers, and doing minor managerial duties. During operation, I was in charge of providing top notch service to customers, and ensuring excellent performance by other crew members."
+                ]
+            ]
+        ]
+    },
+    "Streinu, Ileana": {
+        "status": "success",
+        "Education": [
+            [
+                "Rutgers University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1994"
+                ]
+            ],
+            [
+                "University of Bucharest",
+                [
+                    "Degree Name",
+                    "Doctorate (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Smith College",
+                [
+                    "Company Name",
+                    "28 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Charles N. Clark Professor of Computer Science and Mathematics"
+                ],
+                [
+                    "Location",
+                    "2009 - Present · 13 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Northampton MA"
+                ]
+            ],
+            [
+                "Adjunct Professor of Comnputer Science",
+                [
+                    "Company Name",
+                    "University of Massachusetts, Amherst"
+                ],
+                [
+                    "Dates Employed",
+                    "2003 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "19 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Amherst MA"
+                ]
+            ]
+        ]
+    },
+    "Stubbs, Julie": {
+        "status": "success",
+        "Education": [
+            [
+                "Wesleyan University",
+                [
+                    "Degree Name",
+                    "BA with Honors"
+                ],
+                [
+                    "Field Of Study",
+                    " College of Letters"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 - 1986"
+                ],
+                [
+                    "More Info",
+                    "Pembroke Hill School"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Company Name",
+                    "9 yrs 5 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Executive Director of Strategic Partnerships"
+                ],
+                [
+                    "Location",
+                    "Sep 2019 - Present · 2 yrs 6 mos"
+                ],
+                [
+                    "More Info",
+                    "Amherst, MA"
+                ]
+            ],
+            [
+                "Major Gift Officer, College of Natural Sciences",
+                [
+                    "Company Name",
+                    "University of Massachusetts Amherst"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2010 - Sep 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 3 mos"
+                ]
+            ],
+            [
+                "Director of Institutional Giving",
+                [
+                    "Company Name",
+                    "deCordova Sculpture Park + Museum"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2007 - Jul 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ]
+            ],
+            [
+                "Development Manager",
+                [
+                    "Company Name",
+                    "NFTE New England"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2006 - Nov 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 9 mos"
+                ]
+            ]
+        ]
+    },
+    "Suri, Neeraj": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " PhD, CS"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 - 1991"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor &amp; Chair in Cybersecurity",
+                [
+                    "Company Name",
+                    "Lancaster University · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "United Kingdom"
+                ]
+            ],
+            [
+                "Adjunct Professor",
+                [
+                    "Company Name",
+                    "University of Massachusetts Amherst"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ],
+                [
+                    "Location",
+                    "College of Information &amp; Computer Sciences"
+                ]
+            ],
+            [
+                "TU Darmstadt logo",
+                [
+                    "Company Name",
+                    "Chair Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "TU Darmstadt"
+                ],
+                [
+                    "Location",
+                    "Aug 2002 - 2019 · 16 yrs 6 mos"
+                ]
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "Microsoft Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2011 - Sep 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "Sabbatical with Andrew Herbert"
+                ]
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "Microsoft Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2007 - Sep 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "Sabbatical with Brendan Murphy"
+                ],
+                [
+                    "More Info",
+                    "See all 8 experiences"
+                ]
+            ]
+        ]
+    },
+    "Swanier, Cheryl": {
+        "status": "success",
+        "Education": [
+            [
+                "Emory University",
+                [
+                    "Degree Name",
+                    "Master of Divinity - MDiv"
+                ],
+                [
+                    "Field Of Study",
+                    " Theology/Theological Studies"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2017"
+                ]
+            ],
+            [
+                "Auburn University, Samuel Ginn College of Engineering",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2015"
+                ]
+            ],
+            [
+                "Albany State University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 - 1986"
+                ],
+                [
+                    "More Info",
+                    "See all 6 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Teaching Faculty",
+                [
+                    "Company Name",
+                    "University of Massachusetts Amherst · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 2 mos"
+                ],
+                [
+                    "Location",
+                    "Amherst, Massachusetts, United States"
+                ]
+            ],
+            [
+                "Henry N. and Alice Carson Tisdale Endowed Professor &amp; Chair, Mathematics and Computer Science Dept.",
+                [
+                    "Company Name",
+                    "Claflin University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - May 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Orangeburg, SC"
+                ],
+                [
+                    "More Info",
+                    "Dr. Cheryl A. Swanier served as the Chair of the Department of Mathematics and Computer Science at Claflin University, where she is named the Henry N. and Alice Carson Tisdale Endowed Professor &amp; Chair. Dr. Swanier conducts research in Human Computer Interaction with an emphasis in visual programming of educational simulations with end user programming and educational gaming technologies. Swanier is a recipient of the 2013 NCWIT Undergraduate Research Mentoring Award. Swanier is also the recipient of the 2013 Champion of Change for Tech Inclusion Award given by the White House.  She is also the recipient of the 2013 Oustanding STARS Corps Faculty Liaison."
+                ]
+            ],
+            [
+                "Visiting Research Scientist",
+                [
+                    "Company Name",
+                    "Google"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 - Aug 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Mountain View, CA"
+                ]
+            ],
+            [
+                "Associate Professor of Computer Science",
+                [
+                    "Company Name",
+                    "Fort Valley State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2008 - May 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Dr. Cheryl A. Swanier is an associate professor in Fort Valley State University’s Department of Mathematics and Computer Science.  Dr. Swanier conducts research in Human Computer Interaction with an emphasis in visual programming of educational simulations with end user programming and educational gaming technologies. Swanier is a recipient of the 2013 NCWIT Undergraduate Research Mentoring Award. Swanier is also the recipient of the 2013 Champion of Change for Tech Inclusion Award given by the White House.  She is also the recipient of the 2013 Oustanding STARS Corps Faculty Liaison."
+                ],
+                [
+                    "More Info",
+                    "Dr. Swanier works with outreach initiatives to improve computer science education at all levels. One of these initiatives is the ARTSI Alliance, Advancing Robotics, Technology for Societal Impact. Swanier established the first robotics lab at Fort Valley State University. The robotics programming is implemented in Tekkotsu, a robotics application framework. Another initiative is the STARS (Students &amp; Technology in Academia, Research &amp; Service) Alliance a regional partnerships among academia, industry, K-12 and the community to strengthen local BPC programs by focusing on K-12 outreach, community service, student leadership and computing diversity research."
+                ]
+            ],
+            [
+                "Chair and Endowed Professor",
+                [
+                    "Company Name",
+                    "STARS Computing Corps"
+                ],
+                [
+                    "Dates Employed",
+                    "2012"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ],
+                [
+                    "Location",
+                    "See all 7 experiences"
+                ]
+            ]
+        ]
+    },
+    "Sylvia, Frank": {
+        "status": "success",
+        "Education": [
+            [
+                "Amherst College",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts - BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2016 - 2020"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Varsity Track and Field, Varsity Cross Country, The Amherst Student (School Newspaper), Amherst Women in STEM"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Perpay Inc.",
+                [
+                    "Company Name",
+                    "1 yr 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Greater Philadelphia"
+                ],
+                [
+                    "Location",
+                    "Data Engineer"
+                ],
+                [
+                    "More Info",
+                    "Oct 2021 - Present · 5 mos"
+                ]
+            ],
+            [
+                "2020 Fellow",
+                [
+                    "Company Name",
+                    "Venture For America"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "Venture For America is a fellowship for recent grads who want to learn how to build a business while making an impact. VFA Fellows get training and join a startup in an emerging US city, where they live and work for two years at one of our hundreds of partner companies. They learn hands-on what it takes to build a company, while getting the mentorship, network, and ongoing support to prepare themselves to become successful entrepreneurs. Our goal is to spark job growth in cities that need it by sending our top-talent to help grow the businesses that will make it happen."
+                ]
+            ],
+            [
+                "Teaching Assistant",
+                [
+                    "Company Name",
+                    "Mathematics Department, Amherst College"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2019 - Dec 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Amherst, MA"
+                ]
+            ],
+            [
+                "Data Analyst Intern",
+                [
+                    "Company Name",
+                    "National Visa Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 - Aug 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Portsmouth, NH"
+                ]
+            ],
+            [
+                "National Science Foundation Mathematics Fellow",
+                [
+                    "Company Name",
+                    "University of Minnesota"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2018 - Aug 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Minneapolis, MN"
+                ],
+                [
+                    "More Info",
+                    "See all 7 experiences"
                 ]
             ]
         ]
@@ -961,6 +2934,704 @@
             ]
         ]
     },
+    "Mahyar, Narges": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of British Columbia",
+                [
+                    "Degree Name",
+                    "Postdoc"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2016"
+                ]
+            ],
+            [
+                "University of Victoria",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2014"
+                ],
+                [
+                    "More Info",
+                    "University of Malaya"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Massachusetts Amherst"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Amherst, MA"
+                ]
+            ],
+            [
+                "Design Fellow and Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "University of California San Diego"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2016 - Aug 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "San Diego"
+                ],
+                [
+                    "More Info",
+                    "Currently, my research focuses on real-world complex sociotechnical problems related to civic decision making processes by combining experimental, observational, and computational approaches. I employ crowdsourcing mechanisms to design and develop democratizing technologies to engage the public beyond the common boundary of opinion polling. These technologies empower the public to take part in the more complex stages of civic decision making, such as elaborating, evaluating, and creating civic proposals."
+                ]
+            ],
+            [
+                "Postdoctoral Research Fellow",
+                [
+                    "Company Name",
+                    "The University of British Columbia"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2014 - Aug 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 11 mos"
+                ],
+                [
+                    "Location",
+                    "Vancouver, Canada Area"
+                ],
+                [
+                    "More Info",
+                    "I was a postdoctoral fellow in the Department of Computer Science at UBC. I was involved in HCI research within the MUX Lab and at the School of Architecture and Landscape Architecture. I served as a member of HCI@UBC steering committee and I was part of the NSERC-funded IDEAS2.0 project, a highly interdisciplinary research group that uses collaboration technology and visualization techniques to support design and planning activities for the urban built environment. I collaborated closely with Kellogg Booth in Computer Science, Ron Kellett in Landscape Architecture and Sheryl Staub-French in Civil Engineering."
+                ]
+            ],
+            [
+                "PhD Candidate and Research Assistant",
+                [
+                    "Company Name",
+                    "University of Victoria"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2008 - Sep 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
+                ],
+                [
+                    "Location",
+                    "I worked on designing visualization tools and interaction techniques to facilitate collaborative visual analysis. My research identified several considerations for incorporating insight management (note taking, annotation &amp; record-keeping) into designing collaborative visual analysis tools. In addition, I investigated the effects of providing support for joint sensemaking on collaboration mechanics and analysis in co-located visual analytics."
+                ],
+                [
+                    "More Info",
+                    "+3"
+                ]
+            ],
+            [
+                "SAP",
+                [
+                    "Company Name",
+                    "4 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Vancouver, Canada Area"
+                ],
+                [
+                    "Location",
+                    "Research Fellow"
+                ],
+                [
+                    "More Info",
+                    "Sep 2008 - Sep 2012 · 4 yrs 1 mo"
+                ]
+            ]
+        ]
+    },
+    "Maji, Subhransu": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Computer vision and machine learning"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Kanpur",
+                [
+                    "Degree Name",
+                    "Bachelor's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2006"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Animation club"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "University of Amsterdam · Part-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ]
+            ],
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Company Name",
+                    "7 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Aug 2020 - Present · 1 yr 7 mos"
+                ]
+            ],
+            [
+                "Amazon Scholar",
+                [
+                    "Company Name",
+                    "Amazon Web Services (AWS) · Part-time"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2018 - Mar 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 11 mos"
+                ]
+            ],
+            [
+                "Research Assistant Professor",
+                [
+                    "Company Name",
+                    "Toyota Technological Institute at Chicago (TTIC)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2012 - Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ],
+                [
+                    "More Info",
+                    "Research Faculty at TTI Chicago"
+                ]
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "University of Oxford"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2013 - Nov 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ],
+                [
+                    "Location",
+                    "Oxford, United Kingdom"
+                ],
+                [
+                    "More Info",
+                    "Visiting researcher at the Oxford visual geometry group"
+                ]
+            ]
+        ]
+    },
+    "Marlin, Ben": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Toronto",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2008"
+                ]
+            ],
+            [
+                "University of Toronto",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2004"
+                ]
+            ],
+            [
+                "McGill University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Math and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2002"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Company Name",
+                    "10 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2018 - Present · 3 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "The University of British Columbia"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2008 - Jul 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Vancouver, Canada Area"
+                ]
+            ]
+        ]
+    },
+    "Marquard, Jenna": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Industrial Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2007"
+                ]
+            ],
+            [
+                "University of Iowa",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Industrial Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2003"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Nursing",
+                [
+                    "Company Name",
+                    "University of Minnesota · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Location",
+                    "Minneapolis, Minnesota, United States"
+                ]
+            ],
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Company Name",
+                    "13 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor of Industrial Engineering"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Sep 2020 - Sep 2021 · 1 yr 1 mo"
+                ]
+            ]
+        ]
+    },
+    "Mazeski, Joyce": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "Psych"
+                ],
+                [
+                    "Field Of Study",
+                    " Education, BDIC major"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Working full-time at Umass while taking two classes a semester to earn a degree and become a guidance counselor."
+                ]
+            ],
+            [
+                "Holyoke Community College",
+                [
+                    "Degree Name",
+                    "Accounting"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2001"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Manager",
+                [
+                    "Company Name",
+                    "Tupperware Brands"
+                ],
+                [
+                    "Dates Employed",
+                    "1984 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "38 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "I own my own Tupperware business, but have a team that is successful in helping each other grow. We made the top 100 units in the USA in April 2015. I am interested in helping others make their dreams come true. Yes, we still do the traditional home parties! I am always looking for some fabulous hosts and team members to join my team."
+                ]
+            ],
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Company Name",
+                    "15 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Administrative Assistant"
+                ],
+                [
+                    "Location",
+                    "Jun 2015 - Present · 6 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Computer Science"
+                ]
+            ],
+            [
+                "Independent Consultant",
+                [
+                    "Company Name",
+                    "Linen World"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2010 - May 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "A home party plan that brings linens, kitchenware, beach towels, Donna Sharp handbags, and much more into your home for display."
+                ]
+            ],
+            [
+                "Independent Wine Consultant",
+                [
+                    "Company Name",
+                    "The Traveling Vineyard"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2009 - Apr 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "11 mos"
+                ],
+                [
+                    "Location",
+                    "Did at home wine tastings. Company closed in April 2010."
+                ]
+            ],
+            [
+                "Relay For Life Training Specialist",
+                [
+                    "Company Name",
+                    "American Cancer Society"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2001 - Jul 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Framingham, MA"
+                ],
+                [
+                    "More Info",
+                    "--Created and delivered trainings for staff and volunteers, regionally and nationally"
+                ]
+            ]
+        ]
+    },
+    "Mazumdar, Arya": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Maryland",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2011"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "UC San Diego · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ],
+                [
+                    "Location",
+                    "San Diego, California, United States"
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Halıcıoğlu Data Science Institute, UC San Diego · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ]
+            ],
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Company Name",
+                    "6 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor (on leave)"
+                ],
+                [
+                    "Location",
+                    "Aug 2019 - Aug 2021 · 2 yrs 1 mo"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor of Computer Science"
+                ]
+            ],
+            [
+                "Senior Research Scientist",
+                [
+                    "Company Name",
+                    "Amazon"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Dec 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 5 mos"
+                ],
+                [
+                    "Location",
+                    "Berkeley, CA"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Minnesota"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - Jan 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Minneapolis"
+                ],
+                [
+                    "More Info",
+                    "See all 11 experiences"
+                ]
+            ]
+        ]
+    },
     "McCallum, Andrew": {
         "status": "success",
         "Education": [
@@ -1136,7 +3807,7 @@
                 "Senior Data Analyst",
                 [
                     "Company Name",
-                    "College of Information and Computer Sciences, UMass Amherst \u00b7 Full-time"
+                    "College of Information and Computer Sciences, UMass Amherst · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1301,7 +3972,7 @@
                 "Finance Intern",
                 [
                     "Company Name",
-                    "Dell Technologies \u00b7 Internship"
+                    "Dell Technologies · Internship"
                 ],
                 [
                     "Dates Employed",
@@ -1320,7 +3991,7 @@
                 "Bank Teller",
                 [
                     "Company Name",
-                    "Rockland Trust \u00b7 Full-time"
+                    "Rockland Trust · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1439,7 +4110,7 @@
                 ],
                 [
                     "Location",
-                    "\u00b7 Working under the supervision of Prof. Joe Hellerstein and Prof. Carlos Guestrin (CMU).\u00b7 Focus on the analysis of query routing and optimization in sensor networks."
+                    "· Working under the supervision of Prof. Joe Hellerstein and Prof. Carlos Guestrin (CMU).· Focus on the analysis of query routing and optimization in sensor networks."
                 ]
             ],
             [
@@ -1458,7 +4129,7 @@
                 ],
                 [
                     "Location",
-                    "\u00b7 Worked with the Intelligent Information Systems Research group on RFID"
+                    "· Worked with the Intelligent Information Systems Research group on RFID"
                 ],
                 [
                     "More Info",
@@ -1481,11 +4152,245 @@
                 ],
                 [
                     "Location",
-                    "\u00b7 Taught weekly discussion sections for the course \"Introduction to Database Systems\" (CS186), held office hours and gave occasional lectures."
+                    "· Taught weekly discussion sections for the course \"Introduction to Database Systems\" (CS186), held office hours and gave occasional lectures."
                 ],
                 [
                     "More Info",
-                    "\u00b7 Helped design homework assignments and graded exams."
+                    "· Helped design homework assignments and graded exams."
+                ]
+            ]
+        ]
+    },
+    "Merlino, Nick": {
+        "status": "success",
+        "Education": [
+            [
+                "Manning College of Information and Computer Sciences, UMass Amherst",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Cyber"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2019 - 2020"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: OPM's Cybercorps Scholarship for Service"
+                ]
+            ],
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - Jun 2018"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.72 GPA"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "MITRE",
+                [
+                    "Company Name",
+                    "6 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Bedford, MA"
+                ],
+                [
+                    "Location",
+                    "Cyber Cellular Research Engineer"
+                ],
+                [
+                    "More Info",
+                    "Jul 2018 - Present · 3 yrs 8 mos"
+                ]
+            ],
+            [
+                "Multimedia Software Technician",
+                [
+                    "Company Name",
+                    "Pixel Forensics, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2012 - Dec 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "Burlington, MA"
+                ],
+                [
+                    "More Info",
+                    "- Built proprietary software to annotate video segments"
+                ]
+            ]
+        ]
+    },
+    "Miklau, Gerome": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Washington",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2005"
+                ]
+            ],
+            [
+                "University of Washington",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2001"
+                ]
+            ],
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Math / Rhetoric"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1995"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Founder",
+                [
+                    "Company Name",
+                    "Tumult Labs"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ]
+            ],
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Company Name",
+                    "16 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Sep 2017 - Present · 4 yrs 6 mos"
+                ],
+                [
+                    "More Info",
+                    "Associate Professor"
+                ]
+            ],
+            [
+                "Research Data Scientist",
+                [
+                    "Company Name",
+                    "U.S. Census Bureau"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2017 - Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Suitland, MD"
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "INRIA"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2012 - Jun 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Location",
+                    "Paris Area, France"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "IBM, Almaden Research Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2003 - Sep 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Almaden, CA"
+                ],
+                [
+                    "More Info",
+                    "See all 9 experiences"
                 ]
             ]
         ]
@@ -1527,6 +4432,345 @@
                 [
                     "Employment Duration",
                     "49 yrs 2 mos"
+                ]
+            ]
+        ]
+    },
+    "Moruzzi, Kate": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " English, Minor in Education, Secondary Education Track"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2019 - 2023"
+                ],
+                [
+                    "More Info",
+                    "Grade: Class of 2023"
+                ]
+            ],
+            [
+                "New Fairfield High School",
+                [
+                    "Degree Name",
+                    "High School Diploma"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2019"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: •\t4.0 GPA, Honors/AP/Accelerated Study Student"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Peer Tutor",
+                [
+                    "Company Name",
+                    "UMass Writing Center · Internship"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "Amherst, Massachusetts, United States"
+                ],
+                [
+                    "More Info",
+                    "- Meeting one on one with undergraduate, graduate, and University Without Walls students"
+                ]
+            ],
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Company Name",
+                    "5 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Fall Welcome Leader"
+                ],
+                [
+                    "Location",
+                    "Part-time"
+                ],
+                [
+                    "More Info",
+                    "Aug 2021 - Sep 2021 · 2 mos"
+                ]
+            ],
+            [
+                "Women's Basketball Support",
+                [
+                    "Company Name",
+                    "University of Massachusetts Amherst · Part-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Dec 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 5 mos"
+                ],
+                [
+                    "Location",
+                    "Massachusetts, United States"
+                ]
+            ],
+            [
+                "Campsite Manager",
+                [
+                    "Company Name",
+                    "Connecticut Department of Energy and Environmental Protection · Seasonal"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2020 - Aug 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Sharon, Connecticut, United States"
+                ]
+            ],
+            [
+                "Ticket Booth Attendant",
+                [
+                    "Company Name",
+                    "Connecticut Department of Energy and Environmental Protection · Seasonal"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2018 - Aug 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 4 mos"
+                ],
+                [
+                    "Location",
+                    "New Fairfield, CT"
+                ],
+                [
+                    "More Info",
+                    "•\tSold tickets and season passes"
+                ]
+            ]
+        ]
+    },
+    "Moss, J. Eliot": {
+        "status": "success",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1971 - 1981"
+                ],
+                [
+                    "More Info",
+                    "Westminster Schools"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of  Massachusetts",
+                [
+                    "Company Name",
+                    "37 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "1985 - Present · 37 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Faculty"
+                ]
+            ],
+            [
+                "Vicar, St. John's Ashfield",
+                [
+                    "Company Name",
+                    "Diocese of Western Massachusetts"
+                ],
+                [
+                    "Dates Employed",
+                    "2008 - 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ],
+            [
+                "Vicar, St John's Ashfield, MA",
+                [
+                    "Company Name",
+                    "The Episcopal Church"
+                ],
+                [
+                    "Dates Employed",
+                    "2008"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ]
+            ]
+        ]
+    },
+    "Murray, Thomas": {
+        "status": "success",
+        "Education": [
+            [
+                "Boston University",
+                [
+                    "Degree Name",
+                    "EdM"
+                ],
+                [
+                    "Field Of Study",
+                    " Counseling Psychology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1974 - 1975"
+                ]
+            ],
+            [
+                "Boston College",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics, Psychology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1969 - 1973"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Pulse"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Member of the Board of Directors",
+                [
+                    "Company Name",
+                    "Insuritas"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2015 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Insuritas is the nation's leader in insurance agency outsourcing for financial institutions. Insuritas offers  auto, home and business insurance as well as life, medical, pet, warranty, AD&amp;D, and credit life."
+                ]
+            ],
+            [
+                "Independent Consultant",
+                [
+                    "Company Name",
+                    "Jan 2014 - Present · 8 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Wilbraham, Mass"
+                ],
+                [
+                    "Location",
+                    "Operational Process Review, Problem Solving, Executive Coaching, Recruitment, Candidate Assessment"
+                ]
+            ],
+            [
+                "Lincoln Financial Group",
+                [
+                    "Company Name",
+                    "19 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Vice President, Distribution Gateway, Producer Solutions"
+                ],
+                [
+                    "Location",
+                    "Sep 2012 - Dec 2013 · 1 yr 4 mos"
+                ],
+                [
+                    "More Info",
+                    "Hartford, Connecticut Area"
+                ]
+            ],
+            [
+                "Fleet Bank logo",
+                [
+                    "Company Name",
+                    "Vice President Human Resources"
+                ],
+                [
+                    "Dates Employed",
+                    "Fleet Bank"
+                ],
+                [
+                    "Location",
+                    "1979 - 1995 · 16 yrs"
+                ]
+            ],
+            [
+                "Guidance Counselor",
+                [
+                    "Company Name",
+                    "Brockton High School"
+                ],
+                [
+                    "Dates Employed",
+                    "1975 - 1979"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
                 ]
             ]
         ]
@@ -1651,7 +4895,7 @@
                 ],
                 [
                     "More Info",
-                    "Also worked a lot on internal development, building a Python utility to remove noise and process OCR\u2019d patent PDFs for easy display and automatic citation generation. Built Git merge tool for LibreOffice to improve internal file management."
+                    "Also worked a lot on internal development, building a Python utility to remove noise and process OCR’d patent PDFs for easy display and automatic citation generation. Built Git merge tool for LibreOffice to improve internal file management."
                 ]
             ],
             [
@@ -1675,6 +4919,84 @@
                 [
                     "More Info",
                     "See all 7 experiences"
+                ]
+            ]
+        ]
+    },
+    "Manmatha, R.": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Principal Scientist",
+                [
+                    "Company Name",
+                    "Amazon Web Services (AWS) · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ]
+            ],
+            [
+                "Principal Scientist",
+                [
+                    "Company Name",
+                    "A9.com"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2013 - Mar 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Palo Alto, CA"
+                ]
+            ],
+            [
+                "Research Associate Professor",
+                [
+                    "Company Name",
+                    "University of Massachusetts Amherst"
+                ],
+                [
+                    "Dates Employed",
+                    "1998 - 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "18 yrs"
+                ],
+                [
+                    "Location",
+                    "Amherst, MA"
+                ]
+            ],
+            [
+                "SnapTell logo",
+                [
+                    "Company Name",
+                    "Co-Founder/ Technical Advisor"
+                ],
+                [
+                    "Dates Employed",
+                    "SnapTell"
+                ],
+                [
+                    "Location",
+                    "2006 - 2009 · 3 yrs"
                 ]
             ]
         ]

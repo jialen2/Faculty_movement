@@ -7,6 +7,94 @@
         "Experience": [],
         "Education": []
     },
+    "Haryadi Gunawi.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Total Duration",
+                    "9 yrs 6 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago, IL"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "UC Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2010 – Jul 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Postdoctoral Fellow"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2012"
+                ]
+            ],
+            [
+                "University of Wisconsin, Madison",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ]
+            ],
+            [
+                "University of Wisconsin, Madison",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ]
+            ]
+        ]
+    },
     "Julia Chuzhoy.": {
         "Experience": [
             [
@@ -23,6 +111,248 @@
         "Experience": [],
         "Education": []
     },
+    "Michael Franklin.": {
+        "Experience": [
+            [
+                "Liew Family Chair of Computer Science &amp; Sr. Advisor to the Provost for Computing and Data Science",
+                [
+                    "Company Name",
+                    "The University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2016 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 8 mos"
+                ],
+                "Research and teaching in data management and data science and serving as Chair of the Department of Computer Science.  I also play a leadership role in the campus-wide effort to grow Computer Science and Data Science at the University of Chicago.",
+                "…",
+                "see more"
+            ],
+            [
+                "Member",
+                [
+                    "Company Name",
+                    "HPA"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                "Hyde Park Angels is the most active early-stage investor group in the Midwest. With a membership of over 100 successful entrepreneurs, executives, and venture capitalists, the group provides critical strategic expertise to entrepreneurs and the entrepreneurial community. More than half of our members have founded a company; most are CEOs, top executives, or corporate board members; and 100% invest in startups.",
+                "…",
+                "see more"
+            ],
+            [
+                "Advisor",
+                [
+                    "Company Name",
+                    "Databricks"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2013 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 7 mos"
+                ],
+                "As one of the Original Creators of Apache Spark I have been a technical advisor and consultant to the company before, during, and since its founding.",
+                "…",
+                "see more"
+            ],
+            [
+                "Advisor",
+                [
+                    "Company Name",
+                    "Alluxio, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 4 mos"
+                ]
+            ],
+            [
+                "Advisor",
+                [
+                    "Company Name",
+                    "Ocient"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 11 mos"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "University of Wisconsin - Madison",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1993"
+                ],
+                "Learned how to do research.  Made some great friends.  Met my wife.  It was a wonderful four years.  Details were published as a book, so I'll keep this description short."
+            ],
+            [
+                "Wang Institute of Graduate Studies",
+                [
+                    "Degree Name",
+                    "M.S.E."
+                ],
+                [
+                    "Field Of Study",
+                    "Software Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1985 - 1986"
+                ],
+                "One of the brave, the proud, the few (&lt; 100) graduates of this fine but short-lived institution.   The innovative curriculum combined deep technical classes taught by leading computer science researchers with project management and  \"mini-MBA\" courses.   This is a model that is resurfacing in many professional Masters programs, such as the new MEng program at Berkeley.   One cool fact - students were required to have at least two years professional programming experience before they could be admitted."
+            ],
+            [
+                "University of Massachusetts, Amherst",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1979 - 1983"
+                ],
+                "Where I learned the foundations of what I do professionally, and through a series of fortunate events got involved in my first database systems research project.   I also was able to spend a year studying and traveling abroad, which started a fascination with travel that continues today.   Any students reading this - I strongly advise you to make the time to take advantage of study abroad and exchange programs at your school."
+            ]
+        ]
+    },
+    "Kyle Chard.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Total Duration",
+                    "8 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Research Specialist"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2011 – May 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Fellow"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2014 – Sep 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 7 mos"
+                ]
+            ],
+            [
+                "Co-op",
+                [
+                    "Company Name",
+                    "IBM"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2005 – Aug 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "San Jose"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Victoria University of Wellington",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2011"
+                ]
+            ],
+            [
+                "Victoria University of Wellington",
+                [
+                    "Degree Name",
+                    "BSc (Hons)"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2005"
+                ]
+            ],
+            [
+                "Victoria University of Wellington",
+                [
+                    "Degree Name",
+                    "BSc"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics and Electronics &amp; Computer Systems"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2004"
+                ]
+            ]
+        ]
+    },
     "Blase Ur.": {
         "Experience": [],
         "Education": []
@@ -30,6 +360,380 @@
     "Frederic Chong.": {
         "Experience": [],
         "Education": []
+    },
+    "L. Ridgway Scott.": {
+        "Experience": [
+            [
+                "professor",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ]
+            ],
+            [
+                "Founder and CEO",
+                [
+                    "Company Name",
+                    "Computational Modeling Initiative, LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2018 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Mercer Island, Washington"
+                ],
+                "Comutational Modeling Initiative (CMI) is rethinking simulation technology. CMI provides support for using open source simulation software such as developed by the FEniCS Project.",
+                "…",
+                "see more"
+            ]
+        ],
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1969 - 1973"
+                ],
+                "Activities and Societies:",
+                "Did some sailing on the Charles River and played a lot of intramural sports."
+            ],
+            [
+                "Tulane University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics"
+                ],
+                [
+                    "Grade",
+                    "Magna Cum Laude"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1966 - 1969"
+                ],
+                "Activities and Societies:",
+                "Played backup (string bass) for the Tulanians singing group."
+            ]
+        ]
+    },
+    "Raul Castro Fernandez.": {
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "The University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago"
+                ]
+            ],
+            [
+                "Postdoctoral Associate",
+                [
+                    "Company Name",
+                    "Massachusetts Institute of Technology (MIT)"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2015 – Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, Massachusetts"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 – Sep 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Redmond, WA"
+                ]
+            ],
+            [
+                "Software Engineering Intern",
+                [
+                    "Company Name",
+                    "LinkedIn"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 – Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Mountain View, California"
+                ],
+                "At LinkedIn I was part of the DDS team. In particular, I was involved in the Streams team, where I worked in Samza, their stream processing system, and mainly in Kafka. I was involved in a project to incorporate transactionality guarantees to this high performance publish subscribe system. We have main requirements of enforcing atomic writes and certain levels of read isolation. I enjoyed participating in many design meetings and discussions.",
+                "…",
+                "see more"
+            ],
+            [
+                "Founder",
+                [
+                    "Company Name",
+                    "contxt.in"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2012 – Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "London, United Kingdom"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Imperial College London",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2015"
+                ]
+            ],
+            [
+                "Escuela de Organizacion Industrial (EOI)",
+                [
+                    "Degree Name",
+                    "Business Training Skills"
+                ],
+                [
+                    "Field Of Study",
+                    "Business"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2011"
+                ]
+            ],
+            [
+                "Universidad Carlos III de Madrid y Universidad Politécnica de Cataluña",
+                [
+                    "Degree Name",
+                    "Msc"
+                ],
+                [
+                    "Field Of Study",
+                    "Telematics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2011"
+                ]
+            ]
+        ]
+    },
+    "Borja Sotomayor.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Total Duration",
+                    "17 yrs 3 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Senior Instructional Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2021 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "11 mos"
+                ],
+                [
+                    "Title",
+                    "Director, Masters Program in Computer Science"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Senior Lecturer"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 – Dec 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ],
+                [
+                    "Title",
+                    "Associate Director of Academics, Masters Program in Computer Science"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 – Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                [
+                    "Title",
+                    "Lecturer"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2010 – Jun 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 9 mos"
+                ],
+                "Show 3 more roles"
+            ],
+            [
+                "Community Manager",
+                [
+                    "Company Name",
+                    "OpenNebula"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2009 – Jun 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 10 mos"
+                ]
+            ],
+            [
+                "Profesor Ayudante",
+                [
+                    "Company Name",
+                    "Universidad de Deusto"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2003 – Sep 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "University of Chicago",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2010"
+                ]
+            ],
+            [
+                "University of Chicago",
+                [
+                    "Degree Name",
+                    "Master of Science"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2007"
+                ]
+            ],
+            [
+                "Universidad de Deusto",
+                [
+                    "Degree Name",
+                    "Ingeniero Informático"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2003"
+                ]
+            ]
+        ]
     },
     "Janos Simon.": {
         "Experience": [
@@ -55,9 +759,619 @@
         "Experience": [],
         "Education": []
     },
+    "Lamont Kenneth Samuels.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Total Duration",
+                    "11 yrs 6 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Director, Masters Program in Computer Science"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ],
+                [
+                    "Title",
+                    "Assistant Clinical Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ],
+                [
+                    "Title",
+                    "Lecturer"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 – Jun 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ],
+                "Currently, I'm teaching the master's introductory Java and functional languages courses in the Computer Science department.  “CMSC 15200 - Introduction to Computer Science 2” for the 2013 and 2014 summer sessions. The course provided an introduction to computer programming using the C language an with emphasis on developing general programming skills and familiarity with advance data structures. The course was majority filled with non-computer science majors with a diverse mixture of discipline backgrounds (e.g., humanities, economics, mathematics). Average class sizes were 20 students for each course.",
+                "…",
+                "see more",
+                [
+                    "Title",
+                    "Research Assistant"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2010 – Aug 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ],
+                "- Implemented language features and high-performance GPU backend for Diderot, a parallel domain-specific language for biomedical image-analysis and visualization.",
+                "- Designed and developed a spatial grid, dynamic thread allocation, and global reductions features through the various stages of the compiler.",
+                "- Programmed the entire GPU backend (using OpenCL), which uses a persistent thread scheduler.",
+                "…",
+                "see more"
+            ],
+            [
+                "Senior Software Engineer",
+                [
+                    "Company Name",
+                    "BRD"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2018 – Aug 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ]
+            ],
+            [
+                "Senior Software Engineer",
+                [
+                    "Company Name",
+                    "Tanvas"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2016 – Jan 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 4 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ]
+            ],
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "School of the Art Institute of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2015 – May 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ],
+                "Taught an introduction to computer science for art students. Designed and planned lessons focused on providing students with the fundamentals of programming and then allowing them to apply these skills with exercises and projects gear towards the area of computer graphics.",
+                "…",
+                "see more"
+            ],
+            [
+                "Research Co-op",
+                [
+                    "Company Name",
+                    "AMD"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 – Oct 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ],
+                "- Refactored Diderot’s GPU target to run on their next generation graphics architecture to compare the performance to the previous generation.",
+                "- Debugged and developed benchmarks to simulate on their next generation hardware.",
+                "…",
+                "see more"
+            ]
+        ],
+        "Education": [
+            [
+                "The University of Chicago",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2016"
+                ],
+                "Research areas: Programming Languages, Computer Graphics, Functional Reactive Programming"
+            ],
+            [
+                "University of Chicago",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2013"
+                ],
+                "Research areas: Programming Languages , GPGPU, Image Analysis &amp; Visualization"
+            ],
+            [
+                "California Polytechnic State University-San Luis Obispo",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Grade",
+                    "3.8 (Major), 3.64 (Overall)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2010"
+                ],
+                "Graduated Cum Laude and With Honors."
+            ]
+        ]
+    },
     "Robert Soare.": {
         "Experience": [],
         "Education": []
+    },
+    "Rick Stevens.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Argonne National Laboratory"
+                ],
+                [
+                    "Total Duration",
+                    "30 yrs"
+                ],
+                [
+                    "Title",
+                    "Associate Laboratory Director"
+                ],
+                [
+                    "Dates Employed",
+                    "2005 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "16 yrs"
+                ],
+                "Responsible for Computing, Environmental Science and Life Sciences Research",
+                [
+                    "Title",
+                    "Mathematics and Computer Science Division Director"
+                ],
+                [
+                    "Dates Employed",
+                    "1991 – 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "14 yrs"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Total Duration",
+                    "22 yrs"
+                ],
+                [
+                    "Title",
+                    "Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "1999 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "22 yrs"
+                ],
+                "I teach and conduct research in the areas of high-performance computing and computer architecture, systems biology and genomics, collaboration and visualization technologies and wireless sensor networks.",
+                "…",
+                "see more",
+                [
+                    "Title",
+                    "Co-Founder and Senior Fellow at the Computation Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "1999 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "22 yrs"
+                ],
+                "The Computation Institute was founded to enable broad interdisciplinary collaborations in computational science.",
+                "It is a joint institute with Argonne National Laboratory and has",
+                "projects ranging from Astrophysics to Genomics.",
+                "…",
+                "see more",
+                "Show 1 more role"
+            ]
+        ],
+        "Education": [
+            [
+                "Michigan State University",
+                [
+                    "Field Of Study",
+                    "Physics, Philosophy, Computer Science"
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ]
+            ],
+            [
+                "Northwestern University",
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ]
+            ]
+        ]
+    },
+    "Karen Livescu.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Toyota Technological Institute at Chicago (TTIC)"
+                ],
+                [
+                    "Total Duration",
+                    "13 yrs 10 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago, IL"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2008 – Jun 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 10 mos"
+                ],
+                [
+                    "Title",
+                    "Research Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2008 – Aug 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Massachusetts Institute of Technology"
+                ],
+                [
+                    "Total Duration",
+                    "10 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Post-doctoral lecturer"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2005 – Jan 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "student"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1997 – Aug 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs"
+                ],
+                "Show 1 more role"
+            ],
+            [
+                "Summer workshop team leader",
+                [
+                    "Company Name",
+                    "Johns Hopkins University"
+                ],
+                [
+                    "Dates Employed",
+                    "2006"
+                ],
+                [
+                    "Employment Duration",
+                    "less than a year"
+                ]
+            ],
+            [
+                "intern",
+                [
+                    "Company Name",
+                    "IBM"
+                ],
+                [
+                    "Dates Employed",
+                    "2000"
+                ],
+                [
+                    "Employment Duration",
+                    "less than a year"
+                ]
+            ],
+            [
+                "student",
+                [
+                    "Company Name",
+                    "Technion"
+                ],
+                [
+                    "Dates Employed",
+                    "1996 – 1997"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "MS, PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2005"
+                ]
+            ],
+            [
+                "Technion - Israel Institute of Technology",
+                [
+                    "Degree Name",
+                    "Visiting student"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 1997"
+                ]
+            ],
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 1996"
+                ]
+            ]
+        ]
+    },
+    "Gordon Kindlmann.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Total Duration",
+                    "12 yrs 11 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago, IL"
+                ],
+                [
+                    "Title",
+                    "Asst. Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2009 – May 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 5 mos"
+                ],
+                "Asst. Professor in the Department of Computer Science, and in the Computation Institute"
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "Brigham and Women's Hospital"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2004 – Dec 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Boston, MA"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "University of Utah",
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2004"
+                ]
+            ],
+            [
+                "Cornell University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Graphics (Architecture)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1997"
+                ]
+            ],
+            [
+                "Cornell University",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1995"
+                ]
+            ]
+        ]
     },
     "Pedro Lopes.": {
         "Experience": [],
@@ -75,6 +1389,256 @@
         "Experience": [],
         "Education": []
     },
+    "Aaron Potechin.": {
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jul 2018 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago, Illinois, United States"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "KTH Royal Institute of Technology"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Aug 2017 – May 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Location",
+                    "Stockholm, Stockholm County, Sweden"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Institute for Advanced Study"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Sep 2016 – Jul 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "11 mos"
+                ],
+                [
+                    "Location",
+                    "Princeton, New Jersey, United States"
+                ]
+            ]
+        ],
+        "Education": []
+    },
+    "Nick Feamster.": {
+        "Experience": [
+            [
+                "Neubauer Professor of Computer Science, Director of Center for Data and Computing",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ]
+            ],
+            [
+                "Community Representative",
+                [
+                    "Company Name",
+                    "Broadband Internet Technical Advisory Group, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2014 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Boulder, CO"
+                ],
+                "I participate in working group activities to develop and publish technical documents to inform telecommunications policy.",
+                "I have co-edited two of the BITAG reports: one on Internet of Things security, and a forthcoming report on Internet data collection and privacy.",
+                "…",
+                "see more"
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2015 – Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Princeton, New Jersey"
+                ],
+                "Professor of Computer Science, Director of the Center for Information Technology Policy.",
+                "Courtesy appointment in Woodrow Wilson School of Public Affairs.",
+                "Research on Internet performance measurement, and Internet security and privacy.",
+                "…",
+                "see more"
+            ],
+            [
+                "Visiting Scientist",
+                [
+                    "Company Name",
+                    "Verisign"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2015 – Mar 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "11 mos"
+                ],
+                [
+                    "Location",
+                    "Reston, VA"
+                ],
+                "Bringing together operations and research to innovate through network measurement, data analysis, and machine learning."
+            ],
+            [
+                [
+                    "Company Name",
+                    "Georgia Institute of Technology"
+                ],
+                [
+                    "Total Duration",
+                    "9 yrs"
+                ],
+                [
+                    "Title",
+                    "Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 – Dec 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "Atlanta, Georgia"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2011 – Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Atlanta, Georgia"
+                ],
+                "Show 1 more role"
+            ]
+        ],
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2005"
+                ],
+                "Activities and Societies:",
+                "MIT Cycling Team",
+                "Ph.D. Dissertation: Proactive Techniques for Correct and Predictable Internet Routing"
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "M.Eng"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2001"
+                ],
+                "Masters Thesis: Adaptive Delivery of Real-Time Streaming Video"
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "S.B."
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2000"
+                ],
+                "Minor in Game Theory."
+            ]
+        ]
+    },
     "Timothy Ng.": {
         "Experience": [],
         "Education": []
@@ -82,6 +1646,136 @@
     "Monisha Ghosh.": {
         "Experience": [],
         "Education": []
+    },
+    "Dave MacQueen.": {
+        "Experience": [
+            [
+                "Professor Emeritus",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2001 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "20 yrs 5 mos"
+                ],
+                "Type and module systems, continuing development of Standard ML of New Jersey.  Teaching foundations of programming languages and functional programming."
+            ],
+            [
+                "developer",
+                [
+                    "Company Name",
+                    "Standard ML project"
+                ],
+                [
+                    "Dates Employed",
+                    "1983 – 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "31 yrs"
+                ]
+            ],
+            [
+                "member",
+                [
+                    "Company Name",
+                    "IFIP WG 2.8 (Functional Programming)"
+                ],
+                [
+                    "Dates Employed",
+                    "1982 – 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "28 yrs"
+                ]
+            ],
+            [
+                "Distinguished Member of Technical Staff",
+                [
+                    "Company Name",
+                    "Bell Laboratories"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 1981 – Jun 2001"
+                ],
+                [
+                    "Employment Duration",
+                    "20 yrs 6 mos"
+                ],
+                "Member of Computing Science Research Center and Software Research Center"
+            ],
+            [
+                "Research Fellow",
+                [
+                    "Company Name",
+                    "University of Edinburgh"
+                ],
+                [
+                    "Dates Employed",
+                    "1975 – 1979"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                "Stream processing, concurrency, coroutines; HM type inference, algebraic datatypes, the Hope language design and implementation.",
+                "…",
+                "see more"
+            ]
+        ],
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematical Logic"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1968 - 1972"
+                ],
+                "Thesis advisor: Gerald Sacks"
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1964 - 1968"
+                ],
+                "Activities and Societies:",
+                "Rugby team."
+            ],
+            [
+                "Saratoga High School",
+                [
+                    "Degree Name",
+                    "HS Graduate"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1961 - 1964"
+                ]
+            ]
+        ]
     },
     "Michael Maire.": {
         "Experience": [],
@@ -99,9 +1793,277 @@
         "Experience": [],
         "Education": []
     },
+    "Chenhao Tan.": {
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jan 2021 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "11 mos"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Colorado Boulder"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 – Jan 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Boulder"
+                ]
+            ],
+            [
+                "Research Associate",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2016 – Aug 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ]
+            ],
+            [
+                "PhD",
+                [
+                    "Company Name",
+                    "Cornell University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2010 – Jul 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
+                ]
+            ],
+            [
+                "Data Science Intern",
+                [
+                    "Company Name",
+                    "Facebook"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 – Aug 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Menlo Park, CA"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Cornell University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2016"
+                ]
+            ],
+            [
+                "Tsinghua University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science, Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2010"
+                ]
+            ]
+        ]
+    },
     "Junchen Jiang.": {
         "Experience": [],
         "Education": []
+    },
+    "Robert Rand.": {
+        "Experience": [
+            [
+                "Assistant Professor Of Computer Science",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jul 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 5 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago, Illinois, United States"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "University of Maryland"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 – Jul 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "College Park, Maryland"
+                ],
+                "Developed the SQIR language and VOQC compiler for quantum programs with Kesha Hietala and other collaborators. Also worked on other applications of formal methods to quantum computing. Supervised by Michael Hicks and Xiaodi Wu.",
+                "…",
+                "see more"
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 – Sep 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, United Kingdom"
+                ],
+                "Worked with Andy Gordon, Neil Toronto, Simon Peyton-Jones, and Claudio Russo on Project Yellow (now Calc Intelligence) to add programming languages features to Excel.",
+                "…",
+                "see more"
+            ],
+            [
+                "Instructor",
+                [
+                    "Company Name",
+                    "University of Pennsylvania"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 – May 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "9 mos"
+                ],
+                "Taught two half-credit courses on Python programming."
+            ],
+            [
+                "Teaching Assistant",
+                [
+                    "Company Name",
+                    "University of Pennsylvania"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 – May 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Philadelphia Area"
+                ],
+                "Teaching assistant for CIS 262: Automata, Computability, and Complexity and CIS 320 - Introduction to Algorithms.",
+                "Held regular office hours, graded homework.",
+                "For CIS 262, taught occasional recitation in place of the instructor, held class reviews for midterms and final exams.",
+                "…",
+                "see more"
+            ]
+        ],
+        "Education": [
+            [
+                "University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2018"
+                ],
+                "Thesis Title: Formally Verified Quantum Programming",
+                "Advisor: Steve Zdancewic"
+            ],
+            [
+                "Yeshiva University",
+                [
+                    "Degree Name",
+                    "B.A."
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics, Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2011"
+                ],
+                "Activities and Societies:",
+                "Undergraduate Student Research Presentations (President), Undergraduate Research Abstracts (Editor-in-chief), YUResearch.com (Webmaster), Subject Tutor (Mathematics &amp; Computer Science), ACM Programming Contest, William Lowell Putnam Mathematics Competition."
+            ]
+        ]
     },
     "Alexander A. Razborov.": {
         "Experience": [],
@@ -111,9 +2073,941 @@
         "Experience": [],
         "Education": []
     },
+    "Shan Lu.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Total Duration",
+                    "7 yrs 4 mos"
+                ],
+                [
+                    "Title",
+                    "Professor"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Aug 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 4 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago, IL"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Wisconsin-Madison"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2008 – Jul 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 8 mos"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Illinois at Urbana-Champaign"
+                ],
+                [
+                    "Dates Employed",
+                    "2004 – 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ],
+            [
+                "Summer Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 – Aug 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Bellevue, WA"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2008"
+                ]
+            ],
+            [
+                "University of Science and Technology of China",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    "CS"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2003"
+                ]
+            ],
+            [
+                "Hefei No. 1 High School",
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 1998"
+                ]
+            ]
+        ]
+    },
+    "Yury Makarychev.": {
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Toyota Technological Institute at Chicago (TTIC)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2009 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "12 yrs 5 mos"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "The University of Chicago"
+                ],
+                "Part-time",
+                [
+                    "Dates Employed",
+                    "Sep 2009 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "12 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher at MSR",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2007 – Jun 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Redmond, WA and Cambridge, MA"
+                ]
+            ],
+            [
+                "Software Developer",
+                [
+                    "Company Name",
+                    "Siebel Systems"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2002 – Aug 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2007"
+                ]
+            ],
+            [
+                "Lomonosov Moscow State University (MSU)",
+                [
+                    "Degree Name",
+                    "Master of Science (MSc)"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2001"
+                ]
+            ]
+        ]
+    },
+    "Matthew Walter.": {
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Toyota Technological Institute at Chicago (TTIC)"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2014 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Chicago, IL"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Massachusetts Institute of Technology"
+                ],
+                [
+                    "Total Duration",
+                    "6 yrs 9 mos"
+                ],
+                [
+                    "Title",
+                    "Research Scientist"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2011 – Oct 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 9 mos"
+                ],
+                [
+                    "Title",
+                    "Postdoctoral Associate"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2008 – Jan 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2007"
+                ]
+            ],
+            [
+                "University of Illinois at Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2000"
+                ]
+            ]
+        ]
+    },
+    "Marshini Chetty.": {
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ]
+            ],
+            [
+                "Research Scholar",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2016 – Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Maryland"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 – Aug 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "College of Information Studies"
+                ]
+            ],
+            [
+                "Research Fellow",
+                [
+                    "Company Name",
+                    "ResearchICTAfrica"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2012 – Jul 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Location",
+                    "Cape Town Area, South Africa"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "Georgia Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 – Aug 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Human-Centered Computing"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2011"
+                ],
+                "Dissertation Title: Surfacing Invisible Aspects of Domestic Networks to Affect Engagement with Infrastructure",
+                "Advisor: Rebecca E. Grinter (Georgia Tech)",
+                "PhD Committee: Gregory Abowd, Beth Mynatt, Keith Edwards (Georgia Tech) AJ Bernheim Brush (Microsoft Research), Tom Rodden (University of Nottingham)"
+            ],
+            [
+                "University of Cape Town",
+                [
+                    "Degree Name",
+                    "MSc"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2005"
+                ],
+                "Degree awarded with Distinction"
+            ],
+            [
+                "University of Cape Town",
+                [
+                    "Degree Name",
+                    "BSc(Hons)"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2002"
+                ],
+                "Degree awarded First Class"
+            ]
+        ]
+    },
+    "Nathan Srebro.": {
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Toyota Technological Institute at Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2007 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "14 yrs 10 mos"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "The University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2007 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "14 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago"
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Technion - Israel Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 – 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Haifa"
+                ]
+            ],
+            [
+                "Visiting Scientist",
+                [
+                    "Company Name",
+                    "IBM Haifa Research Lab"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2006 – Jan 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ]
+            ],
+            [
+                "Fellow",
+                [
+                    "Company Name",
+                    "University of Toronto"
+                ],
+                [
+                    "Dates Employed",
+                    "2004 – 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2004"
+                ],
+                "Activities and Societies:",
+                "IFILM, MITOC"
+            ],
+            [
+                "Technion - Israel Institute of Technology",
+                [
+                    "Degree Name",
+                    "MSc"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 1998"
+                ]
+            ],
+            [
+                "Technion - Israel Institute of Technology",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1995"
+                ]
+            ]
+        ]
+    },
+    "Michael J. O'Donnell.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "The University of Chicago"
+                ],
+                [
+                    "Total Duration",
+                    "36 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Professor Emeritus"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 8 mos"
+                ],
+                [
+                    "Title",
+                    "Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1985 – Apr 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "31 yrs 10 mos"
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "University of Iowa"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1996 – Jun 1997"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Purdue University"
+                ],
+                [
+                    "Total Duration",
+                    "9 yrs"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1981 – Aug 1985"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1976 – Aug 1981"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Johns Hopkins University"
+                ],
+                [
+                    "Total Duration",
+                    "1 yr 10 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1984 – Jun 1985"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Title",
+                    "Visiting Associate Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1983 – Aug 1984"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Research Associate",
+                [
+                    "Company Name",
+                    "University of Toronto"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1976 – Aug 1977"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Cornell University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Scien ce"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1972 - 1976"
+                ],
+                "Activities and Societies:",
+                "Folk dance\nSavoyards\nIthakords"
+            ],
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "BSc"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Sciences"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1969 - 1972"
+                ],
+                "Activities and Societies:",
+                "Symphonette"
+            ]
+        ]
+    },
     "Henry Hoffmann.": {
         "Experience": [],
         "Education": []
+    },
+    "Anne Rogers.": {
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2002 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "19 yrs 4 mos"
+                ]
+            ]
+        ],
+        "Education": []
+    },
+    "Andrew A. Chien.": {
+        "Experience": [
+            [
+                "Director and Founder",
+                [
+                    "Company Name",
+                    "CERES Center for Unstoppable Computing"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2015 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ],
+                "Strategic Research Vision, Drive synergy with Corporate Partners, recruited five partners (F500 companies) and Faculty, Launch and Drive Speaker, Internship, and Research activities"
+            ],
+            [
+                "NSF CISE Advisory Committee Member",
+                [
+                    "Company Name",
+                    "National Science Foundation (NSF)"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2021 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ]
+            ],
+            [
+                "William Eckhardt Professor in Computer Science",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2011 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ],
+                "Faculty leader, breakthrough research and innovative teaching; Leader of UChicago Zero-carbon Cloud Project and writing a computer architecture book for Data Scientists and upper-stack Computer Scientists",
+                "…",
+                "see more"
+            ],
+            [
+                "Senior Computer Scientist",
+                [
+                    "Company Name",
+                    "Argonne National Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2011 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ],
+                "Extreme scale computing (software and hardware), novel architectures, cloud-HPC synergies"
+            ],
+            [
+                "Advisor",
+                [
+                    "Company Name",
+                    "Lancium"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2018 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                "Technical advice - Sustainable HPC, cloud computing, stranded renewable energy."
+            ]
+        ],
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1990"
+                ],
+                "Activities and Societies:",
+                "Intramural Men's Volleyball Champions"
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 - 1986"
+                ]
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1980 - 1984"
+                ],
+                "Activities and Societies:",
+                "Tau Beta Pi, \nEta Kappa Nu, \nPhi Sigma Kappa,"
+            ]
+        ]
     },
     "Kevin Gimpel.": {
         "Experience": [],
@@ -127,6 +3021,273 @@
         "Experience": [],
         "Education": []
     },
+    "Gregory Shakhnarovich.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Toyota Technological Institute at Chicago (TTIC)"
+                ],
+                [
+                    "Total Duration",
+                    "13 yrs 10 mos"
+                ],
+                [
+                    "Title",
+                    "Professor"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Oct 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 2 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago, Illinois, United States"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 – Oct 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago, IL"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2008 – Jul 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 6 mos"
+                ],
+                "I work on machine learning and computer vision"
+            ],
+            [
+                "Associate Professor, part time",
+                [
+                    "Company Name",
+                    "Computer Science Department, University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago"
+                ]
+            ],
+            [
+                "Postdoctoral Research Associate",
+                [
+                    "Company Name",
+                    "Brown University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2005 – Dec 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Providence, RI"
+                ],
+                "As a postdoc at Brown I worked on applying machine learning methods  to problems in the area of Brain-Machine Interfaces (BMI), in particular the design of neural prosthetics, translation neural activity recorded in the cortex to motor control.",
+                "…",
+                "see more"
+            ]
+        ],
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2005"
+                ]
+            ],
+            [
+                "Technion",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2000"
+                ]
+            ],
+            [
+                "Hebrew University in Jerusalem",
+                [
+                    "Degree Name",
+                    "BSc"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1994"
+                ]
+            ]
+        ]
+    },
+    "John H. Reppy.": {
+        "Experience": [
+            [
+                "Professor of Computer Science",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2002 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "19 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago"
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "Northeastern University"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Boston Area"
+                ],
+                "On sabbatical at Northeastern for the 2019-2020 academic year"
+            ],
+            [
+                "Velux Visiting Professor",
+                [
+                    "Company Name",
+                    "DIKU"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 – Aug 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Copenhagen Area, Denmark"
+                ]
+            ],
+            [
+                "Program Director in CISE/CCF",
+                [
+                    "Company Name",
+                    "National Science Foundation"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 – Aug 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Arlington, VA"
+                ],
+                "Covering Programming Languages and Compilers in the Software Hardware Foundations (SHF) cluster."
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2008 – Nov 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, United Kingdom"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Cornell University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1991"
+                ]
+            ]
+        ]
+    },
     "Diana Franklin.": {
         "Experience": [
             [
@@ -138,6 +3299,151 @@
             ]
         ],
         "Education": []
+    },
+    "David Cash.": {
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2018 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ]
+            ],
+            [
+                "Advisory Board Member",
+                [
+                    "Company Name",
+                    "Kindite"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 6 mos"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Rutgers University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2012 – Dec 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "New Brunswick, New Jersey"
+                ],
+                "Research in theoretical and applied cryptography.  Teaching undergraduate and graduate classes in computer science."
+            ],
+            [
+                "Postdoc",
+                [
+                    "Company Name",
+                    "IBM"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 – Sep 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Hawthorne, NY"
+                ]
+            ],
+            [
+                "Postdoc",
+                [
+                    "Company Name",
+                    "Ruhr-Universität Bochum"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2011 – Aug 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Bochum, Germany"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2009"
+                ]
+            ],
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2005"
+                ]
+            ],
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2003"
+                ],
+                "Activities and Societies:",
+                "BS with Highest Honors"
+            ]
+        ]
     },
     "Lorenzo Orecchia.": {
         "Experience": [],
@@ -183,11 +3489,148 @@
             ]
         ]
     },
+    "Robert Grossman.": {
+        "Experience": [
+            [
+                "Frederick H. Rawson Professor in Medicine &amp; Computer Science and CRIO, Biological Sciences Division",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2010 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "11 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago"
+                ],
+                "I am the Frederick H. Rawson Distinguished Service Professor in Medicine and Computer Science at the University of Chicago (2019-present), the Chief Research Informatics Officer (CRIO) for the Biological Sciences Division (2011-present), the Jim and Karen Frank Director of the Center for Translational Data Science (CTDS) (2017-present), a Professor  in the Department of Medicine (2010-present) and Co-Chief of the Section of Computational Biomedicine and Biomedical Data Science (2016-present), and a Professor of Computer Science (2017-present).",
+                "…",
+                "see more"
+            ],
+            [
+                "Partner",
+                [
+                    "Company Name",
+                    "Analytic Strategy Partners LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2016 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ],
+                "Analytic Strategy Partners (ASP) helps companies develop analytic strategies, improve their analytic operations, and evaluate potential analytic acquisitions and opportunities.",
+                "…",
+                "see more"
+            ],
+            [
+                "Chair",
+                [
+                    "Company Name",
+                    "Open Commons Consortium"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2008 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "13 yrs 11 mos"
+                ],
+                "The Open Commons Consortium (OCC)* is a not for profit that manages and operates cloud computing and data commons infrastructure to support scientific, medical, health care and environmental research.",
+                "*formerly the Open Cloud Consortium.",
+                "…",
+                "see more"
+            ],
+            [
+                "Founder and Managing Partner",
+                [
+                    "Company Name",
+                    "Open Data Group"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2001 – Dec 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "14 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ],
+                "Open Data Group has been a leader building predictive models over big data and streaming data for Fortune 1000 companies since 2002.",
+                "…",
+                "see more"
+            ],
+            [
+                "Visiting Professor of Operations Management",
+                [
+                    "Company Name",
+                    "University of Chicago Booth School of Business"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 – Mar 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 3 mos"
+                ],
+                "I taught a course on the Strategy and Practice of Analytics for three years during the Winter Quarter."
+            ]
+        ],
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "A.B."
+                ],
+                [
+                    "Field Of Study",
+                    "mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1976 - 1980"
+                ]
+            ],
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1980 - 1984"
+                ]
+            ]
+        ]
+    },
     "Ian Foster.": {
         "Experience": [],
         "Education": []
     },
-    "L\u00c3\u00a1szl\u00c3\u00b3 Babai.": {
+    "LÃ¡szlÃ³ Babai.": {
         "Experience": [],
         "Education": []
     },
@@ -195,17 +3638,1322 @@
         "Experience": [],
         "Education": []
     },
+    "Yuxin Chen.": {
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Oct 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Chicago Department of Computer Science"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Oct 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 2 mos"
+                ]
+            ],
+            [
+                "Postdoctoral Scholar",
+                [
+                    "Company Name",
+                    "Caltech"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2017 – Sep 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Pasadena, CA"
+                ]
+            ],
+            [
+                "Doctoral Research Assistant",
+                [
+                    "Company Name",
+                    "ETH Zurich"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 – Feb 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Switzerland"
+                ],
+                "Machine Learning, Decision Making, Submodular Optimization"
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "Xerox Research Center Europe"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 – Sep 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Grenoble, France"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Eidgenössische Technische Hochschule Zürich",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2016"
+                ]
+            ],
+            [
+                "University of Kansas",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2011"
+                ]
+            ],
+            [
+                "University of Science and Technology of China",
+                [
+                    "Degree Name",
+                    "B.E."
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering, Information Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2009"
+                ],
+                "Activities and Societies:",
+                "National Music Orchestra of USTC"
+            ]
+        ]
+    },
+    "Ben Y. Zhao.": {
+        "Experience": [
+            [
+                "Neubauer Professor of Computer Science",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago, IL"
+                ],
+                "Security, Data Mining, Social Networks and Crowdsourced Systems, Wireless Networks.",
+                "Interdisciplinary work with medicine, sociology, business and law."
+            ],
+            [
+                "Technical Advisory Board",
+                [
+                    "Company Name",
+                    "Telefonica Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2014 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 9 mos"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "UC Santa Barbara"
+                ],
+                [
+                    "Total Duration",
+                    "13 yrs"
+                ],
+                [
+                    "Title",
+                    "Professor of Computer Science"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 – Jun 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "Santa Barbara, California Area"
+                ],
+                "Leads lab of 5-10 PhD students/postdocs on research projects spanning topics such as security/privacy, large-scale networks, wireless/software-defined networks, online social networks, and data/graph mining.",
+                "…",
+                "see more",
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2010 – Jun 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                "Show 2 more roles"
+            ],
+            [
+                "Technical Advisory Board",
+                [
+                    "Company Name",
+                    "PeerAnt Inc"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2007 – 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ],
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "REPLICUS Software"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2001 – Jan 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                "Consultant"
+            ]
+        ],
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2004"
+                ]
+            ],
+            [
+                "Yale University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 1997"
+                ]
+            ]
+        ]
+    },
     "Ravi Chugh.": {
         "Experience": [],
         "Education": []
+    },
+    "David Uminsky.": {
+        "Experience": [
+            [
+                "Executive Director",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Sep 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "The Data Institute, University of San Francisco"
+                ],
+                [
+                    "Total Duration",
+                    "4 yrs 2 mos"
+                ],
+                [
+                    "Title",
+                    "Executive Director"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2018 – Sep 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ],
+                [
+                    "Title",
+                    "Director"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 – Oct 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "101 Howard St. San Francisco CA 94115"
+                ],
+                "Founding Director of the Data Institute at USF. Responsible for leadership on all academic and research activities at the Data Institute. Additional responsibility include fundraising,community engagement as well as activities  serving the mission of the Data Institute.",
+                "…",
+                "see more"
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of San Francisco"
+                ],
+                [
+                    "Total Duration",
+                    "8 yrs 2 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Professor of Mathematics"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Aug 2012 – Sep 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 2 mos"
+                ],
+                "Responsibilities include conducting research in the area of applied mathematics and data science.  Teaching mathematics, analytics, and data science courses in the undergraduate and graduate programs. Serving on national editorial boards, refereeing journal articles and serving on various academic committees.",
+                "…",
+                "see more",
+                [
+                    "Title",
+                    "Director of Data Science Graduate Program"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 – Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "University of San Francisco"
+                ],
+                "Academic director of a nationally-recognized graduate program in Data Science. Coordinate the efforts of computer scientists, statisticians, mathematicians, and economists from the College of Arts and Sciences. Recruit, admit, and advise students; recruit, hire, and train adjunct faculty; serve as a liaison and spokesperson for a variety of analytics and data science-related initiatives at the university; provide oversight of the program's marketing and budgeting functions; oversee the program's curricular and co-curricular activities.",
+                "…",
+                "see more"
+            ],
+            [
+                "NSF Postdoctoral Research Fellow",
+                [
+                    "Company Name",
+                    "UCLA"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2009 – Jul 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Boston University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2009"
+                ]
+            ],
+            [
+                "Harvey Mudd College",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2003"
+                ]
+            ]
+        ]
+    },
+    "Rebecca Willett.": {
+        "Experience": [
+            [
+                "Professor of Statistics and Computer Science",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago, IL"
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of Wisconsin-Madison"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 – Jun 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Madison, Wisconsin Area"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Duke University"
+                ],
+                [
+                    "Total Duration",
+                    "8 yrs 1 mo"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 – Aug 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ],
+                [
+                    "Location",
+                    "Raleigh-Durham, North Carolina Area"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2005 – Dec 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 5 mos"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Rice University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical and Electronics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2005"
+                ]
+            ],
+            [
+                "Duke University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical and Electronics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2000"
+                ]
+            ]
+        ]
     },
     "Sanjay Krishnan.": {
         "Experience": [],
         "Education": []
     },
+    "Aaron Elmore.": {
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "The University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 6 mos"
+                ],
+                "Assistant Professor in the department of Computer Science"
+            ],
+            [
+                "Technical Advisor",
+                [
+                    "Company Name",
+                    "3PM Solutions"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2016 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 9 mos"
+                ]
+            ],
+            [
+                "Postdoctoral Associate",
+                [
+                    "Company Name",
+                    "Massachusetts Institute of Technology (MIT)"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2014 – Jun 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, MA"
+                ],
+                "Postdoctoral Associate working with Sam Madden and Mike Stronebraker."
+            ],
+            [
+                "CS PhD Student",
+                [
+                    "Company Name",
+                    "University of California, Santa Barbara"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2009 – Mar 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 7 mos"
+                ],
+                "Researching challenges in building distributed database platforms with professors Divy Agrawal and Amr El Abbadi. In particular building primitives for multitenant and geo-replicated databases.",
+                "…",
+                "see more"
+            ],
+            [
+                "Software Engineering Intern",
+                [
+                    "Company Name",
+                    "Trifacta"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 – Dec 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ],
+                "Software engineering intern working with Adam Silberstein and Joe Hellerstein."
+            ]
+        ],
+        "Education": [
+            [
+                "University of California, Santa Barbara",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2014"
+                ]
+            ],
+            [
+                "University of Chicago",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2009"
+                ]
+            ],
+            [
+                "DePaul University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    "Electronic Commerce Technologies"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2002"
+                ]
+            ]
+        ]
+    },
+    "Adam Shaw.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Total Duration",
+                    "17 yrs 3 mos"
+                ],
+                [
+                    "Title",
+                    "Lecturer, Department of Computer Science"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago, IL"
+                ],
+                [
+                    "Title",
+                    "Graduate Student"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2004 – Aug 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs"
+                ]
+            ],
+            [
+                "Teacher",
+                [
+                    "Company Name",
+                    "Dwight-Englewood School"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2002 – Jun 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 10 mos"
+                ]
+            ],
+            [
+                "Teacher, Director of Technology",
+                [
+                    "Company Name",
+                    "The Country School"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1999 – Jun 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Madison, CT"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "University of Chicago",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2010"
+                ]
+            ],
+            [
+                "Yale University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 1998"
+                ]
+            ],
+            [
+                "Williams College",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    "Music and English"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 1994"
+                ]
+            ]
+        ]
+    },
     "Sarah Sebo .": {
         "Experience": [],
         "Education": []
+    },
+    "John Goldsmith.": {
+        "Experience": [
+            [
+                "Restructuring and Turnaround Management - Healthcare Industry Group",
+                [
+                    "Company Name",
+                    "Alvarez &amp; Marsal"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2016 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ]
+            ],
+            [
+                "Manager - Restructuring and Turnaround",
+                [
+                    "Company Name",
+                    "Huron Consulting Group"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2012 – Nov 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 3 mos"
+                ]
+            ],
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "DLC Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2008 – Sep 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 4 mos"
+                ]
+            ],
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "IBM"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2007 – Jun 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "11 mos"
+                ]
+            ],
+            [
+                "Full-time student (MBA program)",
+                [
+                    "Company Name",
+                    "University of Chicago Booth School of Business"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2005 – Jun 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 10 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "The University of Chicago Booth School of Business",
+                [
+                    "Degree Name",
+                    "MBA"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2007"
+                ],
+                "Full-time MBA program from 2005 - 2007"
+            ],
+            [
+                "University of Illinois at Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    "Accountancy"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 1997"
+                ]
+            ],
+            [
+                "buffalo grove"
+            ]
+        ]
+    },
+    "Amitabh Chaudhary.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Department of Computer Science, The University of Chicago"
+                ],
+                [
+                    "Total Duration",
+                    "8 yrs"
+                ],
+                [
+                    "Title",
+                    "Associate Clinical Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2016 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Chicago"
+                ],
+                "I teach courses in machine learning, big data analysis, algorithm design, and discrete mathematics.",
+                [
+                    "Title",
+                    "Lecturer, Department of Computer Science"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2013 – Sep 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 10 mos"
+                ],
+                "Taught data analytics courses in the Masters Program.  We covered statistical analysis, machine learning, natural language processing, large scale data analysis, and time-series analysis.",
+                "…",
+                "see more"
+            ],
+            [
+                "Founder",
+                [
+                    "Company Name",
+                    "VivaPeople.com"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2012 – Sep 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 9 mos"
+                ],
+                "VivaPeople is a prediction market, with an automated market maker, for collecting and analyzing citizen and consumer experiences.  I wrote it in Python and JavaScript using the Django and jQuery frameworks.",
+                "…",
+                "see more"
+            ],
+            [
+                "Assistant Professor, Department of Computer Science &amp; Engineering",
+                [
+                    "Company Name",
+                    "University of Notre Dame"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2004 – Dec 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 7 mos"
+                ],
+                "I published over 20 research papers in algorithms for large spatial datasets, memory caching, and online inventory management.  I also designed and taught courses on discrete mathematics, linear programming, and computational finance.",
+                "I was awarded a research grant ($119K) by the Algorithmic Foundations Program of the National Science Foundation to apply online machine learning to inventory management.  I was also honored with an Outstanding Teaching Award by the department.",
+                "For my research publications please visit  DBLP: http://dblp.uni-trier.de/pers/hd/c/Chaudhary:Amitabh",
+                "…",
+                "see more"
+            ],
+            [
+                "Postdoctoral Researcher, School of Information &amp; Computer Science",
+                [
+                    "Company Name",
+                    "UC Irvine"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2002 – May 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                "I published 8 peer-reviewed research papers on algorithms for large graphs and streaming data, as well as taught a course on randomized algorithms.",
+                "…",
+                "see more"
+            ],
+            [
+                "Software Engineer",
+                [
+                    "Company Name",
+                    "CMC LTD"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1992 – Jan 1994"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 7 mos"
+                ],
+                [
+                    "Location",
+                    "Kolkata Area, India"
+                ],
+                "Our team developed one of India's first library management systems.  I was honored with an Employee Recognition Award."
+            ]
+        ],
+        "Education": [
+            [
+                "The Johns Hopkins University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2002"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Bombay",
+                [
+                    "Degree Name",
+                    "Master of Technology (M.Tech.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1996"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Kharagpur",
+                [
+                    "Degree Name",
+                    "Bachelor of Technology (B.Tech.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1988 - 1992"
+                ]
+            ]
+        ]
+    },
+    "Stuart Kurtz.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "The University of Chicago"
+                ],
+                [
+                    "Total Duration",
+                    "40 yrs 2 mos"
+                ],
+                [
+                    "Title",
+                    "Professor of Computer Science and the College"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 1983 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "38 yrs 2 mos"
+                ],
+                "Chairman, 1997-2003, 2006-2009. CS Director of Undergraduate Studies 2016-2018. Master, Physical Sciences Collegiate Division, 2018-. George and Elizabeth Yovovich Professor 2020-.",
+                [
+                    "Title",
+                    "L.E. Dickson Instructor of Mathematics"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 1981 – Sep 1983"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "MA, Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978 - 1981"
+                ]
+            ],
+            [
+                "Michigan State University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1975 - 1978"
+                ]
+            ]
+        ]
+    },
+    "Yanjing Li.": {
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 3 mos"
+                ]
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "Intel Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2010 – Aug 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 9 mos"
+                ]
+            ],
+            [
+                "Visiting Scholar",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 – Jun 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ]
+            ],
+            [
+                "Graduate Research Intern",
+                [
+                    "Company Name",
+                    "Intel Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2009 – Jun 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ]
+            ],
+            [
+                "Graduate Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2008 – Dec 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2013"
+                ]
+            ],
+            [
+                "Carnegie Mellon University",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematical Sciences"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2006"
+                ]
+            ],
+            [
+                "Carnegie Mellon University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2006"
+                ]
+            ]
+        ]
     },
     "William Fefferman.": {
         "Experience": [],

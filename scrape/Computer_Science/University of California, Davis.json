@@ -102,6 +102,129 @@
             ]
         ]
     },
+    "Matt Bishop": {
+        "status": "success",
+        "Education": [
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1979 - 1984"
+                ],
+                [
+                    "More Info",
+                    "University of California, Berkeley"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of California at Davis"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1993 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "28 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Davis, CA"
+                ],
+                [
+                    "More Info",
+                    "I do research in various areas of computer security, teach computer security, operating systems, software engineering and programming, and am involved in improving the state of education in information security."
+                ]
+            ],
+            [
+                "co-Principal Investigator",
+                [
+                    "Company Name",
+                    "California Secretary of State's Top-to-Bottom Review Team"
+                ],
+                [
+                    "Dates Employed",
+                    "2007"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ]
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "Research Institute for Advanced Computer Science"
+                ],
+                [
+                    "Dates Employed",
+                    "1984 - 1987"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ]
+            ]
+        ]
+    },
+    "Hao Chen": {
+        "status": "success",
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Statistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2013"
+                ]
+            ],
+            [
+                "Tsinghua University"
+            ]
+        ],
+        "Experience": [
+            [
+                "University of California, Davis",
+                [
+                    "Company Name",
+                    "8 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2019 - Present · 2 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor"
+                ]
+            ]
+        ]
+    },
     "Raissa M. D&#039;Souza": {
         "status": "fail",
         "Education": [],
@@ -116,6 +239,321 @@
                 [
                     "Company Name",
                     "UC Davis"
+                ]
+            ]
+        ]
+    },
+    "Prem Devanbu": {
+        "status": "success",
+        "Education": [
+            [
+                "Indian Institute of Technology, Madras",
+                [
+                    "Degree Name",
+                    "B. Tech"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical &amp; Electronics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1958 - 1981"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Built hi-fi power amps, hacked PL/I &amp; Fortran, and stayed out of trouble"
+                ]
+            ],
+            [
+                "Rutgers University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1957 - 2023"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Cooking Indian Food"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Distinguished Professor, Computer Science (ptdevanbu@ucdavis.edu)",
+                [
+                    "Company Name",
+                    "UC Davis"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 1997 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "24 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Research, Teaching, Service, Consulting"
+                ]
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "Microsoft Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 - Aug 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Redmond, Washington"
+                ],
+                [
+                    "More Info",
+                    "Studied Dissemination of Empircal Software Engineering Knowledge and Practices"
+                ]
+            ],
+            [
+                "Gast Professor",
+                [
+                    "Company Name",
+                    "Uni Zurich"
+                ],
+                [
+                    "Dates Employed",
+                    "2008"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ],
+                [
+                    "Location",
+                    "Did research with Swiss profs &amp; students, and ate chocolate."
+                ]
+            ],
+            [
+                "AT&amp;T Labs--Research",
+                [
+                    "Company Name",
+                    "16 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Principal Member of Technical Staff"
+                ],
+                [
+                    "Location",
+                    "1982 - 1998 · 16 yrs"
+                ],
+                [
+                    "More Info",
+                    "Software Development, Software Engineering Research"
+                ]
+            ],
+            [
+                "Graduate Student",
+                [
+                    "Company Name",
+                    "Rutgers University"
+                ],
+                [
+                    "Dates Employed",
+                    "1977 - 1994"
+                ],
+                [
+                    "Employment Duration",
+                    "17 yrs"
+                ],
+                [
+                    "Location",
+                    "Studied hard"
+                ],
+                [
+                    "More Info",
+                    "See all 7 experiences"
+                ]
+            ]
+        ]
+    },
+    "David Doty": {
+        "status": "success",
+        "Education": [
+            [
+                "Iowa State University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2009"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Taekwondo Club, Hapkido Club"
+                ]
+            ],
+            [
+                "Iowa State University",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2002"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Taekwondo Club, Hapkido Club"
+                ]
+            ],
+            [
+                "The University of Queensland",
+                [
+                    "Degree Name",
+                    "no degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Coursework in Computer Science, Physics, and Cognitive Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2001"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Judo Club"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of California, Davis",
+                [
+                    "Company Name",
+                    "Full-time · 6 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor of Computer Science"
+                ],
+                [
+                    "Location",
+                    "Jul 2021 - Present · 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Davis, California, United States"
+                ]
+            ],
+            [
+                "California Institute of Technology",
+                [
+                    "Company Name",
+                    "4 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Senior Research Fellow"
+                ],
+                [
+                    "Location",
+                    "Mar 2014 - Jun 2015 · 1 yr 4 mos"
+                ],
+                [
+                    "More Info",
+                    "Pasadena, CA"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "University of Western Ontario"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2009 - Aug 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "I conduct research on molecular computation and nanoscale algorithmic self-assembly."
+                ]
+            ],
+            [
+                "Graduate Student / Instructor / Teaching Assistant / Research Assistant",
+                [
+                    "Company Name",
+                    "Iowa State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2002 - Aug 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "I was a Ph.D. student in the Computer Science department. Specifically, I was in the theory group and I focused initially on research in algorithmic information theory and computational complexity. Later I switched to the theory of nanoscale self-assembly and wrote my thesis on this topic."
+                ],
+                [
+                    "More Info",
+                    "I was also an instructor for the department, teaching courses in introductory object-oriented (Java) programming and data structures, and the theory of computing. In past years, I have also supported myself as a teaching assistant (for the same courses I currently teach) and a research assistant."
+                ]
+            ],
+            [
+                "Undergraduate Research Assistant",
+                [
+                    "Company Name",
+                    "Ames Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2000 - Dec 2000"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "* Developed Java applets for use in Molecular Dynamics course lab"
+                ],
+                [
+                    "More Info",
+                    "* Assisted in development of course materials for Molecular Dynamics course using POV-Ray Graphical Renderer"
                 ]
             ]
         ]

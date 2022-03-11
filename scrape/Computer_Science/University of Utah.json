@@ -177,6 +177,143 @@
             ]
         ]
     },
+    "Aditya Bhaskara": {
+        "status": "success",
+        "Education": [
+            [
+                "Osmania University",
+                [
+                    "Degree Name",
+                    "Bachelor of Engineering"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science &amp; Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2006"
+                ],
+                [
+                    "More Info",
+                    "Mother's Integral school"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Deloitte Consulting",
+                [
+                    "Company Name",
+                    "Full-time · 7 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Project Delivery Manager"
+                ],
+                [
+                    "Location",
+                    "Jun 2018 - Present · 3 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Dallas, Texas, United States"
+                ]
+            ],
+            [
+                "SAP Development Lead &amp; ABAP Consultant",
+                [
+                    "Company Name",
+                    "Broadcom"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2014 - Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "Irvine, California"
+                ],
+                [
+                    "More Info",
+                    "B3 Implementation"
+                ]
+            ],
+            [
+                "SAP Development Lead &amp; ABAP Consultant",
+                [
+                    "Company Name",
+                    "Southern California Edison (SCE)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2011 - Feb 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Was involved in implementing SAP ERP across various modules.  Served as Development Lead and architect for a variety of projects at Southern California Edison."
+                ],
+                [
+                    "More Info",
+                    "Designed the technical part of PLP ( Pole Loading Project ), CBS ( Contract Billing System ), Master Data Governance ( MDG ) project."
+                ]
+            ],
+            [
+                "Business Analyst",
+                [
+                    "Company Name",
+                    "Bank of America"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2010 - Dec 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "•\tDesign and Develop Java web Dynpro code for SAP implementation of GL Upload Applications."
+                ],
+                [
+                    "More Info",
+                    "•\tWorked on creating ALV application using WebDynpro for Web UI."
+                ]
+            ],
+            [
+                "Senior Member- Information Technology",
+                [
+                    "Company Name",
+                    "D.E Shaw India Software Pvt Ltd"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - Apr 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "•\tWorked as Technical consultant and was involved in development of objects pertaining to CRM module."
+                ],
+                [
+                    "More Info",
+                    "•\tInvolved in generating and modifying screens, Classical and Interactive report programs. Defined variants for reports for outputting lists."
+                ]
+            ]
+        ]
+    },
     "Mahdi Bojnordi": {
         "status": "success",
         "Education": [
@@ -199,7 +336,7 @@
                 "University of Rochester",
                 [
                     "Degree Name",
-                    "Master\u2019s Degree"
+                    "Master’s Degree"
                 ],
                 [
                     "Field Of Study",
@@ -214,7 +351,7 @@
                 "University of Tehran",
                 [
                     "Degree Name",
-                    "Master\u2019s Degree"
+                    "Master’s Degree"
                 ],
                 [
                     "Field Of Study",
@@ -235,7 +372,7 @@
                 "Principal Engineer",
                 [
                     "Company Name",
-                    "Qualcomm \u00b7 Full-time"
+                    "Qualcomm · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -472,6 +609,127 @@
             ]
         ]
     },
+    "Scott Brown": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Utah - David Eccles School of Business",
+                [
+                    "Degree Name",
+                    "Masters"
+                ],
+                [
+                    "Field Of Study",
+                    " Business"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2003"
+                ]
+            ],
+            [
+                "University of Utah",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Mechanical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1999"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: National Engineering Honor Society, ASME"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Engineering Manager",
+                [
+                    "Company Name",
+                    "Merit Medical Systems, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2016 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Salt Lake City Area"
+                ],
+                [
+                    "More Info",
+                    "Develops product road-maps for packaged and MEMS element products."
+                ]
+            ],
+            [
+                "Quartzdyne, Inc.",
+                [
+                    "Company Name",
+                    "16 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Vice President of Engineering"
+                ],
+                [
+                    "Location",
+                    "Aug 2010 - Jan 2016 · 5 yrs 6 mos"
+                ],
+                [
+                    "More Info",
+                    "VP  Sales and Marketing"
+                ]
+            ],
+            [
+                "Board Member - Treasurer",
+                [
+                    "Company Name",
+                    "Navigator Pointe Academy"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2004 - Jan 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "12 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "West Jordan Utah"
+                ],
+                [
+                    "More Info",
+                    "Navigator Pointe Academy, a Utah public charter school, provides a challenging, engaging, classical curriculum in a safe and orderly environment.  The school focuses on the academic achievement of each student.   Teachers, instructors, administrators, and staff strive to instill in students the ideals and habit of virtuous living and work to inspire children to use their minds well.  NPA server students from Kindergarten to 9th grade,"
+                ]
+            ],
+            [
+                "Sales Manager",
+                [
+                    "Company Name",
+                    "Guthrie Bicycle"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 1994 - May 1999"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 5 mos"
+                ]
+            ]
+        ]
+    },
     "Erik Brunvand": {
         "status": "success",
         "Education": [
@@ -507,7 +765,7 @@
                 "Professor, School of Computing",
                 [
                     "Company Name",
-                    "University of Utah - Employment \u00b7 Full-time"
+                    "University of Utah - Employment · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -539,7 +797,7 @@
                 ],
                 [
                     "More Info",
-                    "Universidad de Puerto Rico, Recinto Universitario de Mayag\u00fcez"
+                    "Universidad de Puerto Rico, Recinto Universitario de Mayagüez"
                 ]
             ]
         ],
@@ -629,7 +887,7 @@
                 ],
                 [
                     "More Info",
-                    "\u2022 Studied the determinants of participation in Large Scale Conflict (i.e. wars) in online virtual environments as a proxy for Large Scale real world conflicts."
+                    "• Studied the determinants of participation in Large Scale Conflict (i.e. wars) in online virtual environments as a proxy for Large Scale real world conflicts."
                 ]
             ],
             [
@@ -652,7 +910,7 @@
                 ],
                 [
                     "More Info",
-                    "\u2022  Developed a prototype storage architecture for use with MobileMe\u2122 Mail."
+                    "•  Developed a prototype storage architecture for use with MobileMe™ Mail."
                 ]
             ]
         ]
@@ -831,6 +1089,49 @@
             ]
         ]
     },
+    "Ganesh Gopalakrishnan": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Utah"
+                ]
+            ],
+            [
+                "University of Utah",
+                [
+                    "Company Name",
+                    "36 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "1986 - Present · 36 yrs 2 mos"
+                ]
+            ],
+            [
+                "Sabbatical Visitor",
+                [
+                    "Company Name",
+                    "Intel Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "2002 - 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ]
+        ]
+    },
     "Mary Hall": {
         "status": "success",
         "Education": [],
@@ -840,6 +1141,161 @@
                 [
                     "Company Name",
                     "Jumping Spider LLC"
+                ]
+            ]
+        ]
+    },
+    "Tom Henderson": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1999"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Electronics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1991"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Electronics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1990"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Kappa Sigma"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Affiliate Professor, Electrical &amp; Computer Engineering",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2002 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "19 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ],
+                [
+                    "More Info",
+                    "Co-Investigator on UW award for Public Safety Communications Research and Prototyping Platforms, from the U.S. Department of Commerce, National Institute of Standards and Technology (2017-present on two awards).  Responsible for development and review of ns-3 models and scenarios for public safety LTE networks."
+                ]
+            ],
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "CableLabs"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Nov 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Software contractor for CableLabs for ns-3 simulation modeling."
+                ]
+            ],
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "Idaho National Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2016 - May 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ],
+                [
+                    "Location",
+                    "Software contractor for Idaho National Laboratory for ns-3 simulation modeling."
+                ]
+            ],
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "GE Global Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 - Oct 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Wireless networking research project for GE Global Research"
+                ]
+            ],
+            [
+                "Boeing",
+                [
+                    "Company Name",
+                    "13 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Greater Seattle Area"
+                ],
+                [
+                    "Location",
+                    "Technical Fellow"
+                ],
+                [
+                    "More Info",
+                    "Jan 2012 - Jun 2014 · 2 yrs 6 mos"
                 ]
             ]
         ]
@@ -998,7 +1454,7 @@
                 "Wright State University",
                 [
                     "Degree Name",
-                    "Bachelor\u2019s Degree"
+                    "Bachelor’s Degree"
                 ],
                 [
                     "Field Of Study",
@@ -1078,6 +1534,682 @@
             ]
         ]
     },
+    "David Johnson": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Utah",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2010"
+                ]
+            ],
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2004"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Utah",
+                [
+                    "Company Name",
+                    "17 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Associate"
+                ],
+                [
+                    "Location",
+                    "Nov 2006 - Present · 15 yrs 4 mos"
+                ],
+                [
+                    "More Info",
+                    "Systems Software Engineer"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Minnesota"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2002 - Jan 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 2 mos"
+                ]
+            ],
+            [
+                "Systems Administrator",
+                [
+                    "Company Name",
+                    "H.I.S. Systems (dba PC Pros)"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2001 - Jan 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 9 mos"
+                ],
+                [
+                    "Location",
+                    "Richfield, MN"
+                ]
+            ],
+            [
+                "Technician",
+                [
+                    "Company Name",
+                    "H.I.S. Systems (dba PC Pros)"
+                ],
+                [
+                    "Dates Employed",
+                    "May 1999 - Sep 2000"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 5 mos"
+                ],
+                [
+                    "Location",
+                    "Richfield, MN"
+                ]
+            ]
+        ]
+    },
+    "Ben Jones": {
+        "status": "success",
+        "Education": [
+            [
+                "Salt Lake Community College",
+                [
+                    "Degree Name",
+                    "Associate of Arts (AA)"
+                ],
+                [
+                    "Field Of Study",
+                    " Business"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: United States Taekwon-Do Federation and SLCC TKD club member"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Implementation Specialist",
+                [
+                    "Company Name",
+                    "Robert Half Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 - Feb 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ]
+            ],
+            [
+                "Owner",
+                [
+                    "Company Name",
+                    "Tech Factor LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Jun 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Perform PC tuneups and upgrades"
+                ],
+                [
+                    "More Info",
+                    "Troubleshoot and repair desktop and laptop computers"
+                ]
+            ],
+            [
+                "iTOK",
+                [
+                    "Company Name",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Trainer"
+                ],
+                [
+                    "Location",
+                    "Nov 2012 - May 2013 · 7 mos"
+                ],
+                [
+                    "More Info",
+                    "lehi, ut"
+                ]
+            ],
+            [
+                "Sourcing Coordinator",
+                [
+                    "Company Name",
+                    "O.co"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2010 - Sep 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "Create and maintain purchase orders for local warehouse"
+                ],
+                [
+                    "More Info",
+                    "Assist International Sourcing team with logistics"
+                ]
+            ],
+            [
+                "Supervisor",
+                [
+                    "Company Name",
+                    "UPS"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2008 - Feb 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "Supervisor for hazardous waste containment process and personnel."
+                ],
+                [
+                    "More Info",
+                    "Keep department payroll expenses within budget."
+                ]
+            ]
+        ]
+    },
+    "Sneha Kasera": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ],
+            [
+                "Indian Institute of Science (IISc)",
+                [
+                    "Degree Name",
+                    "ME"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Communication Engineering"
+                ]
+            ],
+            [
+                "St. Xavier's College (Autonomous), Kolkata",
+                [
+                    "Degree Name",
+                    "BS (Hons.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Physics"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Utah",
+                [
+                    "Company Name",
+                    "19 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Dean for Academic Affairs, College of Engineering"
+                ],
+                [
+                    "Location",
+                    "Aug 2018 - Present · 3 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Professor of Computer Science"
+                ]
+            ],
+            [
+                "Member of Technical Staff",
+                [
+                    "Company Name",
+                    "Bell Laboratories"
+                ],
+                [
+                    "Dates Employed",
+                    "1999 - 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ],
+            [
+                "Summer Intern",
+                [
+                    "Company Name",
+                    "AT&amp;T Bell Labs"
+                ],
+                [
+                    "Dates Employed",
+                    "1995"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ]
+            ],
+            [
+                "Summer Intern",
+                [
+                    "Company Name",
+                    "IBM T.J. Watson Research Center"
+                ],
+                [
+                    "Dates Employed",
+                    "1994"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ]
+            ],
+            [
+                "Member of Technical Staff",
+                [
+                    "Company Name",
+                    "Center for Development of Advanced Computing"
+                ],
+                [
+                    "Dates Employed",
+                    "1991 - 1992"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "See all 8 experiences"
+                ]
+            ]
+        ]
+    },
+    "Ladislav Kavan": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "Meta · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 4 mos"
+                ]
+            ],
+            [
+                "University of Utah",
+                [
+                    "Company Name",
+                    "6 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor (with tenure)"
+                ],
+                [
+                    "Location",
+                    "Jul 2019 - Present · 2 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor"
+                ]
+            ],
+            [
+                "Research Engineer",
+                [
+                    "Company Name",
+                    "Epic Games"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2020 - Oct 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Pennsylvania"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - Dec 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ]
+            ],
+            [
+                "Senior Researcher",
+                [
+                    "Company Name",
+                    "ETH Zurich"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2011 - Jan 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ],
+                [
+                    "Location",
+                    "Zurich, Switzerland"
+                ],
+                [
+                    "More Info",
+                    "I'm with Olga Sorkine's Interactive Geometry Lab."
+                ]
+            ]
+        ]
+    },
+    "Mike Kirby": {
+        "status": "success",
+        "Education": [
+            [
+                "Brown University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Applied Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2002"
+                ]
+            ],
+            [
+                "Florida State University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Applied Mathematics and Computer and Information Sciences (double major)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 1997"
+                ]
+            ],
+            [
+                "Brown University",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "School of Computing, University of Utah",
+                [
+                    "Company Name",
+                    "19 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2014 - Present · 7 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Associate Professor"
+                ]
+            ]
+        ]
+    },
+    "Marina Kogan": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Colorado Boulder",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2017"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: ACM, SIGCHI"
+                ]
+            ],
+            [
+                "University of Colorado Boulder",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2015"
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Sociology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2009"
+                ],
+                [
+                    "More Info",
+                    "See all 5 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Utah"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of New Mexico School of Engineering"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 2 mos"
+                ]
+            ],
+            [
+                "University of Colorado Boulder",
+                [
+                    "Company Name",
+                    "9 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Graduate Research Assistant"
+                ],
+                [
+                    "Location",
+                    "Aug 2014 - Present · 7 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Boulder"
+                ]
+            ],
+            [
+                "Professional Research Assistant",
+                [
+                    "Company Name",
+                    "Ethnography &amp; Evaluation Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2010 - Jul 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Boulder, CO"
+                ],
+                [
+                    "More Info",
+                    "•\tConstructed and validated survey instruments for multiple evaluation projects."
+                ]
+            ],
+            [
+                "Applied Technology for Learning in the Arts and Sciences, University of Illinois at Urbana-Champaign",
+                [
+                    "Company Name",
+                    "3 yrs 5 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Urbana-Champaign, Illinois Area"
+                ],
+                [
+                    "Location",
+                    "Graduate Statistics and GIS Consultant"
+                ],
+                [
+                    "More Info",
+                    "Aug 2009 - Dec 2009 · 5 mos"
+                ]
+            ]
+        ]
+    },
     "Daniel Kopta": {
         "status": "success",
         "Education": [],
@@ -1095,6 +2227,479 @@
                 [
                     "Employment Duration",
                     "16 yrs 11 mos"
+                ]
+            ]
+        ]
+    },
+    "Alan Kuntz": {
+        "status": "success",
+        "Education": [
+            [
+                "University of North Carolina at Chapel Hill",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2019"
+                ],
+                [
+                    "More Info",
+                    "Research in Robot Motion Planning with a focus in Surgical Robotics Applications"
+                ]
+            ],
+            [
+                "University of North Carolina at Chapel Hill",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2016"
+                ]
+            ],
+            [
+                "University of New Mexico School of Engineering",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2014"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "School of Computing, University of Utah · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Salt Lake City, UT"
+                ]
+            ],
+            [
+                "Vanderbilt University",
+                [
+                    "Company Name",
+                    "6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Nashville, TN"
+                ],
+                [
+                    "Location",
+                    "Postdoctoral Researcher"
+                ],
+                [
+                    "More Info",
+                    "Aug 2019 - Jan 2020 · 6 mos"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "UNC Computational Robotics Research Group"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 - Aug 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "· Designed and implemented eﬀective robot motion planning algorithms for a variety of robotic devices, including general manipulator arms and novel surgical robots."
+                ],
+                [
+                    "More Info",
+                    "· Successfully worked as part of an multidisciplinary research team with colleagues ranging from Mechanical Engineering students to Cardiothoracic surgeons."
+                ]
+            ],
+            [
+                "Undergraduate Research Assistant",
+                [
+                    "Company Name",
+                    "UNM Adaptive Motion Planning Research Group"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2012 - May 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "· Developed and implemented algorithms to simulate and analyze immune system molecular activity."
+                ],
+                [
+                    "More Info",
+                    "· Designed and executed large scale experiments on super computing clusters."
+                ]
+            ],
+            [
+                "Undergraduate Research Assistant",
+                [
+                    "Company Name",
+                    "Los Alamos National Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Aug 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "· Designed and constructed graphene-oxide sensor skin for structural health monitoring purposes."
+                ],
+                [
+                    "More Info",
+                    "· Designed and implemented novel sensor design optimization algorithm for the sensor skin."
+                ]
+            ]
+        ]
+    },
+    "Alexander Lex": {
+        "status": "success",
+        "Education": [
+            [
+                "Technische Universität Graz",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Grade: Graduated with highest distinction"
+                ]
+            ],
+            [
+                "Harvard Medical School",
+                [
+                    "Degree Name",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Visiting Student"
+                ]
+            ],
+            [
+                "Technische Universität Graz",
+                [
+                    "Degree Name",
+                    "2008"
+                ],
+                [
+                    "Field Of Study",
+                    " Softwareentwicklung &amp; Wirtschaft"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2008"
+                ],
+                [
+                    "More Info",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Utah - Employment",
+                [
+                    "Company Name",
+                    "6 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2020 - Present · 1 yr 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor"
+                ]
+            ],
+            [
+                "Co-Founder and Advisor",
+                [
+                    "Company Name",
+                    "datavisyn GmbH"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2016 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Linz, Austria"
+                ],
+                [
+                    "More Info",
+                    "http://www.datavisyn.io/"
+                ]
+            ],
+            [
+                "Postdoctoral Research Fellow",
+                [
+                    "Company Name",
+                    "Harvard School of Engineering and Applied Sciences"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2012 - May 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, MA, USA"
+                ],
+                [
+                    "More Info",
+                    "Researcher at Prof. Pfister's Visual Computing Group"
+                ]
+            ],
+            [
+                "Graz University of Technology",
+                [
+                    "Company Name",
+                    "4 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Post-Doctoral Researcher"
+                ],
+                [
+                    "Location",
+                    "Mar 2012 - Oct 2012 · 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Senior researcher in the information visualization group. Co-leader of the Caleydo project. Research in visualization and HCI with a focus on molecular biology applications, such as pathway analysis, cancer subtype analysis, heterogeneous and multiple datasets."
+                ]
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "Harvard Medical School"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2011 - Sep 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Developed the StratomeX visualization technique for cancer subtype analysis using TCGA data."
+                ]
+            ]
+        ]
+    },
+    "Travis Martin": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science &amp; Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2016"
+                ]
+            ],
+            [
+                "Rice University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2011"
+                ]
+            ],
+            [
+                "Rice University",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2011"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor (Lecturer)",
+                [
+                    "Company Name",
+                    "University of Utah · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ]
+            ],
+            [
+                "Senior Software Engineer",
+                [
+                    "Company Name",
+                    "Recursion Pharmaceuticals"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Dec 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 5 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Salt Lake City Area"
+                ]
+            ],
+            [
+                "Google",
+                [
+                    "Company Name",
+                    "2 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Senior Software Engineer"
+                ],
+                [
+                    "Location",
+                    "Oct 2018 - Jun 2019 · 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Software Engineer"
+                ]
+            ],
+            [
+                "University of Michigan",
+                [
+                    "Company Name",
+                    "4 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Ann Arbor, MI"
+                ],
+                [
+                    "Location",
+                    "Graduate Research Assistant"
+                ],
+                [
+                    "More Info",
+                    "Sep 2011 - Jun 2016 · 4 yrs 10 mos"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft Research"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2015 - Aug 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "New York City"
+                ],
+                [
+                    "More Info",
+                    "Researching with the Computational Social Science group, investigating prediction on Twitter using a variety of machine learning algorithms and big data techniques with terabytes of tweets."
                 ]
             ]
         ]
@@ -1156,6 +2761,157 @@
         "Education": [],
         "Experience": []
     },
+    "Manish Parashar": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of Texas at Austin",
+                [
+                    "Degree Name",
+                    "Postdoc"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1997"
+                ]
+            ],
+            [
+                "Syracuse University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1994"
+                ]
+            ],
+            [
+                "University of Mumbai",
+                [
+                    "Degree Name",
+                    "Bachelors of Engineering"
+                ],
+                [
+                    "Field Of Study",
+                    " Electronics and Telecommunications"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 - 1988"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Office Director, Office of Advanced Cyberinfrastructure",
+                [
+                    "Company Name",
+                    "National Science Foundation (NSF)"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Alexandria,  Virginia"
+                ]
+            ],
+            [
+                "University of Utah",
+                [
+                    "Company Name",
+                    "1 yr 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Director, Scientific Computing &amp; Imaging (SCI) Institute and Chair in Computational Science &amp; Engr."
+                ],
+                [
+                    "Location",
+                    "Jan 2021 - Present · 1 yr 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Salt Lake City, Utah, United States"
+                ]
+            ],
+            [
+                "Rutgers University",
+                [
+                    "Company Name",
+                    "24 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Visiting Professor, Department of Computer Science"
+                ],
+                [
+                    "Location",
+                    "Jan 2021 - Present · 1 yr 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Piscataway, New Jersey, United States"
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "University of Derby, Faculty of Business, Computing and Law"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Derby, United Kingdom"
+                ]
+            ],
+            [
+                "Assistant Director for Strategic Computing",
+                [
+                    "Company Name",
+                    "White House Office of Science and Technology Policy"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2020 - Dec 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ],
+                [
+                    "Location",
+                    "Washington DC-Baltimore Area"
+                ],
+                [
+                    "More Info",
+                    "Led (or co-led) an all-of-government strategic planning for the Nation’s Future Advanced Computing Ecosystem, and the development of the report “Pioneering the Future Advanced Computing Ecosystem: A Strategic Plan”; the creation of and co-chaired the NSTC Subcommittee on Future Advanced Computing Ecosystem (FACE);  the formulation of the National Strategic Computing Reserve (NSCR) concept and its development and the resulting request for information; and  the COVID 19 HPC Consortium, a unique public-private partnership that brings together government, industry, and academic leaders to provide computing resources in support of COVID-19 research."
+                ]
+            ]
+        ]
+    },
     "Erin Parker": {
         "status": "success",
         "Education": [],
@@ -1165,6 +2921,142 @@
                 [
                     "Company Name",
                     "University of Utah"
+                ]
+            ]
+        ]
+    },
+    "Valerio Pascucci": {
+        "status": "success",
+        "Education": [
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "Pd.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2000"
+                ],
+                [
+                    "More Info",
+                    "Italian Order of Engineers"
+                ]
+            ],
+            [
+                "Sapienza Università di Roma",
+                [
+                    "Degree Name",
+                    "Laurea (Master)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1993"
+                ],
+                [
+                    "More Info",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Scientific Computing and Imaging Institute at the University of Utah",
+                [
+                    "Company Name",
+                    "11 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "John R. Parks Inaugural Endowed Chair Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2017 - Present · 4 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Salt Lake City"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Utah College of Engineering"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2008 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "13 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Salt Lake County, Utah, United States"
+                ]
+            ],
+            [
+                "Principal Investigator",
+                [
+                    "Company Name",
+                    "National Science Data Fabric · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ]
+            ],
+            [
+                "co Principal Investigator",
+                [
+                    "Company Name",
+                    "CI Compass · Part-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ]
+            ],
+            [
+                "Board Member",
+                [
+                    "Company Name",
+                    "ProActive Memory Services, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2016 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Salt Lake City, Utah"
+                ],
+                [
+                    "More Info",
+                    "See all 16 experiences"
                 ]
             ]
         ]
@@ -1431,6 +3323,395 @@
             ]
         ]
     },
+    "Zvonimir Rakamaric": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of British Columbia",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Thesis Topic: Modular Verification of Shared-Memory Concurrent System Software"
+                ]
+            ],
+            [
+                "The University of British Columbia",
+                [
+                    "Degree Name",
+                    "MSc"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2006"
+                ],
+                [
+                    "More Info",
+                    "Thesis Topic: A Logic and Decision Procedure for Verification of Heap-Manipulating Programs"
+                ]
+            ],
+            [
+                "University of Zagreb/Sveuciliste u Zagrebu",
+                [
+                    "Degree Name",
+                    "BSc"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2002"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Principal Applied Scientist",
+                [
+                    "Company Name",
+                    "Amazon Web Services (AWS) · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Location",
+                    "Automated reasoning group with AWS Identity"
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of Utah"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Salt Lake City Area"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Utah"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Jun 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Greater Salt Lake City Area"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Carnegie Mellon Silicon Valley"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2011 - Mar 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "NASA Ames Research Park, CA, USA"
+                ],
+                [
+                    "More Info",
+                    "I worked on developing modular techniques for improving coverage of testing of NASA's flight critical systems."
+                ]
+            ],
+            [
+                "The University of British Columbia",
+                [
+                    "Company Name",
+                    "5 yrs 11 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Assistant"
+                ],
+                [
+                    "Location",
+                    "Sep 2006 - Mar 2011 · 4 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Researched how to automatically and effectively analyze and check shared-memory concurrent system software."
+                ]
+            ]
+        ]
+    },
+    "Dan Reed": {
+        "status": "success",
+        "Education": [
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1980 - 1983"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Association for Computing Machinery, student chapter treasurer"
+                ]
+            ],
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1979 - 1980"
+                ],
+                [
+                    "More Info",
+                    "Missouri University of Science and Technology"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Utah",
+                [
+                    "Company Name",
+                    "Full-time · 3 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Presidential Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2018 - Present · 3 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Salt Lake City, Utah"
+                ]
+            ],
+            [
+                "Board Member and Chair of the Awards and Facilities Committee",
+                [
+                    "Company Name",
+                    "National Science Board (NSB)"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Washington, DC"
+                ],
+                [
+                    "More Info",
+                    "The National Science Board (NSB) establishes the policies of NSF, identifying issues that are critical to NSF's future, approves NSF's strategic budget directions and the annual budget submission to the Office of Management and Budget, and approves new major programs and awards. The Board also serves as an independent body of advisers to both the President and the Congress on policy matters related to science and engineering and education in science and engineering."
+                ]
+            ],
+            [
+                "Advisory Board Member",
+                [
+                    "Company Name",
+                    "NSF Engineering Research Visioning Alliance (ERVA)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 mos"
+                ],
+                [
+                    "Location",
+                    "The ERVA advisory board provides high-level vision and guidance to the executive committee and reviews organizational and programmatic assessment twice yearly to ensure continuous improvement."
+                ]
+            ],
+            [
+                "Member",
+                [
+                    "Company Name",
+                    "Argonne National Laboratory Scientific Advisory Committee"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 8 mos"
+                ]
+            ],
+            [
+                "Chair, Office of Science, Advanced Scientific Computing Advisory Committee",
+                [
+                    "Company Name",
+                    "U.S. Department of Energy"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2014 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Washington, DC"
+                ],
+                [
+                    "More Info",
+                    "Recommendations on scientific, technical and programmatic issues"
+                ]
+            ]
+        ]
+    },
+    "John Regehr": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Virginia",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 2001"
+                ]
+            ],
+            [
+                "Kansas State University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1995"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Utah",
+                [
+                    "Company Name",
+                    "12 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Greater Salt Lake City Area"
+                ],
+                [
+                    "Location",
+                    "Professor"
+                ],
+                [
+                    "More Info",
+                    "Jul 2015 - Present · 6 yrs 8 mos"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Utah"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2003 - Jun 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
+                ]
+            ],
+            [
+                "intern",
+                [
+                    "Company Name",
+                    "Myricom"
+                ],
+                [
+                    "Dates Employed",
+                    "1997"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ]
+            ]
+        ]
+    },
     "Ellen Riloff": {
         "status": "fail",
         "Education": [],
@@ -1441,6 +3722,135 @@
         "Education": [],
         "Experience": []
     },
+    "Varun Shankar": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Utah",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Scientific Computing"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2014"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.972/4"
+                ]
+            ],
+            [
+                "University of California, Davis",
+                [
+                    "Degree Name",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2009"
+                ],
+                [
+                    "More Info",
+                    "This was a three-month study abroad program that I attended. I studied undergrad Probability and Statistical Modeling for Computer Science, Computer Graphics, and Algorithm Design."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor Lecturer",
+                [
+                    "Company Name",
+                    "School of Computing, University of Utah · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Salt Lake City, Utah"
+                ],
+                [
+                    "More Info",
+                    "I am involved in teaching and course development for the Master of Software Development (MSD) program at the University of Utah. I also conduct research in scientific computing."
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "Department of Mathematics, University of Utah · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 - Jun 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                [
+                    "Location",
+                    "Greater Salt Lake City Area"
+                ],
+                [
+                    "More Info",
+                    "Research and teaching."
+                ]
+            ],
+            [
+                "University of Utah",
+                [
+                    "Company Name",
+                    "4 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Associate"
+                ],
+                [
+                    "Location",
+                    "May 2014 - Jun 2014 · 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Greater Salt Lake City Area"
+                ]
+            ],
+            [
+                "Visiting Scholar",
+                [
+                    "Company Name",
+                    "University of California, Davis"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2009 - Mar 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Davis, CA"
+                ],
+                [
+                    "More Info",
+                    "I worked on extracting fiber directions from MRI data."
+                ]
+            ]
+        ]
+    },
     "Vivek Srikumar": {
         "status": "fail",
         "Education": [],
@@ -1450,6 +3860,165 @@
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "Blair Sullivan": {
+        "status": "success",
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2008"
+                ],
+                [
+                    "More Info",
+                    "Thesis: Extremal Problems in Digraphs"
+                ]
+            ],
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "M.A."
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2005"
+                ]
+            ],
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Applied Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2003"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Pi Mu Epsilon, Westminster Christian Fellowship, GT Women's Ultimate"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of Utah"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Salt Lake City Area"
+                ]
+            ],
+            [
+                "NC State University",
+                [
+                    "Company Name",
+                    "8 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Raleigh-Durham, North Carolina Area"
+                ],
+                [
+                    "Location",
+                    "Associate Professor of Computer Science"
+                ],
+                [
+                    "More Info",
+                    "Aug 2016 - Present · 5 yrs 7 mos"
+                ]
+            ],
+            [
+                "Computational Mathematician (R&amp;D Staff)",
+                [
+                    "Company Name",
+                    "Oak Ridge National Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2008 - Jul 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Oak Ridge, TN"
+                ]
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "Renyi Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2007 - Apr 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "Budapest, Hungary"
+                ]
+            ],
+            [
+                "Microsoft Research Theory Group Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2007 - Sep 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Redmond, WA"
+                ],
+                [
+                    "More Info",
+                    "See all 8 experiences"
+                ]
+            ]
+        ]
     },
     "Hari Sundar": {
         "status": "success",
@@ -1494,7 +4063,7 @@
                 "Associate Professor",
                 [
                     "Company Name",
-                    "University of Utah \u00b7 Full-time"
+                    "University of Utah · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1649,7 +4218,7 @@
                 "Professor",
                 [
                     "Company Name",
-                    "University of Utah \u00b7 Full-time"
+                    "University of Utah · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1704,6 +4273,81 @@
                 [
                     "Location",
                     "At AT&amp;T Labs Research, I was in the Internet and Networking Systems Research Center, where I was fortunate to be able to do networking systems research that was both forward looking and sometimes found application in the AT&amp;T network."
+                ]
+            ]
+        ]
+    },
+    "Bei Wang Phillips": {
+        "status": "success",
+        "Education": [
+            [
+                "Duke University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2010"
+                ]
+            ],
+            [
+                "Stony Brook University",
+                [
+                    "Degree Name",
+                    "Graduate Study"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2004"
+                ]
+            ],
+            [
+                "University of Bridgeport",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2003"
+                ],
+                [
+                    "More Info",
+                    "Grade: Summa Cum Laude"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Utah",
+                [
+                    "Company Name",
+                    "12 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Assistant Professor"
+                ],
+                [
+                    "Location",
+                    "2016 - Present · 6 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "School of Computing, Scientific Computing and Imaging Institute"
                 ]
             ]
         ]
@@ -1960,6 +4604,364 @@
                 [
                     "More Info",
                     "See all 7 experiences"
+                ]
+            ]
+        ]
+    },
+    "Jun Xu": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Nebraska-Lincoln",
+                [
+                    "Degree Name",
+                    "Sixty-Hour Professional Development"
+                ],
+                [
+                    "Field Of Study",
+                    " StarTalk"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2015"
+                ]
+            ],
+            [
+                "Nanjing University",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Drama/Theatre Arts and Film"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2005"
+                ],
+                [
+                    "More Info",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Chief Assistant for National AP Reading (Chinese and Japanese)",
+                [
+                    "Company Name",
+                    "Educational Testing Service (ETS)"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2016 - Jun 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ],
+                [
+                    "Location",
+                    "Salt Lake City"
+                ]
+            ],
+            [
+                "University of Utah - Employment",
+                [
+                    "Company Name",
+                    "10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Salt Lake City, Utah"
+                ],
+                [
+                    "Location",
+                    "Graduate Teaching Assistant"
+                ],
+                [
+                    "More Info",
+                    "Jan 2016 - May 2016 · 5 mos"
+                ]
+            ],
+            [
+                "Rose Park Elementary School logo",
+                [
+                    "Company Name",
+                    "Student Teacher"
+                ],
+                [
+                    "Dates Employed",
+                    "Rose Park Elementary School"
+                ],
+                [
+                    "Location",
+                    "Sep 2014 - Dec 2014 · 4 mos"
+                ],
+                [
+                    "More Info",
+                    "Salt Lake City, Utah"
+                ]
+            ],
+            [
+                "Writer &amp; Inspector",
+                [
+                    "Company Name",
+                    "Commission for Discipline Inspection of Sanya"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2005 - Jun 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Sanya, Hainan, China"
+                ],
+                [
+                    "More Info",
+                    "Write, compile, and prepare documents for the commission;"
+                ]
+            ],
+            [
+                "Assistant Librarian",
+                [
+                    "Company Name",
+                    "The Chinese Department of Nanjing University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2002 - Mar 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Nanjing, Jiangsu, China"
+                ]
+            ]
+        ]
+    },
+    "R. Michael Young": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Pittsburgh",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Intelligent Systems"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 1997"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "May 1988"
+                ]
+            ],
+            [
+                "California State University-Sacramento",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Jun 1984"
+                ],
+                [
+                    "More Info",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Director and Professor",
+                [
+                    "Company Name",
+                    "Entertainment Arts and Engineering and School of Computing, University of Utah"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Salt Lake City"
+                ],
+                [
+                    "More Info",
+                    "Entertainment Arts and Engineering"
+                ]
+            ],
+            [
+                "Professor of Computer Science and Deputy Director, Entertainment Arts and Engineering Program",
+                [
+                    "Company Name",
+                    "University of Utah"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2016 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Salt Lake City Area"
+                ]
+            ],
+            [
+                "NC State University",
+                [
+                    "Company Name",
+                    "23 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Adjunct Professor"
+                ],
+                [
+                    "Location",
+                    "May 2016 - Present · 5 yrs 10 mos"
+                ],
+                [
+                    "More Info",
+                    "Raleigh, NC"
+                ]
+            ],
+            [
+                "Post-Doctoral Fellow",
+                [
+                    "Company Name",
+                    "Robotics Institute, Carnegie Mellon University"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 1997 - Sep 1998"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Technical Scientist",
+                [
+                    "Company Name",
+                    "Price Waterhouse Technology Centre"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 1990 - Dec 1992"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 9 mos"
+                ]
+            ]
+        ]
+    },
+    "Cem Yuksel": {
+        "status": "success",
+        "Education": [
+            [
+                "Texas A&amp;M University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2010"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Utah",
+                [
+                    "Company Name",
+                    "9 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2019 - Present · 2 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Salt Lake City, Utah, USA"
+                ]
+            ],
+            [
+                "Founder",
+                [
+                    "Company Name",
+                    "Cyber Radiance"
+                ],
+                [
+                    "Dates Employed",
+                    "2009 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "13 yrs 2 mos"
+                ]
+            ],
+            [
+                "Postdoc Fellow",
+                [
+                    "Company Name",
+                    "Cornell University"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2010 - Jul 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 10 mos"
                 ]
             ]
         ]
@@ -2233,6 +5235,138 @@
             ]
         ]
     },
+    "Jake Abbott": {
+        "status": "success",
+        "Education": [
+            [
+                "The Johns Hopkins University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mechanical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2005"
+                ],
+                [
+                    "More Info",
+                    "Emphasis on Robotics and Control Systems. Dissertation focused on haptics and telemanipulation."
+                ]
+            ],
+            [
+                "University of Utah",
+                [
+                    "Degree Name",
+                    "Master's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Mechanical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2001"
+                ],
+                [
+                    "More Info",
+                    "Emphasis on Control Systems and Robotics"
+                ]
+            ],
+            [
+                "Utah State University",
+                [
+                    "Degree Name",
+                    "Bachelor's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Mechanical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1999"
+                ],
+                [
+                    "More Info",
+                    "See all 5 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor, Department of Mechanical Engineering",
+                [
+                    "Company Name",
+                    "University of Utah"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2008 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "13 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Salt Lake County, Utah, United States"
+                ]
+            ],
+            [
+                "Assistant Professor, Department of Mechanical Engineering",
+                [
+                    "Company Name",
+                    "University of Utah"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "1 mo"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "ETH Zurich"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2005 - Sep 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Magnetic control of biomedical microrobots"
+                ]
+            ],
+            [
+                "Graduate Student",
+                [
+                    "Company Name",
+                    "Johns Hopkins University"
+                ],
+                [
+                    "Dates Employed",
+                    "2001 - 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ]
+        ]
+    },
     "Tamara Bidone": {
         "status": "success",
         "Education": [
@@ -2358,6 +5492,165 @@
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "Pierre-Emmanuel Gaillardon": {
+        "status": "success",
+        "Education": [
+            [
+                "Ecole centrale de Lyon",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Electronics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2011"
+                ]
+            ],
+            [
+                "INSA Lyon - Institut National des Sciences Appliquées de Lyon",
+                [
+                    "Degree Name",
+                    "M2"
+                ],
+                [
+                    "Field Of Study",
+                    " Microelectronics, Semiconductor physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2008"
+                ],
+                [
+                    "More Info",
+                    "Major"
+                ]
+            ],
+            [
+                "CPE Lyon",
+                [
+                    "Degree Name",
+                    "M2"
+                ],
+                [
+                    "Field Of Study",
+                    " Electronics, Telecom, Computer science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2008"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: President of the student robotics society"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Chief Technology Officer",
+                [
+                    "Company Name",
+                    "RapidSilicon"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "11 mos"
+                ]
+            ],
+            [
+                "Co-chairman and Board member",
+                [
+                    "Company Name",
+                    "Open-Source FPGA Foundation"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Salt Lake City, Utah, United States"
+                ]
+            ],
+            [
+                "University of Utah",
+                [
+                    "Company Name",
+                    "6 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2019 - Present · 2 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Greater Salt Lake City Area"
+                ]
+            ],
+            [
+                "Post-doctoral researcher",
+                [
+                    "Company Name",
+                    "EPFL"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2011 - Dec 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Design of digital circuits based on ambipolar nanowires"
+                ],
+                [
+                    "More Info",
+                    "Scientific coordination of the Nanowire group effort - link and methodologies between technology/models/circuits/architectures"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "CEA-LETI"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2008 - Sep 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "Digital circuits based on disruptive technologies (Carbon Nanotubes, Nanowires, 3D integrations)."
+                ],
+                [
+                    "More Info",
+                    "Architectural paradigms for ultra-fine grain reconfigurable logic and associated EDA tools."
+                ]
+            ]
+        ]
     },
     "Mingyue Jie": {
         "status": "success",
@@ -2526,7 +5819,7 @@
                 "Southern Utah University",
                 [
                     "Degree Name",
-                    "Bachelor\u2019s Degree"
+                    "Bachelor’s Degree"
                 ],
                 [
                     "Field Of Study",
@@ -2552,6 +5845,210 @@
                 [
                     "Location",
                     "Iron County, Utah"
+                ]
+            ]
+        ]
+    },
+    "Pania Newell": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Colorado Boulder",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Civil Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2011"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "The University of Utah",
+                [
+                    "Company Name",
+                    "5 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Greater Salt Lake City Area"
+                ],
+                [
+                    "Location",
+                    "Adjunct Professor at School of Compuing"
+                ],
+                [
+                    "More Info",
+                    "Jul 2019 - Present · 2 yrs 8 mos"
+                ]
+            ],
+            [
+                "Senior Member Of Technical Staff",
+                [
+                    "Company Name",
+                    "Sandia National Laboratories"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2011 - Jan 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
+                ],
+                [
+                    "Location",
+                    "Albuquerque, New Mexico Area"
+                ]
+            ]
+        ]
+    },
+    "Masood Parvania": {
+        "status": "success",
+        "Education": [
+            [
+                "Sharif University of Technology",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2013"
+                ]
+            ],
+            [
+                "Sharif University of Technology",
+                [
+                    "Degree Name",
+                    "Master of Science (M.Sc.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2009"
+                ],
+                [
+                    "More Info",
+                    "Iran University of Science and Technology"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Utah",
+                [
+                    "Company Name",
+                    "Full-time · 6 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Salt Lake City, Utah, United States"
+                ],
+                [
+                    "Location",
+                    "Associate Professor"
+                ],
+                [
+                    "More Info",
+                    "Jul 2020 - Present · 1 yr 8 mos"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Utah · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 - Jun 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "Greater Salt Lake City Area"
+                ],
+                [
+                    "More Info",
+                    "U-Smart: Utah Smart Energy Laboratory"
+                ]
+            ],
+            [
+                "Postdoctoral Scholar",
+                [
+                    "Company Name",
+                    "Arizona State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2015 - Jul 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "Phoenix, Arizona Area"
+                ]
+            ],
+            [
+                "Postdoctoral Scholar",
+                [
+                    "Company Name",
+                    "University of California, Davis"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2014 - Dec 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Davis, California"
+                ]
+            ],
+            [
+                "Research Associate",
+                [
+                    "Company Name",
+                    "Illinois Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Jun 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ],
+                [
+                    "More Info",
+                    "Research on demand response (DR) integration in wholesale electricity markets"
                 ]
             ]
         ]
@@ -2818,7 +6315,7 @@
                 "Professor",
                 [
                     "Company Name",
-                    "University of Utah \u00b7 Full-time"
+                    "University of Utah · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -3024,6 +6521,145 @@
             ]
         ]
     },
+    "Tolga Tasdizen": {
+        "status": "success",
+        "Education": [
+            [
+                "Brown University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 2001"
+                ]
+            ],
+            [
+                "Boğaziçi University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Electronics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1995"
+                ]
+            ],
+            [
+                "Robert College",
+                [
+                    "Degree Name",
+                    "1985 - 1991"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Utah"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 8 mos"
+                ]
+            ],
+            [
+                "IEEE Transactions on Image Processing",
+                [
+                    "Company Name",
+                    "5 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Senior Area Editor"
+                ],
+                [
+                    "Location",
+                    "Aug 2019 - Present · 2 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Associate Editor"
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of Utah"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Jun 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Greater Salt Lake City Area"
+                ],
+                [
+                    "More Info",
+                    "Developed novel algorithms (image registration, image segmentation, pattern recognition) and software tools for neural circuit reconstruction, aka connectomics. Worked with electron microscopy and confocal microscopy images."
+                ]
+            ],
+            [
+                "Associate Editor",
+                [
+                    "Company Name",
+                    "IEEE Signal Processing Letters"
+                ],
+                [
+                    "Dates Employed",
+                    "2012 - Jun 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 6 mos"
+                ]
+            ],
+            [
+                "Visiting Faculty",
+                [
+                    "Company Name",
+                    "Sabanci University"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2014 - Jul 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Location",
+                    "Istanbul, Turkey"
+                ],
+                [
+                    "More Info",
+                    "See all 10 experiences"
+                ]
+            ]
+        ]
+    },
     "Jeff Weiss": {
         "status": "success",
         "Education": [
@@ -3078,7 +6714,7 @@
                 "Professor of Biomedical Engineering",
                 [
                     "Company Name",
-                    "University of Utah \u00b7 Full-time"
+                    "University of Utah · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -3091,6 +6727,416 @@
                 [
                     "Location",
                     "Salt Lake City, Utah, United States"
+                ]
+            ]
+        ]
+    },
+    "Anders Ynnerman": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Gothenburg",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 - 1992"
+                ]
+            ],
+            [
+                "Lund University",
+                [
+                    "Degree Name",
+                    "BSc"
+                ],
+                [
+                    "Field Of Study",
+                    " Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1983 - 1987"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Linköping University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1999 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "22 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Norrkoping, Sweden"
+                ],
+                [
+                    "More Info",
+                    "Professor of Scientific Visualization at the department of Science and Technology."
+                ]
+            ],
+            [
+                "WASP – Wallenberg AI, Autonomous Systems and Software Program",
+                [
+                    "Company Name",
+                    "5 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Director"
+                ],
+                [
+                    "Location",
+                    "Part-time"
+                ],
+                [
+                    "More Info",
+                    "Jul 2020 - Present · 1 yr 8 mos"
+                ]
+            ],
+            [
+                "Director",
+                [
+                    "Company Name",
+                    "Norrköping Visualization Center - C"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2010 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "11 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Norrkoping, Sweden"
+                ]
+            ],
+            [
+                "Director",
+                [
+                    "Company Name",
+                    "Swedish National Infrastructure for Computing"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2002 - Jun 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                [
+                    "Location",
+                    "The Swedish National Infrastructure for Computing (SNIC) is a metacenter for high performance computing including the 6 major centers for HPC in Sweden. More information can be found at http://www.snic.vr.se/"
+                ]
+            ],
+            [
+                "Director",
+                [
+                    "Company Name",
+                    "Swedish National Supercomputer Centre"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 1997 - Jun 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "The Swedish National Supercomputer Centre (NSC) is hosted by Linköping University and is providing national services to academic reserach as well as to commerical partners such as Saab AB and the Swedish Meteorological and Hydrological Institiute (SMHI). For more information see http://www.nsc.liu.se/"
+                ]
+            ]
+        ]
+    },
+    "Eric Eide": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Utah",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2012"
+                ]
+            ],
+            [
+                "University of Utah",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1995"
+                ]
+            ],
+            [
+                "University of Utah",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1985 - 1989"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Utah School of Computing",
+                [
+                    "Company Name",
+                    "25 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Salt Lake City, UT"
+                ],
+                [
+                    "Location",
+                    "Research Associate Professor"
+                ],
+                [
+                    "More Info",
+                    "Jul 2019 - Present · 2 yrs 8 mos"
+                ]
+            ],
+            [
+                "Multimedia Developer/System Administrator",
+                [
+                    "Company Name",
+                    "Sysdeco US, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "May 1995 - May 1996"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ]
+            ],
+            [
+                "University of Utah Department of Computer Science",
+                [
+                    "Company Name",
+                    "9 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Assistant"
+                ],
+                [
+                    "Location",
+                    "Jul 1991 - Jul 1994 · 3 yrs 1 mo"
+                ],
+                [
+                    "More Info",
+                    "Computer Lab Consultant"
+                ]
+            ],
+            [
+                "Intern",
+                [
+                    "Company Name",
+                    "Hewlett-Packard Company"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1989 - Sep 1989"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ]
+            ],
+            [
+                "Intern",
+                [
+                    "Company Name",
+                    "Hewlett-Packard Company"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1988 - Sep 1988"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ]
+            ]
+        ]
+    },
+    "Shireen Elhabian": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Louisville",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering (ECE)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2012"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Utah",
+                [
+                    "Company Name",
+                    "9 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Assistant Professor"
+                ],
+                [
+                    "Location",
+                    "Mar 2017 - Present · 5 yrs"
+                ],
+                [
+                    "More Info",
+                    "Research And Development Scientist"
+                ]
+            ]
+        ]
+    },
+    "Robert Ricci": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Utah",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2010"
+                ]
+            ],
+            [
+                "University of Utah",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2001"
+                ],
+                [
+                    "More Info",
+                    "Olympus High School"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Utah School of Computing",
+                [
+                    "Company Name",
+                    "21 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2016 - Present · 5 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Greater Salt Lake City Area"
+                ]
+            ],
+            [
+                "Adjunct Professor",
+                [
+                    "Company Name",
+                    "Westminster College"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2009 - May 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Salt Lake City"
+                ]
+            ],
+            [
+                "Adjunct Professor",
+                [
+                    "Company Name",
+                    "Westminster College"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 - Dec 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Salt Lake City"
                 ]
             ]
         ]

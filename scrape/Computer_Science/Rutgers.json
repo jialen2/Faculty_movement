@@ -221,7 +221,7 @@
                 "Associate Professor",
                 [
                     "Company Name",
-                    "\ud55c\uad6d\uacfc\ud559\uae30\uc220\uc6d0(KAIST)"
+                    "한국과학기술원(KAIST)"
                 ],
                 [
                     "Dates Employed",
@@ -278,7 +278,7 @@
                 "Postdoctoral Researcher",
                 [
                     "Company Name",
-                    "Universit\u00e9 de Montr\u00e9al"
+                    "Université de Montréal"
                 ],
                 [
                     "Dates Employed",
@@ -318,6 +318,134 @@
                 [
                     "More Info",
                     "Large-Scale Distributed Bayesian Matrix Factorization."
+                ]
+            ]
+        ]
+    },
+    "Eric Allender": {
+        "status": "success",
+        "Education": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 1980 - Aug 1985"
+                ],
+                [
+                    "More Info",
+                    "President's Fellowship recipient"
+                ]
+            ],
+            [
+                "University of Iowa",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Theatre (double major)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 1975 - May 1979"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Phi Beta Kappa, Omicron Delta Kappa, Marching Band (Trombone), theatrical productions"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor (Former Department Chair)",
+                [
+                    "Company Name",
+                    "Rutgers University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1985 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "36 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Teaching and research at a major public US university."
+                ]
+            ],
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Company Name",
+                    "5 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Graduate Student"
+                ],
+                [
+                    "Location",
+                    "1980 - 1985 · 5 yrs"
+                ]
+            ],
+            [
+                "Hausdiener",
+                [
+                    "Company Name",
+                    "Schlosshotel Kronberg"
+                ],
+                [
+                    "Dates Employed",
+                    "1979 - 1980"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Bellhop",
+                [
+                    "Company Name",
+                    "Nippersink Manor and Resort"
+                ],
+                [
+                    "Dates Employed",
+                    "1979"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ]
+            ],
+            [
+                "Trombone Player",
+                [
+                    "Company Name",
+                    "Mule Barn Theater"
+                ],
+                [
+                    "Dates Employed",
+                    "1978"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ],
+                [
+                    "Location",
+                    "See all 7 experiences"
                 ]
             ]
         ]
@@ -437,7 +565,7 @@
                 "Amazon Scholar",
                 [
                     "Company Name",
-                    "Amazon \u00b7 Part-time"
+                    "Amazon · Part-time"
                 ],
                 [
                     "Dates Employed",
@@ -508,6 +636,395 @@
         "Education": [],
         "Experience": []
     },
+    "Abdeslam Boularias": {
+        "status": "success",
+        "Education": [
+            [
+                "Université Laval",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2010"
+                ]
+            ],
+            [
+                "Université Paris-Saclay",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2005"
+                ],
+                [
+                    "More Info",
+                    "Ecole nationale Supérieure d'Informatique"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rutgers University",
+                [
+                    "Company Name",
+                    "Full-time · 6 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "New Brunswick, New Jersey, United States"
+                ],
+                [
+                    "Location",
+                    "Associate Professor"
+                ],
+                [
+                    "More Info",
+                    "Jul 2021 - Present · 8 mos"
+                ]
+            ],
+            [
+                "Carnegie Mellon University",
+                [
+                    "Company Name",
+                    "Full-time · 2 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Pittsburgh, Pennsylvania, United States"
+                ],
+                [
+                    "Location",
+                    "Project Scientist"
+                ],
+                [
+                    "More Info",
+                    "May 2015 - Jul 2015 · 3 mos"
+                ]
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "Max-Planck Institute for Intelligent Systems · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2010 - May 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Tübingen, Baden-Württemberg, Germany"
+                ]
+            ]
+        ]
+    },
+    "Ana Paula Centeno": {
+        "status": "success",
+        "Education": [
+            [
+                "Rutgers University–New Brunswick",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2019"
+                ]
+            ],
+            [
+                "Stony Brook University",
+                [
+                    "Degree Name",
+                    "Master"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Jan 2001 - May 2003"
+                ],
+                [
+                    "More Info",
+                    "Project Title: \"Supine and Prone colon image registration\""
+                ]
+            ],
+            [
+                "Federal University of Rio Grande do Sul",
+                [
+                    "Degree Name",
+                    "Master"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Mar 1997 - Jul 1999"
+                ],
+                [
+                    "More Info",
+                    "- research on parallel systems scheduling, resulting in the"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rutgers University",
+                [
+                    "Company Name",
+                    "17 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Teaching Professor"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Jul 2020 - Present · 1 yr 8 mos"
+                ]
+            ],
+            [
+                "University Lecturer",
+                [
+                    "Company Name",
+                    "Rutgers University–New Brunswick · Part-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2014 - May 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "9 mos"
+                ]
+            ],
+            [
+                "Software Engineer",
+                [
+                    "Company Name",
+                    "Packet General Networks Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2002 - Mar 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 7 mos"
+                ],
+                [
+                    "Location",
+                    "Member of the core design and implementation group of a Linux based network filesystem security product."
+                ]
+            ],
+            [
+                "Research Assistant - Intern",
+                [
+                    "Company Name",
+                    "Viatronix Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2001 - Aug 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "Member of the group that devised and implemented an algorithm for image registration of the human  colon Prone and Supine views. The challenge lay on the fact that the colon shape changes as the patient moves for the next image and that there are only two points of attachments (beginning and end of the colon) we can rely on."
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Federal University of Rio Grande do Sul"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 1997 - Jul 1999"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Research on parallel systems scheduling, resulting in the new PLoSys (parallel prolog system) scheduler."
+                ]
+            ]
+        ]
+    },
+    "Lily Chang": {
+        "status": "success",
+        "Education": [
+            [
+                "Florida International University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2011"
+                ]
+            ],
+            [
+                "New Jersey Institute of Technology",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1988"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Teaching Professor",
+                [
+                    "Company Name",
+                    "Rutgers University–New Brunswick"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Piscataway, New Jersey"
+                ],
+                [
+                    "More Info",
+                    "Department of Computer Science"
+                ]
+            ],
+            [
+                "University of Wisconsin-Platteville",
+                [
+                    "Company Name",
+                    "7 yrs 11 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Software Engineering Program Coordinator"
+                ],
+                [
+                    "Location",
+                    "Jun 2017 - Jun 2019 · 2 yrs 1 mo"
+                ],
+                [
+                    "More Info",
+                    "Associate Professor"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Florida International University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2005 - May 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Miami, Florida"
+                ],
+                [
+                    "More Info",
+                    "Center for Advanced Distributed Systems Engineering"
+                ]
+            ],
+            [
+                "Taipei University of Marine Technology",
+                [
+                    "Company Name",
+                    "14 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Taipei City, Taiwan"
+                ],
+                [
+                    "Location",
+                    "Senior Lecturer &amp; Network Admin"
+                ],
+                [
+                    "More Info",
+                    "Aug 1991 - Jul 2005 · 14 yrs"
+                ]
+            ],
+            [
+                "Senior Software Engineer",
+                [
+                    "Company Name",
+                    "Tatung Company"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1988 - Jul 1991"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "Taipei City, Taiwan"
+                ]
+            ]
+        ]
+    },
     "Charles Cowan": {
         "status": "success",
         "Education": [
@@ -549,7 +1066,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "\u7f8e\u56fd\u7f57\u683c\u65af\u65b0\u6cfd\u897f\u5dde\u7acb\u5927\u5b66\u65b0\u5e03\u6717\u65af\u7ef4\u514b\u5206\u6821"
+                    "美国罗格斯新泽西州立大学新布朗斯维克分校"
                 ],
                 [
                     "Dates Employed",
@@ -660,6 +1177,232 @@
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "John-Austen Francisco": {
+        "status": "success",
+        "Education": [
+            [
+                "Rutgers University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2015"
+                ],
+                [
+                    "More Info",
+                    "Transfered to Ph.D. program."
+                ]
+            ],
+            [
+                "Rutgers University",
+                [
+                    "Degree Name",
+                    "Matriculated Graduate"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2006"
+                ],
+                [
+                    "More Info",
+                    "Accepted into terminal Master's program."
+                ]
+            ],
+            [
+                "Rutgers University",
+                [
+                    "Degree Name",
+                    "Non-matriculated Graduate"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2004"
+                ],
+                [
+                    "More Info",
+                    "See all 9 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rutgers University",
+                [
+                    "Company Name",
+                    "6 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Assistant Teaching Professor"
+                ],
+                [
+                    "Location",
+                    "Jan 2016 - Present · 6 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Piscataway, NJ, USA."
+                ]
+            ],
+            [
+                "Computer Science Teacher",
+                [
+                    "Company Name",
+                    "The Wardlaw-Hartridge School"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2012 - Jun 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Design a Computer Science curriculum including an Introductory and Advanced Placement preparatory class. Plan and conduct a course or courses in order to teach the listed concepts, skills and knowledge as per the description(s) in the Wardlaw-Hartridge catalogue. Design and grade assignments and exams. Source textbooks and other necessary materials. See to the safety and locus parentis care of the class and student body, and carry out scheduled and unscheduled safety drills."
+                ]
+            ],
+            [
+                "Part Time Lecturer",
+                [
+                    "Company Name",
+                    "Rutgers University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2012 - Jun 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Location",
+                    "Plan and conduct a course or courses in order to teach the listed concepts, skills and knowledge as per the course description in the Rutgers catalogue. Design and grade assignments and exams. Source textbooks and other necessary materials."
+                ]
+            ],
+            [
+                "Teaching Assistant",
+                [
+                    "Company Name",
+                    "Rutgers University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2005 - Jun 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Provide material assistance to the course's lecturer in grading assignments and exams, preparing assignment infrastructure, or any other necessities not exceeding 15 hours per week per course. Hold at office hours once a week as well conduct a scheduled recitation of course materials once a week."
+                ]
+            ]
+        ]
+    },
+    "Jie Gao": {
+        "status": "success",
+        "Education": [
+            [
+                "Caltech",
+                [
+                    "Degree Name",
+                    "Postdoc"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2005"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2004"
+                ]
+            ],
+            [
+                "University of Science and Technology of China",
+                [
+                    "Degree Name",
+                    "BSc"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1999"
+                ],
+                [
+                    "More Info",
+                    "Special Class for the Gifted Young (9400 &amp; 9419)"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Rutgers University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 2 mos"
+                ]
+            ],
+            [
+                "Stony Brook University",
+                [
+                    "Company Name",
+                    "14 yrs 4 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Aug 2018 - Dec 2019 · 1 yr 5 mos"
+                ],
+                [
+                    "More Info",
+                    "Associate Professor"
+                ]
+            ]
+        ]
     },
     "Samaneh Gholizadeh Hamidi": {
         "status": "success",
@@ -834,7 +1577,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "Rutgers University \u00b7 Full-time"
+                    "Rutgers University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -876,7 +1619,7 @@
                 "Postdoctoral Research Associate",
                 [
                     "Company Name",
-                    "Princeton University \u00b7 Full-time"
+                    "Princeton University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -899,7 +1642,7 @@
                 "Graduate Research Assistant",
                 [
                     "Company Name",
-                    "Columbia University in the City of New York \u00b7 Full-time"
+                    "Columbia University in the City of New York · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -939,6 +1682,84 @@
                 [
                     "More Info",
                     "Computer Aided Engineering Developer"
+                ]
+            ]
+        ]
+    },
+    "Tomasz Imielinski": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Rutgers University"
+                ],
+                [
+                    "Dates Employed",
+                    "2013 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Research Areas: Search Technology and Data Mining"
+                ]
+            ],
+            [
+                "Founder",
+                [
+                    "Company Name",
+                    "Connotate Technologies"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2000 - Sep 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "13 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Cofounded Connotate technologies based on data extraction research developed at Rutgers University"
+                ]
+            ],
+            [
+                "VP",
+                [
+                    "Company Name",
+                    "Pronto"
+                ],
+                [
+                    "Dates Employed",
+                    "2010 - 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ],
+            [
+                "Ask.com",
+                [
+                    "Company Name",
+                    "6 yrs 5 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Chief Scientist"
+                ],
+                [
+                    "Location",
+                    "Jan 2009 - Nov 2010 · 1 yr 11 mos"
+                ],
+                [
+                    "More Info",
+                    "Search engine technologies to answer questions from structured and unstructured data. Semantic search."
                 ]
             ]
         ]
@@ -990,7 +1811,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "Rutgers University\u2013New Brunswick"
+                    "Rutgers University–New Brunswick"
                 ],
                 [
                     "Dates Employed",
@@ -1091,6 +1912,232 @@
             ]
         ]
     },
+    "Mubbasir Kapadia": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Los Angeles",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science (Computer Animation and Artificial Intelligence)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2011"
+                ]
+            ],
+            [
+                "University of California, Los Angeles",
+                [
+                    "Degree Name",
+                    "Masters"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science (Computer Animation and Artificial Intelligence)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2008"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rutgers University",
+                [
+                    "Company Name",
+                    "7 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Jul 2021 - Present · 8 mos"
+                ]
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "Disney Research · Part-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Aug 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Los Angeles, California, United States"
+                ]
+            ],
+            [
+                "Associate Research Scientist",
+                [
+                    "Company Name",
+                    "Disney Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Jan 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 6 mos"
+                ],
+                [
+                    "Location",
+                    "Zürich Area, Switzerland"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "University of Pennsylvania"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 - Aug 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, Pennsylvania"
+                ]
+            ]
+        ]
+    },
+    "Karthik Srikanta": {
+        "status": "success",
+        "Education": [
+            [
+                "Syracuse University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2009"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: GROVE- Group of VLSI Enthusiasts at Syracuse University"
+                ]
+            ],
+            [
+                "Visvesvaraya Technological University",
+                [
+                    "Degree Name",
+                    "BE"
+                ],
+                [
+                    "Field Of Study",
+                    " Electronics and Communication"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Engineer",
+                [
+                    "Company Name",
+                    "Apple · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ]
+            ],
+            [
+                "Intel Corporation",
+                [
+                    "Company Name",
+                    "9 yrs 11 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Digital Design Engineer"
+                ],
+                [
+                    "Location",
+                    "Aug 2014 - Nov 2019 · 5 yrs 4 mos"
+                ],
+                [
+                    "More Info",
+                    "Santa Clara"
+                ]
+            ],
+            [
+                "Syracuse University",
+                [
+                    "Company Name",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Graduate Student"
+                ],
+                [
+                    "Location",
+                    "Jan 2008 - Aug 2010 · 2 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Computer Programmer and Hardware Integrator Intern"
+                ]
+            ],
+            [
+                "Programmer Analyst",
+                [
+                    "Company Name",
+                    "Cognizant Technology Solutions"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2006 - Nov 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 4 mos"
+                ]
+            ]
+        ]
+    },
     "Ulrich Kremer": {
         "status": "success",
         "Education": [
@@ -1173,7 +2220,7 @@
                 "Professor",
                 [
                     "Company Name",
-                    "Rutgers University \u00b7 Full-time"
+                    "Rutgers University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1225,7 +2272,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "Rutgers University \u00b7 Full-time"
+                    "Rutgers University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1261,10 +2308,416 @@
             ]
         ]
     },
+    "Amelie Marian": {
+        "status": "success",
+        "Education": [
+            [
+                "Columbia University in the City of New York",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2005"
+                ],
+                [
+                    "More Info",
+                    "Universite Paris Dauphine"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rutgers University",
+                [
+                    "Company Name",
+                    "16 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor, Computer Science"
+                ],
+                [
+                    "Location",
+                    "Jul 2012 - Present · 9 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Undergraduate Director"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "Columbia University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2000 - Sep 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ]
+            ],
+            [
+                "Summer Intern",
+                [
+                    "Company Name",
+                    "AT&amp;T"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2004 - Aug 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "INRIA"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 1999 - Aug 2000"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 6 mos"
+                ]
+            ],
+            [
+                "Instructor",
+                [
+                    "Company Name",
+                    "Pôle Universitaire Léonard De Vinci"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 1998 - Jun 2000"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 4 mos"
+                ]
+            ]
+        ]
+    },
+    "Richard Martin": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Enterprise Rent-A-Car",
+                [
+                    "Company Name",
+                    "10 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Area Manager"
+                ],
+                [
+                    "Location",
+                    "Aug 2016 - Present · 5 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Flagship Branch Manager"
+                ]
+            ],
+            [
+                "Promotions Assistant Intern",
+                [
+                    "Company Name",
+                    "Millennium Radio"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 - May 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "9 mos"
+                ],
+                [
+                    "Location",
+                    "Provide clients with exceptional customer service to increase loyalty, Adapt to different client needs and work with team to develop plan, Identify key marketing areas to assist street team within the community, Utilize pictures taken during events to increase the websites advertising capability, Assist team during set up/break down process of equipment to increase efficiency, monitor contests and distribute prizes"
+                ]
+            ],
+            [
+                "Youth Development Specialist Aide",
+                [
+                    "Company Name",
+                    "Family Connections (The Hub)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2007 - May 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                [
+                    "Location",
+                    "Oversee recreational programming and field trips"
+                ],
+                [
+                    "More Info",
+                    "Supervise groups of 11 to 14 year old students"
+                ]
+            ]
+        ]
+    },
     "David Menendez": {
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "Dimitris Metaxas": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Drive Secure",
+                [
+                    "Company Name",
+                    "7 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Co-Founder &amp; Technical Advisor"
+                ],
+                [
+                    "Location",
+                    "Mar 2021 - Present · 1 yr"
+                ],
+                [
+                    "More Info",
+                    "Co-Founder &amp; CTO"
+                ]
+            ],
+            [
+                "Distinguished Professor",
+                [
+                    "Company Name",
+                    "Rutgers University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2001 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "20 yrs 6 mos"
+                ]
+            ],
+            [
+                "Director Center for Computational Biomedicine, Imaging and Modeling",
+                [
+                    "Company Name",
+                    "Rutgers University–New Brunswick"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2001 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "20 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "617 Bowser Road, Piscataway, NJ 08854"
+                ],
+                [
+                    "More Info",
+                    "We do research and industrial Innovations in Computational Biomedicine, Computer Vision, Machine Learning, Computer graphics"
+                ]
+            ],
+            [
+                "Tenured Associate Professor &amp; Director of VAST Lab",
+                [
+                    "Company Name",
+                    "University of Pennsylvania"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1992 - Dec 2001"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, Pennsylvania"
+                ]
+            ]
+        ]
+    },
+    "Konstantinos Michmizos": {
+        "status": "success",
+        "Education": [
+            [
+                "National Technical University of Athens",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Computational Neuroscience"
+                ]
+            ],
+            [
+                "McGill University",
+                [
+                    "Degree Name",
+                    "M. Eng."
+                ],
+                [
+                    "Field Of Study",
+                    " Biomedical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2006"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Biomimetic Robotics"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rutgers University",
+                [
+                    "Company Name",
+                    "Full-time · 6 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2021 - Present · 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor"
+                ]
+            ],
+            [
+                "Postdoctoral Research Fellow",
+                [
+                    "Company Name",
+                    "Harvard Medical School"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 - Aug 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Data-driven spiking neural networks for early detection of autism in children"
+                ]
+            ],
+            [
+                "Postdoctoral Associate",
+                [
+                    "Company Name",
+                    "MIT"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2011 - Jul 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, MA"
+                ],
+                [
+                    "More Info",
+                    "Neurorehabilitation Robotics"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "National Technical University of Athens"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2006 - May 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Athens, Greece"
+                ],
+                [
+                    "More Info",
+                    "Development of computational and mathematical models of biological neurons for the study and control of the pathophysiology of motion"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Biomedical Engineering Department, McGill University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2004 - Jul 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 11 mos"
+                ],
+                [
+                    "Location",
+                    "Montreal, Canada"
+                ],
+                [
+                    "More Info",
+                    "Implementation of Robotic Visual Attention motivated by Human Physiology and Behaviour"
+                ]
+            ]
+        ]
     },
     "Antonio Miranda Garcia": {
         "status": "success",
@@ -1289,6 +2742,130 @@
             ]
         ],
         "Experience": []
+    },
+    "Santosh Nagarakatte": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer and Information Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2012"
+                ]
+            ],
+            [
+                "Indian Institute of Science (IISc)",
+                [
+                    "Degree Name",
+                    "Master of Science (M.Sc.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2007"
+                ]
+            ],
+            [
+                "National Institute of Technology Karnataka",
+                [
+                    "Degree Name",
+                    "B.E"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2005"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rutgers University",
+                [
+                    "Company Name",
+                    "9 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2018 - Present · 3 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Piscataway, New Jersey"
+                ]
+            ],
+            [
+                "Visiting Fellow",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2016 - Jun 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Location",
+                    "Princeton, New Jersey"
+                ]
+            ],
+            [
+                "Research Scholar",
+                [
+                    "Company Name",
+                    "University of Pennsylvania"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2007 - Oct 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 3 mos"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft Research Redmond"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2009 - Sep 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Research on concurrency bugs and techniques to detect them"
+                ]
+            ]
+        ]
     },
     "Srinivas Narayana": {
         "status": "success",
@@ -1344,7 +2921,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "Rutgers University\u2013New Brunswick"
+                    "Rutgers University–New Brunswick"
                 ],
                 [
                     "Dates Employed",
@@ -1414,6 +2991,513 @@
                 [
                     "Location",
                     "Mountain view, CA"
+                ]
+            ]
+        ]
+    },
+    "Badri Nath": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1983 - 1989"
+                ]
+            ],
+            [
+                "Bangalore University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Electronics"
+                ]
+            ],
+            [
+                "Indian Institute of Science (IISc)",
+                [
+                    "Degree Name",
+                    "ME"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rutgers University",
+                [
+                    "Company Name",
+                    "32 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Sep 1989 - Present · 32 yrs 6 mos"
+                ],
+                [
+                    "More Info",
+                    "Sep 1989 - Sep 2006 · 17 yrs 1 mo"
+                ]
+            ],
+            [
+                "ML/NLP lead",
+                [
+                    "Company Name",
+                    "Ushur, inc"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ]
+            ],
+            [
+                "Chief  Data Scientist",
+                [
+                    "Company Name",
+                    "Kirusa"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2015 - Dec 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "1. Recommendation Engine for Mobile Operators products and services (When to sell, what to sell, who else to sell)"
+                ],
+                [
+                    "More Info",
+                    "2. Using Data Analytics and Machine Learning to  design preferred  modality, service bundles, financial profile prediction"
+                ]
+            ],
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "mFormation Technologies"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2006 - Mar 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "lead R&amp;D"
+                ]
+            ],
+            [
+                "Director R&amp;D",
+                [
+                    "Company Name",
+                    "mformation"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - May 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Lead R&amp;D. Patent portfolio development. Prototype development."
+                ],
+                [
+                    "More Info",
+                    "See all 8 experiences"
+                ]
+            ]
+        ]
+    },
+    "Thu Nguyen": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Washington",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ]
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering and Computer Science"
+                ]
+            ],
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering and Computer Science"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rutgers University–New Brunswick",
+                [
+                    "Company Name",
+                    "23 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Dean of Mathematical and Physical Sciences"
+                ],
+                [
+                    "Location",
+                    "Jul 2019 - Present · 2 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "New Brunswick, NJ, USA"
+                ]
+            ],
+            [
+                "Director of Web Crawling",
+                [
+                    "Company Name",
+                    "Ask.com"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2006 - Dec 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 6 mos"
+                ]
+            ],
+            [
+                "Member of Technical Staff",
+                [
+                    "Company Name",
+                    "AT&amp;T Bell Laboratories"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1986 - Jul 1991"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ]
+            ]
+        ]
+    },
+    "Vladimir Pavlovic": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1999"
+                ]
+            ],
+            [
+                "University of Illinois Chicago",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1993"
+                ]
+            ],
+            [
+                "Univerzitet u Novom Sadu",
+                [
+                    "Degree Name",
+                    "Dipl Ing"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1991"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Samsung Electronics",
+                [
+                    "Company Name",
+                    "3 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Visiting Professor"
+                ],
+                [
+                    "Location",
+                    "Part-time"
+                ],
+                [
+                    "More Info",
+                    "Jan 2022 - Present · 2 mos"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Rutgers University · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2002 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "19 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Piscataway, NJ, USA"
+                ],
+                [
+                    "More Info",
+                    "Full Professor"
+                ]
+            ],
+            [
+                "Visiting Associate Professor",
+                [
+                    "Company Name",
+                    "Nanyang Technological University"
+                ],
+                [
+                    "Dates Employed",
+                    "2014 - 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ],
+            [
+                "Research Professor",
+                [
+                    "Company Name",
+                    "Boston University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2001 - Jul 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "Digital Equipment Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 1999 - Apr 2001"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 4 mos"
+                ]
+            ]
+        ]
+    },
+    "David Pennock": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1999"
+                ]
+            ],
+            [
+                "Duke University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1993"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Director, DIMACS Center, and Professor, Department of Computer Science",
+                [
+                    "Company Name",
+                    "Rutgers University · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "New Brunswick, NJ"
+                ]
+            ],
+            [
+                "Microsoft",
+                [
+                    "Company Name",
+                    "Full-time · 7 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Greater New York City Area"
+                ],
+                [
+                    "Location",
+                    "Principal Researcher"
+                ],
+                [
+                    "More Info",
+                    "Mar 2018 - Dec 2019 · 1 yr 10 mos"
+                ]
+            ],
+            [
+                "Principal Research Scientist",
+                [
+                    "Company Name",
+                    "Yahoo!"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2004 - Apr 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "New York, NY"
+                ]
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "Overture Services"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2002 - Jan 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ],
+                [
+                    "Location",
+                    "Pasadena, CA"
+                ]
+            ],
+            [
+                "Scientist",
+                [
+                    "Company Name",
+                    "NEC"
+                ],
+                [
+                    "Dates Employed",
+                    "1999 - 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
                 ]
             ]
         ]
@@ -1516,6 +3600,127 @@
             ]
         ]
     },
+    "Lars Sorensen": {
+        "status": "success",
+        "Education": [
+            [
+                "Rutgers University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Education"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2019"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Research Interests: Epistemic Cognition | Games Based Education | Computer Science Education"
+                ]
+            ],
+            [
+                "St. John's University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1992"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: National Honor Society"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rutgers University",
+                [
+                    "Company Name",
+                    "17 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Assistant Teaching Professor"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Sep 2020 - Present · 1 yr 6 mos"
+                ]
+            ],
+            [
+                "Fearless Leader",
+                [
+                    "Company Name",
+                    "Sorensen Consulting"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1995 - Nov 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "IT Consultant for Central New Jersey area.  Programming, System Administration, Technical Writing"
+                ]
+            ],
+            [
+                "Computer Programmer",
+                [
+                    "Company Name",
+                    "Summit Associates, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 1992 - Sep 1995"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Computer programmer and general IT support for RE company that runs half of Raritan Center in Edison NJ."
+                ]
+            ],
+            [
+                "Computer Operator",
+                [
+                    "Company Name",
+                    "St. John's University"
+                ],
+                [
+                    "Dates Employed",
+                    "1987 - 1992"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "Computer Operator on the Administrative side of the SJU computer center.  Nice Tie Pape."
+                ]
+            ]
+        ]
+    },
     "Matthew Stone": {
         "status": "success",
         "Education": [],
@@ -1524,7 +3729,7 @@
                 "Professor",
                 [
                     "Company Name",
-                    "Rutgers University\u2013New Brunswick"
+                    "Rutgers University–New Brunswick"
                 ],
                 [
                     "Dates Employed",
@@ -1584,7 +3789,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "Rutgers University\u2013New Brunswick"
+                    "Rutgers University–New Brunswick"
                 ],
                 [
                     "Dates Employed",
@@ -1686,6 +3891,473 @@
         "Education": [],
         "Experience": []
     },
+    "Frances Trees": {
+        "status": "success",
+        "Education": [
+            [
+                "Pace University",
+                [
+                    "Degree Name",
+                    "DPS"
+                ],
+                [
+                    "Field Of Study",
+                    " Doctor of Professional Studies in Computing"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2010"
+                ]
+            ],
+            [
+                "Montclair State University",
+                [
+                    "Degree Name",
+                    "MA"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 - 1992"
+                ]
+            ],
+            [
+                "Arcadia University",
+                [
+                    "Degree Name",
+                    "MA"
+                ],
+                [
+                    "Field Of Study",
+                    " Education with a Concentration in Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1974 - 1976"
+                ],
+                [
+                    "More Info",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Fairleigh Dickinson University Metropolitan Campus logo",
+                [
+                    "Company Name",
+                    "Director of Undergraduate Introductory Instruction, CS Department"
+                ],
+                [
+                    "Dates Employed",
+                    "Rutgers, The State University of New Jersey"
+                ],
+                [
+                    "Location",
+                    "Aug 2011 - Present · 10 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "New Brunswick, NJ"
+                ]
+            ],
+            [
+                "The College Board",
+                [
+                    "Company Name",
+                    "37 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Consultant for AP CS"
+                ],
+                [
+                    "Location",
+                    "1985 - Present · 37 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "College Board Advisor for AP CS"
+                ]
+            ],
+            [
+                "AP CS Exam Reader",
+                [
+                    "Company Name",
+                    "Educational Testing Service"
+                ],
+                [
+                    "Dates Employed",
+                    "1985 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "37 yrs 2 mos"
+                ]
+            ],
+            [
+                "Chapter Liaison",
+                [
+                    "Company Name",
+                    "Computer Science Teachers Association"
+                ],
+                [
+                    "Dates Employed",
+                    "2005 - Dec 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "14 yrs"
+                ]
+            ],
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "Drew University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2001 - May 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Lecturer: Introdution to COmputers and Computer Science (Allice, Python), Object-Oriented Programming (Java), Data Structures(Java), CalculusI and II, Statistics."
+                ]
+            ]
+        ]
+    },
+    "Seshadri Venugopal": {
+        "status": "success",
+        "Education": [
+            [
+                "Rutgers University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "http://www.cs.rutgers.edu/~venugopa"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Bombay",
+                [
+                    "Degree Name",
+                    "Bachelor of Technology (B.Tech.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rutgers Univerity",
+                [
+                    "Company Name",
+                    "21 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "NJ"
+                ],
+                [
+                    "Location",
+                    "Director of Introductory Undergraduate Instruction, CS Dept. (http://www.cs.rutgers.edu/~venugopa)"
+                ],
+                [
+                    "More Info",
+                    "Jan 2001 - Present · 21 yrs 2 mos"
+                ]
+            ],
+            [
+                "Founder",
+                [
+                    "Company Name",
+                    "Flipd (flipdclass.com)"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2013 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "NJ"
+                ],
+                [
+                    "More Info",
+                    "Flipd (flipdclass.com) is a web-based platform that provides the tools needed to take the guesswork out of the flipped classroom. Teachers upload educational videos from YouTube, slice them into segments, fit review items and notes to the segments, and assign them to students to watch before class. When the students watch the assigned videos, they respond to the integrated review items. This response data is presented to the teacher in a comprehensive dashboard, that gives information ranging from the level of understanding of the class as a whole, to the individual student. So the teacher knows exactly what to do in the next class meeting, using precious face time in class on what really matters: mentoring and coaching students on how to assimilate and apply the knowledge they have garnered from the videos."
+                ]
+            ],
+            [
+                "Lead Engineer, New Product Development",
+                [
+                    "Company Name",
+                    "DoubleClick Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "1999 - 2000"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "NY"
+                ],
+                [
+                    "More Info",
+                    "Working directly for the CTO, innovated and developed proof of concepts of new products to improve efficacy of online advertising. Worked closely with heads of marketing and product development."
+                ]
+            ],
+            [
+                "Founder and President",
+                [
+                    "Company Name",
+                    "Intecus Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "1997 - 1999"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "NJ"
+                ],
+                [
+                    "More Info",
+                    "Developed and delivered training in Java and Databases: Core language, Graphical User Interfaces, Database Schema Design and Manipulation, Java-MySQL applications"
+                ]
+            ],
+            [
+                "Java Evangelist",
+                [
+                    "Company Name",
+                    "Lucent Technologies"
+                ],
+                [
+                    "Dates Employed",
+                    "1996 - 1999"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "Informed, educated, consulted with various internal organizations on the pros and cons of using Java in product development."
+                ]
+            ]
+        ]
+    },
+    "Hao Wang": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Transportation Infrastructure Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2011"
+                ]
+            ],
+            [
+                "Virginia Tech",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Transportation Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2006"
+                ]
+            ],
+            [
+                "Southeast University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Road and Railway Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2004"
+                ],
+                [
+                    "More Info",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rutgers University",
+                [
+                    "Company Name",
+                    "10 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "2017 - Present · 5 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "New Brunswick, USA"
+                ]
+            ]
+        ]
+    },
+    "Jingjin Yu": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Doctorate"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2013"
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Master of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2008"
+                ]
+            ],
+            [
+                "University of Chicago",
+                [
+                    "Degree Name",
+                    "Master of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Chemistry"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2000"
+                ],
+                [
+                    "More Info",
+                    "Passed Ph.D. Candidacy."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rutgers University–New Brunswick",
+                [
+                    "Company Name",
+                    "6 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2021 - Present · 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor"
+                ]
+            ],
+            [
+                "Postdoctoral Research Associate",
+                [
+                    "Company Name",
+                    "Massachusetts Institute of Technology (MIT)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 - Aug 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 2 mos"
+                ]
+            ],
+            [
+                "University of Illinois at Urbana-Champaign",
+                [
+                    "Company Name",
+                    "7 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Postdoctoral Research Associate"
+                ],
+                [
+                    "Location",
+                    "Mar 2013 - Jul 2013 · 5 mos"
+                ],
+                [
+                    "More Info",
+                    "Coordinated Science Lab"
+                ]
+            ]
+        ]
+    },
     "Juan Zhai": {
         "status": "fail",
         "Education": [],
@@ -1715,7 +4387,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "\u7f8e\u56fd\u7f57\u683c\u65af\u65b0\u6cfd\u897f\u5dde\u7acb\u5927\u5b66\u65b0\u5e03\u6717\u65af\u7ef4\u514b\u5206\u6821"
+                    "美国罗格斯新泽西州立大学新布朗斯维克分校"
                 ],
                 [
                     "Dates Employed",
@@ -1732,6 +4404,169 @@
                 [
                     "More Info",
                     "Assistant Professor of Computer Science"
+                ]
+            ]
+        ]
+    },
+    "Peng Zhang": {
+        "status": "success",
+        "Education": [
+            [
+                "Rutgers School of Public Health",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Biostatistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 2019 - May 2022"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.9/4.0"
+                ]
+            ],
+            [
+                "Rutgers School of Public Health",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Biostatistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2016 - May 2018"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0/4.0"
+                ]
+            ],
+            [
+                "Hunan University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics and Applied Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2016"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "CIMS Global",
+                [
+                    "Company Name",
+                    "10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Manager, Biostatistics"
+                ],
+                [
+                    "Location",
+                    "Jan 2022 - Present · 2 mos"
+                ],
+                [
+                    "More Info",
+                    "• Take responsibility for statistical activities from protocol development to reporting study results independently."
+                ]
+            ],
+            [
+                "Rutgers School of Public Health",
+                [
+                    "Company Name",
+                    "1 yr 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Assistant"
+                ],
+                [
+                    "Location",
+                    "Sep 2019 - May 2021 · 1 yr 9 mos"
+                ],
+                [
+                    "More Info",
+                    "• Developed and organized R-shiny app structure. Updated the methods and deployed validated programming periodically."
+                ]
+            ],
+            [
+                "Statistical Programmer I (SAS &amp; R)",
+                [
+                    "Company Name",
+                    "Brightech International"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2018 - Aug 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ],
+                [
+                    "More Info",
+                    "• Explored and performed different subgroup analysis and illustrated data in terms of curves, tables and figures."
+                ]
+            ],
+            [
+                "R application developer",
+                [
+                    "Company Name",
+                    "CIMS Global"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2018 - Aug 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ],
+                [
+                    "Location",
+                    "• Created, maintained and implemented R source code for querying data from SQL and visualized data in terms of dynamic trend plots and videos."
+                ],
+                [
+                    "More Info",
+                    "• Developed and formulated simulations for various adaptive design."
+                ]
+            ],
+            [
+                "Rutgers School of Public Health",
+                [
+                    "Company Name",
+                    "5 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Graduate Student Statistical Consultant"
+                ],
+                [
+                    "Location",
+                    "Feb 2018 - May 2018 · 4 mos"
+                ],
+                [
+                    "More Info",
+                    "Piscataway"
                 ]
             ]
         ]
@@ -1783,7 +4618,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "Rutgers University\u2013New Brunswick \u00b7 Full-time"
+                    "Rutgers University–New Brunswick · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1798,7 +4633,7 @@
                 "Postdoctoral Researcher",
                 [
                     "Company Name",
-                    "Princeton University \u00b7 Full-time"
+                    "Princeton University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1868,6 +4703,309 @@
             ]
         ]
     },
+    "Yongfeng Zhang": {
+        "status": "success",
+        "Education": [
+            [
+                "Tsinghua University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Machine Learning and Data Mining"
+                ]
+            ],
+            [
+                "Tsinghua University",
+                [
+                    "Degree Name",
+                    "Bachelor"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Technology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Volunteer of the 2008 Beijing Olympic Games,"
+                ]
+            ],
+            [
+                "Peking University",
+                [
+                    "Degree Name",
+                    "Bachelor's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Econometrics"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Rutgers University"
+                ],
+                [
+                    "Dates Employed",
+                    "2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "New Brunswick, NJ"
+                ]
+            ],
+            [
+                "Postdoctoral Research Associate",
+                [
+                    "Company Name",
+                    "University of Massachusetts Amherst"
+                ],
+                [
+                    "Dates Employed",
+                    "2016 - 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Amherst, Massachusetts US"
+                ],
+                [
+                    "More Info",
+                    "Research on Personalized Recommendation and Search, Economic Data Science, Computational/Internet Economics, Conversational Systems."
+                ]
+            ],
+            [
+                "Assistant Specialist",
+                [
+                    "Company Name",
+                    "UC Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "2015 - 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Santa Cruz, California, US"
+                ],
+                [
+                    "More Info",
+                    "Research on personalized recommendation algorithms and Computational Economics in School of Engineering (SoE), University of California, Santa Cruz."
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "National University of Singapore"
+                ],
+                [
+                    "Dates Employed",
+                    "2014 - 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "School of Computing"
+                ],
+                [
+                    "More Info",
+                    "Personalized Recommendation with Feature-Level Explanation based on the Sentiment Analysis of User Textual Reviews; Personalized Search based on Bordered Block Diagonal Forms."
+                ]
+            ],
+            [
+                "Intern Researcher",
+                [
+                    "Company Name",
+                    "Institute of Deep Learning (IDL), Baidu, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "2014"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ],
+                [
+                    "Location",
+                    "Beijing"
+                ],
+                [
+                    "More Info",
+                    "Collaborative rating prediction for APP recommendation based deep neural networks."
+                ]
+            ]
+        ]
+    },
+    "Zheng Zhang": {
+        "status": "success",
+        "Education": [
+            [
+                "William &amp; Mary",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: President, Computer Science Graduate Student Association"
+                ]
+            ],
+            [
+                "William &amp; Mary",
+                [
+                    "Degree Name",
+                    "Master"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2007"
+                ]
+            ],
+            [
+                "Shanghai Jiao Tong University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Electronic Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2004"
+                ],
+                [
+                    "More Info",
+                    "Shanghai Jiao Tong University Scholarship for Academic Excellence, 2000, 2002"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rutgers University",
+                [
+                    "Company Name",
+                    "9 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2018 - Present · 3 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "College of William and Mary"
+                ],
+                [
+                    "Dates Employed",
+                    "2007 - Sep 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 9 mos"
+                ]
+            ],
+            [
+                "Intern",
+                [
+                    "Company Name",
+                    "Microsoft Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2011 - Aug 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ]
+            ],
+            [
+                "Student Intern",
+                [
+                    "Company Name",
+                    "Virginia Institute of Marine Science"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2006 - Aug 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Web and Database Application Programmer"
+                ]
+            ]
+        ]
+    },
     "He Zhu": {
         "status": "success",
         "Education": [
@@ -1888,7 +5026,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "Rutgers University\u2013New Brunswick"
+                    "Rutgers University–New Brunswick"
                 ],
                 [
                     "Dates Employed",

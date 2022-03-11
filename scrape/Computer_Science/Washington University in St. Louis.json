@@ -17,6 +17,138 @@
             ]
         ]
     },
+    "Aaron Bobick": {
+        "status": "success",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " CogSci"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1987"
+                ]
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " CS and Math"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1977 - 1981"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Washington University in St. Louis",
+                [
+                    "Company Name",
+                    "6 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Dean, McKelvey School of Engineering"
+                ],
+                [
+                    "Location",
+                    "Jul 2015 - Present · 6 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Dean School of Engineering and Applied Science"
+                ]
+            ],
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Company Name",
+                    "16 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 1999 - Jun 2015 · 16 yrs"
+                ],
+                [
+                    "More Info",
+                    "30308"
+                ]
+            ],
+            [
+                "Vision guru",
+                [
+                    "Company Name",
+                    "Siemens"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2007 - Jun 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs"
+                ],
+                [
+                    "Location",
+                    "Greater Atlanta Area"
+                ],
+                [
+                    "More Info",
+                    "Vision consulting on surveillance"
+                ]
+            ],
+            [
+                "Vision guru",
+                [
+                    "Company Name",
+                    "Vistascape"
+                ],
+                [
+                    "Dates Employed",
+                    "2001 - Jun 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 6 mos"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "MIT Media Lab"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 1992 - Jun 1999"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "See all 9 experiences"
+                ]
+            ]
+        ]
+    },
     "Ian Bogost": {
         "status": "fail",
         "Education": [],
@@ -235,6 +367,81 @@
             ]
         ]
     },
+    "Patrick Crowley": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Washington",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science &amp; Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2003"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Computer Science",
+                [
+                    "Company Name",
+                    "Washington University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2003 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "18 yrs 9 mos"
+                ]
+            ],
+            [
+                "Cisco Security Business Group, Cloud Security (via acquisition of Observable Networks, Inc.)",
+                [
+                    "Company Name",
+                    "Cisco"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Aug 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Greater St. Louis Area"
+                ]
+            ],
+            [
+                "Observable Networks",
+                [
+                    "Company Name",
+                    "6 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "CTO &amp; Founder"
+                ],
+                [
+                    "Location",
+                    "Jun 2011 - Jul 2017 · 6 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Founder, CEO"
+                ]
+            ]
+        ]
+    },
     "Ron Cytron": {
         "status": "success",
         "Education": [
@@ -323,7 +530,7 @@
         "status": "success",
         "Education": [
             [
-                "Rutgers University\u2013New Brunswick",
+                "Rutgers University–New Brunswick",
                 [
                     "Degree Name",
                     "Doctor of Philosophy - PhD"
@@ -350,7 +557,7 @@
                 "Lecturer",
                 [
                     "Company Name",
-                    "Washington University in St. Louis \u00b7 Full-time"
+                    "Washington University in St. Louis · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -410,7 +617,7 @@
             ]
         ]
     },
-    "Roch Gu\u00e9rin": {
+    "Roch Guérin": {
         "status": "fail",
         "Education": [],
         "Experience": []
@@ -428,11 +635,274 @@
         ],
         "Experience": []
     },
+    "Raj Jain": {
+        "status": "success",
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 1974 - Jun 1978"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: PhD thesis selected as Distinguished Dissertations in Computer Science"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Washington University in Saint Louis",
+                [
+                    "Company Name",
+                    "16 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Saint Louis, MO, USA"
+                ],
+                [
+                    "Location",
+                    "Barbara J. and Jerome H. Cox, Jr. Professor of Computer Science and Engineering"
+                ],
+                [
+                    "More Info",
+                    "May 2016 - Present · 5 yrs 11 mos"
+                ]
+            ],
+            [
+                "Nayna Networks logo",
+                [
+                    "Company Name",
+                    "Co-Founder and CTO"
+                ],
+                [
+                    "Dates Employed",
+                    "Nayna Networks, Inc."
+                ],
+                [
+                    "Location",
+                    "Apr 2000 - Jul 2007 · 7 yrs 4 mos"
+                ],
+                [
+                    "More Info",
+                    "San Jose, CA, USA"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Ohio State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 1994 - Jun 2000"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Columbus, Ohio Area"
+                ],
+                [
+                    "More Info",
+                    "Research on Computer Networks, Optical Networks, ATM Networks, Traffic Management, Satellite Networks"
+                ]
+            ],
+            [
+                "Member, Board of Technical Advisors",
+                [
+                    "Company Name",
+                    "Amber Networks"
+                ],
+                [
+                    "Dates Employed",
+                    "1999 - 2000"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "San Jose, CA, USA"
+                ],
+                [
+                    "More Info",
+                    "Amber Networks was acquired by Nokia in 2001"
+                ]
+            ],
+            [
+                "Member, Board of Technical Advisors",
+                [
+                    "Company Name",
+                    "Nexabit"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1998 - Aug 1999"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Greater Boston Area"
+                ],
+                [
+                    "More Info",
+                    "Nexabit was acquired by Lucent."
+                ]
+            ]
+        ]
+    },
+    "Tao Ju": {
+        "status": "success",
+        "Education": [
+            [
+                "Rice University",
+                [
+                    "Degree Name",
+                    "2000 - 2005"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Washington University in St. Louis"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2005 - Jul 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ],
+            [
+                "PostDoc",
+                [
+                    "Company Name",
+                    "Baylor College of Medicine"
+                ],
+                [
+                    "Dates Employed",
+                    "2005"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ]
+            ]
+        ]
+    },
+    "Brendan Juba": {
+        "status": "success",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2010"
+                ]
+            ],
+            [
+                "Carnegie Mellon University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " BS, Math, Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2005"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Washington University in St. Louis",
+                [
+                    "Company Name",
+                    "7 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2021 - Present · 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor"
+                ]
+            ],
+            [
+                "Postdoctoral Associate",
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2012 - Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ],
+            [
+                "Postdoctoral associate",
+                [
+                    "Company Name",
+                    "Harvard SEAS and MIT CSAIL"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 - Aug 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ]
+        ]
+    },
     "Ulugbek Kamilov": {
         "status": "success",
         "Education": [
             [
-                "EPFL (\u00c9cole polytechnique f\u00e9d\u00e9rale de Lausanne)",
+                "EPFL (École polytechnique fédérale de Lausanne)",
                 [
                     "Degree Name",
                     "Doctor of Philosophy (PhD)"
@@ -447,7 +917,7 @@
                 ]
             ],
             [
-                "EPFL (\u00c9cole polytechnique f\u00e9d\u00e9rale de Lausanne)",
+                "EPFL (École polytechnique fédérale de Lausanne)",
                 [
                     "Degree Name",
                     "BSc and MSc"
@@ -597,6 +1067,104 @@
         "Education": [],
         "Experience": []
     },
+    "Chenyang Lu": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Virginia",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2001"
+                ]
+            ],
+            [
+                "University of Science and Technology of China",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1995"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Washington University in St. Louis"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2002 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "19 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Perform cutting-edge research on real-time systems, wireless sensor networks, cyber-physical systems, and their exciting applications such as healthcare, resilient civil infrastructure and smart homes."
+                ],
+                [
+                    "More Info",
+                    "Direct the Cyber-Physical Systems Laboratory (CPSL)."
+                ]
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "University of Virginia"
+                ],
+                [
+                    "Dates Employed",
+                    "2001 - 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Research on real-time systems and wireless sensor networks."
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "HP Labs"
+                ],
+                [
+                    "Dates Employed",
+                    "2000"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ],
+                [
+                    "Location",
+                    "Research on storage systems."
+                ]
+            ]
+        ]
+    },
     "Marion Neumann": {
         "status": "fail",
         "Education": [],
@@ -688,7 +1256,7 @@
                 ],
                 [
                     "Location",
-                    "- Exploring how a user\u2019s personality affects their performance on visual interfaces"
+                    "- Exploring how a user’s personality affects their performance on visual interfaces"
                 ],
                 [
                     "More Info",
@@ -747,7 +1315,7 @@
                 "Technion - Israel Institute of Technology",
                 [
                     "Degree Name",
-                    "Master\u2019s Degree"
+                    "Master’s Degree"
                 ],
                 [
                     "Field Of Study",
@@ -766,7 +1334,7 @@
                 "Technion - Israel Institute of Technology",
                 [
                     "Degree Name",
-                    "Bachelor\u2019s Degree"
+                    "Bachelor’s Degree"
                 ],
                 [
                     "Field Of Study",
@@ -787,7 +1355,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "Washington University in St. Louis \u00b7 Full-time"
+                    "Washington University in St. Louis · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1104,10 +1672,406 @@
             ]
         ]
     },
+    "Doug Shook": {
+        "status": "success",
+        "Education": [
+            [
+                "Washington University in St. Louis",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2013"
+                ],
+                [
+                    "More Info",
+                    "Distinguished Master's Fellowship 2010-2011 Academic Year"
+                ]
+            ],
+            [
+                "Ball State University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Minor in Physics"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Washington University in St. Louis",
+                [
+                    "Company Name",
+                    "10 yrs 11 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Lecturer"
+                ],
+                [
+                    "Location",
+                    "Jan 2013 - Present · 9 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Computer Science and Engineering Department"
+                ]
+            ]
+        ]
+    },
+    "Bill Siever": {
+        "status": "success",
+        "Education": [
+            [
+                "Missouri University of Science and Technology"
+            ]
+        ],
+        "Experience": [
+            [
+                "Washington University in St. Louis",
+                [
+                    "Company Name",
+                    "5 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Chair"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Jul 2021 - Present · 9 mos"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Western Illinois University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Aug 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Macomb, IL"
+                ]
+            ],
+            [
+                "Asst. Professor",
+                [
+                    "Company Name",
+                    "Northwest Missouri State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2010 - Aug 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Maryville, MO"
+                ]
+            ],
+            [
+                "Visiting Assistant Professor",
+                [
+                    "Company Name",
+                    "Michigan Technological University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2007 - May 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 10 mos"
+                ]
+            ]
+        ]
+    },
+    "Neha Singh": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Maryland Baltimore County",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Science/Studies"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2017 - 2021"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: IEEE Student Member"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "Washington University in St. Louis"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ],
+                [
+                    "Location",
+                    "St Louis, Missouri, United States"
+                ]
+            ],
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "University of California, Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "University of Maryland Baltimore County",
+                [
+                    "Company Name",
+                    "5 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Graduate Teaching Assistant"
+                ],
+                [
+                    "Location",
+                    "Aug 2018 - Present · 3 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Baltimore, Maryland Area"
+                ]
+            ],
+            [
+                "Data Scientist &amp; Engineer",
+                [
+                    "Company Name",
+                    "Prospect 33 · Seasonal"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2021 - Jun 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Automated mastering of Client data and the subsequent upkeep of that data."
+                ],
+                [
+                    "More Info",
+                    "Development of AI/ML solutions using NLP to solve problems around Client data, focused on news data aggregation and analysis"
+                ]
+            ],
+            [
+                "ORISE Fellow",
+                [
+                    "Company Name",
+                    "FDA · Internship"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2020 - Aug 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "United States"
+                ],
+                [
+                    "More Info",
+                    "Summer Intership"
+                ]
+            ]
+        ]
+    },
     "Todd Sproull": {
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "Athena Tabakhi": {
+        "status": "success",
+        "Education": [
+            [
+                "New Mexico State University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2017"
+                ]
+            ],
+            [
+                "New Mexico State University",
+                [
+                    "Degree Name",
+                    "Master's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2014"
+                ],
+                [
+                    "More Info",
+                    "Islamic Azad University of Tehran"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Washington University in St. Louis",
+                [
+                    "Company Name",
+                    "4 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Teaching Faculty"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Sep 2021 - Present · 7 mos"
+                ]
+            ],
+            [
+                "AI Software Engineer Intern",
+                [
+                    "Company Name",
+                    "Viome · Internship"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 - Aug 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Santa Clara, CA"
+                ]
+            ],
+            [
+                "Web developer",
+                [
+                    "Company Name",
+                    "Tehran Municipality ICT organization"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2008 - Jan 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Iran/ Tehran"
+                ],
+                [
+                    "More Info",
+                    "I was responsible for:"
+                ]
+            ],
+            [
+                "Software developer",
+                [
+                    "Company Name",
+                    "Marlic Company"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2005 - Aug 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Iran/ Tehran"
+                ],
+                [
+                    "More Info",
+                    "I was responsible for:"
+                ]
+            ]
+        ]
     },
     "Yevgeniy Vorobeychik": {
         "status": "success",
@@ -1248,6 +2212,228 @@
                 [
                     "Location",
                     "See all 10 experiences"
+                ]
+            ]
+        ]
+    },
+    "William Yeoh": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Southern California",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2010"
+                ]
+            ],
+            [
+                "University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "BSE and MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Mechanical Engineering and Applied Mechanics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2004"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Washington University in St. Louis",
+                [
+                    "Company Name",
+                    "4 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2020 - Present · 1 yr 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "New Mexico State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Aug 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Las Cruces, New Mexico Area"
+                ]
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "Singapore Management University"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2011 - Jul 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ]
+            ],
+            [
+                "Postdoctoral Research Associate",
+                [
+                    "Company Name",
+                    "University of Massachusetts Amherst"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 - Mar 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ]
+            ]
+        ]
+    },
+    "Ning Zhang": {
+        "status": "success",
+        "Education": [
+            [
+                "Virginia Tech",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0"
+                ]
+            ],
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "Master of Science (MSc)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2007"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.8"
+                ]
+            ],
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science, Mathematics and Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2005"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.6"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Washington University in St. Louis"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Ning's research focus is system security, which lies at the intersection of security, embedded system, computer architecture and software."
+                ]
+            ],
+            [
+                "Adjunct Assistant Professor",
+                [
+                    "Company Name",
+                    "Virginia Tech"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2016 - Aug 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ]
+            ],
+            [
+                "RAYTHEON SI GOVERNMENT SOLUTIONS, INC. logo",
+                [
+                    "Company Name",
+                    "Principal Cyber Engineer, Technical Lead"
+                ],
+                [
+                    "Dates Employed",
+                    "RAYTHEON SI GOVERNMENT SOLUTIONS, INC."
+                ],
+                [
+                    "Location",
+                    "Jun 2007 - Aug 2018 · 11 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Worked on software security and cyber-physical system security research"
                 ]
             ]
         ]

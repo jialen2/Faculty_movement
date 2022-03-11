@@ -1,4 +1,356 @@
 {
+    "Ali Anwar": {
+        "status": "success",
+        "Education": [
+            [
+                "Midwestern University",
+                [
+                    "Degree Name",
+                    "D.O."
+                ],
+                [
+                    "Field Of Study",
+                    " Medicine"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2013"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Sigma Sigma Phi"
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Molecular and Cellular Biology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2009"
+                ],
+                [
+                    "More Info",
+                    "College of Liberal Arts and Sciences"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Child and Adolescent Psychiatrist",
+                [
+                    "Company Name",
+                    "PrairieCare"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Brooklyn Park, MN"
+                ],
+                [
+                    "More Info",
+                    "-Inpatient psychiatric care for children and adolescents."
+                ]
+            ],
+            [
+                "Psychiatrist",
+                [
+                    "Company Name",
+                    "Streamwood Behavioral Healthcare System"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 - Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Streamwood, IL"
+                ],
+                [
+                    "More Info",
+                    "Providing inpatient psychiatric care for children, adolescents, and adults."
+                ]
+            ],
+            [
+                "Washington University School of Medicine",
+                [
+                    "Company Name",
+                    "5 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Fellow"
+                ],
+                [
+                    "Location",
+                    "Jul 2016 - Jun 2018 · 2 yrs"
+                ],
+                [
+                    "More Info",
+                    "Division of Child and Adolescent Psychiatry"
+                ]
+            ]
+        ]
+    },
+    "Daniel Boley": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "University of Minnesota",
+                [
+                    "Company Name",
+                    "41 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "1981 - Present · 41 yrs 2 mos"
+                ]
+            ]
+        ]
+    },
+    "Stevie Chancellor": {
+        "status": "success",
+        "Education": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Human Centered Computing"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2020"
+                ]
+            ],
+            [
+                "Georgetown University",
+                [
+                    "Degree Name",
+                    "Masters of Arts"
+                ],
+                [
+                    "Field Of Study",
+                    " Communication, Culture and Technology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2014"
+                ]
+            ],
+            [
+                "University of Virginia",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Communication and Media Studies"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: American Parliamentary Debate Association, Gamma Phi Beta, The Cavalier Daily, Washington Literary Society and Debating Union"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Minnesota · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 2 mos"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "Northwestern University · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2019 - Jan 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 5 mos"
+                ]
+            ],
+            [
+                "Doctoral Student",
+                [
+                    "Company Name",
+                    "Georgia Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Sep 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 2 mos"
+                ]
+            ],
+            [
+                "Georgetown University",
+                [
+                    "Company Name",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Graduate Teaching Assistant - CCT 617 - Interactive Design: Electronics and Semantics"
+                ],
+                [
+                    "Location",
+                    "Dec 2013 - May 2014 · 6 mos"
+                ],
+                [
+                    "More Info",
+                    "Research and Teaching Assistant - CCT556 - Tangible and Embodied Computing"
+                ]
+            ]
+        ]
+    },
+    "Abhishek Chandra": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2004"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Kanpur",
+                [
+                    "Degree Name",
+                    "B Tech"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 1997"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Minnesota-Twin Cities",
+                [
+                    "Company Name",
+                    "17 yrs 5 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Jun 2018 - Present · 3 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Associate Professor"
+                ]
+            ],
+            [
+                "Research/Teaching Assistant",
+                [
+                    "Company Name",
+                    "University of Massachusetts Amherst"
+                ],
+                [
+                    "Dates Employed",
+                    "1998 - 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "IBM T J Watson Research Center"
+                ],
+                [
+                    "Dates Employed",
+                    "2001"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Hewlett-Packard Laboratories"
+                ],
+                [
+                    "Dates Employed",
+                    "2000"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ]
+            ]
+        ]
+    },
     "Yao-Yi Chiang": {
         "status": "success",
         "Education": [
@@ -65,7 +417,7 @@
                 "Associate Professor",
                 [
                     "Company Name",
-                    "Department of Electrical and Computer Engineering, University of Minnesota \u00b7 Full-time"
+                    "Department of Electrical and Computer Engineering, University of Minnesota · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -166,6 +518,92 @@
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "David Hung-Chang Du": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Washington",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1977 - 1981"
+                ]
+            ],
+            [
+                "National Tsing Hua University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1970 - 1974"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Minnesota Digital Technology Center",
+                [
+                    "Company Name",
+                    "31 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "2002 - Present · 20 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Chair Professor"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Minnesota - Twin Cities"
+                ],
+                [
+                    "Dates Employed",
+                    "1981 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "41 yrs 2 mos"
+                ]
+            ],
+            [
+                "Program Director",
+                [
+                    "Company Name",
+                    "National Science Foundation"
+                ],
+                [
+                    "Dates Employed",
+                    "2006 - 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ]
+        ]
     },
     "Kuen-Bang Hou Favonia": {
         "status": "success",
@@ -285,7 +723,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "University of Minnesota \u00b7 Full-time"
+                    "University of Minnesota · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -627,6 +1065,185 @@
             ]
         ]
     },
+    "Mats Heimdahl": {
+        "status": "success",
+        "Education": [
+            [
+                "UC Irvine",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Information and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1988 - 1994"
+                ]
+            ],
+            [
+                "KTH Royal Institute of Technology",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 - 1988"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Minnesota",
+                [
+                    "Company Name",
+                    "25 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor and Department Head"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Jul 2015 - Present · 6 yrs 8 mos"
+                ]
+            ],
+            [
+                "Afton Alps Ski Area logo"
+            ],
+            [
+                "Afton Alps Ski Area",
+                [
+                    "Company Name",
+                    "Seasonal · 13 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Minnesota, United States"
+                ],
+                [
+                    "Location",
+                    "Ski Patroller"
+                ],
+                [
+                    "More Info",
+                    "2015 - Present · 7 yrs 2 mos"
+                ]
+            ]
+        ]
+    },
+    "Nicholas Hopper": {
+        "status": "success",
+        "Education": [
+            [
+                "Baruch College",
+                [
+                    "Degree Name",
+                    "School Leadership"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2014"
+                ]
+            ],
+            [
+                "The City College of New York",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Special Education and Teaching"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Grade: K-12"
+                ]
+            ],
+            [
+                "University of North Dakota",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Psychology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2003"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Human Resources Talent Management Team-Inter-Rater Reliability Observer",
+                [
+                    "Company Name",
+                    "Minneapolis Public Schools"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Minneapolis-St. Paul Area"
+                ]
+            ],
+            [
+                "HMONG COLLEGE PREP ACADEMY",
+                [
+                    "Company Name",
+                    "4 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Saint Paul, Minnesota"
+                ],
+                [
+                    "Location",
+                    "Mentor Teacher/Instructional Coach"
+                ],
+                [
+                    "More Info",
+                    "Aug 2011 - Jun 2015 · 3 yrs 11 mos"
+                ]
+            ],
+            [
+                "Teacher",
+                [
+                    "Company Name",
+                    "NYC Department of Education"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2004 - Jun 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 1 mo"
+                ]
+            ]
+        ]
+    },
     "Victoria Interrante": {
         "status": "success",
         "Education": [
@@ -671,6 +1288,138 @@
                 [
                     "Employment Duration",
                     "2 yrs 5 mos"
+                ]
+            ]
+        ]
+    },
+    "Volkan Isler": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer &amp; Information Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2004"
+                ]
+            ],
+            [
+                "Boğaziçi University",
+                [
+                    "Degree Name",
+                    "B. S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1999"
+                ],
+                [
+                    "More Info",
+                    "Adana Anadolu Lisesi"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Minnesota-Twin Cities",
+                [
+                    "Company Name",
+                    "13 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Aug 2017 - Present · 4 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Associate Professor"
+                ]
+            ],
+            [
+                "Head of Center",
+                [
+                    "Company Name",
+                    "Samsung AI Center · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 2 mos"
+                ],
+                [
+                    "Location",
+                    "New York, United States"
+                ],
+                [
+                    "More Info",
+                    "https://research.samsung.com/aicenter_ny"
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "Samsung Electronics America"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 6 mos"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Rensselaer Polytechnic Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2005 - Jun 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 11 mos"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "University of California"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2004 - Aug 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "See all 8 experiences"
                 ]
             ]
         ]
@@ -783,7 +1532,7 @@
                 "Korea Advanced Institute of Science and Technology",
                 [
                     "Degree Name",
-                    "Bachelor\u2019s Degree"
+                    "Bachelor’s Degree"
                 ],
                 [
                     "Field Of Study",
@@ -804,7 +1553,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "University of Minnesota \u00b7 Full-time"
+                    "University of Minnesota · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -823,7 +1572,7 @@
                 "Postdoctoral Researcher",
                 [
                     "Company Name",
-                    "University of California, Berkeley \u00b7 Full-time"
+                    "University of California, Berkeley · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -929,7 +1678,7 @@
                 "Senior Principal Scientist",
                 [
                     "Company Name",
-                    "Amazon Web Services (AWS) \u00b7 Full-time"
+                    "Amazon Web Services (AWS) · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -948,7 +1697,7 @@
                 "Professor",
                 [
                     "Company Name",
-                    "University of Minnesota \u00b7 Full-time"
+                    "University of Minnesota · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -961,6 +1710,171 @@
                 [
                     "Location",
                     "Minneapolis, Minnesota, United States"
+                ]
+            ]
+        ]
+    },
+    "Christopher Kauffman": {
+        "status": "success",
+        "Education": [
+            [
+                "University of San Diego",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " International Relations and Affairs"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2017 - 2018"
+                ]
+            ],
+            [
+                "University of Redlands",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts - BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Political Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2016"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Client Support Advisor",
+                [
+                    "Company Name",
+                    "akaCRM Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ]
+            ],
+            [
+                "freelance logo",
+                [
+                    "Company Name",
+                    "Salesforce Consultant"
+                ],
+                [
+                    "Dates Employed",
+                    "freelance"
+                ],
+                [
+                    "Employment Duration",
+                    "Contract"
+                ],
+                [
+                    "Location",
+                    "Apr 2021 - Sep 2021 · 6 mos"
+                ],
+                [
+                    "More Info",
+                    "• Manage clients' Salesforce to optimize their business processes"
+                ]
+            ],
+            [
+                "International Center for Journalists (ICFJ)",
+                [
+                    "Company Name",
+                    "Full-time · 2 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Development Officer"
+                ],
+                [
+                    "Location",
+                    "Jan 2021 - Apr 2021 · 4 mos"
+                ],
+                [
+                    "More Info",
+                    "Washington, District of Columbia, United States"
+                ]
+            ],
+            [
+                "Beer Guide",
+                [
+                    "Company Name",
+                    "Port City Brewing Company"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2018 - Nov 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ]
+            ],
+            [
+                "Tasting Room Associate",
+                [
+                    "Company Name",
+                    "Ballast Point Brewing &amp; Spirits"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2017 - Jun 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 2 mos"
+                ],
+                [
+                    "Location",
+                    "Greater San Diego Area"
+                ],
+                [
+                    "More Info",
+                    "See all 9 experiences"
+                ]
+            ]
+        ]
+    },
+    "Daniel F. Keefe": {
+        "status": "success",
+        "Education": [
+            [
+                "Brown University",
+                [
+                    "Degree Name",
+                    "1999 - 2007"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Minnesota",
+                [
+                    "Company Name",
+                    "14 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2014 - Present · 7 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor"
                 ]
             ]
         ]
@@ -1046,7 +1960,7 @@
                 "Senior Scientific Advisor",
                 [
                     "Company Name",
-                    "Diversigen, Inc. \u00b7 Part-time"
+                    "Diversigen, Inc. · Part-time"
                 ],
                 [
                     "Dates Employed",
@@ -1116,6 +2030,77 @@
             ]
         ]
     },
+    "Joseph Konstan": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Ph.D., Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 - 1993"
+                ]
+            ],
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "A.B."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1983 - 1987"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Minnesota",
+                [
+                    "Company Name",
+                    "29 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Assoc, Dean for Research, College of Science and Engineering"
+                ],
+                [
+                    "Location",
+                    "Jan 2019 - Present · 3 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Professor"
+                ]
+            ],
+            [
+                "Co Director",
+                [
+                    "Company Name",
+                    "Grouplens Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 1995 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "26 yrs 11 mos"
+                ]
+            ]
+        ]
+    },
     "Rui Kuang": {
         "status": "success",
         "Education": [
@@ -1128,6 +2113,66 @@
             ]
         ],
         "Experience": []
+    },
+    "Vipin Kumar": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Maryland",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " computer science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1979 - 1982"
+                ],
+                [
+                    "More Info",
+                    "Philips international institute"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Roorkee",
+                [
+                    "Degree Name",
+                    "Bachelor of Engineering (BE)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical, Electronics and Communications Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1973 - 1977"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Minnesota",
+                [
+                    "Company Name",
+                    "32 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Regents Professor and William Norris Chair in Large Scale Computing"
+                ],
+                [
+                    "Location",
+                    "Jul 2015 - Present · 6 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Greater Minneapolis-St. Paul Area"
+                ]
+            ]
+        ]
     },
     "Kangjie Lu": {
         "status": "success",
@@ -1184,7 +2229,7 @@
                 ],
                 [
                     "Location",
-                    "Saarbr\u00fccken Area, Germany"
+                    "Saarbrücken Area, Germany"
                 ]
             ],
             [
@@ -1290,6 +2335,157 @@
                 [
                     "Employment Duration",
                     "4 yrs 1 mo"
+                ]
+            ]
+        ]
+    },
+    "Mohamed F. Mokbel": {
+        "status": "success",
+        "Education": [
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2005"
+                ]
+            ],
+            [
+                "Alexandria University",
+                [
+                    "Degree Name",
+                    "Master of Science (MSc)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 1999"
+                ]
+            ],
+            [
+                "Alexandria University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1996"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Minnesota",
+                [
+                    "Company Name",
+                    "16 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2017 - Present · 4 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Greater Minneapolis-St. Paul Area"
+                ]
+            ],
+            [
+                "Chief Scientist",
+                [
+                    "Company Name",
+                    "Qatar Computing Research Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Jan 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Doha, Qatar"
+                ]
+            ],
+            [
+                "Founding Technical Director",
+                [
+                    "Company Name",
+                    "KACST GIS Technology Innovation Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - May 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Makkah, Saudi Arabia"
+                ]
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2012 - Aug 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "Redmond, WA, USA"
+                ]
+            ],
+            [
+                "Visiting Associate Professor",
+                [
+                    "Company Name",
+                    "Umm Al-Qura University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2011 - Jan 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "Makkah, Saudi Arabia"
+                ],
+                [
+                    "More Info",
+                    "See all 9 experiences"
                 ]
             ]
         ]
@@ -1420,6 +2616,592 @@
                 [
                     "Company Name",
                     "University of Minnesota"
+                ]
+            ]
+        ]
+    },
+    "Nikolaos Papanikolopoulos": {
+        "status": "success",
+        "Education": [
+            [
+                "Carnegie Mellon University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1988 - 1992"
+                ],
+                [
+                    "More Info",
+                    "Thesis: “Controlled Active Vision” under the supervision of Professor Pradeep K. Khosla."
+                ]
+            ],
+            [
+                "Carnegie Mellon University",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 - 1988"
+                ],
+                [
+                    "More Info",
+                    "Project: “FORS: Flexible Organizations” under the supervision of Professor Sarosh Talukdar."
+                ]
+            ],
+            [
+                "National Technical University of Athens",
+                [
+                    "Degree Name",
+                    "Diploma"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 - 1987"
+                ],
+                [
+                    "More Info",
+                    "Project: “Use of Fuzzy Logic in the Selection of Gains of the PID Controller” under the supervision of Professor Spyros Tzafestas."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Minnesota",
+                [
+                    "Company Name",
+                    "29 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Director of Minnesota Robotics Institute (MnRI)"
+                ],
+                [
+                    "Location",
+                    "Jul 2019 - Present · 2 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "McKnight Presidential Endowed Professor"
+                ]
+            ],
+            [
+                "Founder",
+                [
+                    "Company Name",
+                    "ReconRobotics, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "2005 - 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ]
+        ]
+    },
+    "Hyun Soo Park": {
+        "status": "success",
+        "Education": [
+            [
+                "Seoul National University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Materials Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies:"
+                ]
+            ],
+            [
+                "Seoul National University",
+                [
+                    "Degree Name",
+                    "Bachelor's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Materials Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Minnesota-Twin Cities",
+                [
+                    "Company Name",
+                    "6 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Associate"
+                ],
+                [
+                    "Location",
+                    "Jun 2017 - Present · 4 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Greater Minneapolis-St. Paul Area"
+                ]
+            ],
+            [
+                "Postdoctoral Associate",
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2013 - Jun 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ],
+                [
+                    "More Info",
+                    "• Fabrication of III-nitride nanomembrane based LEDs, FETs and piezoelectric nanogenerators for flexible electronics applications"
+                ]
+            ],
+            [
+                "Research and Development Engineer",
+                [
+                    "Company Name",
+                    "Doolee Vision Co., Ltd."
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2001 - Aug 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "Seongnam, Gyeonggi-do, Korea"
+                ],
+                [
+                    "More Info",
+                    "• Joined the developer team to build the LED display systems"
+                ]
+            ]
+        ]
+    },
+    "Feng Qian": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2012"
+                ]
+            ],
+            [
+                "Shanghai Jiao Tong University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree "
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science (ACM Honored Class)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2007"
+                ],
+                [
+                    "More Info",
+                    "Changzhou Senior High School"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Minnesota",
+                [
+                    "Company Name",
+                    "3 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Aug 2021 - Present · 7 mos"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Indiana University Bloomington"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2015 - Jul 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Bloomington, Indiana Area"
+                ]
+            ],
+            [
+                "Inventive Scientist",
+                [
+                    "Company Name",
+                    "AT&amp;T Labs - Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2012 - Dec 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Bedminster New Jersey"
+                ]
+            ],
+            [
+                "Graduate Student Research Assistant",
+                [
+                    "Company Name",
+                    "University of Michigan"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2008 - Jun 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Ann Arbor, Michigan"
+                ]
+            ]
+        ]
+    },
+    "Evan Suma Rosenberg": {
+        "status": "success",
+        "Education": [
+            [
+                "University of North Carolina at Charlotte",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2010"
+                ]
+            ],
+            [
+                "Ithaca College",
+                [
+                    "Degree Name",
+                    "B.A."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2005"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Minnesota"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Minneapolis, MN"
+                ]
+            ],
+            [
+                "USC Institute for Creative Technologies",
+                [
+                    "Company Name",
+                    "8 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Assistant Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2013 - Jun 2018 · 5 yrs"
+                ],
+                [
+                    "More Info",
+                    "Los Angeles, CA"
+                ]
+            ],
+            [
+                "Research Assistant Professor",
+                [
+                    "Company Name",
+                    "USC Viterbi School of Engineering"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 - Jun 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ]
+        ]
+    },
+    "Yousef Saad": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2018"
+                ],
+                [
+                    "More Info",
+                    "Advisor: Yousef Saad"
+                ]
+            ],
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2015"
+                ],
+                [
+                    "More Info",
+                    "Project: Low rank approximation using error correcting codes"
+                ]
+            ],
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Electronics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2014"
+                ],
+                [
+                    "More Info",
+                    "Thesis: Randomized techniques for matrix decomposition and estimating the approximate"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "IBM",
+                [
+                    "Company Name",
+                    "3 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Greater New York City Area"
+                ],
+                [
+                    "Location",
+                    "Research Staff Member"
+                ],
+                [
+                    "More Info",
+                    "Jan 2020 - Present · 2 yrs 2 mos"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Minnesota"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2013 - May 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Minneapolis-St. Paul Area"
+                ],
+                [
+                    "More Info",
+                    "Advisor: Yousef Saad"
+                ]
+            ],
+            [
+                "Summer Research Intern",
+                [
+                    "Company Name",
+                    "Berkeley Lab"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 - Aug 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ],
+                [
+                    "More Info",
+                    "Supervisors : Dr. John Wu and Dr. Kristofer Bouchard"
+                ]
+            ],
+            [
+                "Summer Research Intern",
+                [
+                    "Company Name",
+                    "Berkeley Lab"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2016 - Aug 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ],
+                [
+                    "More Info",
+                    "Supervisors : Dr. John Wu and Dr. Kristofer Bouchard"
+                ]
+            ],
+            [
+                "Signal Processing Intern",
+                [
+                    "Company Name",
+                    "Seagate Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2013 - Aug 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Shakopee, MN USA"
+                ],
+                [
+                    "More Info",
+                    "Supervisors: Michael Link and Jason Jury"
                 ]
             ]
         ]
@@ -1579,6 +3361,202 @@
             ]
         ]
     },
+    "Shashi Shekhar": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science, Business Administration"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1985 - 1989"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Minnesota",
+                [
+                    "Company Name",
+                    "16 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "University Distinguished Teaching Professor"
+                ],
+                [
+                    "Location",
+                    "Sep 2015 - Present · 6 yrs 6 mos"
+                ],
+                [
+                    "More Info",
+                    "Minneapolis, Minnesota, United States"
+                ]
+            ]
+        ]
+    },
+    "Jaideep Srivastava": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1985 - 1988"
+                ]
+            ],
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Masters"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 - 1985"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Kanpur",
+                [
+                    "Degree Name",
+                    "B. Tech"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978 - 1983"
+                ],
+                [
+                    "More Info",
+                    "See all 5 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Minnesota"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 1988 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "33 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Jaideep Srivastava is Professor of Computer Science &amp; Engineering at the University of Minnesota, where he directs a laboratory focusing on research in Web Mining, Social Media Analytics, and Health Analytics."
+                ]
+            ],
+            [
+                "Co-Founder and CTO",
+                [
+                    "Company Name",
+                    "Truro Analytics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 2 mos"
+                ]
+            ],
+            [
+                "Chief Scientist",
+                [
+                    "Company Name",
+                    "QCRI"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2017 - Aug 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "Doha, Qatar"
+                ],
+                [
+                    "More Info",
+                    "Responsible for scientific directions for the institute, as well as policies and processes for the training and growth of scientific personnel."
+                ]
+            ],
+            [
+                "Qatar Computing Research Institute",
+                [
+                    "Company Name",
+                    "3 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Chief Scientist"
+                ],
+                [
+                    "Location",
+                    "Jan 2017 - Aug 2017 · 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Doha, Qatar"
+                ]
+            ],
+            [
+                "Co-Founder and Chief Technology Officer",
+                [
+                    "Company Name",
+                    "Ninja Metrics"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2011 - Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Los Angeles"
+                ],
+                [
+                    "More Info",
+                    "Ninja Metrics (www.ninjametrics.com/) is a social analytics start-up based on many years of federally funded research in the area of social computing (http://vwobservatory.com/). The one sentence description of what it does is \"providing actionable insights into social systems\". Ninja Metrics' key innovation is the concept of \"social value\", i.e. quantifiable metrics for the impact of an person in their social network. It is useful across all sorts of applications, basically anything that has people interacting with each other."
+                ]
+            ]
+        ]
+    },
     "Carl Sturtivant": {
         "status": "success",
         "Education": [],
@@ -1658,7 +3636,7 @@
                 "Postdoctoral Scholar, Department of Mathematics",
                 [
                     "Company Name",
-                    "Stanford University \u00b7 Full-time"
+                    "Stanford University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1901,7 +3879,7 @@
                 "University of Minnesota",
                 [
                     "Degree Name",
-                    "Master\u2019s Degree"
+                    "Master’s Degree"
                 ],
                 [
                     "Field Of Study",
@@ -1916,7 +3894,7 @@
                 "University of Minnesota",
                 [
                     "Degree Name",
-                    "Master\u2019s Degree"
+                    "Master’s Degree"
                 ],
                 [
                     "Field Of Study",
@@ -1987,7 +3965,7 @@
                 ],
                 [
                     "More Info",
-                    "\u2022\tProvide an interesting and challenging learning environment for the Algorithms and Computer Programming II course.  This course teaches students Abstract Data Types (ADTs) such as lists, stacks, queues, and binary trees.  Students implement these ADTs using linked lists and arrays.  Recursion, sort algorithms, and search algorithms are covered along with Big-O analysis.  Teaching is performed using a variety of techniques including active learning exercises, self-quizzes, in-class quizzes, homework, tests and two 1-month long programming projects to give the students real-life experience in larger projects while working in teams."
+                    "•\tProvide an interesting and challenging learning environment for the Algorithms and Computer Programming II course.  This course teaches students Abstract Data Types (ADTs) such as lists, stacks, queues, and binary trees.  Students implement these ADTs using linked lists and arrays.  Recursion, sort algorithms, and search algorithms are covered along with Big-O analysis.  Teaching is performed using a variety of techniques including active learning exercises, self-quizzes, in-class quizzes, homework, tests and two 1-month long programming projects to give the students real-life experience in larger projects while working in teams."
                 ]
             ],
             [
@@ -2010,7 +3988,7 @@
                 ],
                 [
                     "More Info",
-                    "\u2022  Assist Dr. William Schuler in setting up the new Natural Language Processing Lab at the University of Minnesota.  Primary areas of responsibility include:"
+                    "•  Assist Dr. William Schuler in setting up the new Natural Language Processing Lab at the University of Minnesota.  Primary areas of responsibility include:"
                 ]
             ],
             [
@@ -2236,6 +4214,265 @@
         "Education": [],
         "Experience": []
     },
+    "Antonia Zhai": {
+        "status": "success",
+        "Education": [
+            [
+                "Carnegie Mellon University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2005"
+                ]
+            ],
+            [
+                "University of Toronto",
+                [
+                    "Degree Name",
+                    "computer"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 1996"
+                ],
+                [
+                    "More Info",
+                    "Middle School"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Minnesota",
+                [
+                    "Company Name",
+                    "17 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Jun 2010 - Present · 11 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor"
+                ]
+            ]
+        ]
+    },
+    "Zhi-Li Zhang": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ],
+            [
+                "Nanjing University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Director for Research",
+                [
+                    "Company Name",
+                    "Digital Technology Center, University of Minnesota"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2015 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs"
+                ],
+                [
+                    "Location",
+                    "Greater Minneapolis-St. Paul Area"
+                ]
+            ],
+            [
+                "University of Minnesota",
+                [
+                    "Company Name",
+                    "25 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "McKnight Distinguished University Professor"
+                ],
+                [
+                    "Location",
+                    "May 2013 - Present · 8 yrs 10 mos"
+                ],
+                [
+                    "More Info",
+                    "Qwest Chair Professor"
+                ]
+            ]
+        ]
+    },
+    "Catherine Qi Zhao": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Santa Cruz",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2009"
+                ]
+            ],
+            [
+                "Zhejiang University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2004"
+                ],
+                [
+                    "More Info",
+                    "B.S. Mixed Honors Class, Chu Kochen Honors College"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Minnesota",
+                [
+                    "Company Name",
+                    "Full-time · 5 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Minneapolis, Minnesota, United States"
+                ],
+                [
+                    "Location",
+                    "Associate Professor"
+                ],
+                [
+                    "More Info",
+                    "Aug 2021 - Present · 7 mos"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "National University of Singapore"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2011 - Sep 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Singapore"
+                ]
+            ],
+            [
+                "Postdoc Researcher",
+                [
+                    "Company Name",
+                    "California Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2009 - May 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "Biologically-inspired visual models and AI systems, and computational neuroscience"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of California at Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2004 - Sep 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Computer vision and machine learning"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Google Research, NYC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2008 - Aug 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "See all 9 experiences"
+                ]
+            ]
+        ]
+    },
     "Phillip Barry": {
         "status": "success",
         "Education": [],
@@ -2347,6 +4584,107 @@
             ]
         ]
     },
+    "Andrew Exley": {
+        "status": "success",
+        "Education": [
+            [
+                "Moravian University",
+                [
+                    "Degree Name",
+                    "Master of Business Administration (MBA)"
+                ],
+                [
+                    "Field Of Study",
+                    " Business Analytics and Healthcare Management"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2016"
+                ]
+            ],
+            [
+                "DeSales University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Criminal Law"
+                ]
+            ],
+            [
+                "University of Delaware"
+            ]
+        ],
+        "Experience": [
+            [
+                "Director, Information Technology - Infrastructure &amp; Support Services",
+                [
+                    "Company Name",
+                    "HNL Lab Medicine · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "•\tServed as an experienced liaison between IT and non-IT business units, responsible for assessing business goals, identifying security risks and requirements, proposing solutions, setting budgets, and implementing technology strategies optimizing internal and external vendor relationships to meet the needs of a growing organization."
+                ],
+                [
+                    "More Info",
+                    "•\tPerformed IT due diligence, security evaluation, technology integration and divestiture planning to ensure successful adoption of business processes and technology solutions to digitally transform organizations during multiple M&amp;A IT transitions.  Responsible for all new facility construction and renovation projects."
+                ]
+            ],
+            [
+                "Coordinated Health",
+                [
+                    "Company Name",
+                    "Full-time · 11 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Director of Information Technology &amp; Security"
+                ],
+                [
+                    "Location",
+                    "2008 - Jun 2016 · 8 yrs 6 mos"
+                ],
+                [
+                    "More Info",
+                    "Allentown, Pennsylvania Area"
+                ]
+            ],
+            [
+                "Senior Systems Analyst",
+                [
+                    "Company Name",
+                    "Electronic Data Systems"
+                ],
+                [
+                    "Dates Employed",
+                    "1999 - 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "•\tResponsible for all aspects of the planning, implementation, deployment, and disaster recovery of over 500 Windows servers and end-user PCs in a mixed client environment. Experience with all aspects of a mission-critical domain and applications server environment."
+                ],
+                [
+                    "More Info",
+                    "•\tInstructor for Network Security and monitoring applications."
+                ]
+            ]
+        ]
+    },
     "Kate Jensen": {
         "status": "success",
         "Education": [
@@ -2408,7 +4746,7 @@
                 "Accounting Intern",
                 [
                     "Company Name",
-                    "Global Tax Network \u00b7 Internship"
+                    "Global Tax Network · Internship"
                 ],
                 [
                     "Dates Employed",
@@ -2431,7 +4769,7 @@
                 "Day Camp Counselor",
                 [
                     "Company Name",
-                    "Camp Bow Wow \u00b7 Part-time"
+                    "Camp Bow Wow · Part-time"
                 ],
                 [
                     "Dates Employed",
@@ -2448,6 +4786,84 @@
                 [
                     "More Info",
                     "* Responsible for the welfare and care of up to 30 dogs at one time"
+                ]
+            ]
+        ]
+    },
+    "James Moen": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Engineering Technician",
+                [
+                    "Company Name",
+                    "General Dynamics Mission Systems · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Bloomington, Minnesota, United States"
+                ]
+            ],
+            [
+                "Logic PD",
+                [
+                    "Company Name",
+                    "12 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Test Technician IV"
+                ],
+                [
+                    "Location",
+                    "Sep 2019 - Dec 2019 · 4 mos"
+                ],
+                [
+                    "More Info",
+                    "Eden Prairie, MN"
+                ]
+            ],
+            [
+                "IT Administrator",
+                [
+                    "Company Name",
+                    "Civil Air Patrol"
+                ],
+                [
+                    "Dates Employed",
+                    "2003 - 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs"
+                ],
+                [
+                    "Location",
+                    "Installed and maintain Windows server software. Acquired equipment to grow the organization. Installed the infrastructure for the headquarters building.Trained personnel on how to utilize the network for more efficiently within the organization."
+                ]
+            ],
+            [
+                "System Administrator",
+                [
+                    "Company Name",
+                    "CAP"
+                ],
+                [
+                    "Dates Employed",
+                    "2003 - 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
                 ]
             ]
         ]
@@ -2487,6 +4903,165 @@
             ]
         ],
         "Experience": []
+    },
+    "Kevin Wendt": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2022"
+                ]
+            ],
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "Postbaccalaureate Certificate"
+                ],
+                [
+                    "Field Of Study",
+                    " Career and Technical Education"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2011"
+                ]
+            ],
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "Master of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Software Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2009"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Student Body Vice President (2007-2008),"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Community Services Commission",
+                [
+                    "Company Name",
+                    "4 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Richfield, MN"
+                ],
+                [
+                    "Location",
+                    "Chair"
+                ],
+                [
+                    "More Info",
+                    "Feb 2021 - Present · 1 yr 1 mo"
+                ]
+            ],
+            [
+                "Minneapolis Umpires Association",
+                [
+                    "Company Name",
+                    "7 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Minneapolis, MN"
+                ],
+                [
+                    "Location",
+                    "President"
+                ],
+                [
+                    "More Info",
+                    "Nov 2020 - Present · 1 yr 4 mos"
+                ]
+            ],
+            [
+                "University of Minnesota",
+                [
+                    "Company Name",
+                    "9 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Teaching Specialist &amp; Director of Graduate Studies, M.S.S.E."
+                ],
+                [
+                    "Location",
+                    "Aug 2015 - Present · 6 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Director of Graduate Studies, Masters of Science in Software Engineering (MSSE)"
+                ]
+            ],
+            [
+                "Consultant/Owner",
+                [
+                    "Company Name",
+                    "KDW Consulting"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2010 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "11 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Minneapolis-St. Paul Area"
+                ],
+                [
+                    "More Info",
+                    "Certified as Professional Registered Parliamentarian by the National Association of Parliamentarians, the highest credential awarded by the premier national professional association for parliamentarians."
+                ]
+            ],
+            [
+                "Elite Umpire",
+                [
+                    "Company Name",
+                    "USA Softball"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2009 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "12 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Minneapolis-St. Paul Area"
+                ],
+                [
+                    "More Info",
+                    "Umpire, NAGAAA World Series, Bloomington, MN, 8/13/2012 - 8/18/2012"
+                ]
+            ]
+        ]
     },
     "Timothy Wrenn": {
         "status": "success",

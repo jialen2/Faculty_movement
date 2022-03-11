@@ -1,4 +1,178 @@
 {
+    "Hisashi Kobayashi.": {
+        "Experience": [
+            [
+                "President",
+                [
+                    "Company Name",
+                    "Friends of Todai, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2011 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "331 West 57th Street, #164, New York, NY 10019-3101"
+                ]
+            ],
+            [
+                "Advisory Member",
+                [
+                    "Company Name",
+                    "G-Lab"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2010 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "11 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Wuertzburg, Germany"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Total Duration",
+                    "35 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "The Sherman Fairchild University Professor Emeritus of Electrical Engineering and Computer Science"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2008 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "13 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Princeton University"
+                ],
+                "I teach ELE 525 Random Processes in Information Systems in the fall 2013-2014 as I did in the fall of 2012-2013 using my latest book",
+                "…",
+                "see more",
+                [
+                    "Title",
+                    "The Sherman Fairchild University Professor of Electrical Engineering and Computer Science, Emeritus"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jul 2008 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "13 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Princeton, New Jersey, United States"
+                ],
+                "Show 2 more roles"
+            ],
+            [
+                "Executive Advisor",
+                [
+                    "Company Name",
+                    "NICT (National Institute of Information and Communications Technology), Japan"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2008 – Aug 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "12 yrs"
+                ],
+                [
+                    "Location",
+                    "Koganei, Tokyo, Japan"
+                ]
+            ],
+            [
+                "Director of IBM Japan Science Institute",
+                [
+                    "Company Name",
+                    "IBM Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 1982 – Jun 1986"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Tokyo, Japan"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Information Science and Systems"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1965 - 1967"
+                ]
+            ],
+            [
+                "The Univeristy of Tokyo",
+                [
+                    "Degree Name",
+                    "Master of Engineering (M.Eng.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1961 - 1963"
+                ]
+            ],
+            [
+                "The University of Tokyo",
+                [
+                    "Degree Name",
+                    "Bachelor of Engineering (B.Eng.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1957 - 1961"
+                ]
+            ]
+        ]
+    },
     "Mung Chiang.": {
         "Experience": [],
         "Education": []
@@ -27,6 +201,221 @@
         ],
         "Education": []
     },
+    "Jason Petta.": {
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Dates Employed",
+                    "2003 – 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ]
+            ]
+        ],
+        "Education": []
+    },
+    "Kyle Jamieson.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Total Duration",
+                    "6 yrs 3 mos"
+                ],
+                [
+                    "Title",
+                    "Professor"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jan 2021 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "11 mos"
+                ],
+                [
+                    "Location",
+                    "Princeton, New Jersey, United States"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jul 2017 – Dec 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Princeton, NJ"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 – Jun 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 10 mos"
+                ],
+                [
+                    "Location",
+                    "Princeton, NJ"
+                ]
+            ],
+            [
+                "Honorary Reader",
+                [
+                    "Company Name",
+                    "UCL"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2016 – Aug 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "London, United Kingdom"
+                ]
+            ],
+            [
+                "Postdoctoral Associate",
+                [
+                    "Company Name",
+                    "MIT"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2008 – Aug 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "MIT",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2008"
+                ],
+                "BS, Mathematics, 2000",
+                "BS, Computer Science and Engineering, 2001",
+                "MEng, Electrical Engineering and Computer Science, 2001"
+            ]
+        ]
+    },
+    "David August.": {
+        "Experience": [
+            [
+                "Founder",
+                [
+                    "Company Name",
+                    "Tigerstone"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2012 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1999 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "22 yrs 3 mos"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "University of Illinois at Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 1999"
+                ]
+            ],
+            [
+                "Rensselaer Polytechnic Institute",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical, Electronics and Communications Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1993"
+                ]
+            ]
+        ]
+    },
     "Mansour Shayegan.": {
         "Experience": [],
         "Education": []
@@ -43,13 +432,1428 @@
             ]
         ]
     },
+    "Seyyed Ali Hashemi.": {
+        "Experience": [
+            [
+                "Senior Engineer",
+                [
+                    "Company Name",
+                    "Qualcomm"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Aug 2021 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "United States"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Mar 2019 – Jul 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "United States"
+                ]
+            ],
+            [
+                "Visiting Lecturer",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                "Part-time",
+                [
+                    "Dates Employed",
+                    "Jan 2021 – Jun 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Location",
+                    "United States"
+                ]
+            ],
+            [
+                "Ph.D. Student",
+                [
+                    "Company Name",
+                    "McGill University"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Sep 2014 – Feb 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Montreal, Canada Area"
+                ],
+                "- Worked on algorithms for efficient hardware implementation of Error Correcting Codes."
+            ],
+            [
+                "Design Engineer",
+                [
+                    "Company Name",
+                    "Maxwellian Inc"
+                ],
+                "Part-time",
+                [
+                    "Dates Employed",
+                    "Oct 2015 – Dec 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Montreal, Canada Area"
+                ],
+                "- Design and Implementation of humidity sensors with optical fibres"
+            ]
+        ],
+        "Education": [
+            [
+                "McGill University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical and Electronics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2019"
+                ],
+                "THESIS TITLE: Fast, Flexible, and Area-Efficient Decoders for Polar Codes."
+            ],
+            [
+                "University of Alberta",
+                [
+                    "Degree Name",
+                    "Master's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical and Electronics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2011"
+                ],
+                "THESIS TITLE: Design, High-Level Synthesis, and Discrete Optimization of Digital Filters Based on Particle Swarm Optimization."
+            ],
+            [
+                "Sharif University of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical and Electronics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2009"
+                ],
+                "THESIS TITLE: Sparse Channel Estimation and Equalization."
+            ]
+        ]
+    },
+    "Peter J. Ramadge.": {
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "1984 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "37 yrs"
+                ],
+                "APPOINTMENTS",
+                "•\tChair\t\t        \tPrinceton University, Electrical Engineering\t\t7/1/01 - 7/1/12",
+                "•\tAffiliated faculty member\tProgram in Applied &amp; Computational Math.\t        1/5/06 - present",
+                "•\tAssociate Chair\t\tPrinceton University, Electrical Engineering\t\t7/1/00 - 30/6/00",
+                "•\tProfessor \t\t\tPrinceton University, Electrical Engineering\t\t7/1/95 - present",
+                "RESEARCH EXPERIENCE",
+                "Signal processing for medical and fMRI imaging, video and image analysis and annotation, digital libraries, estimation, video search. Hybrid control systems, supervisory control of discrete-event systems. On-line optimization of stochastic systems, and adaptive control.",
+                "TEACHING EXPERIENCE",
+                "Undergraduate: Signals and Systems, Image Processing, Elements of Modern Technology; MATLAB Short Course. Graduate: Linear Methods in Signal Processing, Estimation and Detection, Nonlinear Systems.",
+                "ADMINISTRATIVE EXPERIENCE",
+                "Department:",
+                "•\tChair: 01- 12",
+                "•\tAssociate Chair 00-01.",
+                "•\tChair of the Faculty Hiring Committee, 00-01.",
+                "•\tChair of the General Exam Committee 99-01,",
+                "•\tDepartment Strategic Planning Committee 1999.",
+                "•\tUndergraduate Representative 95-97.",
+                "•\tDirector of Graduate Studies 90-93.",
+                "Engineering School:",
+                "•\tDean’s Executive Committee 01-12.",
+                "•\tAssociate Dean Search Committee 2007.",
+                "•\tWu Fellowship Committee 98-00.",
+                "Princeton University:",
+                "•\tThe President’s Faculty Advisory Committee on Appointments and Advancements 04-05, 07-08.",
+                "•\tCommittee member: Program in Neuroscience, 07-08.",
+                "•\tPrinceton Rhodes Committee 98-00.",
+                "•\tPolicy Subcommittee (twice) &amp; Graduate Fellowship Subcommittee of the Graduate School.",
+                "•\tUniversity Committee on the Course of Study.",
+                "…",
+                "see more"
+            ]
+        ],
+        "Education": [
+            [
+                "University of Toronto",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1983"
+                ]
+            ],
+            [
+                "University of Newcastle",
+                [
+                    "Degree Name",
+                    "Master of Engineering (ME)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1980"
+                ]
+            ],
+            [
+                "University of Newcastle",
+                [
+                    "Degree Name",
+                    "Bachelor of Engineering (BE)"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978"
+                ]
+            ]
+        ]
+    },
+    "Jeff Thompson.": {
+        "Experience": [
+            [
+                "Graduate Student",
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2008 – Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 1 mo"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2014"
+                ]
+            ],
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ],
+                [
+                    "Field Of Study",
+                    "Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2009"
+                ]
+            ],
+            [
+                "Yale University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    "Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2007"
+                ]
+            ]
+        ]
+    },
+    "Lisa R Hsu.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Google"
+                ],
+                [
+                    "Total Duration",
+                    "8 yrs 9 mos"
+                ],
+                [
+                    "Title",
+                    "Manager, Technical Solutions Consultant"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Nov 2018 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Mountain View, California, United States"
+                ],
+                "Lead gTech Ads Product Operations in Mountain View. Hired 6 full stack developers, 2 product managers, and 2 technical program managers, directly managing team of 4 to partner with sister team of 14 in London, to design and implement scaling tools to support Ads &amp; Commerce customer operations. Served as PM, TPM, and EM for 2 operational metrics tools across the entire Ads ecosystem, used by thousands of internal users and engaged in monthly VP-level reviews.",
+                "…",
+                "see more",
+                [
+                    "Title",
+                    "Senior Partner Technology Manager, Lead"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "May 2017 – Oct 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 6 mos"
+                ],
+                "Lead the design and delivery of the gating workflow tool for reviewing Actions on Google (\"OK, Google\") submissions, achieving all-time highest user satisfaction, workflow efficiency, and review consistency. Lead team of 5 and served as primary point-of-contact for 30+ member cross-functional team to launch client integrations for Food on Personal Assistant.",
+                "…",
+                "see more",
+                [
+                    "Title",
+                    "Partner Technology Manager"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Mar 2013 – May 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 3 mos"
+                ],
+                "Influence product development, drive partner acquisition, and design and develop internal tools to scale and manage partner support for Google Play for Education and Google Play Books.",
+                "…",
+                "see more"
+            ],
+            [
+                "Operations Associate",
+                [
+                    "Company Name",
+                    "Google"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jun 2010 – Aug 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 3 mos"
+                ],
+                "Managed a team of Salesforce developers to operationalize Google Offers merchant onboarding by building tools, dashboards, and data models to optimize sales and account strategy.",
+                "…",
+                "see more"
+            ],
+            [
+                "Technical Specialist",
+                [
+                    "Company Name",
+                    "Finnegan, Henderson, Farabow, Garrett &amp; Dunner, LLP"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Aug 2006 – Jan 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 6 mos"
+                ],
+                "Managed and drafted patent applications for corporate clients. Discovery expert and legal assistant on several multimillion dollar litigation suits.",
+                "…",
+                "see more"
+            ]
+        ],
+        "Education": [
+            [
+                "MIT",
+                [
+                    "Degree Name",
+                    "Master of Engineering (M.Eng.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2006"
+                ],
+                "Activities and Societies:",
+                "MIT Cheer"
+            ],
+            [
+                "MIT",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineerings and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2004"
+                ]
+            ],
+            [
+                "Phillips Academy"
+            ]
+        ]
+    },
+    "David Wentzlaff.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Total Duration",
+                    "10 yrs 3 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Princeton, NJ"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "MIT"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 – Sep 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 1 mo"
+                ]
+            ],
+            [
+                "Lead Architect",
+                [
+                    "Company Name",
+                    "Tilera"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2004 – Sep 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 10 mos"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "MIT"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2000 – Jan 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 5 mos"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "MS, PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2012"
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "BSEE"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2000"
+                ]
+            ]
+        ]
+    },
     "Hossein Valavi.": {
         "Experience": [],
         "Education": []
     },
+    "Kai Li.": {
+        "Experience": [
+            [
+                "Founder and Chief Scientist",
+                [
+                    "Company Name",
+                    "Data Domain / EMC"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2001 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "20 yrs 2 mos"
+                ]
+            ],
+            [
+                "Paul M. Wythes  ’55, P’86 and Marcia R. Wythes P’86 Professor",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1986 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "35 yrs 3 mos"
+                ]
+            ],
+            [
+                "EIR",
+                [
+                    "Company Name",
+                    "New Enterprise Associates"
+                ],
+                [
+                    "Dates Employed",
+                    "2001"
+                ],
+                [
+                    "Employment Duration",
+                    "less than a year"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Yale University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1986"
+                ]
+            ],
+            [
+                "University of Science and Technology of China",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978 - 1981"
+                ],
+                "Activities and Societies:",
+                "Institute of Computing Technology, Chinese Academy of Sciences"
+            ],
+            [
+                "Jilin University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1973 - 1977"
+                ]
+            ]
+        ]
+    },
+    "Jianqing Fan.": {
+        "Experience": [
+            [
+                "Professor of Statistics, Economics and Finance",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2003 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "18 yrs 5 mos"
+                ],
+                "teaching, research, consultation"
+            ],
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "Morgan Stanley Smith Barney"
+                ],
+                [
+                    "Dates Employed",
+                    "2004 – 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Professor of Statistics",
+                [
+                    "Company Name",
+                    "The Chinese University of Hong Kong"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2000 – Aug 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 5 mos"
+                ],
+                "Teaching, research, and administration"
+            ],
+            [
+                "Professor of Statistics",
+                [
+                    "Company Name",
+                    "University of North Carolina at Chapel Hill"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1989 – Jul 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "14 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Chapel Hill, NC"
+                ],
+                "Teaching, research, consultation"
+            ],
+            [
+                "Professor of Statistics",
+                [
+                    "Company Name",
+                    "UCLA"
+                ],
+                [
+                    "Dates Employed",
+                    "1997 – 2000"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "Greater Los Angeles Area"
+                ],
+                "Teaching, research and consultation"
+            ]
+        ],
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    "Statistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1989"
+                ]
+            ],
+            [
+                "Fudan University",
+                [
+                    "Degree Name",
+                    "Master"
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978 - 1982"
+                ]
+            ]
+        ]
+    },
+    "Alejandro Rodriguez.": {
+        "Experience": [
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 – Aug 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ]
+            ],
+            [
+                "Postdoctoral Associate",
+                [
+                    "Company Name",
+                    "Massachusetts Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 – Aug 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ]
+            ],
+            [
+                "Researcher",
+                [
+                    "Company Name",
+                    "Lawrence Livermore National Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2008 – Aug 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2010"
+                ],
+                "Activities and Societies:",
+                "Department of Energy Computational Science Graduate Fellow, 2006-2010",
+                "Thesis: \"Fluctuation-induced interactions and nonlinear nanophotonics\".",
+                "40+ publications.",
+                "Co-inventor on 4 issued patents.",
+                "Research work included photonic crystals, photonics quasicrystals, nonlinear optics, harmonic and terahertz generation, Purcell enhancement, single-photon photonics, Casimir forces, and radiative heat transfer."
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    "Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2006"
+                ],
+                "Activities and Societies:",
+                "President, Society of Physics Students, 2006",
+                "Thesis: \"Disorder-immune confinement of light in photonics crystal cavities\""
+            ]
+        ]
+    },
+    "Manoj Kumar.": {
+        "Experience": [
+            [
+                "Postdoctoral Research Associate",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Princeton, New Jersey"
+                ]
+            ],
+            [
+                "Leader",
+                [
+                    "Company Name",
+                    "CSC"
+                ],
+                [
+                    "Dates Employed",
+                    "2001 – 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "University of Illinois at Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Neuroscience"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2017"
+                ]
+            ],
+            [
+                "Yale University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    "Engineering and Applied Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 1999"
+                ]
+            ],
+            [
+                "IIT BHU",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Mechanical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1988 - 1992"
+                ]
+            ]
+        ]
+    },
+    "Andrea Goldsmith.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Total Duration",
+                    "1 yr 3 mos"
+                ],
+                [
+                    "Title",
+                    "Dean of Engineering and Applied Science"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ],
+                "Leader for Princeton’s School of Engineering and Applied Science, overseeing more than 1,400 undergraduates, 620 graduate students and 147 faculty members in six departments: chemical and biological engineering, civil and environmental engineering, computer science, electrical engineering, mechanical and aerospace engineering, and operations research and financial engineering.",
+                "The school is also home to four interdisciplinary centers: the Andlinger Center for Energy and the Environment, the Center for Information Technology Policy, the Keller Center for Innovation in Engineering Education, and the Princeton Institute for the Science and Technology of Materials (PRISM).",
+                "The school is currently undergoing a major expansion, with plans to create a new neighborhood and buildings for the school's departments and institutes; launch interdisciplinary initiatives in bioengineering, quantum computing, robotics, smart cities, and data science; significantly grow engineering faculty; and foster innovation,  entrepreneurship, and industry partnerships within engineering and across Princeton, including an entirely new part of the campus dedicated to those efforts.",
+                "…",
+                "see more",
+                [
+                    "Title",
+                    "Arthur LeGrand Doty Professor of Electrical Engineering"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ],
+                [
+                    "Location",
+                    "Princeton, New Jersey, United States"
+                ],
+                "Director of the Wireless Systems Laboratory (wsl.princeton.edu) in Princeton's Department of Electrical Engineering, which focuses on research in the design and fundamental performance limits of wireless systems and networks, distributed sensing, control and communications, and the use of communications and signal processing in biology and neuroscience. Applications of this work include 5G and 6G wireless systems, the Internet of Things, autonomous vehicle and robot networks, as well as biotechnology for neurological disease treatment and molecular communications.",
+                "…",
+                "see more"
+            ],
+            [
+                "Member",
+                [
+                    "Company Name",
+                    "President's Council of Advisors on Science and Technology (PCAST)"
+                ],
+                "Part-time",
+                [
+                    "Dates Employed",
+                    "Sep 2021 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ]
+            ],
+            [
+                "Board of Directors",
+                [
+                    "Company Name",
+                    "Intel Corporation"
+                ],
+                "Part-time",
+                [
+                    "Dates Employed",
+                    "Sep 2021 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ]
+            ],
+            [
+                "Board Of Directors",
+                [
+                    "Company Name",
+                    "Medtronic"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 9 mos"
+                ]
+            ],
+            [
+                "Board of Directors",
+                [
+                    "Company Name",
+                    "Crown Castle"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 1 mo"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Ph.D. (MS 1991, BS 1986)"
+                ],
+                [
+                    "Field Of Study",
+                    "EE: Wireless Communications"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1994"
+                ]
+            ]
+        ]
+    },
+    "Yasaman Ghasempour.": {
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2021 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "11 mos"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Rice University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 – Jan 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Houston,TX"
+                ]
+            ],
+            [
+                "Summer Research Intern",
+                [
+                    "Company Name",
+                    "NEC Laboratories America, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "May 2016 – Aug 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Princeton, New Jersey"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Rice University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Wireless Communications"
+                ],
+                [
+                    "Grade",
+                    "GPA: 4.17/4"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2020"
+                ]
+            ],
+            [
+                "Sharif University of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Grade",
+                    "GPA: 3.83/4"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2014"
+                ]
+            ]
+        ]
+    },
     "Minjie Chen.": {
         "Experience": [],
         "Education": []
+    },
+    "Naveen Verma.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Total Duration",
+                    "12 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Director of Keller Center for Innovation in Engineering Education"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 10 mos"
+                ],
+                [
+                    "Location",
+                    "Princeton, USA"
+                ],
+                [
+                    "Title",
+                    "Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2009 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "12 yrs 5 mos"
+                ],
+                "Professor of Electrical Engineering."
+            ]
+        ],
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2009"
+                ]
+            ]
+        ]
+    },
+    "Sanjeev R. Kulkarni.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Total Duration",
+                    "30 yrs 3 mos"
+                ],
+                [
+                    "Title",
+                    "Dean of the Faculty"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Professor, Dept. of Electrical Engineering"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1991 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "30 yrs 3 mos"
+                ],
+                [
+                    "Title",
+                    "Dean of the Graduate School"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2014 – Jun 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 3 mos"
+                ],
+                [
+                    "Title",
+                    "Director of the Keller Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 – Mar 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 7 mos"
+                ],
+                [
+                    "Title",
+                    "Master of Butler College"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2004 – Jun 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs"
+                ],
+                "Show 1 more role"
+            ],
+            [
+                "Visiting researcher",
+                [
+                    "Company Name",
+                    "Flarion Technologies"
+                ],
+                [
+                    "Dates Employed",
+                    "2001"
+                ],
+                [
+                    "Employment Duration",
+                    "less than a year"
+                ]
+            ],
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "Susquehanna International Group"
+                ],
+                [
+                    "Dates Employed",
+                    "1997 – 2001"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ],
+            [
+                "Member of Technical Staff",
+                [
+                    "Company Name",
+                    "MIT Lincoln Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "1985 – 1991"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1991"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 - 1985"
+                ]
+            ],
+            [
+                "Clarkson University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    "Mathematics, Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1980 - 1984"
+                ]
+            ]
+        ]
     },
     "James Sturm.": {
         "Experience": [],
@@ -79,13 +1883,881 @@
         ],
         "Education": []
     },
+    "Hakan Tureci.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Total Duration",
+                    "11 yrs 3 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2018 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 10 mos"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 – Jan 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 5 mos"
+                ],
+                "School of Engineering and Applied Science, Department of Electrical Engineering"
+            ],
+            [
+                "Senior Researcher",
+                [
+                    "Company Name",
+                    "Rigetti Computing"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 – Aug 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 2 mos"
+                ],
+                [
+                    "Location",
+                    "Berkeley, CA"
+                ],
+                "Sabbatical Leave"
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "ETH, Swiss Federal Institute of Technology, Zurich"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2009 – Sep 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 7 mos"
+                ]
+            ],
+            [
+                "Postdoctoral Associate",
+                [
+                    "Company Name",
+                    "ETH Zürich"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2006 – Jan 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 10 mos"
+                ]
+            ],
+            [
+                "Postdoctoral Associate",
+                [
+                    "Company Name",
+                    "Yale University"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2003 – Mar 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 11 mos"
+                ],
+                "Condensed Matter Group"
+            ]
+        ],
+        "Education": [
+            [
+                "Yale University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003"
+                ]
+            ],
+            [
+                "Bilkent University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    "Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1994"
+                ]
+            ]
+        ]
+    },
+    "Jaime Fernandez Fisac.": {
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Aug 2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 4 mos"
+                ],
+                [
+                    "Location",
+                    "Princeton, New Jersey, United States"
+                ],
+                "I am interested in ensuring the safe operation of robotic systems in the human space.",
+                "My work combines safety analysis from control theory with machine learning and artificial intelligence techniques to enable robotic systems to reason competently about their own safety in spite of using inevitably fallible models of the world and other agents. We do this by having robots monitor their own ability to understand the world around them, accounting for how the gap between their models and reality affects their ability to guarantee safety.",
+                "Much of my research uses dynamic game theory together with insights from cognitive science to enable robots to strategically plan their interaction with human beings in contexts ranging from human-robot teamwork to drone navigation and autonomous driving. My lab’s scope spans theoretical work, algorithm design, and implementation on a variety of robotic platforms.",
+                "If you are interested in joining my lab as a student, please consider applying to Princeton!",
+                "…",
+                "see more"
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "Waymo"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Oct 2019 – Aug 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "11 mos"
+                ],
+                [
+                    "Location",
+                    "Mountain View, California, United States"
+                ],
+                "I spent a year as a Research Scientist at Waymo (also known as Google’s Self-Driving Car project) helping improve how autonomous cars reason about road interactions, uncertainty and safety.",
+                "…",
+                "see more"
+            ],
+            [
+                "Graduate Student Researcher and La Caixa Fellow",
+                [
+                    "Company Name",
+                    "UC Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 – Oct 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 3 mos"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "Control, Intelligent Systems and Robotics"
+                ],
+                [
+                    "Grade",
+                    "GPA 4.0"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2018"
+                ],
+                "Doctoral program in the Department of Electrical Engineering and Computer Sciences at UC Berkeley"
+            ],
+            [
+                "Cranfield University",
+                [
+                    "Degree Name",
+                    "Master of Science (MSc)"
+                ],
+                [
+                    "Field Of Study",
+                    "Autonomous Vehicle Dynamics and Control"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2012"
+                ],
+                "Graduate program combining the disciplines of aerospace engineering, control/dynamical systems and artificial intelligence, with a focus on autonomous vehicles and mobile robotics."
+            ],
+            [
+                "Universidad Politécnica de Madrid",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical and Electronics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2012"
+                ],
+                "Activities and Societies:",
+                "Cybertech robot competition, Cuarta Pared university theatre group, produced video Hazte Industrial/Go Engineer",
+                "5-year \"Ingeniero Superior\" degree at the Escuela Técnica Superior de Ingenieros Industriales, Madrid"
+            ]
+        ]
+    },
+    "Amir Ali Ahmadi.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Total Duration",
+                    "7 yrs 3 mos"
+                ],
+                [
+                    "Title",
+                    "Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2014 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 3 mos"
+                ],
+                "http://aaa.princeton.edu/"
+            ],
+            [
+                "Goldstine Fellow",
+                [
+                    "Company Name",
+                    "IBM Watson Research Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2012 – Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ],
+            [
+                "Goldstine Fellow",
+                [
+                    "Company Name",
+                    "IBM"
+                ],
+                [
+                    "Dates Employed",
+                    "2012 – 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "EECS (minor in Math)"
+                ]
+            ]
+        ]
+    },
+    "Prateek Mittal.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Total Duration",
+                    "8 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Jul 2018 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 – Jul 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Princeton"
+                ]
+            ],
+            [
+                "Postdoc",
+                [
+                    "Company Name",
+                    "UC Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2012 – Jun 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 5 mos"
+                ],
+                [
+                    "Location",
+                    "Berkeley"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Illinois at Urbana-Champaign"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2006 – May 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 10 mos"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Philips Research"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2011 – Aug 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Philips Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2010 – Sep 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "University of Illinois at Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2012"
+                ]
+            ],
+            [
+                "University of Illinois at Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2010"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Guwahati",
+                [
+                    "Degree Name",
+                    "B.TECH"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2006"
+                ]
+            ]
+        ]
+    },
+    "Niraj Jha.": {
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "1987 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "34 yrs"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Indian Institute of Technology, Kharagpur"
+            ],
+            [
+                "University of Illinois at Urbana-Champaign"
+            ]
+        ]
+    },
     "Jason W. Fleischer.": {
         "Experience": [],
         "Education": []
     },
+    "H. Vincent Poor.": {
+        "Experience": [
+            [
+                "Technical Advisory Board",
+                [
+                    "Company Name",
+                    "RIMEDO Labs"
+                ],
+                [
+                    "Dates Employed",
+                    "2020 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Posnan, Poland"
+                ]
+            ],
+            [
+                "Board Member",
+                [
+                    "Company Name",
+                    "Hyster-Yale Materials Handling, Inc. (NYSE: HY)"
+                ],
+                [
+                    "Dates Employed",
+                    "2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                [
+                    "Location",
+                    "Cleveland, Ohio, United States"
+                ]
+            ],
+            [
+                "Board Member",
+                [
+                    "Company Name",
+                    "Corporation for National Research Initiatives"
+                ],
+                [
+                    "Dates Employed",
+                    "2012 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs"
+                ],
+                [
+                    "Location",
+                    "Reston, Virginia, United States"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Total Duration",
+                    "31 yrs"
+                ],
+                [
+                    "Title",
+                    "Michael Henry Strater University Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "2005 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "16 yrs"
+                ],
+                [
+                    "Title",
+                    "Professor of Electrical Engineering"
+                ],
+                [
+                    "Dates Employed",
+                    "1990 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "31 yrs"
+                ],
+                [
+                    "Location",
+                    "Princeton, NJ USA"
+                ],
+                "Show 3 more roles"
+            ],
+            [
+                "Professor of Electrical &amp; Computer Engineering",
+                [
+                    "Company Name",
+                    "University of Illinois at Urbana-Champaign"
+                ],
+                [
+                    "Dates Employed",
+                    "1977 – 1990"
+                ],
+                [
+                    "Employment Duration",
+                    "13 yrs"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1977"
+                ]
+            ],
+            [
+                "Auburn University",
+                [
+                    "Degree Name",
+                    "BEE, MS"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1970 - 1974"
+                ]
+            ]
+        ]
+    },
     "Gerard Wysocki.": {
         "Experience": [],
         "Education": []
+    },
+    "Craig Arnold.": {
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "2013 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs"
+                ]
+            ]
+        ],
+        "Education": []
+    },
+    "Kaushik Sengupta.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Total Duration",
+                    "8 yrs 10 mos"
+                ],
+                [
+                    "Title",
+                    "Director of Graduate Studies"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 3 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2013 – Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 5 mos"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "California Institute of Technology"
+                ],
+                [
+                    "Total Duration",
+                    "5 yrs 3 mos"
+                ],
+                [
+                    "Title",
+                    "Post-doctoral scholar"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 – Dec 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Title",
+                    "Ph.D. Scholar"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2007 – Jun 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 9 mos"
+                ],
+                "Thesis: Silicon-based terahertz Circuits and Systems",
+                "Advisor: Prof. Ali Hajimiri"
+            ],
+            [
+                "Summer undergradate research fellow",
+                [
+                    "Company Name",
+                    "MIT"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2006 – Jul 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                "Summer undergraduate research fellowship in Prof.Anantha Chandrakasan's lab working on RFID."
+            ],
+            [
+                "Summer undergraduate research fellow",
+                [
+                    "Company Name",
+                    "University of Southern California"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2005 – Jul 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                "Info-USA fellowship for summer research internship at Prof.Hossein Hashemi's lab, USC working on exploiting non-linear dynamics for high-performance integrated mm-Wave systems.",
+                "…",
+                "see more"
+            ],
+            [
+                "Summer undergraduate research fellow",
+                [
+                    "Company Name",
+                    "Indian Institute of Science"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2004 – Jul 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ],
+                "Summer undergraduate research internship under Prof.K.J.Vinoy working on how mathematics of fractals can be use to predict electromagnetic behavior of fractal-like antennas.",
+                "…",
+                "see more"
+            ]
+        ],
+        "Education": [
+            [
+                "California Institute of Technology",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2012"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Kharagpur",
+                [
+                    "Degree Name",
+                    "Integrated B.Tech and M.Tech"
+                ],
+                [
+                    "Field Of Study",
+                    "Electronics and Electrical COmmunication Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2007"
+                ]
+            ]
+        ]
     },
     "Daniel Tsui.": {
         "Experience": [],
@@ -115,6 +2787,120 @@
         "Experience": [],
         "Education": []
     },
+    "Dana M Vantrease.": {
+        "Experience": [
+            [
+                "ML HW Engineer",
+                [
+                    "Company Name",
+                    "Amazon Web Services"
+                ],
+                [
+                    "Dates Employed",
+                    "2016 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "Austin, Texas Area"
+                ],
+                "Tech Lead/Manager for AWS' family of Cloud-Scale Machine Learning SOCs.",
+                "Leading the definition and delivery of architecture/performance models, co-designed HW, and embedded software.",
+                "…",
+                "see more"
+            ],
+            [
+                "Visiting Lecturer",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2021 – May 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "Princeton, New Jersey, United States"
+                ],
+                "ELE-475/575 instructor for senior/grad-level Computer Architecture"
+            ],
+            [
+                "Performance Modeling Engineer",
+                [
+                    "Company Name",
+                    "Qualcomm"
+                ],
+                [
+                    "Dates Employed",
+                    "2010 – 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
+                ],
+                [
+                    "Location",
+                    "Austin, TX"
+                ],
+                "Owned the cache-subsystems of the Hexagon DSP cycle-accurate model, including: I$/D$/L2$/TCM, cache coherence, prefetchers, compression engines, and AXI controller.",
+                "Performed architectural exploration, RTL performance correlation, and workload analysis across 3 DSP generations.",
+                "…",
+                "see more"
+            ],
+            [
+                "Researcher",
+                [
+                    "Company Name",
+                    "Hewlett-Packard Laboratories"
+                ],
+                [
+                    "Dates Employed",
+                    "2007 – 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                "A member of the Corona chip R&amp;D team, led by Norm Jouppi, that designed a 3D many-core chip with a silicon-photonic interconnect.",
+                "Developer of the chip's trace-driven performance model and invented optical token arbitration and race-free cache-coherency mechanisms as an intern and part-time employee.",
+                "Work has been cited 1300+ times (google scholar).",
+                "…",
+                "see more"
+            ]
+        ],
+        "Education": [
+            [
+                "The Ohio State University",
+                [
+                    "Degree Name",
+                    "Bachelors"
+                ],
+                [
+                    "Field Of Study",
+                    "Science Computer Science Engineering"
+                ]
+            ],
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Sciences"
+                ]
+            ]
+        ]
+    },
     "Bede Liu.": {
         "Experience": [
             [
@@ -131,9 +2917,404 @@
         "Experience": [],
         "Education": []
     },
+    "Paul Cuff.": {
+        "Experience": [
+            [
+                "Researcher",
+                [
+                    "Company Name",
+                    "Renaissance Technologies LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2017 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Setauket, NY"
+                ]
+            ],
+            [
+                "Assistant Professor of Electrical Engineering",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2009 – Aug 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs"
+                ],
+                "Teach and conduct research in multi-user information theory."
+            ],
+            [
+                "Expert Witness",
+                [
+                    "Company Name",
+                    "Peavey Electronics"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2010 – Jan 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "11 mos"
+                ],
+                "Gave expert opinion about patent infringement of a circuit"
+            ],
+            [
+                "Graduate Student",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2004 – Aug 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                "PhD in electrical engineering"
+            ],
+            [
+                "Theory Group Intern",
+                [
+                    "Company Name",
+                    "Microsoft Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2008 – Sep 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                "Analyzed the mixing time and cutoff phenomenon of the Glauber dynamics for the Potts model.",
+                "Consulted for SongSmith.",
+                "…",
+                "see more"
+            ]
+        ],
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2009"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Bachelors"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2004"
+                ]
+            ]
+        ]
+    },
+    "Jennifer Rexford.": {
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2005 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "16 yrs 10 mos"
+                ],
+                "Professor in the Computer Science Department",
+                "http://www.cs.princeton.edu/~jrex"
+            ],
+            [
+                [
+                    "Company Name",
+                    "AT&amp;T Labs--Research"
+                ],
+                [
+                    "Total Duration",
+                    "9 yrs"
+                ],
+                [
+                    "Title",
+                    "Technology Leader"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1996 – Jan 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 6 mos"
+                ],
+                [
+                    "Title",
+                    "Member of Technical Staff"
+                ],
+                [
+                    "Dates Employed",
+                    "1996 – 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs"
+                ]
+            ],
+            [
+                "Member of Technical Staff",
+                [
+                    "Company Name",
+                    "AT&amp;T Labs"
+                ],
+                [
+                    "Dates Employed",
+                    "1996 – 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs"
+                ]
+            ],
+            [
+                "MTS",
+                [
+                    "Company Name",
+                    "AT&amp;T Research"
+                ],
+                [
+                    "Dates Employed",
+                    "1996 – 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1996"
+                ]
+            ],
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "BSE"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 - 1991"
+                ]
+            ],
+            [
+                "West Springfield High School",
+                [
+                    "Degree Name",
+                    "High school"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 - 1987"
+                ]
+            ]
+        ]
+    },
     "Claire Gmachl.": {
         "Experience": [],
         "Education": []
+    },
+    "Antoine Kahn.": {
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1979 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "42 yrs 3 mos"
+                ]
+            ]
+        ],
+        "Education": []
+    },
+    "Yuxin Chen.": {
+        "Experience": [
+            [
+                "Postdoc",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2010 – Dec 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 7 mos"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Postdoc"
+                ],
+                [
+                    "Field Of Study",
+                    "Statistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2016"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2014"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Master"
+                ],
+                [
+                    "Field Of Study",
+                    "Statistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2013"
+                ]
+            ]
+        ]
+    },
+    "Sharad Malik.": {
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "1991 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "30 yrs"
+                ],
+                "Department Chair, Electrical and Computer Engineering"
+            ]
+        ],
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1985 - 1990"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Delhi",
+                [
+                    "Degree Name",
+                    "B. Tech."
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1980 - 1985"
+                ]
+            ]
+        ]
     },
     "Ravindra N. Bhatt.": {
         "Experience": [],
@@ -155,9 +3336,547 @@
         "Experience": [],
         "Education": []
     },
+    "Barry P. Rand.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Total Duration",
+                    "8 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Director for External Partnerships, Andlinger Center for Energy and the Environment"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Princeton, NJ"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 – Jan 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Princeton, NJ"
+                ],
+                "Department of Electrical Engineering and the Andlinger Center for Energy and the Environment"
+            ],
+            [
+                [
+                    "Company Name",
+                    "imec"
+                ],
+                [
+                    "Total Duration",
+                    "6 yrs 5 mos"
+                ],
+                [
+                    "Title",
+                    "Principal Scientist"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2012 – Jun 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 2 mos"
+                ],
+                [
+                    "Location",
+                    "Leuven, Belgium"
+                ],
+                [
+                    "Title",
+                    "Senior Researcher"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2007 – Apr 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Leuven, Belgium"
+                ],
+                "•\tAct in an advisory role for Masters and Ph.D. stage students conducting research relevant to organic solar cells",
+                "•\tContinue to perform research contributing to the understanding, optimization, and feasibility of organic solar cells",
+                "…",
+                "see more"
+            ],
+            [
+                "Internship",
+                [
+                    "Company Name",
+                    "IBM T.J. Watson Research Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2001 – Aug 2001"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Yorktown Heights, NY"
+                ]
+            ],
+            [
+                "Internship",
+                [
+                    "Company Name",
+                    "IBM T.J. Watson Research Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2000 – Aug 2000"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Yorktown Heights, NY"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2006"
+                ],
+                "Thesis titled \"The Physics and Optimization of Organic Thin Film Photovoltaic Cells\""
+            ],
+            [
+                "The Cooper Union for the Advancement of Science and Art",
+                [
+                    "Degree Name",
+                    "B.E."
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2001"
+                ]
+            ]
+        ]
+    },
+    "Mengdi Wang.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Total Duration",
+                    "8 yrs 3 mos"
+                ],
+                [
+                    "Title",
+                    "Associate Professor"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Sep 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 3 mos"
+                ],
+                [
+                    "Title",
+                    "Assistant Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2013 – Sep 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 1 mo"
+                ],
+                "Department of Operations Research and Financial Engineering"
+            ],
+            [
+                "Senior Research Scientist",
+                [
+                    "Company Name",
+                    "DeepMind"
+                ],
+                "Full-time",
+                [
+                    "Dates Employed",
+                    "Sep 2019 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 3 mos"
+                ]
+            ],
+            [
+                "Quantitative Researcher",
+                [
+                    "Company Name",
+                    "Citadel LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2011 – Aug 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ]
+            ]
+        ],
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    "EECS"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2013"
+                ]
+            ],
+            [
+                "Tsinghua University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2007"
+                ]
+            ]
+        ]
+    },
+    "Ruby Lee.": {
+        "Experience": [
+            [
+                "Forrest G. Hamrick Professor in Engineering",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1998 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "23 yrs 3 mos"
+                ],
+                "Director of Princeton Architecture Lab for Multimedia and Security (PALMS).",
+                "Some deployable past research results:",
+                "Novel secure, high-performance and low-power cache architecture.",
+                "Secure processor architectures.",
+                "General purpose instructions (or FPGA/ASIC operations) that can accelerate AES and AHS algorithms, and many other algorithms.",
+                "Novel, powerful permutation and advanced bit manipulation instructions suitable for significant acceleration of cryptography, communications, multimedia, etc.",
+                "Secure Cloud Computing architecture - without or with new hardware.",
+                "Securing medical records and other confidential or private data.",
+                "…",
+                "see more"
+            ],
+            [
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Total Duration",
+                    "9 yrs"
+                ],
+                [
+                    "Title",
+                    "Consulting Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "1995 – 1998"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Title",
+                    "Consulting Associate Professor"
+                ],
+                [
+                    "Dates Employed",
+                    "1989 – 1995"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs"
+                ],
+                [
+                    "Location",
+                    "Stanford, CA"
+                ]
+            ],
+            [
+                "Computer Architect",
+                [
+                    "Company Name",
+                    "Hewlett Packard"
+                ],
+                [
+                    "Dates Employed",
+                    "1981 – 1998"
+                ],
+                [
+                    "Employment Duration",
+                    "17 yrs"
+                ],
+                "Founding architect for HP PA-RISC architecture.",
+                "Instrumental in design of several generations of PA-RISC microprocessors.",
+                "Pioneered adding multimedia instructions to general-purpose processors, via general-purpose subword-parallel instructions (micro SIMD).",
+                "As chief architect of HP's multimedia architecture team, introduced first integrated Multimedia User Interface (cf GUI) using realtime software MPEG video decoder (and video conferencing), in multiple windows, on low-cost desktops.",
+                "Co-led an IA-64 multimedia and data parallelism architecture team.",
+                "Chief architect of security architecture team, helped define integrated technology roadmap for enterprise and e-commerce security before going to Princeton.",
+                "…",
+                "see more"
+            ]
+        ],
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1975 - 1980"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    "Computer Science and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1973 - 1975"
+                ]
+            ],
+            [
+                "Cornell University",
+                [
+                    "Degree Name",
+                    "A.B."
+                ],
+                [
+                    "Field Of Study",
+                    "College Scholar"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1970 - 1973"
+                ],
+                "Activities and Societies:",
+                "Phi Beta Kappa\nAlpha Lambda Delta"
+            ]
+        ]
+    },
     "Gillat Kol.": {
         "Experience": [],
         "Education": []
+    },
+    "Margaret R. Martonosi.": {
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Total Duration",
+                    "27 yrs 3 mos"
+                ],
+                [
+                    "Title",
+                    "Hugh Trumbull Adams '35 Professor of Computer Science"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1994 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "27 yrs 3 mos"
+                ],
+                [
+                    "Title",
+                    "Director, Keller Center for Innovation in Engineering Education"
+                ],
+                [
+                    "Dates Employed",
+                    "2017 – 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ]
+            ],
+            [
+                "Jefferson Science Fellow.",
+                [
+                    "Company Name",
+                    "US. Department of State"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 – Aug 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Washington D.C. Metro Area"
+                ],
+                "1 year sabbatical visitor doing technology policy work within U.S. State Dept.  Internet and Telecommunications Policy, particularly Internet of Things and Global Connectivity issues.  August 2015-August 2016. Continuing in a part-time role.",
+                "…",
+                "see more"
+            ],
+            [
+                "Researcher and Sabbatical Visitor",
+                [
+                    "Company Name",
+                    "IBM"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2004 – Dec 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                "Reliability- and Power-Aware Microarchitecture Group"
+            ],
+            [
+                "Research Associate",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1986 – Dec 1993"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 4 mos"
+                ],
+                "Research Assistant and Graduate Student"
+            ]
+        ],
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1993"
+                ]
+            ],
+            [
+                "Cornell University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    "Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 - 1986"
+                ]
+            ]
+        ]
     },
     "Chi Jin.": {
         "Experience": [],
@@ -182,6 +3901,139 @@
                 [
                     "Dates attended or expected graduation",
                     "2008 - 2012"
+                ]
+            ]
+        ]
+    },
+    "Nathalie de Leon.": {
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2016 – Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 11 mos"
+                ],
+                "Department of Electrical Engineering"
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2011 – Jan 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 10 mos"
+                ],
+                "Joint postdoc in quantum optics, photonics, and plasmonics with Mikhail Lukin (physics) and Hongkun Park (chemistry)."
+            ],
+            [
+                "Graduate student in chemical physics",
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Dates Employed",
+                    "2004 – 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs"
+                ],
+                [
+                    "Location",
+                    "Hongkun Park group"
+                ]
+            ],
+            [
+                "Undergraduate researcher",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2001 – Jun 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Richard Zare lab"
+                ]
+            ],
+            [
+                "Summer intern",
+                [
+                    "Company Name",
+                    "Roche Pharmaceuticals"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2002 – Aug 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Palo Alto, CA"
+                ],
+                "Synthetic organic/medicinal chemistry, methodology of nucleophilic carbon-carbon bond formation on indoles."
+            ]
+        ],
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    "chemical physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2011"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    "chemistry"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2004"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
                 ]
             ]
         ]

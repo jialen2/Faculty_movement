@@ -1,4 +1,140 @@
 {
+    "Lisa Anthony, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "Carnegie Mellon University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Human-Computer Interaction"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2008"
+                ]
+            ],
+            [
+                "Drexel University",
+                [
+                    "Degree Name",
+                    "BS/MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2002"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Florida",
+                [
+                    "Company Name",
+                    "8 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Aug 2019 - Present · 2 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor"
+                ]
+            ],
+            [
+                "Post-doctoral Research Associate / Research Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Maryland Baltimore County"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2011 - Aug 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Baltimore, Maryland Area"
+                ]
+            ],
+            [
+                "Senior Member, Engineering Staff",
+                [
+                    "Company Name",
+                    "Lockheed Martin Advanced Technology Laboratories"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2008 - Nov 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Cherry Hill, NJ"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "Carnegie Mellon University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2002 - Sep 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Pittsburgh, PA"
+                ]
+            ],
+            [
+                "Summer Intern",
+                [
+                    "Company Name",
+                    "FX Palo Alto Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2007 - Sep 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Palo Alto, CA"
+                ],
+                [
+                    "More Info",
+                    "See all 9 experiences"
+                ]
+            ]
+        ]
+    },
     "Arunava Banerjee, Ph.D.": {
         "status": "success",
         "Education": [
@@ -88,6 +224,688 @@
             ]
         ]
     },
+    "Vincent Bindschaedler, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2018"
+                ]
+            ],
+            [
+                "EPFL (École polytechnique fédérale de Lausanne)",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Minor in Information Security"
+                ]
+            ],
+            [
+                "EPFL (École polytechnique fédérale de Lausanne)",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2010"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Florida"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Gainesville, Florida Area"
+                ]
+            ],
+            [
+                "University of Illinois at Urbana-Champaign",
+                [
+                    "Company Name",
+                    "5 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Assistant"
+                ],
+                [
+                    "Location",
+                    "Aug 2012 - May 2018 · 5 yrs 10 mos"
+                ],
+                [
+                    "More Info",
+                    "Urbana-Champaign, Illinois Area"
+                ]
+            ],
+            [
+                "Summer Research Intern",
+                [
+                    "Company Name",
+                    "Cornell Tech"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 - Aug 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "New York, New York"
+                ]
+            ],
+            [
+                "Summer Research Intern",
+                [
+                    "Company Name",
+                    "PARC"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2015 - Aug 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ],
+                [
+                    "More Info",
+                    "Summer research intern on applied cryptography and data privacy."
+                ]
+            ],
+            [
+                "MSc Research Scholar",
+                [
+                    "Company Name",
+                    "EPFL (École polytechnique fédérale de Lausanne)"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 - Jun 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 10 mos"
+                ],
+                [
+                    "Location",
+                    "Lausanne Area, Switzerland"
+                ]
+            ]
+        ]
+    },
+    "Jeremiah J. Blanchard, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Florida",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2020"
+                ],
+                [
+                    "More Info",
+                    "I do research in CS Education."
+                ]
+            ],
+            [
+                "University of Florida",
+                [
+                    "Degree Name",
+                    "Master of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2007"
+                ]
+            ],
+            [
+                "University of Florida",
+                [
+                    "Degree Name",
+                    "Bachelor of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2002"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: ACM"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Florida",
+                [
+                    "Company Name",
+                    "6 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Director of Computer Engineering / Instructional Assistant Professor"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "May 2021 - Present · 10 mos"
+                ]
+            ],
+            [
+                "Chief Editor",
+                [
+                    "Company Name",
+                    "Needle Rat Press LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2010 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "11 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Orlando, FL"
+                ]
+            ],
+            [
+                "Full Sail University",
+                [
+                    "Company Name",
+                    "10 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Program Director, Game Development"
+                ],
+                [
+                    "Location",
+                    "May 2013 - Jan 2017 · 3 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Department Chair"
+                ]
+            ],
+            [
+                "Chair of the Board",
+                [
+                    "Company Name",
+                    "Esper Hosting, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "May 2009 - May 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Esper Hosting, Inc. is a non-profit cooperative corporation whose purpose is to provide robust Internet server services to its members at as low a cost as possible. This includes web, SVN, and low-load software server hosting."
+                ]
+            ],
+            [
+                "Fellow",
+                [
+                    "Company Name",
+                    "University of Florida"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2005 - Aug 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Fellow: Graduate Assistant (Teaching and Research) in Computer Science"
+                ],
+                [
+                    "More Info",
+                    "See all 10 experiences"
+                ]
+            ]
+        ]
+    },
+    "Christina Boucher, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Notre Dame - Mendoza College of Business",
+                [
+                    "Degree Name",
+                    "Master of Business Administration - MBA"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "May 2021 - May 2023"
+                ]
+            ],
+            [
+                "University of Notre Dame",
+                [
+                    "Degree Name",
+                    "B.Arch"
+                ],
+                [
+                    "Field Of Study",
+                    " Architecture"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2013"
+                ]
+            ],
+            [
+                "University of Notre Dame",
+                [
+                    "Degree Name",
+                    "Rome Studies Program"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2011"
+                ],
+                [
+                    "More Info",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "The Associates Studio, LLC",
+                [
+                    "Company Name",
+                    "Full-time · 5 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Architect"
+                ],
+                [
+                    "Location",
+                    "Sep 2018 - Mar 2021 · 2 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Vero Beach"
+                ]
+            ],
+            [
+                "Caregiver",
+                [
+                    "Company Name",
+                    "Self-employed"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2013 - Feb 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Albuquerque, New Mexico, United States"
+                ],
+                [
+                    "More Info",
+                    "I cared for my late father full-time. I assisted with personal care including dressing, and ambulation. I helped administer treatments and medication, planned and prepared meals, routinely cleaned and sanitized the house, provided transportation to and from appointments, and was a companion for day-long appointments and treatments multiple times per week."
+                ]
+            ],
+            [
+                "ARCAS-PARIS logo",
+                [
+                    "Company Name",
+                    "Architectural Intern"
+                ],
+                [
+                    "Dates Employed",
+                    "ARCAS-PARIS"
+                ],
+                [
+                    "Employment Duration",
+                    "Internship"
+                ],
+                [
+                    "Location",
+                    "May 2012 - Jul 2012 · 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Paris, France"
+                ]
+            ]
+        ]
+    },
+    "Kristy Elizabeth Boyer, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "North Carolina State University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2010"
+                ]
+            ],
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Applied Statistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2000"
+                ]
+            ],
+            [
+                "Valdosta State University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1999"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of Florida"
+                ]
+            ],
+            [
+                "North Carolina State University",
+                [
+                    "Company Name",
+                    "5 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Assistant Professor of Computer Science"
+                ],
+                [
+                    "Location",
+                    "Aug 2011 - Jul 2015 · 4 yrs"
+                ],
+                [
+                    "More Info",
+                    "Raleigh, NC"
+                ]
+            ],
+            [
+                "Instructor of Mathematics and Computer Science",
+                [
+                    "Company Name",
+                    "Valdosta State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2002 - May 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Valdosta, gA"
+                ]
+            ],
+            [
+                "Operations Research Developer",
+                [
+                    "Company Name",
+                    "Delta Air Lines"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2000 - Dec 2001"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ]
+            ]
+        ]
+    },
+    "Kevin R. B. Butler, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "Penn State University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2010"
+                ]
+            ],
+            [
+                "Columbia University in the City of New York",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2003"
+                ]
+            ],
+            [
+                "Queen's University",
+                [
+                    "Degree Name",
+                    "B.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1999"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Florida",
+                [
+                    "Company Name",
+                    "7 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Aug 2021 - Present · 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Associate Professor"
+                ]
+            ],
+            [
+                "Co-Founder and COO",
+                [
+                    "Company Name",
+                    "CryptoDrop"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 - Aug 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 3 mos"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Oregon"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 - Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Symantec Research Labs"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2009 - Sep 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Examined host-based validation for portable storage devices, and implemented an embedded Linux prototype. Investigated extension of information flow from the OS into storage. Winner of the company-wide Symantec Intern Project Showcase competition, technical division."
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Seagate"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2008 - Aug 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Developed security infrastructures for distributed storage in a home user environment, focussing on distributed access control mechanisms."
+                ],
+                [
+                    "More Info",
+                    "See all 9 experiences"
+                ]
+            ]
+        ]
+    },
     "Shigang Chen, Ph.D.": {
         "status": "success",
         "Education": [],
@@ -96,7 +914,7 @@
                 "Professor",
                 [
                     "Company Name",
-                    "University of Florida \u00b7 Full-time"
+                    "University of Florida · Full-time"
                 ]
             ]
         ]
@@ -261,15 +1079,485 @@
         "Education": [],
         "Experience": []
     },
+    "Alin Dobra, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "Cornell University",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2003"
+                ]
+            ],
+            [
+                "Technical University of Cluj Napoca",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 1998"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Chief Technology Officer",
+                [
+                    "Company Name",
+                    "Tera Insights LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Gainesville, Florida Area"
+                ],
+                [
+                    "More Info",
+                    "I am the founder and CTO of Tera Insights. We are working on GrokIt, a large scale data processing engine with R and web interface and advanced data visualization capabilities. See our webpage at www.terainsights.com"
+                ]
+            ],
+            [
+                "University of Florida",
+                [
+                    "Company Name",
+                    "12 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Assistant Professor"
+                ],
+                [
+                    "Location",
+                    "Aug 2009 - Present · 12 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Perform research on large data processing and bioinformatics. Teach advanced classes on database implementation and distributed systems."
+                ]
+            ],
+            [
+                "Graduate Student",
+                [
+                    "Company Name",
+                    "Cornell University"
+                ],
+                [
+                    "Dates Employed",
+                    "1998 - 2003"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "I became one of the leading experts in Classification and Regression tree mining."
+                ]
+            ],
+            [
+                "Intern",
+                [
+                    "Company Name",
+                    "Bell Labs, Lucent Technologies"
+                ],
+                [
+                    "Dates Employed",
+                    "2001 - 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "I wrote one of the most cited papers on approximate query processing of data-streams."
+                ]
+            ],
+            [
+                "Intern",
+                [
+                    "Company Name",
+                    "Bell Laboratories"
+                ],
+                [
+                    "Dates Employed",
+                    "2001 - 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Intern. Worked on Approximate Query Processing with Minos Garoralakis and Rajeev Rastogi"
+                ]
+            ]
+        ]
+    },
     "Bonnie J. Dorr, Ph.D.": {
         "status": "fail",
         "Education": [],
         "Experience": []
     },
+    "Paul D. Gader, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Florida",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1986"
+                ]
+            ],
+            [
+                "University of Central Florida",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1979 - 1981"
+                ]
+            ],
+            [
+                "Valencia College",
+                [
+                    "Degree Name",
+                    "AA"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978 - 1979"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Florida",
+                [
+                    "Company Name",
+                    "20 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Aug 2001 - Present · 20 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Teaching, Research, and Service.  Department Head."
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "University of California - Santa Barbara"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Jul 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Santa Barbara, California Area"
+                ],
+                [
+                    "More Info",
+                    "Research"
+                ]
+            ],
+            [
+                "Assistant / Associate Professor",
+                [
+                    "Company Name",
+                    "University of Missouri"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1991 - Aug 2001"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Electrical and Computer Engineering  and the Computer Engineering and Computer Science Department."
+                ],
+                [
+                    "More Info",
+                    "Handwriting Recognition, Landmine Detection, Mathematical Morphology, Medical Imaging (Pathology), Fuzzy Set Theory, Detection Algorithms Research."
+                ]
+            ],
+            [
+                "Research Engineer and Manager",
+                [
+                    "Company Name",
+                    "Environmental Research Institute of Michigan (ERIM)"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 1988 - Aug 1991"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Ann Arbor, Michigan"
+                ],
+                [
+                    "More Info",
+                    "Handwriting Recognition and SAR Image Algorithm Analysis"
+                ]
+            ],
+            [
+                "Senior Research Scientist",
+                [
+                    "Company Name",
+                    "Honeywell Systems and Research Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 1986 - Nov 1988"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Greater Minneapolis-St. Paul Area"
+                ],
+                [
+                    "More Info",
+                    "ATR and Scene Analysis Research"
+                ]
+            ]
+        ]
+    },
     "Alexandre Gomes de Siqueira": {
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "Ahmed Helmy, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Southern California",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science - Computer Networks"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 1999"
+                ],
+                [
+                    "More Info",
+                    "Completed MS in Electrical Engineering - Computer Networks (in the Computer Engineering Division of the EE-Systems Department of USC), under the supervision of Prof. John Silvester. Completed my Ph.D. degree in Computer Science, with emphasis on computer networks, under the supervision of Prof. Deborah Estrin (and co-advisor Prof. Sandeep Gupta of EE-S). Worked as a research assistant at the Information Sciences Institute (ISI/USC), and at the Computer Science department."
+                ]
+            ],
+            [
+                "University of Southern California",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering - Computer Networks"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1995"
+                ],
+                [
+                    "More Info",
+                    "- Was a key researcher in the main research team to work on the Protocol-Independent-Multicast (PIM), including Sparse-Mode (PIM-SM), Dense-Mode (PIM-DM). Developed and implemented the reference code for PIM-SM (used later by SiliconGraphics, Sun Microsystems and Cisco, among others). This effort was in collaboration with senior researchers (Prof. Deborah Estrin, Dr. Stephen Deering, Dr. Van Jacobson and Dino Farinacci)."
+                ]
+            ],
+            [
+                "Cairo University",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Engineering Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 1994"
+                ],
+                [
+                    "More Info",
+                    "Completed B.Sc. degree in communications/electronics in the Electrical Engineering department. Completed a MS/diploma in Engineering Mathematics."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Florida",
+                [
+                    "Company Name",
+                    "16 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Graduate Director &amp; Coordinator"
+                ],
+                [
+                    "Location",
+                    "Aug 2015 - Present · 6 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Gainesville, Florida Area"
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "Technische Universität München"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2017 - Aug 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Munich Area, Germany"
+                ],
+                [
+                    "More Info",
+                    "August-Wilhelm Scheer Professorship &amp; Honorary Fellowship for advanced studies at the Technical University of Munich (TUM). Visited the BMW Chair of Connected Mobility at TUM to contribute to understanding mobile user behavior at scale, interacted very closely with Prof. Ott and his group and contributed in a significant way to the conclusion of a 4-year collaboration on a major mobility study and publication. Delivered a special topics crash summer course on mobility modeling (pedestrian and vehicular)."
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "Lip6 - University of Pierre and Marie Curie - Sorbonne"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 - Jul 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ],
+                [
+                    "Location",
+                    "Paris, France"
+                ],
+                [
+                    "More Info",
+                    "Visiting Professor at UPMC, Paris-Tech, for the summer. Mainly part of the Lip6 group, interacting mostly with Giovanni Pau, Serge Fdida, and Marcello De Amorim. Gave several invited talks on network analytics using big data, vehicular mobility modeling and simulation."
+                ]
+            ],
+            [
+                "Visiting Professor - Sabbatical",
+                [
+                    "Company Name",
+                    "Bogazici University"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2014 - Jun 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "Istanbul, Turkey"
+                ],
+                [
+                    "More Info",
+                    "Sabbatical visit to Istanbul Turkey, with main collaboration with Bogazici University and affiliated researchers and lab groups, including Tuna Tugcu, Cem Ersoy, Bert Arnrich, and Ozlem Incel."
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "Aalto University"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2013 - Jul 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Helsinki, Finland"
+                ],
+                [
+                    "More Info",
+                    "Visiting professor and researcher, with the host Prof. Jorg Ott, at Aalto University, Finland."
+                ]
+            ]
+        ]
     },
     "Alireza Entezari, Ph.D.": {
         "status": "fail",
@@ -323,7 +1611,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "University of Florida \u00b7 Full-time"
+                    "University of Florida · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -378,6 +1666,223 @@
                 [
                     "Location",
                     "Atlanta, GA"
+                ]
+            ]
+        ]
+    },
+    "Mehmet Celepkolu, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Florida",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2016 - 2020"
+                ]
+            ],
+            [
+                "University of Florida",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2014"
+                ]
+            ],
+            [
+                "University of Delaware",
+                [
+                    "Degree Name",
+                    "English Language Course"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2012"
+                ],
+                [
+                    "More Info",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Florida",
+                [
+                    "Company Name",
+                    "Full-time · 1 yr 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Scientist"
+                ],
+                [
+                    "Location",
+                    "Aug 2020 - Present · 1 yr 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Gainesville, Florida, United States"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Florida - Computer and Information Science and Engineering"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2017 - Aug 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 8 mos"
+                ]
+            ],
+            [
+                "PHD Student",
+                [
+                    "Company Name",
+                    "University of Florida College of Education"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Aug 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ]
+            ],
+            [
+                "University of Florida Biology Department",
+                [
+                    "Company Name",
+                    "7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Teaching Assistant"
+                ],
+                [
+                    "Location",
+                    "Jan 2016 - May 2016 · 5 mos"
+                ],
+                [
+                    "More Info",
+                    "Research Assistant"
+                ]
+            ],
+            [
+                "Instructional Designer",
+                [
+                    "Company Name",
+                    "University of Florida College of Nursing"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2014 - Jan 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 4 mos"
+                ]
+            ]
+        ]
+    },
+    "Christina Gardner-McCune, Ph.D": {
+        "status": "success",
+        "Education": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "2003 - 2011"
+                ]
+            ],
+            [
+                "Syracuse University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2002"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Florida",
+                [
+                    "Company Name",
+                    "7 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Aug 2020 - Present · 1 yr 7 mos"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Clemson University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "Clemson, South Carolina"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Georgia Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 - Dec 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 5 mos"
                 ]
             ]
         ]
@@ -551,6 +2056,227 @@
             ]
         ]
     },
+    "Christina Gardner-McCune, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "2003 - 2011"
+                ]
+            ],
+            [
+                "Syracuse University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2002"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Florida",
+                [
+                    "Company Name",
+                    "7 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Aug 2020 - Present · 1 yr 7 mos"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Clemson University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "Clemson, South Carolina"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Georgia Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 - Dec 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 5 mos"
+                ]
+            ]
+        ]
+    },
+    "Juan E. Gilbert, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Cincinnati",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2000"
+                ]
+            ],
+            [
+                "University of Cincinnati",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 1995"
+                ]
+            ],
+            [
+                "Miami University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Systems Analysis"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 - 1991"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Florida",
+                [
+                    "Company Name",
+                    "7 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Andrew Banks Family Preeminent Endowed Professor &amp; Chair"
+                ],
+                [
+                    "Location",
+                    "May 2015 - Present · 6 yrs 10 mos"
+                ],
+                [
+                    "More Info",
+                    "Gainesville, Florida"
+                ]
+            ],
+            [
+                "Member",
+                [
+                    "Company Name",
+                    "National BDPA"
+                ],
+                [
+                    "Dates Employed",
+                    "1997 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "25 yrs 2 mos"
+                ]
+            ],
+            [
+                "Member",
+                [
+                    "Company Name",
+                    "BDPA"
+                ],
+                [
+                    "Dates Employed",
+                    "1995 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "27 yrs 2 mos"
+                ]
+            ],
+            [
+                "Presidential Endowed Professor, IDEaS Professor &amp; Chair of Human-Centered Computing",
+                [
+                    "Company Name",
+                    "Clemson University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2009 - May 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Clemson, SC 29634"
+                ]
+            ],
+            [
+                "T-SYS Distinguished Professor",
+                [
+                    "Company Name",
+                    "Auburn University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2000 - Jul 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "See all 7 experiences"
+                ]
+            ]
+        ]
+    },
     "Kiley Graim, Ph.D.": {
         "status": "success",
         "Education": [
@@ -605,7 +2331,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "University of Florida \u00b7 Full-time"
+                    "University of Florida · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -682,6 +2408,181 @@
                 [
                     "More Info",
                     "See all 9 experiences"
+                ]
+            ]
+        ]
+    },
+    "Abdelsalam (Sumi) Helal, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "MSc. and Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Sciences"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 - 1991"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: IEEE, USENIX, ACM"
+                ]
+            ],
+            [
+                "Penn State University",
+                [
+                    "Degree Name",
+                    "-"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1987"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: IEEE Computer Society, ACM."
+                ]
+            ],
+            [
+                "Alexandria University",
+                [
+                    "Degree Name",
+                    "BSc and MSc"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1977 - 1985"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: IEEE Computer Society, ACM"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor and Director",
+                [
+                    "Company Name",
+                    "University of Florida"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1998 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "23 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Gainesville, Florida"
+                ],
+                [
+                    "More Info",
+                    "Professor and Director of the Mobile and Pervasive Computing laboratory. Co-founder and Director of the Gator Tech Smart House - a real-life experimental facility for the development and validation of Assistive Technology in support of Aging Disability, Proactive Health, and Independence."
+                ]
+            ],
+            [
+                "Professor and Chair in Digital Health",
+                [
+                    "Company Name",
+                    "Lancaster University"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2017 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Lancaster, United Kingdom"
+                ],
+                [
+                    "More Info",
+                    "Director of The Centre on Digital Health and Quality of Life Technologies"
+                ]
+            ],
+            [
+                "Founder and CEO",
+                [
+                    "Company Name",
+                    "Pervasa, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "2006 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "16 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Gainesville, Floirda"
+                ],
+                [
+                    "More Info",
+                    "Pervasa licensed from the University of Florida Internet-of-Things technology invented by Dr. Sumi Helal and his research associates, that enables autonomic integration of sensors and devices into service-oriented architectures (SOA). The technology consisted of hardware (Atlas sensor platforms) and a middleware based on the Java and OSGi platforms. Pervasa drove the IoT Kits market at the time and won the Silver award in SensorExpo 2007.  The technology has been licensed to Bosch and Samsung."
+                ]
+            ],
+            [
+                "IEEE Computer Society",
+                [
+                    "Company Name",
+                    "5 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Los Alamitos, CA"
+                ],
+                [
+                    "Location",
+                    "Member Board of Governors, Chair of the Magazine Operations Committee &amp; 2020 President-Elect Nominee"
+                ],
+                [
+                    "More Info",
+                    "Jan 2017 - Dec 2019 · 3 yrs"
+                ]
+            ],
+            [
+                "Founder and CEO",
+                [
+                    "Company Name",
+                    "Phoneomena, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "2002 - 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "Gainesville, Florida"
+                ],
+                [
+                    "More Info",
+                    "Sumi Helal founded Phoneomena, Inc. in 2002. The company was one of the first few with product offerings in mobile Middleware and enterprise applications. Products were based on J2ME mobile platforms (flip phones), before the days of the iPhone and Android. Phoneomena expanded in the middle east offering stock trading applications in the Qatari and Kuwaiti stock exchanges."
                 ]
             ]
         ]
@@ -765,6 +2666,146 @@
             ]
         ]
     },
+    "Eakta Jain, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "Carnegie Mellon University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Robotics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2012"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Kanpur",
+                [
+                    "Degree Name",
+                    "Bachelor of Technology (B.Tech.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Florida"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2014 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Gainesville, Florida Area"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor at the Computer/Information Sciences &amp; Engineering Department"
+                ]
+            ],
+            [
+                "Texas Instruments",
+                [
+                    "Company Name",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Dallas/Fort Worth Area"
+                ],
+                [
+                    "Location",
+                    "Member of Technical Staff / Embedded Vision R&amp;D"
+                ],
+                [
+                    "More Info",
+                    "Dec 2012 - Feb 2014 · 1 yr 3 mos"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "Carnegie Mellon University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2006 - May 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "Pittsburgh"
+                ],
+                [
+                    "More Info",
+                    "Research projects at the Graphics Lab, CMU."
+                ]
+            ],
+            [
+                "Lab Associate",
+                [
+                    "Company Name",
+                    "Disney Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2011 - Aug 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Pittsburgh"
+                ]
+            ],
+            [
+                "Lab Associate",
+                [
+                    "Company Name",
+                    "Disney Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2010 - Aug 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ],
+                [
+                    "Location",
+                    "See all 7 experiences"
+                ]
+            ]
+        ]
+    },
     "Zhe Jiang, Ph.D.": {
         "status": "success",
         "Education": [
@@ -804,7 +2845,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "University of Florida \u00b7 Full-time"
+                    "University of Florida · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -903,6 +2944,139 @@
                 [
                     "Location",
                     "University of Florida"
+                ]
+            ]
+        ]
+    },
+    "Amanpreet Kapoor, M.S.": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Florida",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Human Centered Computing"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2017 - 2022"
+                ],
+                [
+                    "More Info",
+                    "Research Areas: Computer Science Education, Educational Data Mining and Learning Analytics"
+                ]
+            ],
+            [
+                "University of Florida",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Jaypee University of Engineering and Technology, Guna"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Florida",
+                [
+                    "Company Name",
+                    "6 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Instructional Assistant Professor"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Aug 2020 - Present · 1 yr 7 mos"
+                ]
+            ],
+            [
+                "Solution Analyst",
+                [
+                    "Company Name",
+                    "Deloitte"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2016 - Aug 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Orlando, Florida Area"
+                ],
+                [
+                    "More Info",
+                    "- Worked as an L1 level Business Analyst for a Fortune 500 financial corporation client handling OFAC compliance and resulting in being promoted to one of the two L2 analysts in a team of 40 L1 analysts."
+                ]
+            ],
+            [
+                "UI Software Engineer Intern",
+                [
+                    "Company Name",
+                    "Siemens Healthineers"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2016 - Aug 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ],
+                [
+                    "More Info",
+                    "Created and Integrated a Style Library for Controls in XAML, reducing existing XAML code and developed a reference Prototype application using WPF to aid developers using the styles and promoting reusability."
+                ]
+            ],
+            [
+                "Teaching Assistant",
+                [
+                    "Company Name",
+                    "Jaypee University of Engineering and Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 - Dec 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Location",
+                    "India"
+                ],
+                [
+                    "More Info",
+                    "Designed the course homework, project and resolved the difficulties encountered by students learning HTML, CSS, PHP and Javascript"
                 ]
             ]
         ]
@@ -1029,6 +3203,212 @@
             ]
         ]
     },
+    "Kyla McMullen, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: SMES-G - Society of Minority Engineers and Scientists - Graduate Component,"
+                ]
+            ],
+            [
+                "University of Maryland Baltimore County",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "May 2001 - May 2005"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Florida · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 7 mos"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Clemson University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - Jul 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 7 mos"
+                ],
+                [
+                    "Location",
+                    "I investigate the use of virtual auditory environments to augment accessibility for persons with visual impairments, training procedures, and to sonify data."
+                ]
+            ],
+            [
+                "Summer Intern",
+                [
+                    "Company Name",
+                    "IBM"
+                ],
+                [
+                    "Dates Employed",
+                    "2005"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ]
+            ]
+        ]
+    },
+    "Prabhat Mishra, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "UC Irvine",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Information and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2004"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Kharagpur",
+                [
+                    "Degree Name",
+                    "M.Tech."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer and Information Technology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1995"
+                ]
+            ],
+            [
+                "Jadavpur University",
+                [
+                    "Degree Name",
+                    "B.E."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1994"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Florida",
+                [
+                    "Company Name",
+                    "18 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "UF Research Foundation Professor"
+                ],
+                [
+                    "Location",
+                    "2020 - Present · 2 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Professor"
+                ]
+            ],
+            [
+                "Senior R&amp;D Engineer",
+                [
+                    "Company Name",
+                    "Synopsys"
+                ],
+                [
+                    "Dates Employed",
+                    "1998 - 1999"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Senior Software Engineer",
+                [
+                    "Company Name",
+                    "Sasken"
+                ],
+                [
+                    "Dates Employed",
+                    "1997 - 1998"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Software Design Engineer",
+                [
+                    "Company Name",
+                    "Texas Instruments"
+                ],
+                [
+                    "Dates Employed",
+                    "1996 - 1997"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ]
+        ]
+    },
     "Jorg Peters, Ph.D.": {
         "status": "fail",
         "Education": [],
@@ -1038,6 +3418,233 @@
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "Sara Rampazzi, Ph.D": {
+        "status": "success",
+        "Education": [
+            [
+                "Università di Pavia",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Software Engineering on biomedical field"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2013"
+                ],
+                [
+                    "More Info",
+                    "Dissertation title: \"Strumentazione embedded per biosensori Lab-on-Chip\" (trans. \"Embedded instrumentations for Lab-on-Chip biosensors\")."
+                ]
+            ],
+            [
+                "Università di Pavia",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Ingegneria informatica"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Grade: 108/110"
+                ]
+            ],
+            [
+                "Università di Pavia",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Ingegneria informatica"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2008"
+                ],
+                [
+                    "More Info",
+                    "Grade: 105/110"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Florida · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 3 mos"
+                ],
+                [
+                    "Location",
+                    "Gainesville, Florida, United States"
+                ]
+            ],
+            [
+                "University of Michigan",
+                [
+                    "Company Name",
+                    "3 yrs 5 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Investigator"
+                ],
+                [
+                    "Location",
+                    "Feb 2018 - Dec 2020 · 2 yrs 11 mos"
+                ],
+                [
+                    "More Info",
+                    "Ann Arbor"
+                ]
+            ],
+            [
+                "Embedded Software Engineer",
+                [
+                    "Company Name",
+                    "Azcom Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2016 - Jul 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Location",
+                    "Milano, Italia"
+                ],
+                [
+                    "More Info",
+                    "Embedded software and firmware development for LTE/HSPA+ platforms."
+                ]
+            ],
+            [
+                "Software Developer (ALTEN Consultant)",
+                [
+                    "Company Name",
+                    "Leonardo"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2015 - Sep 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Nerviano (Milan)"
+                ],
+                [
+                    "More Info",
+                    "Embedded software development for the spacecraft EUCLID Command and Data Handling (C&amp;DH) system and orbit control."
+                ]
+            ],
+            [
+                "Model Based Design Engineer (ALTEN Consultant)",
+                [
+                    "Company Name",
+                    "Magneti Marelli"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2015 - Sep 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ],
+                [
+                    "Location",
+                    "Corbetta (Milan) - R&amp;D Electronics Department"
+                ],
+                [
+                    "More Info",
+                    "Model Based Design software developer for Automotive Systems (HMI car dashboards)."
+                ]
+            ]
+        ]
+    },
+    "Anand Rangarajan, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Southern California",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Electronics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 - 1990"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of Florida"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2000 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "21 yrs 7 mos"
+                ]
+            ],
+            [
+                "Yale University",
+                [
+                    "Company Name",
+                    "8 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Assistant Professor"
+                ],
+                [
+                    "Location",
+                    "Jan 1996 - Aug 2000 · 4 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Associate Research Scientist"
+                ]
+            ]
+        ]
     },
     "Sanjay Ranka, Ph.D.": {
         "status": "success",
@@ -1086,7 +3693,7 @@
                 "Distinguished Professor",
                 [
                     "Company Name",
-                    "University of Florida \u00b7 Full-time"
+                    "University of Florida · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1264,7 +3871,7 @@
                 "Engineer",
                 [
                     "Company Name",
-                    "The Johns Hopkins University Applied Physics Laboratory \u00b7 Full-time"
+                    "The Johns Hopkins University Applied Physics Laboratory · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1322,6 +3929,83 @@
                 [
                     "Location",
                     "Gainesville, Florida"
+                ]
+            ]
+        ]
+    },
+    "Jaime Ruiz, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Waterloo",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ]
+            ],
+            [
+                "San Francisco State University",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ]
+            ],
+            [
+                "University of California, Davis",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Florida",
+                [
+                    "Company Name",
+                    "5 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Aug 2020 - Present · 1 yr 7 mos"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Colorado State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Aug 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 1 mo"
+                ]
+            ],
+            [
+                "Developer",
+                [
+                    "Company Name",
+                    "Feast"
+                ],
+                [
+                    "Dates Employed",
+                    "2003 - 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "11 yrs"
                 ]
             ]
         ]
@@ -1455,7 +4139,7 @@
                 ]
             ],
             [
-                "President\u2019s Postdoctoral Fellow",
+                "President’s Postdoctoral Fellow",
                 [
                     "Company Name",
                     "University of California Davis"
@@ -1544,7 +4228,150 @@
             ]
         ]
     },
-    "Alper \u00dcng\u00f6r, Ph.D.": {
+    "Patrick Traynor, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "Penn State University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2008"
+                ]
+            ],
+            [
+                "Penn State University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2004"
+                ]
+            ],
+            [
+                "University of Richmond",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2002"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Octaves"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Florida",
+                [
+                    "Company Name",
+                    "7 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2018 - Present · 3 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Gainesville, Florida Area"
+                ]
+            ],
+            [
+                "CEO",
+                [
+                    "Company Name",
+                    "Skim Reaper"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2019 - Dec 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "The Skim Reaper quickly and accurately detects overlay and deep-insert payment skimmers."
+                ]
+            ],
+            [
+                "CEO",
+                [
+                    "Company Name",
+                    "CryptoDrop"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 - Jan 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ]
+            ],
+            [
+                "Co Director",
+                [
+                    "Company Name",
+                    "Florida Institute for Cybersecurity (FICS) Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Aug 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ]
+            ],
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Company Name",
+                    "6 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Mar 2014 - Jul 2014 · 5 mos"
+                ],
+                [
+                    "More Info",
+                    "Atlanta, GA"
+                ]
+            ]
+        ]
+    },
+    "Alper Üngör, Ph.D.": {
         "status": "fail",
         "Education": [],
         "Experience": []
@@ -1612,6 +4439,296 @@
             ]
         ]
     },
+    "Daisy Zhe Wang, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "2005 - 2010"
+                ]
+            ],
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science, Data Management"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2010"
+                ]
+            ],
+            [
+                "University of Toronto",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2005"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: IEEE, WIE"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Florida",
+                [
+                    "Company Name",
+                    "10 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Gainesville, Florida Area"
+                ],
+                [
+                    "Location",
+                    "Associate Professor"
+                ],
+                [
+                    "More Info",
+                    "Aug 2017 - Present · 4 yrs 7 mos"
+                ]
+            ],
+            [
+                "Ph.D. candidate",
+                [
+                    "Company Name",
+                    "UC Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2005 - Jul 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "UC Berkeley, EECS"
+                ],
+                [
+                    "More Info",
+                    "Database Research Group, advisers: Michael Franklin, Joseph Hellerstein, Minos Garofalakis"
+                ]
+            ],
+            [
+                "Research Collaborator",
+                [
+                    "Company Name",
+                    "IBM Almaden Research Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2008 - Jul 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Yahoo!"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2008 - Sep 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "PSOX information extraction system"
+                ],
+                [
+                    "More Info",
+                    "Worked on the lineage management problem"
+                ]
+            ],
+            [
+                "Summer Intern",
+                [
+                    "Company Name",
+                    "Google Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "May 2007 - Aug 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Worked on how to use structured data on the web to improve the search engine."
+                ],
+                [
+                    "More Info",
+                    "See all 9 experiences"
+                ]
+            ]
+        ]
+    },
+    "Byron Williams, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "Mississippi State University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science/Software Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2009"
+                ]
+            ],
+            [
+                "Mississippi State University",
+                [
+                    "Degree Name",
+                    "Masters"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2006"
+                ]
+            ],
+            [
+                "Mississippi State University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2004"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of Florida"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Gainesville, Florida"
+                ]
+            ],
+            [
+                "Mississippi State University",
+                [
+                    "Company Name",
+                    "7 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Aug 2017 - Aug 2018 · 1 yr 1 mo"
+                ],
+                [
+                    "More Info",
+                    "Starkville, MS"
+                ]
+            ],
+            [
+                "Center for Defense Integrated Data logo",
+                [
+                    "Company Name",
+                    "Associate Director/Chief Software Engineer"
+                ],
+                [
+                    "Dates Employed",
+                    "Center for Defense Integrated Data"
+                ],
+                [
+                    "Location",
+                    "Aug 2009 - Jun 2011 · 1 yr 11 mos"
+                ]
+            ],
+            [
+                "Owner",
+                [
+                    "Company Name",
+                    "Growth On Demand Enterprises, LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2004 - Aug 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ]
+            ],
+            [
+                "PhD Student/Research Assistant",
+                [
+                    "Company Name",
+                    "Mississippi State University"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2006 - May 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "See all 8 experiences"
+                ]
+            ]
+        ]
+    },
     "Joseph N. Wilson, Ph.D.": {
         "status": "success",
         "Education": [
@@ -1634,7 +4751,7 @@
                 "University of Virginia",
                 [
                     "Degree Name",
-                    "Master\u2019s Degree"
+                    "Master’s Degree"
                 ],
                 [
                     "Field Of Study",
@@ -1649,7 +4766,7 @@
                 "Florida State University",
                 [
                     "Degree Name",
-                    "Bachelor\u2019s Degree"
+                    "Bachelor’s Degree"
                 ],
                 [
                     "Field Of Study",
@@ -1775,6 +4892,127 @@
                 [
                     "Location",
                     "Tampa/St. Petersburg, Florida Area"
+                ]
+            ]
+        ]
+    },
+    "Lisha Zhou, M.S.": {
+        "status": "success",
+        "Education": [
+            [
+                "Fordham University Graduate School of Arts and Sciences",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer and Information Sciences, General"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2017"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Computational Neuroscience Lab"
+                ]
+            ],
+            [
+                "University of Waterloo",
+                [
+                    "Degree Name",
+                    "Master degree of Management Sciences"
+                ],
+                [
+                    "Field Of Study",
+                    " Management Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2014"
+                ],
+                [
+                    "More Info",
+                    "- Statistics"
+                ]
+            ],
+            [
+                "University of Waterloo",
+                [
+                    "Degree Name",
+                    "Bachelor of Environmental Sciences"
+                ],
+                [
+                    "Field Of Study",
+                    " Environmental Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2012"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "Univesity of Florida · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Gainesville, FL, United States"
+                ]
+            ],
+            [
+                "Fordham University",
+                [
+                    "Company Name",
+                    "2 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Lecturer"
+                ],
+                [
+                    "Location",
+                    "Jan 2018 - Jul 2019 · 1 yr 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Adjunct"
+                ]
+            ],
+            [
+                "Master Data Analyst",
+                [
+                    "Company Name",
+                    "Maple Leaf Foods Inc"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Dec 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "Mississauga"
+                ],
+                [
+                    "More Info",
+                    "- Data extraction from SAP by running the query on various selection criteria."
                 ]
             ]
         ]

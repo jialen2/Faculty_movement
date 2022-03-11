@@ -1,4 +1,109 @@
 {
+    "Ankit Chaudhary": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Assistant Professor of Cybersecurity",
+                [
+                    "Company Name",
+                    "University of Missouri System · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Missouri, United States"
+                ]
+            ],
+            [
+                "Assistant Professor of Cyber Security",
+                [
+                    "Company Name",
+                    "University of Missouri-Saint Louis"
+                ],
+                [
+                    "Dates Employed",
+                    "2018 - 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "Missouri, United States"
+                ]
+            ],
+            [
+                "Associate Editor",
+                [
+                    "Company Name",
+                    "Elsevier"
+                ],
+                [
+                    "Dates Employed",
+                    "2015 - 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "United States"
+                ]
+            ],
+            [
+                "Assistant Professor of Data Science",
+                [
+                    "Company Name",
+                    "Truman State University"
+                ],
+                [
+                    "Dates Employed",
+                    "2014 - 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Missouri, United States"
+                ]
+            ],
+            [
+                "Visiting Researcher -  Computer Engineering",
+                [
+                    "Company Name",
+                    "The University of Auckland"
+                ],
+                [
+                    "Dates Employed",
+                    "2012"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ],
+                [
+                    "Location",
+                    "New Zealand"
+                ],
+                [
+                    "More Info",
+                    "See all 6 experiences"
+                ]
+            ]
+        ]
+    },
     "Sharlee Climer": {
         "status": "success",
         "Education": [
@@ -426,7 +531,7 @@
                 "Associate Professor of Computer Science",
                 [
                     "Company Name",
-                    "University of Missouri-Saint Louis \u00b7 Full-time"
+                    "University of Missouri-Saint Louis · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -439,6 +544,96 @@
                 [
                     "Location",
                     "Greater St. Louis Area"
+                ]
+            ]
+        ]
+    },
+    "Nazire Koc": {
+        "status": "success",
+        "Education": [
+            [
+                "Southern Illinois University, Carbondale",
+                [
+                    "Degree Name",
+                    "M.Sc"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2007"
+                ]
+            ],
+            [
+                "Southern Illinois University, Carbondale",
+                [
+                    "Degree Name",
+                    "M.Sc"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 1998"
+                ]
+            ],
+            [
+                "Ege University",
+                [
+                    "Degree Name",
+                    "B.Sc"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1994"
+                ],
+                [
+                    "More Info",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Missouri - St. Louis",
+                [
+                    "Company Name",
+                    "18 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Teaching Professor"
+                ],
+                [
+                    "Location",
+                    "Aug 2015 - Present · 6 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Assistant Teaching Professor"
+                ]
+            ],
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "Souther Illinois University carbondale"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2009 - May 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
                 ]
             ]
         ]
@@ -490,7 +685,7 @@
                 "Adjunct Lecturer",
                 [
                     "Company Name",
-                    "Westminster College (MO) \u00b7 Part-time"
+                    "Westminster College (MO) · Part-time"
                 ],
                 [
                     "Dates Employed",
@@ -509,7 +704,7 @@
                 "Adjunct Lecturer",
                 [
                     "Company Name",
-                    "Advanced College of Engineering &amp; Management \u00b7 Part-time"
+                    "Advanced College of Engineering &amp; Management · Part-time"
                 ],
                 [
                     "Dates Employed",
@@ -521,14 +716,14 @@
                 ],
                 [
                     "Location",
-                    "Kathmandu, B\u0101gmat\u012b, Nepal"
+                    "Kathmandu, Bāgmatī, Nepal"
                 ]
             ],
             [
                 "Adjunct Lecturer",
                 [
                     "Company Name",
-                    "Kathford College \u00b7 Part-time"
+                    "Kathford College · Part-time"
                 ],
                 [
                     "Dates Employed",
@@ -540,14 +735,14 @@
                 ],
                 [
                     "Location",
-                    "Kathmandu, B\u0101gmat\u012b, Nepal"
+                    "Kathmandu, Bāgmatī, Nepal"
                 ]
             ],
             [
                 "Senior Software Engineer",
                 [
                     "Company Name",
-                    "LIS Nepal Pvt. Ltd. - A Yomari Company \u00b7 Full-time"
+                    "LIS Nepal Pvt. Ltd. - A Yomari Company · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -559,7 +754,7 @@
                 ],
                 [
                     "Location",
-                    "Kathmandu, B\u0101gmat\u012b, Nepal"
+                    "Kathmandu, Bāgmatī, Nepal"
                 ],
                 [
                     "More Info",
@@ -631,7 +826,7 @@
                 "Professor, Computer Science",
                 [
                     "Company Name",
-                    "University of Missouri-Saint Louis \u00b7 Full-time"
+                    "University of Missouri-Saint Louis · Full-time"
                 ],
                 [
                     "Dates Employed",

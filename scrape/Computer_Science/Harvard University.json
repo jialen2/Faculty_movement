@@ -49,7 +49,7 @@
                 "PHD",
                 [
                     "Company Name",
-                    "EPFL (\u00c9cole polytechnique f\u00e9d\u00e9rale de Lausanne)"
+                    "EPFL (École polytechnique fédérale de Lausanne)"
                 ],
                 [
                     "Dates Employed",
@@ -232,6 +232,278 @@
             ]
         ]
     },
+    "Boaz Barak": {
+        "status": "success",
+        "Education": [
+            [
+                "Tel Aviv University",
+                [
+                    "Degree Name",
+                    "Master of Business Administration - MBA"
+                ],
+                [
+                    "Field Of Study",
+                    " Entrepreneurship/Entrepreneurial Studies"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Oct 2019 - Jul 2021"
+                ]
+            ],
+            [
+                "Tel Aviv University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Neurobiology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Ph.D. in Neurobiology, the IDPN direct program for excellent students in Neurosciences under the supervision of Prof. Uri Ashery."
+                ]
+            ],
+            [
+                "Tel Aviv University",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Biology, General"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2007"
+                ],
+                [
+                    "More Info",
+                    "Grade: Magna Cum Laude"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Tel Aviv University"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2017 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Tel Aviv Area, Israel"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Massachusetts Institute of Technology (MIT)"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2012 - Oct 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Boston Area"
+                ],
+                [
+                    "More Info",
+                    "Study the neurobiology of social behavior abnormalities in Williams syndrome and autism spectrum disorder"
+                ]
+            ],
+            [
+                "Researcher",
+                [
+                    "Company Name",
+                    "National Institutes of Health"
+                ],
+                [
+                    "Dates Employed",
+                    "2011"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ],
+                [
+                    "Location",
+                    "Baltimore, Maryland Area"
+                ],
+                [
+                    "More Info",
+                    "Research assistant in the laboratory of Dr. Mark P. Mattson."
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "UC Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 - Nov 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Berkeley, California"
+                ],
+                [
+                    "More Info",
+                    "Research assistant in the laboratory of Prof. Mu-Ming Poo."
+                ]
+            ],
+            [
+                "Researcher",
+                [
+                    "Company Name",
+                    "Weizmann Institute of Science"
+                ],
+                [
+                    "Dates Employed",
+                    "2004 - 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Rehovot Area, Israel"
+                ],
+                [
+                    "More Info",
+                    "Research assistant in the laboratory of Dr. Abraham Zangen."
+                ]
+            ]
+        ]
+    },
+    "Yiling Chen": {
+        "status": "success",
+        "Education": [
+            [
+                "Penn State University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Sciences and Technology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2005"
+                ]
+            ],
+            [
+                "Tsinghua University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Finance"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 1999"
+                ]
+            ],
+            [
+                "Renmin University of China",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Commodity Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 1996"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Harvard University",
+                [
+                    "Company Name",
+                    "13 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Gordon McKay Professor of Computer Science"
+                ],
+                [
+                    "Location",
+                    "Jul 2015 - Present · 6 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Cambridge, MA"
+                ]
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "Yahoo! Research"
+                ],
+                [
+                    "Dates Employed",
+                    "2006 - Jun 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 6 mos"
+                ]
+            ],
+            [
+                "Graduate Student",
+                [
+                    "Company Name",
+                    "Penn State University"
+                ],
+                [
+                    "Dates Employed",
+                    "2001 - 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ]
+        ]
+    },
     "Finale Doshi-Velez": {
         "status": "success",
         "Education": [
@@ -363,7 +635,7 @@
                 ],
                 [
                     "More Info",
-                    "Founding Member of the first student-led cross-disciplinary lab of SRM University. Currently the lab has 160+ members researching in 6 groups \u2013 Artificial Intelligence and Machine Learning, IoT, Computational Biology, Electrical Systems, Mixed Reality(AR/VR) and Blockchains. Mentoring members of the Minsky Group that focuses on projects around Deep Learning and Computer Vision. The lab has received support from NVIDIA  and is the winner of 2018 QS Reimagine Education Award by the Wharton School of Business."
+                    "Founding Member of the first student-led cross-disciplinary lab of SRM University. Currently the lab has 160+ members researching in 6 groups – Artificial Intelligence and Machine Learning, IoT, Computational Biology, Electrical Systems, Mixed Reality(AR/VR) and Blockchains. Mentoring members of the Minsky Group that focuses on projects around Deep Learning and Computer Vision. The lab has received support from NVIDIA  and is the winner of 2018 QS Reimagine Education Award by the Wharton School of Business."
                 ]
             ],
             [
@@ -387,6 +659,130 @@
                 [
                     "More Info",
                     "Detect lane curves on urban roads using Fully Convolutional Networks. Worked on the project - Swarath"
+                ]
+            ]
+        ]
+    },
+    "Krzysztof Z Gajos": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Washington",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2008"
+                ]
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "M.Eng."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2000"
+                ]
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "B.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1999"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Gordon McKay Professor of Computer Science",
+                [
+                    "Company Name",
+                    "Harvard John A. Paulson School of Engineering and Applied Sciences"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, MA, USA"
+                ]
+            ],
+            [
+                "Harvard University",
+                [
+                    "Company Name",
+                    "7 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2013 - Jun 2016 · 3 yrs"
+                ],
+                [
+                    "More Info",
+                    "Assistant Professor"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "2008 - Nov 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 11 mos"
+                ]
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Company Name",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Scientist"
+                ],
+                [
+                    "Location",
+                    "Oct 2000 - Aug 2002 · 1 yr 11 mos"
+                ],
+                [
+                    "More Info",
+                    "2000 - 2002 · 2 yrs"
                 ]
             ]
         ]
@@ -503,7 +899,7 @@
                 ],
                 [
                     "More Info",
-                    "Selected as an \"Outstanding Teacher\" by the School of Computer Science and Engineering, based on students\u2019 faculty evaluation for the academic year 2018-2019."
+                    "Selected as an \"Outstanding Teacher\" by the School of Computer Science and Engineering, based on students’ faculty evaluation for the academic year 2018-2019."
                 ]
             ],
             [
@@ -555,6 +951,655 @@
                 [
                     "Employment Duration",
                     "13 yrs"
+                ]
+            ]
+        ]
+    },
+    "Lucas B Janson": {
+        "status": "success",
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Statistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2017"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Statistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2011"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics and Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2011"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2017 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 9 mos"
+                ]
+            ],
+            [
+                "PhD Candidate",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2012 - Jun 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 10 mos"
+                ]
+            ],
+            [
+                "Quantitative Analyst",
+                [
+                    "Company Name",
+                    "Goldman Sachs"
+                ],
+                [
+                    "Dates Employed",
+                    "2011 - 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Summer Analyst",
+                [
+                    "Company Name",
+                    "Goldman Sachs Asset Management"
+                ],
+                [
+                    "Dates Employed",
+                    "2010"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ]
+            ]
+        ]
+    },
+    "Sham Kakade": {
+        "status": "success",
+        "Education": [
+            [
+                "Caltech",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Physics"
+                ]
+            ],
+            [
+                "UCL",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Gatsby Computational Neuroscience Unit"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Harvard University",
+                [
+                    "Company Name",
+                    "3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Jan 2022 - Present · 3 mos"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2022"
+                ]
+            ]
+        ]
+    },
+    "Petros Koumoutsakos": {
+        "status": "success",
+        "Education": [
+            [
+                "Caltech",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Aeronautics and Applied Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1988 - 1992"
+                ]
+            ],
+            [
+                "Caltech",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Aeronautics/Aviation/Aerospace Science and Technology, General"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 - 1988"
+                ],
+                [
+                    "More Info",
+                    "Grade: A"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Post-doctoral Fellow"
+                ],
+                [
+                    "Field Of Study",
+                    " Center for Turbulence Research"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1996"
+                ],
+                [
+                    "More Info",
+                    "See all 5 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Harvard University",
+                [
+                    "Company Name",
+                    "Full-time · 1 yr 5 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Area Chair,  Applied Mathematics"
+                ],
+                [
+                    "Location",
+                    "Aug 2021 - Present · 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Cambridge, Massachusetts, United States"
+                ]
+            ],
+            [
+                "Faculty Director",
+                [
+                    "Company Name",
+                    "Institute for Applied Computational Science (IACS) at Harvard University · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 2 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, Massachusetts, United States"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "ETH Zurich"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1997 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "24 yrs 7 mos"
+                ]
+            ],
+            [
+                "International  Member",
+                [
+                    "Company Name",
+                    "National Academy of Engineering"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Washington Dc"
+                ]
+            ],
+            [
+                "Distinguished Affiliated Professor",
+                [
+                    "Company Name",
+                    "Technical University Munich"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2017 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "Munich Area, Germany"
+                ],
+                [
+                    "More Info",
+                    "The Technical University of Munich awards the honor of \"TUM Distinguished Affiliated Professor\" to exceptional personalities and researchers of international prominence, who have not only significantly shaped their own discipline, but have also inspired other areas within the scientific community."
+                ]
+            ]
+        ]
+    },
+    "Hima Lakkaraju": {
+        "status": "success",
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2018"
+                ]
+            ],
+            [
+                "Indian Institute of Science (IISc)",
+                [
+                    "Degree Name",
+                    "Master of Engineering"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science - Machine Learning &amp; Data Mining"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2010"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Harvard University",
+                [
+                    "Company Name",
+                    "3 yrs 5 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Assistant Professor"
+                ],
+                [
+                    "Location",
+                    "Jan 2020 - Present · 2 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Postdoctoral Research Fellow"
+                ]
+            ],
+            [
+                "Research Fellow",
+                [
+                    "Company Name",
+                    "Fiddler"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ]
+            ],
+            [
+                "Co-Founder",
+                [
+                    "Company Name",
+                    "Trustworthy ML Initiative (TrustML)"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 7 mos"
+                ]
+            ],
+            [
+                "PhD student",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Aug 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "6 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Palo Alto, California"
+                ]
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "Microsoft Research"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2017 - Jun 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ],
+                [
+                    "Location",
+                    "Redmond, Washington, United States"
+                ],
+                [
+                    "More Info",
+                    "See all 11 experiences"
+                ]
+            ]
+        ]
+    },
+    "Na Li": {
+        "status": "success",
+        "Education": [
+            [
+                "Caltech",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Control &amp; Dynamical Systems"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2013"
+                ]
+            ],
+            [
+                "University of California, Los Angeles",
+                [
+                    "Degree Name",
+                    "Visiting Student"
+                ],
+                [
+                    "Field Of Study",
+                    " Control"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2007"
+                ]
+            ],
+            [
+                "Zhejiang University",
+                [
+                    "Degree Name",
+                    "Bachelor"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2007"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Harvard University",
+                [
+                    "Company Name",
+                    "7 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Gordon McKay Professor of Electrical Engineering and Applied Mathematics"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Jul 2020 - Present · 1 yr 9 mos"
+                ]
+            ],
+            [
+                "Co-Founder and Scientific Advisor",
+                [
+                    "Company Name",
+                    "Singularity Energy Inc · Part-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 1 mo"
+                ]
+            ],
+            [
+                "Postdoctoral Associate",
+                [
+                    "Company Name",
+                    "Massachusetts Institute of Technology (MIT)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 - Jun 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ]
+        ]
+    },
+    "Xin Li": {
+        "status": "success",
+        "Education": [
+            [
+                "Penn State University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Materials Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2010"
+                ]
+            ],
+            [
+                "Nanjing University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2003"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Harvard University",
+                [
+                    "Company Name",
+                    "6 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2019 - Present · 2 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Energy storage materials, Strongly correlated / quantum materials, Artificial intelligence in materials science"
+                ]
+            ],
+            [
+                "Postdoc",
+                [
+                    "Company Name",
+                    "Massachusetts Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "2011 - 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                [
+                    "Location",
+                    "Li and Na ion batteries"
+                ]
+            ],
+            [
+                "PostDoc",
+                [
+                    "Company Name",
+                    "Caltech"
+                ],
+                [
+                    "Dates Employed",
+                    "2010 - 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Ultrafast SEM"
                 ]
             ]
         ]
@@ -630,6 +1675,65 @@
                 [
                     "Location",
                     "Expert witness in cases involving computer and communication technologies;  consultant for multiple companies."
+                ]
+            ]
+        ]
+    },
+    "Susan A Murphy": {
+        "status": "success",
+        "Education": [
+            [
+                "Harvard Business School",
+                [
+                    "Degree Name",
+                    "Advanced Management Program"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2009"
+                ],
+                [
+                    "More Info",
+                    "PMI"
+                ]
+            ],
+            [
+                "Ryerson University",
+                [
+                    "Degree Name",
+                    "Business Management"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1995"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "GCAN Insurance Co. logo",
+                [
+                    "Company Name",
+                    "Sr. VP Strategic Development"
+                ],
+                [
+                    "Dates Employed",
+                    "GCAN Insurance"
+                ]
+            ],
+            [
+                "SVP, Strategic Development",
+                [
+                    "Company Name",
+                    "GCAN Insurance"
+                ],
+                [
+                    "Dates Employed",
+                    "2009 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "13 yrs 3 mos"
                 ]
             ]
         ]
@@ -766,6 +1870,138 @@
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "Hanspeter Pfister": {
+        "status": "success",
+        "Education": [
+            [
+                "Stony Brook University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1996"
+                ],
+                [
+                    "More Info",
+                    "Thesis title: \"Architectures for Real-Time Volume Visualization\""
+                ]
+            ],
+            [
+                "Stony Brook University",
+                [
+                    "Degree Name",
+                    "M.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1994"
+                ]
+            ],
+            [
+                "ETH Zürich",
+                [
+                    "Degree Name",
+                    "M.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 - 1991"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Harvard School of Engineering and Applied Sciences",
+                [
+                    "Company Name",
+                    "14 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "An Wang Professor of Computer Science in the School of Engineering and Applied Sciences (SEAS)"
+                ],
+                [
+                    "Location",
+                    "Jul 2007 - Present · 14 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Professor in Computer Science focusing on research in visual computing at the intersection of visualization, computer graphics, and computer vision."
+                ]
+            ],
+            [
+                "Affiliate Faculty Member Harvard Center of Brain Science",
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Dates Employed",
+                    "2011 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "11 yrs 3 mos"
+                ]
+            ],
+            [
+                "Associate Director and Senior Research Scientist",
+                [
+                    "Company Name",
+                    "MERL"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1996 - Jul 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "MERL's mission is to be one of the world's premiere research laboratories, significantly advancing the frontiers of technology and making lasting impacts on the world, and within our areas of expertise, to be the prime source of new technology for Mitsubishi Electric."
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "ETH Zurich"
+                ],
+                [
+                    "Dates Employed",
+                    "1990 - 1991"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Developed ASIC for token-ring communication controller, 1.5 um CMOS, std. cells, 50,000 gates, 256 pins, tape-automated bonding (TAB)."
+                ],
+                [
+                    "More Info",
+                    "Developed  DRAM controller with internal cache and burst-mode support, 2 um CMOS, std. cells."
+                ]
+            ]
+        ]
     },
     "Ariel Procaccia": {
         "status": "fail",
@@ -961,6 +2197,438 @@
         "Education": [],
         "Experience": []
     },
+    "Yaron Singer": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Microsoft Research graduate fellow, Facebook graduate fellow"
+                ]
+            ],
+            [
+                "Tel Aviv University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 2003 - Jul 2007"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "CEO",
+                [
+                    "Company Name",
+                    "Robust Intelligence"
+                ],
+                [
+                    "Dates Employed",
+                    "2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 3 mos"
+                ]
+            ],
+            [
+                "Harvard University",
+                [
+                    "Company Name",
+                    "8 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Gordon McKay Professor of Computer Science and Applied Mathematics"
+                ],
+                [
+                    "Location",
+                    "Jan 2020 - Present · 2 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Associate Professor Of Computer Science"
+                ]
+            ],
+            [
+                "Postdoctoral Research Scientist",
+                [
+                    "Company Name",
+                    "Google"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2011 - Sep 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "Mountain View"
+                ],
+                [
+                    "More Info",
+                    "Algorithms research at Google Algorithms and Optimization team"
+                ]
+            ],
+            [
+                "Founder",
+                [
+                    "Company Name",
+                    "Bidwave"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2009 - Sep 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Berkeley, CA"
+                ],
+                [
+                    "More Info",
+                    "Bidwave is a social media promotions platform that uses machine learning to identify influential users."
+                ]
+            ]
+        ]
+    },
+    "Milind Tambe": {
+        "status": "success",
+        "Education": [
+            [
+                "Carnegie Mellon University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ],
+            [
+                "Birla Institute of Technology and Science, Pilani",
+                [
+                    "Degree Name",
+                    "Master of Science - MSc (Tech) Computer Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Gordon McKay Professor of Computer Science and Director CRCS Center",
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Dates Employed",
+                    "2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 3 mos"
+                ]
+            ],
+            [
+                "Director, \"AI for Social Good\"",
+                [
+                    "Company Name",
+                    "Google India"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Bengaluru Area, India"
+                ]
+            ],
+            [
+                "Co-Founder, Board Member",
+                [
+                    "Company Name",
+                    "Avata Intelligence (Acquired by Procore Technologies)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - Feb 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Advance Your Tomorrow"
+                ],
+                [
+                    "More Info",
+                    "with Data-Driven AI"
+                ]
+            ],
+            [
+                "University of Southern California",
+                [
+                    "Company Name",
+                    "26 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Founding Co-Director, CAIS Center for Artificial Intelligence in Society"
+                ],
+                [
+                    "Location",
+                    "Aug 2016 - Jul 2019 · 3 yrs"
+                ],
+                [
+                    "More Info",
+                    "The USC Center for Artificial Intelligence in Society is a joint venture between the Suzanne Dworak-Peck School of Social Work and the Viterbi School of Engineering.  Our mission is to conduct research in Artificial Intelligence to help solve the most difficult social problems facing our world.  When we consider what problems to tackle, we focus our efforts on low resource communities both here in the United States and globally.  We draw inspiration from the Grand Challenges of Social Work, the Grand Challenges of Engineering, and the United Nations Millennium Development Goals. Together, they outline a set of goals which if attained would greatly benefit the well-being of countless persons across the world.  Simultaneously, these set of goals provide important new directions for AI research. Based on these goals, our initial projects focus on ending homelessness, fighting substance abuse, preventing suicide,  improving access to health care, social responses to global climate change, reducing gang violence, and protecting wildlife."
+                ]
+            ]
+        ]
+    },
+    "Leslie G. Valiant": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Harvard University",
+                [
+                    "Company Name",
+                    "6 yrs 5 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Executive Assistant"
+                ],
+                [
+                    "Location",
+                    "Oct 2016 - Present · 5 yrs 6 mos"
+                ],
+                [
+                    "More Info",
+                    "Staff Assistant III"
+                ]
+            ],
+            [
+                "Certified Pharmacy Technician",
+                [
+                    "Company Name",
+                    "Inman Pharmacy, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2002 - Nov 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "13 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Cambridge, MA"
+                ]
+            ],
+            [
+                "Front Desk Agent",
+                [
+                    "Company Name",
+                    "Royal Sonesta Hotel"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2006 - Sep 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, MA"
+                ]
+            ]
+        ]
+    },
+    "Fernanda Viegas": {
+        "status": "success",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Media Arts and Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2005"
+                ]
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Media Arts and Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2000"
+                ]
+            ],
+            [
+                "The University of Kansas",
+                [
+                    "Degree Name",
+                    "BFA"
+                ],
+                [
+                    "Field Of Study",
+                    " Graphic Design and Art History"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 1997"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Harvard University · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2022 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, Massachusetts, United States"
+                ],
+                [
+                    "More Info",
+                    "Gordon McKay Professor of Computer Science at Harvard with an affiliation at the Harvard Business School. Sally Starling Seaver Professor at Harvard Radcliffe Institute. I co-lead the Insight and Interaction Lab with Prof. Martin Wattenberg."
+                ]
+            ],
+            [
+                "Google",
+                [
+                    "Company Name",
+                    "11 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Principal Scientist"
+                ],
+                [
+                    "Location",
+                    "Sep 2020 - Present · 1 yr 7 mos"
+                ],
+                [
+                    "More Info",
+                    "London, England, United Kingdom"
+                ]
+            ],
+            [
+                "Co-founder",
+                [
+                    "Company Name",
+                    "Flowing Media"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2010 - Aug 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "Information visualization studio with an emphasis on media and other consumer-facing industries."
+                ]
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "IBM"
+                ],
+                [
+                    "Dates Employed",
+                    "2005 - 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "MIT Media Lab"
+                ],
+                [
+                    "Dates Employed",
+                    "1998 - 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs"
+                ]
+            ]
+        ]
+    },
     "Martin Wattenberg": {
         "status": "success",
         "Education": [
@@ -1007,7 +2675,7 @@
                 "Professor",
                 [
                     "Company Name",
-                    "Harvard University \u00b7 Full-time"
+                    "Harvard University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1092,6 +2760,131 @@
             ]
         ]
     },
+    "Robert J. Wood": {
+        "status": "success",
+        "Education": [
+            [
+                "Florida International University - Herbert Wertheim College of Medicine",
+                [
+                    "Degree Name",
+                    "Doctor of Medicine - MD"
+                ],
+                [
+                    "Field Of Study",
+                    " Medicine"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2018 - 2023"
+                ]
+            ],
+            [
+                "Florida International University",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Chemistry"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2017"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.93/4.00"
+                ]
+            ],
+            [
+                "Florida International University",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Psychology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2017"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.93/4.00"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Florida International University",
+                [
+                    "Company Name",
+                    "4 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Chemistry Teaching Assistant"
+                ],
+                [
+                    "Location",
+                    "Aug 2014 - Dec 2017 · 3 yrs 5 mos"
+                ],
+                [
+                    "More Info",
+                    "Miami, Florida"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Development, Context, and Communication Research Group"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2014 - May 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Miami, Florida"
+                ],
+                [
+                    "More Info",
+                    "Worked as a Research Assistant under Dr. Lindsay Malloy. Studied the effects of rapport building on the false confession rates of adults and children's accounts of past events. Responsibilities included conducting research study sessions, inputting data, transcribing videos, and making inclusion decisions when necessary."
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Organic Polymer Synthesis Research Group"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - May 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Location",
+                    "Miami, Florida"
+                ],
+                [
+                    "More Info",
+                    "Worked as a Research Assistant under Dr. Joong-Ho Moon. Synthesized starting materials for graduate students and biodegradable conjugated polymers for drug delivery uses. Maintained cell cultures and performed gel electrophoresis and PCR experiments."
+                ]
+            ]
+        ]
+    },
     "Woodward Yang": {
         "status": "success",
         "Education": [
@@ -1146,7 +2939,7 @@
                 "Gordon McKay Professor of Electrical Engineering and Computer Science",
                 [
                     "Company Name",
-                    "Harvard University \u00b7 Full-time"
+                    "Harvard University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1247,6 +3040,50 @@
                 [
                     "More Info",
                     "Development, mass production, and sales of specialized memory products for mobile communications devices."
+                ]
+            ]
+        ]
+    },
+    "Todd Zickler": {
+        "status": "success",
+        "Education": [
+            [
+                "McGill University",
+                [
+                    "Degree Name",
+                    "B Eng"
+                ],
+                [
+                    "Field Of Study",
+                    " electrical engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 1996"
+                ]
+            ],
+            [
+                "Yale University"
+            ]
+        ],
+        "Experience": [
+            [
+                "Harvard University",
+                [
+                    "Company Name",
+                    "17 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2011 - Present · 10 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Research areas: computer vision, computational imaging, computational photography, learning, visual perception, computer graphics."
                 ]
             ]
         ]
@@ -1400,6 +3237,186 @@
             ]
         ]
     },
+    "Elena Leah Glassman": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Assistant Professor Of Computer Science",
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 7 mos"
+                ]
+            ],
+            [
+                "Postdoctoral Scholar",
+                [
+                    "Company Name",
+                    "UC Berkeley College of Engineering"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Aug 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ]
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Company Name",
+                    "12 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Cambridge, MA"
+                ],
+                [
+                    "Location",
+                    "PHD Student"
+                ],
+                [
+                    "More Info",
+                    "Feb 2010 - Aug 2016 · 6 yrs 7 mos"
+                ]
+            ]
+        ]
+    },
+    "Stratos Idreos": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Amsterdam",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Technical University of Crete"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Harvard John A. Paulson School of Engineering and Applied Sciences",
+                [
+                    "Company Name",
+                    "8 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor Of Computer Science"
+                ],
+                [
+                    "Location",
+                    "Jan 2019 - Present · 3 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Research and teaching on data-intensive problems and systems."
+                ]
+            ],
+            [
+                "Principal ΑΙ Software Architect",
+                [
+                    "Company Name",
+                    "SimpleBet"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2018 - Apr 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 6 mos"
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "EPFL"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2013 - Dec 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Lausanne, Switzerland"
+                ],
+                [
+                    "More Info",
+                    "Research on big data analytics: Robust query processing and hybrid database architectures."
+                ]
+            ],
+            [
+                "Senior Researcher",
+                [
+                    "Company Name",
+                    "Dutch National Research Center for Mathematics and Computer Science (CWI)"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2010 - Dec 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Driving fundamental research in the area of data management, particularly for big data; Hiring and advising PhD students; Acquiring and managing research funds."
+                ]
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "University of Trento"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "1 mo"
+                ],
+                [
+                    "Location",
+                    "Trento Area, Italy"
+                ],
+                [
+                    "More Info",
+                    "I worked on adaptive indexing for big time-series data."
+                ]
+            ]
+        ]
+    },
     "Boris Kozinsky": {
         "status": "success",
         "Education": [
@@ -1422,7 +3439,7 @@
                 "Massachusetts Institute of Technology",
                 [
                     "Degree Name",
-                    "Bachelor\u2019s Degree"
+                    "Bachelor’s Degree"
                 ],
                 [
                     "Field Of Study",
@@ -1437,7 +3454,7 @@
                 "Massachusetts Institute of Technology",
                 [
                     "Degree Name",
-                    "Bachelor\u2019s Degree"
+                    "Bachelor’s Degree"
                 ],
                 [
                     "Field Of Study",
@@ -1497,7 +3514,7 @@
                 ],
                 [
                     "More Info",
-                    "\u2022\tLeading the direction of atomistic materials simulation and discovery research effort"
+                    "•\tLeading the direction of atomistic materials simulation and discovery research effort"
                 ]
             ],
             [
@@ -1684,6 +3701,229 @@
             ]
         ]
     },
+    "Efthimios Kaxiras": {
+        "status": "success",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1987"
+                ]
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978 - 1981"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Harvard University",
+                [
+                    "Company Name",
+                    "30 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor of Physics and Applied Physics"
+                ],
+                [
+                    "Location",
+                    "Sep 1991 - Present · 30 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Professor"
+                ]
+            ]
+        ]
+    },
+    "Prineha Narang": {
+        "status": "success",
+        "Education": [
+            [
+                "Caltech",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Applied Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "May 2011 - Jun 2015"
+                ],
+                [
+                    "More Info",
+                    "Thesis with Prof. Harry A. Atwater and Prof. William A. Goddard, III."
+                ]
+            ],
+            [
+                "Caltech",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Applied Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2015"
+                ]
+            ],
+            [
+                "Drexel University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Materials Science - Nanomaterials &amp; Nanotech. Track"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2011"
+                ],
+                [
+                    "More Info",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Harvard University",
+                [
+                    "Company Name",
+                    "5 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Cambridge, Massachusetts, United States"
+                ],
+                [
+                    "Location",
+                    "Assistant Professor"
+                ],
+                [
+                    "More Info",
+                    "Full-time"
+                ]
+            ],
+            [
+                "Chief Technology Officer",
+                [
+                    "Company Name",
+                    "Aliro Quantum"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Massachusetts, United States"
+                ]
+            ],
+            [
+                "Research Scholar in Condensed Matter Theory",
+                [
+                    "Company Name",
+                    "Massachusetts Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2016 - Jul 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 7 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, Massachusetts, United States"
+                ],
+                [
+                    "More Info",
+                    "Research Scholar in Condensed Matter Theory at the MIT Department of Physics."
+                ]
+            ],
+            [
+                "Ph.D",
+                [
+                    "Company Name",
+                    "California Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2011 - Nov 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Caltech/ Applied Physics"
+                ],
+                [
+                    "More Info",
+                    "Prineha earned a M.S. and Ph.D. in Applied Physics from the California Institute of Technology (Caltech), as a National Science Foundation Graduate Fellow and Resnick Sustainability Institute Fellow, where her work focused on understanding light-matter interactions in areas ranging from quantum plasmonics to nitride optoelectronics."
+                ]
+            ],
+            [
+                "Research",
+                [
+                    "Company Name",
+                    "IBM T. J Watson Research Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2010 - Jul 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 5 mos"
+                ],
+                [
+                    "Location",
+                    "Yorktown Heights, NY"
+                ],
+                [
+                    "More Info",
+                    "See all 7 experiences"
+                ]
+            ]
+        ]
+    },
     "Sharad Ramanathan": {
         "status": "success",
         "Education": [],
@@ -1759,7 +3999,7 @@
                 "Lecturer",
                 [
                     "Company Name",
-                    "Harvard University \u00b7 Full-time"
+                    "Harvard University · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1817,7 +4057,7 @@
                 ],
                 [
                     "More Info",
-                    "Researched and developed approaches for natural language understanding / slot-filling and intent classification. That is, given a transcription (e.g., \u201cPlay David Bowie by Phish\u201d), correctly label each word as being an artist, track, album, etc, along with the overall intent of the speech.  My Bi-LSTM model showed significant performance gain over the original system."
+                    "Researched and developed approaches for natural language understanding / slot-filling and intent classification. That is, given a transcription (e.g., “Play David Bowie by Phish”), correctly label each word as being an artist, track, album, etc, along with the overall intent of the speech.  My Bi-LSTM model showed significant performance gain over the original system."
                 ]
             ],
             [
@@ -1877,6 +4117,115 @@
                 [
                     "Company Name",
                     "Harvard University"
+                ]
+            ]
+        ]
+    },
+    "James H. Waldo": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Philosophy"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1975 - 1980"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Harvard University",
+                [
+                    "Company Name",
+                    "26 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Chief Technology Officer"
+                ],
+                [
+                    "Location",
+                    "2011 - Present · 11 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Professor of the Practice of Computer Science"
+                ]
+            ],
+            [
+                "Senior Staff Engineer",
+                [
+                    "Company Name",
+                    "VMWare"
+                ],
+                [
+                    "Dates Employed",
+                    "2010 - 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ],
+            [
+                "Consulting Member of Technical Staff",
+                [
+                    "Company Name",
+                    "Sun Labs, Oracle"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2010 - 2010"
+                ]
+            ],
+            [
+                "Distinguished Engineer",
+                [
+                    "Company Name",
+                    "Sun Microsystems, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 1992 - 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "17 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "I have wandered in an out of Sun Labs, where my research has led to actual products (which causes me to wander out). In developing those products, I tend to find out new questions that I would like to answer (which causes me to wander back in)."
+                ],
+                [
+                    "More Info",
+                    "Most of my thinking for the past 15 years has been in the areas of distributed computing, object-oriented programming and design, and overall system design. Currently, I'm working on how to make a computer system last longer than any piece of that system, and allow the system to evolve over that time."
+                ]
+            ],
+            [
+                "Consulting Engineer",
+                [
+                    "Company Name",
+                    "Hewlett-Packard"
+                ],
+                [
+                    "Dates Employed",
+                    "1990 - 1992"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "See all 8 experiences"
                 ]
             ]
         ]
@@ -1973,6 +4322,173 @@
                 [
                     "Employment Duration",
                     "47 yrs 9 mos"
+                ]
+            ]
+        ]
+    },
+    "David J. Malan": {
+        "status": "success",
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2007"
+                ],
+                [
+                    "More Info",
+                    "Doctor of Philosophy (Ph.D.), Computer Science. Research in cybersecurity and digital forensics with focus on detection of patterns in large datasets. Dissertation on Rapid Detection of Botnets through Collaborative Networks of Peers. Advised by Dean Michael D. Smith."
+                ]
+            ],
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "S.M."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2004"
+                ],
+                [
+                    "More Info",
+                    "Master of Science (S.M.), Computer Science. Research in sensor networks for emergency medical care."
+                ]
+            ],
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "A.B."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1999"
+                ],
+                [
+                    "More Info",
+                    "Bachelor of Arts (A.B.), cum laude, Computer Science; 3.9 of 4.0 GPA in field. Related studies in government, micro- and macro-economics, finance, statistics and probability, multivariate calculus, and linear algebra."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Gordon McKay Professor of the Practice of Computer Science, Member of the Faculty of Education",
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Dates Employed",
+                    "2007 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "15 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, Massachusetts, USA"
+                ],
+                [
+                    "More Info",
+                    "Senior member of the Faculty of Arts and Sciences. Instructor for CS50, largest course at Harvard University with 763 students as of 2019 (+478% since 2006) and largest MOOC on edX with 2M+ registrants, also offered at Yale University. Manage staff of 80+. Oversee community of 150+ high schools teaching CS50 AP, College Board-endorsed adaptation of course. Instructor for CS50 for MBAs at Harvard Business School and CS50 for JDs at Harvard Law School, higher-level adaptations of course for professional audiences."
+                ]
+            ],
+            [
+                "Emergency Medical Technician (EMT)",
+                [
+                    "Company Name",
+                    "American Red Cross"
+                ],
+                [
+                    "Dates Employed",
+                    "2003 - 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "9 yrs"
+                ],
+                [
+                    "Location",
+                    "Emergency Medical Technician (EMT). Provided emergency medical care at local events."
+                ]
+            ],
+            [
+                "Chief Information Officer (CIO)",
+                [
+                    "Company Name",
+                    "Mindset Media"
+                ],
+                [
+                    "Dates Employed",
+                    "2008 - 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "Responsible for advertising network’s scalability, security, and capacity- planning.  Designed infrastructure for collection of massive datasets capable of 500M HTTP hits per day with peaks of 10K per second.  Acquired by Meebo, Inc."
+                ]
+            ],
+            [
+                "Founder",
+                [
+                    "Company Name",
+                    "Diskaster"
+                ],
+                [
+                    "Dates Employed",
+                    "2005 - 2008"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "Started company that offers professional recovery of data from hard drives and memory cards as well as forensic investigations for civil matters."
+                ]
+            ],
+            [
+                "Forensic Investigator",
+                [
+                    "Company Name",
+                    "Office of the Middlesex District Attorney, Special Investigations Division"
+                ],
+                [
+                    "Dates Employed",
+                    "2005"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ],
+                [
+                    "Location",
+                    "Assisted police and prosecutors with criminal investigations. Conducted forensic analyses of seized hardware. Recovered deleted and damaged data as evidence for trials. Drafted subpoenas."
+                ],
+                [
+                    "More Info",
+                    "See all 8 experiences"
                 ]
             ]
         ]
@@ -2158,6 +4674,153 @@
             ]
         ]
     },
+    "David Brooks": {
+        "status": "success",
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Master of Public Administration - MPA"
+                ],
+                [
+                    "Field Of Study",
+                    " Public Policy"
+                ]
+            ],
+            [
+                "The George Washington University School of Business",
+                [
+                    "Degree Name",
+                    "Master of Business Administration - MBA"
+                ],
+                [
+                    "Field Of Study",
+                    " International Finance"
+                ]
+            ],
+            [
+                "Virginia Commonwealth University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Business Administration and Management"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Export-Import Bank of the United States",
+                [
+                    "Company Name",
+                    "7 yrs 5 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Washington D.C. Metro Area"
+                ],
+                [
+                    "Location",
+                    "Director of Financial Management &amp; Reporting"
+                ],
+                [
+                    "More Info",
+                    "May 2015 - Sep 2019 · 4 yrs 5 mos"
+                ]
+            ],
+            [
+                "Deputy Finance Director",
+                [
+                    "Company Name",
+                    "Tim Kaine for U.S. Senate"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2011 - Feb 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Richmond, Virginia Area"
+                ],
+                [
+                    "More Info",
+                    "Worked behind the scenes laying groundwork for the entrance of the Governor into the race for U.S. Senate. This was accomplished through private meetings, negotiations, and political coordination. Served as one of the primary fund-raisers on Governor Tim Kaine’s U.S. Senate race in Q2, Q3, and Q4 (2011). Co-managed a staff of 9 in-state staffers, and 7 nationwide consultants that raised an unprecedented $2.35M in a 85 day span in the opening months of the campaign. Developed financial management and tracking systems that were within compliance with the Federal Election Commission and met internal policy and compliance guidelines. Responsible for CA, NV, VA, DC, FL, and TX fund-raising, development, and relationship maintenance"
+                ]
+            ],
+            [
+                "Finance Director",
+                [
+                    "Company Name",
+                    "Rory Reid for Governor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2010 - Feb 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 2 mos"
+                ],
+                [
+                    "Location",
+                    "Las Vegas, Nevada Area"
+                ],
+                [
+                    "More Info",
+                    "Developed a donor base and raised funds via events, sponsorships, and donor engagement that netted $8.5 million. Worked closely with government relations executives at Harrah’s, MGM, Station Casinos, and Boyd Gaming. Co-managed a staff of 28 consisting of fundraisers, digital marketers, and field staff based out of Nevada and Washington, D.C. Managed relationships with Union Labor Leaders to include the AFL/CIO, Laborers, SEIU, and AFSCME"
+                ]
+            ],
+            [
+                "Moving Virginia Forward PAC (Governor Tim Kaine)",
+                [
+                    "Company Name",
+                    "4 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Richmond, Virginia Area"
+                ],
+                [
+                    "Location",
+                    "Executive Director"
+                ],
+                [
+                    "More Info",
+                    "Jan 2009 - Jan 2010 · 1 yr 1 mo"
+                ]
+            ],
+            [
+                "Military Intelligence Analyst, Non-Commissioned Officer",
+                [
+                    "Company Name",
+                    "US Army"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2005 - Dec 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "National Ground Intelligence Center, Charlottesville, VA"
+                ],
+                [
+                    "More Info",
+                    "Primarily responsible for the analysis, processing and distribution of strategic"
+                ]
+            ]
+        ]
+    },
     "Gage Hills": {
         "status": "success",
         "Education": [
@@ -2212,7 +4875,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "Harvard John A. Paulson School of Engineering and Applied Sciences \u00b7 Full-time"
+                    "Harvard John A. Paulson School of Engineering and Applied Sciences · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -2227,7 +4890,7 @@
                 "Research Scientist",
                 [
                     "Company Name",
-                    "Massachusetts Institute of Technology \u00b7 Full-time"
+                    "Massachusetts Institute of Technology · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -2246,7 +4909,7 @@
                 "Visiting Scholar",
                 [
                     "Company Name",
-                    "imec \u00b7 Internship"
+                    "imec · Internship"
                 ],
                 [
                     "Dates Employed",
@@ -2265,7 +4928,7 @@
                 "Visiting Scholar",
                 [
                     "Company Name",
-                    "imec \u00b7 Internship"
+                    "imec · Internship"
                 ],
                 [
                     "Dates Employed",
@@ -2284,7 +4947,7 @@
                 "Digital Systems Design Engineer",
                 [
                     "Company Name",
-                    "Intel Labs \u00b7 Internship"
+                    "Intel Labs · Internship"
                 ],
                 [
                     "Dates Employed",
@@ -2301,6 +4964,263 @@
                 [
                     "More Info",
                     "See all 7 experiences"
+                ]
+            ]
+        ]
+    },
+    "H.T. Kung": {
+        "status": "success",
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Advisor: H.T. Kung"
+                ]
+            ],
+            [
+                "National Taiwan University",
+                [
+                    "Degree Name",
+                    "Master's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2009"
+                ],
+                [
+                    "More Info",
+                    "Advisor: Cheng-Mou Cheng and Bo-Yin Yang"
+                ]
+            ],
+            [
+                "National Cheng Kung University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2007"
+                ],
+                [
+                    "More Info",
+                    "Advisor: Yung-Nien Sun"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Software Engineer",
+                [
+                    "Company Name",
+                    "Google · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2017 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, Massachusetts, United States"
+                ],
+                [
+                    "More Info",
+                    "My main focus is on predictive modeling for video streaming infrastructure:"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "Harvard John A. Paulson School of Engineering and Applied Sciences · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2016 - Feb 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "10 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, Massachusetts, United States"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Intel Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 - Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Santa Clara"
+                ],
+                [
+                    "More Info",
+                    "- Collaborated with a GPU team on dynamic voltage/frequency scaling (DVFS)"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Intel Labs"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Sep 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Santa Clara"
+                ],
+                [
+                    "More Info",
+                    "- Improved depth imaging computation through compressive sensing"
+                ]
+            ],
+            [
+                "Academia Sinica logo",
+                [
+                    "Company Name",
+                    "Research Assistant"
+                ],
+                [
+                    "Dates Employed",
+                    "Academia Sinica"
+                ],
+                [
+                    "Location",
+                    "2009 - 2010 · 1 yr"
+                ],
+                [
+                    "More Info",
+                    "Taipei, Taiwan"
+                ]
+            ]
+        ]
+    },
+    "Gu-Yeon Wei": {
+        "status": "success",
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Jun 2001"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Aug 1997"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Jun 1994"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Harvard School of Engineering and Applied Sciences",
+                [
+                    "Company Name",
+                    "20 yrs 3 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Gordon McKay Professor of EE and CS"
+                ],
+                [
+                    "Location",
+                    "Jan 2002 - Present · 20 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Associate Dean for Academic Programs"
+                ]
+            ],
+            [
+                "Senior Design Engineer",
+                [
+                    "Company Name",
+                    "Accelerant Networks, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2000 - Dec 2001"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 4 mos"
                 ]
             ]
         ]

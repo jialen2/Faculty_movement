@@ -1,8 +1,188 @@
 {
+    "Sibel Adali": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Maryland",
+                [
+                    "Degree Name",
+                    "Ms/PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1996"
+                ]
+            ],
+            [
+                "Bilkent University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1991"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rensselaer Polytechnic Institute",
+                [
+                    "Company Name",
+                    "7 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Dean of Science for Research and Graduate Studies"
+                ],
+                [
+                    "Location",
+                    "Jul 2018 - Present · 3 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Troy, NY"
+                ]
+            ],
+            [
+                "Research Associate",
+                [
+                    "Company Name",
+                    "SRI International"
+                ],
+                [
+                    "Dates Employed",
+                    "1995 - 1996"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Menlo Park, CA"
+                ]
+            ]
+        ]
+    },
     "Elliot Anshelevich": {
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "Kristin Bennett": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "Phd"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Sciences"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1993"
+                ]
+            ],
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Sciences"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1988 - 1989"
+                ]
+            ],
+            [
+                "University of Puget Sound",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1985"
+                ],
+                [
+                    "More Info",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rensselaer Polytechnic Institute (RPI)",
+                [
+                    "Company Name",
+                    "29 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Director Institute for Data Exploration and Application"
+                ],
+                [
+                    "Location",
+                    "Jul 2015 - Present · 6 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Professor"
+                ]
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "University of Wisconsin"
+                ],
+                [
+                    "Dates Employed",
+                    "2008"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ]
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "Microsoft Research"
+                ],
+                [
+                    "Dates Employed",
+                    "1999 - 2000"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ]
+            ]
+        ]
     },
     "Selmer Bringsjord": {
         "status": "success",
@@ -88,7 +268,7 @@
                 "Senior Consultant",
                 [
                     "Company Name",
-                    "PwC \u00b7 Full-time"
+                    "PwC · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -107,7 +287,7 @@
                 "Research Assistant",
                 [
                     "Company Name",
-                    "Rensselaer Polytechnic Institute \u00b7 Full-time"
+                    "Rensselaer Polytechnic Institute · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -126,7 +306,7 @@
                 "Business Development",
                 [
                     "Company Name",
-                    "GE \u00b7 Internship"
+                    "GE · Internship"
                 ],
                 [
                     "Dates Employed",
@@ -139,6 +319,142 @@
                 [
                     "Location",
                     "Middle River, Maryland, United States"
+                ]
+            ]
+        ]
+    },
+    "Chris Bystroff": {
+        "status": "success",
+        "Education": [
+            [
+                "UC San Diego",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Chemistry"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1983 - 1988"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: I learned protein crystallography from the late Joe Kraut, speciallizing in conformational changes in dihydrofolate reductase."
+                ]
+            ],
+            [
+                "Carleton College",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Chemistry"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1979 - 1983"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Carleton Orchestra (Jeremy Balmuth, Leslie Dunner), Carleton Knights, Pro Musica. Cheney House."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rensselaer Polytechnic Institute",
+                [
+                    "Company Name",
+                    "22 yrs 11 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2015 - Present · 6 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Albany, New York Area"
+                ]
+            ],
+            [
+                "FUUSA",
+                [
+                    "Company Name",
+                    "6 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "member"
+                ],
+                [
+                    "Location",
+                    "2008 - 2014 · 6 yrs"
+                ]
+            ],
+            [
+                "Senior fellow",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 1995 - Mar 1999"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "After returning to the US, I worked as a senior fellow under David Baker on the protein structure prediction problem. We used bioinformatics to predict folding initiation sites in proteins. Some of my code found its way into Rosetta, a successful algorithm for predicting protein structure ab initio using the Monte Carlo fragment insertion approach."
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "Universidad Nacional de Ingenieria"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1992 - Jan 1995"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Enseñé clases en bioquímica y química orgánica, y manejé un proyecto para desarollar un proceso para la producción industial del ácido cítrico."
+                ]
+            ],
+            [
+                "Postodoctoral fellow",
+                [
+                    "Company Name",
+                    "UCSF"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 1989 - Jul 1992"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "As a newly minted doctorate in X-ray crystallography, I worked under Robert Fletterick on crystal structures of subtilisin, glycogen phosphorylase, interleukin-4, xylose isomerase, and ecotin. I developed new computational methods for model-free phase refinement."
                 ]
             ]
         ]
@@ -186,7 +502,7 @@
                 "Academic Advisor",
                 [
                     "Company Name",
-                    "BOSS AI \u00b7 Part-time"
+                    "BOSS AI · Part-time"
                 ],
                 [
                     "Dates Employed",
@@ -285,6 +601,360 @@
             ]
         ]
     },
+    "W. Randolph Franklin": {
+        "status": "success",
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "AM"
+                ],
+                [
+                    "Field Of Study",
+                    " PhD, Applied Math/Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1973 - 1978"
+                ]
+            ],
+            [
+                "University of Toronto - University College",
+                [
+                    "Degree Name",
+                    "B.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    " computer science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1969 - 1973"
+                ]
+            ],
+            [
+                "University of Toronto",
+                [
+                    "Degree Name",
+                    "1969 - 1973"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "See all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Rensselaer Polytechnic Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "1978 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "44 yrs 2 mos"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "RPI"
+                ],
+                [
+                    "Dates Employed",
+                    "1978 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "44 yrs 2 mos"
+                ]
+            ],
+            [
+                "member",
+                [
+                    "Company Name",
+                    "NSF GSTI"
+                ],
+                [
+                    "Dates Employed",
+                    "2009"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ]
+            ],
+            [
+                "PI",
+                [
+                    "Company Name",
+                    "DARPA"
+                ],
+                [
+                    "Dates Employed",
+                    "2005 - 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ],
+            [
+                "Program Director",
+                [
+                    "Company Name",
+                    "NSF"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2000 - Aug 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Numeric, Symbolic, and Geometric Computation Program"
+                ],
+                [
+                    "More Info",
+                    "See all 11 experiences"
+                ]
+            ]
+        ]
+    },
+    "Jianxi Gao": {
+        "status": "success",
+        "Education": [
+            [
+                "Shanghai Jiao Tong University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mechatronics, Robotics, and Automation Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2012"
+                ],
+                [
+                    "More Info",
+                    "I studied the collective behavior of self-propelled agent systems."
+                ]
+            ],
+            [
+                "Shanghai Jiao Tong University",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Mechatronics, Robotics, and Automation Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2009"
+                ],
+                [
+                    "More Info",
+                    "study complex systems"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Rensselaer Polytechnic Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "Troy, New York"
+                ]
+            ],
+            [
+                "Northeastern University",
+                [
+                    "Company Name",
+                    "9 yrs 4 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Greater Boston Area"
+                ],
+                [
+                    "Location",
+                    "Research Assistant Professor"
+                ],
+                [
+                    "More Info",
+                    "Jun 2016 - Present · 5 yrs 9 mos"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Boston University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2009 - May 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Boston Area"
+                ],
+                [
+                    "More Info",
+                    "Research on Network of networks"
+                ]
+            ]
+        ]
+    },
+    "Alex Gittens": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Assistant Professor of Computer Science",
+                [
+                    "Company Name",
+                    "Rensselaer Polytechnic Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2016 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Troy, NY"
+                ],
+                [
+                    "More Info",
+                    "Computational and statistical applications of probability and functional analysis. (starting Jan 2017)"
+                ]
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "International Computer Science Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2015 - Nov 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "Berkeley, CA"
+                ],
+                [
+                    "More Info",
+                    "Machine learning and scalable statistics research. Implementation of algorithmic primitives for linear algebra and machine learning on Apache Spark and Cray supercomputers."
+                ]
+            ],
+            [
+                "Research scientist",
+                [
+                    "Company Name",
+                    "eBay Research Labs"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2013 - Feb 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 5 mos"
+                ],
+                [
+                    "Location",
+                    "Machine learning research: learning to rank using randomized kernel methods, streaming feature selection, NLP research: word modeling and modeling compositional semantics with neural networks. In addition to scientific research, identify use cases for cutting edge ML and NLP techniques at eBay and Paypal."
+                ]
+            ],
+            [
+                "Graduate Student",
+                [
+                    "Company Name",
+                    "California Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "2006 - Jun 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 6 mos"
+                ],
+                [
+                    "Location",
+                    "Pasadena"
+                ],
+                [
+                    "More Info",
+                    "applied mathematics graduate student. TA and occasional course instructor."
+                ]
+            ],
+            [
+                "research intern",
+                [
+                    "Company Name",
+                    "eBay"
+                ],
+                [
+                    "Dates Employed",
+                    "2013"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ],
+                [
+                    "Location",
+                    "Advance the theory of randomized features for polynomial kernel methods, applied them to the learning to rank problem. Preliminary investigations on the applicability of randomized features to boolean kernels."
+                ],
+                [
+                    "More Info",
+                    "See all 6 experiences"
+                ]
+            ]
+        ]
+    },
     "Mark K Goldberg": {
         "status": "success",
         "Education": [],
@@ -293,7 +963,7 @@
                 "Professor",
                 [
                     "Company Name",
-                    "Rensselaer Polytechnic Institute \u00b7 Full-time"
+                    "Rensselaer Polytechnic Institute · Full-time"
                 ]
             ]
         ]
@@ -335,6 +1005,309 @@
                 [
                     "Location",
                     "CH-53K Airframe Design Lead"
+                ]
+            ]
+        ]
+    },
+    "Wayne Gray": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Psychology"
+                ]
+            ],
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Psychology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Activities and societies: Worked with Professor Leo Postman (PhD advisor) and Professor Eleanor Rosch."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rensselaer Polytechnic Institute",
+                [
+                    "Company Name",
+                    "20 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor of Cognitive Science"
+                ],
+                [
+                    "Location",
+                    "2002 - Present · 20 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Professor of Computer Science"
+                ]
+            ],
+            [
+                "Visiting Scholar",
+                [
+                    "Company Name",
+                    "Max-Planck-Institut für Bildungsforschung"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2012 - Jul 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "7 mos"
+                ],
+                [
+                    "Location",
+                    "Berlin, Germany"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1994 - Jun 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Fairfax, VA"
+                ],
+                [
+                    "More Info",
+                    "Was a founding co-Director of the ARCH Lab as well as the Head of the Human Factors and Applied Cognition Program. We had lots of very strong Masters students and our fair share of very good Doctoral students."
+                ]
+            ],
+            [
+                "NYNEX Science and Technology logo",
+                [
+                    "Company Name",
+                    "Member of Technical Staff"
+                ],
+                [
+                    "Dates Employed",
+                    "NYNEX Science and Technology"
+                ],
+                [
+                    "Location",
+                    "Jun 1988 - Aug 1994 · 6 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "White Plains, NY"
+                ]
+            ],
+            [
+                "Visiting Research Scholar",
+                [
+                    "Company Name",
+                    "Carnegie Mellon University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1985 - Aug 1986"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Pittsburgh, PA"
+                ],
+                [
+                    "More Info",
+                    "Hung out in John Anderson's lab. Got to know and meet two of the founders of Cognitive Science. Met many young faculty and younger grad students all of whom are now world famous. In general, this was   one of the two or three most intense intellectual experiences of my life."
+                ]
+            ]
+        ]
+    },
+    "James Hendler": {
+        "status": "success",
+        "Education": [
+            [
+                "Brown University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 - 1985"
+                ]
+            ],
+            [
+                "Southern Methodist University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Psychology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1982"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Hanging out in the rat lab."
+                ]
+            ],
+            [
+                "Yale University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1975 - 1978"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Advisory Board",
+                [
+                    "Company Name",
+                    "timbr.ai"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Israel"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Rensselaer Polytechnic Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "2007 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "15 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Head, Computer Science Department"
+                ],
+                [
+                    "More Info",
+                    "Rensselaer Polytechnic Institute (RPI)"
+                ]
+            ],
+            [
+                "Director",
+                [
+                    "Company Name",
+                    "RPI-IBM Artificial Intelligence Research Collaboration"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "Troy, NY"
+                ],
+                [
+                    "More Info",
+                    "Rensselaer-IBM AI Research Collaboration"
+                ]
+            ],
+            [
+                "Director",
+                [
+                    "Company Name",
+                    "Web Science Trust"
+                ],
+                [
+                    "Dates Employed",
+                    "2010 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "12 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "London, United Kingdom"
+                ],
+                [
+                    "More Info",
+                    "Welcome to the Web Science Trust"
+                ]
+            ],
+            [
+                "Advisory Board",
+                [
+                    "Company Name",
+                    "WPSemantix"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "1 mo"
+                ],
+                [
+                    "Location",
+                    "Israel"
+                ],
+                [
+                    "More Info",
+                    "timbr – the DBpedia SQL Semantic Knowledge Platform"
                 ]
             ]
         ]
@@ -521,6 +1494,116 @@
             ]
         ]
     },
+    "Konstantin Kuzmin": {
+        "status": "success",
+        "Education": [
+            [
+                "Rensselaer Polytechnic Institute",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - May 2017"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0"
+                ]
+            ],
+            [
+                "Rensselaer Polytechnic Institute",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2014"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rensselaer Polytechnic Institute",
+                [
+                    "Company Name",
+                    "9 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Troy, NY, USA"
+                ],
+                [
+                    "Location",
+                    "Lecturer"
+                ],
+                [
+                    "More Info",
+                    "Jan 2018 - Present · 4 yrs 2 mos"
+                ]
+            ],
+            [
+                "Research Scientist Intern",
+                [
+                    "Company Name",
+                    "IBM Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 - Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Melbourne, Australia"
+                ],
+                [
+                    "More Info",
+                    "Developed a Twitter messages location sampling and distance calculation code for the Australia Crisis Tracker project. In order to satisfy the requirement to process incoming messages at a rate of up to 10k tweets per second, this Java module was designed as a highly parallel multithreaded application for the cluster environment. The running time on a four node multicore cluster was reduced by a factor of 7 as compared to the sequential execution."
+                ]
+            ],
+            [
+                "Software engineer",
+                [
+                    "Company Name",
+                    "NITA, LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2001 - Aug 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "11 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "St.Petersburg, Russia"
+                ],
+                [
+                    "More Info",
+                    "Developed data exchange system for coupling airplane software model with existing hardware — computers and various cockpit controls and instruments. The software portion of the system was implemented in C++ language and Qt framework."
+                ]
+            ]
+        ]
+    },
     "Malik Magdon-Ismail": {
         "status": "fail",
         "Education": [],
@@ -668,10 +1751,497 @@
         "Education": [],
         "Experience": []
     },
+    "Uzma Mushtaque": {
+        "status": "success",
+        "Education": [
+            [
+                "Rensselaer Polytechnic Institute",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Industrial and Systems Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2017"
+                ],
+                [
+                    "More Info",
+                    "Decision Sciences and Engineering Systems"
+                ]
+            ],
+            [
+                "Penn State University",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Supply Chain Management"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2013"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.00/4.00"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lecturer| Data scientist",
+                [
+                    "Company Name",
+                    "Rensselaer Polytechnic Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "United States"
+                ],
+                [
+                    "More Info",
+                    "Teaching the following courses at the Computer Science Department:"
+                ]
+            ],
+            [
+                "Senior Data Scientist",
+                [
+                    "Company Name",
+                    "EY"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2018 - Jan 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ],
+                [
+                    "More Info",
+                    "Advanced Analytics, Data Science, Machine Learning, Risk Analytics"
+                ]
+            ],
+            [
+                "Instructor",
+                [
+                    "Company Name",
+                    "Rensselaer Polytechnic Institute at Hartford"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2018 - Aug 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Teaching Master's Level Course of : Discrete Event Simulation. This course wass specifically designed for working professionals."
+                ],
+                [
+                    "More Info",
+                    "Responsibilities include:"
+                ]
+            ],
+            [
+                "Rensselaer Polytechnic Institute",
+                [
+                    "Company Name",
+                    "4 yrs 11 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Postdoctoral Researcher"
+                ],
+                [
+                    "Location",
+                    "Jan 2018 - Jul 2018 · 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Project 1:"
+                ]
+            ],
+            [
+                "GENPACT",
+                [
+                    "Company Name",
+                    "2 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Lead Associate Consultant"
+                ],
+                [
+                    "Location",
+                    "Apr 2008 - Feb 2009 · 11 mos"
+                ],
+                [
+                    "More Info",
+                    "Identified customer as-is business processes."
+                ]
+            ]
+        ]
+    },
     "Sergei Nirenburg": {
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "Stacy Patterson": {
+        "status": "success",
+        "Education": [
+            [
+                "UC Santa Barbara",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2009"
+                ]
+            ],
+            [
+                "Rutgers University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rensselaer Polytechnic Institute",
+                [
+                    "Company Name",
+                    "8 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor Of Computer Science"
+                ],
+                [
+                    "Location",
+                    "Jul 2019 - Present · 2 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Troy, NY"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Technion, Dept of Electrical Engineering"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2011 - Aug 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 11 mos"
+                ]
+            ],
+            [
+                "Postdoctoral Scholar",
+                [
+                    "Company Name",
+                    "University of California Santa Barbara, Center for Control, Dynamical Systems and Computation"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2009 - Sep 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 4 mos"
+                ]
+            ]
+        ]
+    },
+    "Mark S. Shephard": {
+        "status": "success",
+        "Education": [
+            [
+                "Loughborough University",
+                [
+                    "Degree Name",
+                    "2.1"
+                ],
+                [
+                    "Field Of Study",
+                    " Business Admin &amp; French"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 - 1986"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Faraday Hall Chairman, Rugby League 1st XIII"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Global Account Manager",
+                [
+                    "Company Name",
+                    "Amazon Web Services (AWS)"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "London, United Kingdom"
+                ],
+                [
+                    "More Info",
+                    "Striving to be the Earth's most customer-centric company, innovating at an incredible click and always starting with the customer and working backwards to deliver amazing solutions."
+                ]
+            ],
+            [
+                "Director, Strategic Accounts",
+                [
+                    "Company Name",
+                    "Tanium"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2018 - Apr 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ],
+                [
+                    "Location",
+                    "London, United Kingdom"
+                ],
+                [
+                    "More Info",
+                    "Helping global customers to make sense of their infrastructure, keeping applications and services up to date and taking corrective action in the blink of an eye."
+                ]
+            ],
+            [
+                "Zscaler",
+                [
+                    "Company Name",
+                    "1 yr 4 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "London, United Kingdom"
+                ],
+                [
+                    "Location",
+                    "Regional Director UKI, Middle East and Africa"
+                ],
+                [
+                    "More Info",
+                    "May 2017 - Aug 2018 · 1 yr 4 mos"
+                ]
+            ],
+            [
+                "Sales Director",
+                [
+                    "Company Name",
+                    "Veritas Technologies LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2015 - Apr 2017"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Reading, United Kingdom"
+                ],
+                [
+                    "More Info",
+                    "Responsible for leading a team of experienced, senior salespeople in the new Veritas organisation effective from April 2015."
+                ]
+            ],
+            [
+                "Director - EMEA Enablement",
+                [
+                    "Company Name",
+                    "Symantec"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2013 - Apr 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 5 mos"
+                ],
+                [
+                    "Location",
+                    "London"
+                ],
+                [
+                    "More Info",
+                    "Managing an EMEA team that designs, develops and delivers training, selling processes and tools for Symantec's EMEA sales and marketing organization. Responsibilities include sales analytics and reporting, sales process design and optimization, curriculum development for all sales and marketing roles, selling tools, account planning and selling strategies, proposal management/RFPs, competitive intelligence, demo portal/sandbox development."
+                ]
+            ]
+        ]
+    },
+    "George M. Slota": {
+        "status": "success",
+        "Education": [
+            [
+                "Penn State University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2016"
+                ]
+            ],
+            [
+                "Penn State University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering, Math, Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2009"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Rensselaer Polytechnic Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 7 mos"
+                ]
+            ],
+            [
+                "Sandia National Laboratories",
+                [
+                    "Company Name",
+                    "8 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Visiting Scientist"
+                ],
+                [
+                    "Location",
+                    "Aug 2016 - Present · 5 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Computer Scientist"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "Penn State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Aug 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 1 mo"
+                ]
+            ],
+            [
+                "Computer Engineer",
+                [
+                    "Company Name",
+                    "Naval Undersea Warfare Center Newport"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2010 - Apr 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 3 mos"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "The Pennsylvania State University Applied Research Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2007 - Dec 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 8 mos"
+                ]
+            ]
+        ]
     },
     "Chuck Stewart": {
         "status": "success",
@@ -737,6 +2307,115 @@
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "Bolek Szymanski": {
+        "status": "success",
+        "Education": [
+            [
+                "Warsaw University of Technology",
+                [
+                    "Degree Name",
+                    "MSc"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1968 - 1973"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rensselaer Polytechnic Institute",
+                [
+                    "Company Name",
+                    "32 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor of Computer Science"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Sep 1989 - Present · 32 yrs 6 mos"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Rensselaer Polytechnic Institute (RPI)"
+                ],
+                [
+                    "Dates Employed",
+                    "1985 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "37 yrs 2 mos"
+                ]
+            ],
+            [
+                "Owner",
+                [
+                    "Company Name",
+                    "Optimaret, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2004 - Dec 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "11 yrs 7 mos"
+                ]
+            ],
+            [
+                "foreign member",
+                [
+                    "Company Name",
+                    "National Academy of Science, Poland"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2009 - Dec 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 1 mo"
+                ],
+                [
+                    "Location",
+                    "Elected foreign member of PAN at 113th General Assembly in December 2009"
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "1997 - 2002"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "See all 11 experiences"
+                ]
+            ]
+        ]
     },
     "Tomek Strzalkowski": {
         "status": "success",
@@ -828,6 +2507,169 @@
             ]
         ]
     },
+    "Wes Turner": {
+        "status": "success",
+        "Education": [
+            [
+                "Rensselaer Polytechnic Institute",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computation Linear Algebra"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 2001"
+                ],
+                [
+                    "More Info",
+                    "As a graduate student, I performed computational linear algebraic research to improve the efficiency of iterative solution strategies by preconditioning the source matrices. My algorithms were targeted towards systems arising from the Finite Element Method. As such they were implemented in parallel and needed to be aware of the data distribution topology in use by the system, they needed to be suitable for both symmetric and asymmetric linear systems, and they needed to minimize the communication burden of the computations."
+                ]
+            ],
+            [
+                "Penn State University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 - 1993"
+                ]
+            ],
+            [
+                "Rensselaer Polytechnic Institute",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1985"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rensselaer Polytechnic Institute",
+                [
+                    "Company Name",
+                    "5 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Senior Lecturer and Director of the Rensselaer Center for Open Source"
+                ],
+                [
+                    "Location",
+                    "Jun 2018 - Present · 3 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Troy, NY 12180"
+                ]
+            ],
+            [
+                "Computer Scientist",
+                [
+                    "Company Name",
+                    "Simquest"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2014 - Sep 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 10 mos"
+                ],
+                [
+                    "Location",
+                    "Boston, MA"
+                ],
+                [
+                    "More Info",
+                    "Computational mathematics support in the design and development of simulators for surgical procedures and wound analysis. PI on a USAISR supported effort to map burn extent and severity onto morphologically accurate patient avatars. The model based analysis allows for the determination of specific cutaneous functional units impacted by burns as well as an improved calculation of total body area impacted."
+                ]
+            ],
+            [
+                "Adjunct Instructor",
+                [
+                    "Company Name",
+                    "Rensselaer Polytechnic Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2016 - Jun 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "6 mos"
+                ],
+                [
+                    "Location",
+                    "Troy, NY"
+                ],
+                [
+                    "More Info",
+                    "Teaching CSCI1100, an introductory computer science course, to a class of 250 students. The course is a fast paced python based exploration of basic computer science concepts beginning with variables and statements and ending with classes and recursion. At the end, the students are expected to be prepared for Data Structures (CSCI1200). Course is co-taught with Professor Chuck Stewart."
+                ]
+            ],
+            [
+                "Adjunct Faculty",
+                [
+                    "Company Name",
+                    "The College of Saint Rose"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Dec 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "5 mos"
+                ],
+                [
+                    "Location",
+                    "Albany, New York Area"
+                ],
+                [
+                    "More Info",
+                    "Taught Introduction to Computer Science. Responsible for lectures and labs teaching approximately 25 non-majors an introductory course in computer science. Course covered the history of CS and basic hardware and introductory skills in HTML, Java, Excel"
+                ]
+            ],
+            [
+                "OSEHRA (Open Source Electronic Health Record Alliance)",
+                [
+                    "Company Name",
+                    "1 yr 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Director of Open Source Operations"
+                ],
+                [
+                    "Location",
+                    "Dec 2013 - Dec 2014 · 1 yr 1 mo"
+                ],
+                [
+                    "More Info",
+                    "While under contract to OSEHRA I am serving as Director of Open Source Operations overseeing the technical solutions and social aspects of open source community building and maintenance. My specific responsibilities revolve around ensuring that the OSEHRA community has the tools it needs to effectively evaluate the quality of code contributions; certify, perform intake on, and publicize code of sufficiently high quality; and provide tools and forums for continued code evaluation and development. I am specifically interested in automated testing, dashboarding and code coverage utilities."
+                ]
+            ]
+        ]
+    },
     "Carlos A Varela": {
         "status": "success",
         "Education": [],
@@ -836,7 +2678,7 @@
                 "Professor",
                 [
                     "Company Name",
-                    "Rensselaer Polytechnic Institute \u00b7 Full-time"
+                    "Rensselaer Polytechnic Institute · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -866,6 +2708,92 @@
                 [
                     "Employment Duration",
                     "44 yrs 6 mos"
+                ]
+            ]
+        ]
+    },
+    "Lirong Xia": {
+        "status": "success",
+        "Education": [
+            [
+                "Duke University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2011"
+                ]
+            ],
+            [
+                "Duke University",
+                [
+                    "Degree Name",
+                    "M.A."
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2010"
+                ]
+            ],
+            [
+                "Tsinghua University",
+                [
+                    "Degree Name",
+                    "B.E."
+                ],
+                [
+                    "Field Of Study",
+                    " CS"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2004"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Rensselaer Polytechnic Institute",
+                [
+                    "Company Name",
+                    "8 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Professor of Computer Science at Rensselaer Polytechnic Institute"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Jan 2019 - Present · 3 yrs 2 mos"
+                ]
+            ],
+            [
+                "Postdoc (CIFellow)",
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Dates Employed",
+                    "2011 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "11 yrs 2 mos"
                 ]
             ]
         ]
@@ -914,6 +2842,81 @@
                 [
                     "Location",
                     "NY, USA"
+                ]
+            ]
+        ]
+    },
+    "Mohammed J. Zaki": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Rochester",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 1998"
+                ]
+            ],
+            [
+                "Angelo State University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Math"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1993"
+                ],
+                [
+                    "More Info",
+                    "Army Public School"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "RPI",
+                [
+                    "Company Name",
+                    "23 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Aug 1998 - Present · 23 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Associate Professor"
+                ]
+            ],
+            [
+                "Principal Scientist",
+                [
+                    "Company Name",
+                    "Qatar Computing Research Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Aug 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 3 mos"
                 ]
             ]
         ]

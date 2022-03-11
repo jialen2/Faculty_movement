@@ -1,4 +1,562 @@
 {
+    "Richard Billo": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Director of the Kummer Institute Center for Advanced Manufacturing",
+                [
+                    "Company Name",
+                    "Missouri University of Science and Technology · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2022 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ],
+                [
+                    "Location",
+                    "Rolla, MO"
+                ]
+            ],
+            [
+                "University of Notre Dame",
+                [
+                    "Company Name",
+                    "Full-time · 8 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor Emeritus of Computer Science and Engineering"
+                ],
+                [
+                    "Location",
+                    "Jul 2021 - Present · 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Associate Vice President for Research"
+                ]
+            ],
+            [
+                "The University of Texas at Arlington",
+                [
+                    "Company Name",
+                    "8 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Interim Associate Vice President for Research"
+                ],
+                [
+                    "Location",
+                    "Full-time"
+                ],
+                [
+                    "More Info",
+                    "Oct 2011 - Aug 2013 · 1 yr 11 mos"
+                ]
+            ],
+            [
+                "Department Head of Industrial and Manufacturing Engineering",
+                [
+                    "Company Name",
+                    "Oregon State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2000 - Jun 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ]
+            ],
+            [
+                "Assistant and Associate Professor",
+                [
+                    "Company Name",
+                    "University of Pittsburgh"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1991 - Jun 2000"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 11 mos"
+                ]
+            ]
+        ]
+    },
+    "Kevin Bowyer": {
+        "status": "success",
+        "Education": [
+            [
+                "Duke University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Notre Dame",
+                [
+                    "Company Name",
+                    "20 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Schubmehl-Prein Family Professor, Department of Computer Science &amp; Engineering"
+                ],
+                [
+                    "Location",
+                    "Jul 2001 - Present · 20 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "South Bend, Indiana Area"
+                ]
+            ],
+            [
+                "Advisor",
+                [
+                    "Company Name",
+                    "Yombu"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2017 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Washington D.C. Metro Area"
+                ]
+            ],
+            [
+                "Advisory Board Member",
+                [
+                    "Company Name",
+                    "FaceTec, Inc. - ZoOmLogin.com"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2017 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs 10 mos"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of South Florida"
+                ],
+                [
+                    "Dates Employed",
+                    "1984 - 2001"
+                ],
+                [
+                    "Employment Duration",
+                    "17 yrs"
+                ],
+                [
+                    "Location",
+                    "Department of Computer Science and Engineering, University of South Florida"
+                ]
+            ]
+        ]
+    },
+    "Jay Brockman": {
+        "status": "success",
+        "Education": [
+            [
+                "Carnegie Mellon University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1992"
+                ]
+            ],
+            [
+                "Brown University",
+                [
+                    "Degree Name",
+                    "Sc.B."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978 - 1982"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Director",
+                [
+                    "Company Name",
+                    "Center for Civic Innovation at Notre Dame · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 7 mos"
+                ],
+                [
+                    "Location",
+                    "South Bend, Indiana, United States"
+                ]
+            ],
+            [
+                "EMU Solutions, Inc. logo",
+                [
+                    "Company Name",
+                    "Cofounder"
+                ],
+                [
+                    "Dates Employed",
+                    "EMU Solutions, Inc."
+                ],
+                [
+                    "Location",
+                    "Nov 2009 - Present · 12 yrs 4 mos"
+                ],
+                [
+                    "More Info",
+                    "United States"
+                ]
+            ],
+            [
+                "Associate Dean of Engineering",
+                [
+                    "Company Name",
+                    "University of Notre Dame"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1992 - Aug 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "26 yrs 1 mo"
+                ],
+                [
+                    "Location",
+                    "Associate Dean of Engineering, Educational Programs"
+                ],
+                [
+                    "More Info",
+                    "Professor of the Practice of Engineering"
+                ]
+            ],
+            [
+                "Visiting Faculty Associate",
+                [
+                    "Company Name",
+                    "Caltech/JPL"
+                ],
+                [
+                    "Dates Employed",
+                    "2003 - 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ]
+            ],
+            [
+                "Product Engineer",
+                [
+                    "Company Name",
+                    "Intel"
+                ],
+                [
+                    "Dates Employed",
+                    "1982 - 1986"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ]
+            ]
+        ]
+    },
+    "Ramzi Bualuan": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Notre Dame",
+                [
+                    "Degree Name",
+                    "1983 - 1985"
+                ]
+            ],
+            [
+                "American University of Beirut",
+                [
+                    "Degree Name",
+                    "IC"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Notre Dame",
+                [
+                    "Company Name",
+                    "31 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Dir. of Undergraduate Studies, CSE Dept"
+                ],
+                [
+                    "Location",
+                    "1995 - Present · 27 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Professor"
+                ]
+            ]
+        ]
+    },
+    "Peter Bui": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Southern California",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2022 - 2024"
+                ]
+            ],
+            [
+                "University at Buffalo",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Aerospace Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2017 - 2021"
+                ]
+            ],
+            [
+                "Swansea University",
+                [
+                    "Degree Name",
+                    "Exchange"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2020"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Incoming Software Engineering Intern",
+                [
+                    "Company Name",
+                    "MIT Lincoln Laboratory · Internship"
+                ],
+                [
+                    "Dates Employed",
+                    "2022 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, Massachusetts, United States"
+                ],
+                [
+                    "More Info",
+                    "Advanced Sensors and Testbeds"
+                ]
+            ],
+            [
+                "Mentorship",
+                [
+                    "Company Name",
+                    "Google"
+                ],
+                [
+                    "Dates Employed",
+                    "2022 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ],
+                [
+                    "Location",
+                    "Machine Intelligence (CSRMP Program)"
+                ]
+            ],
+            [
+                "Electrical Engineering Intern",
+                [
+                    "Company Name",
+                    "eSimplicity · Internship"
+                ],
+                [
+                    "Dates Employed",
+                    "2020"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ],
+                [
+                    "Location",
+                    "Washington DC-Baltimore Area"
+                ],
+                [
+                    "More Info",
+                    "Radio-Frequency and Spectrum"
+                ]
+            ]
+        ]
+    },
+    "Nitesh Chawla": {
+        "status": "success",
+        "Education": [
+            [
+                "University of South Florida",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2002"
+                ],
+                [
+                    "More Info",
+                    "University of Pune"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Notre Dame",
+                [
+                    "Company Name",
+                    "17 yrs 6 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Frank M. Freimann Professor of Computer Science and Engineering"
+                ],
+                [
+                    "Location",
+                    "Mar 2016 - Present · 6 yrs"
+                ],
+                [
+                    "More Info",
+                    "Founding Director, Lucy Family Institute for Data and Society"
+                ]
+            ],
+            [
+                "Founder",
+                [
+                    "Company Name",
+                    "Aunalytics"
+                ],
+                [
+                    "Dates Employed",
+                    "2012 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 2 mos"
+                ]
+            ],
+            [
+                "ND-GAIN Index Lead",
+                [
+                    "Company Name",
+                    "Notre Dame Global Adaptation Index"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2013 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "University of Notre Dame"
+                ]
+            ],
+            [
+                "Senior Risk Modeling Manager",
+                [
+                    "Company Name",
+                    "Bank Commerce"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2002 - Sep 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 2 mos"
+                ]
+            ]
+        ]
+    },
     "Danny Chen": {
         "status": "success",
         "Education": [],
@@ -8,6 +566,111 @@
                 [
                     "Company Name",
                     "University of Notre Dame"
+                ]
+            ]
+        ]
+    },
+    "David Chiang": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer and Information Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2004"
+                ]
+            ],
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "AB/SM"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 1997"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of Notre Dame"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "7 yrs 7 mos"
+                ]
+            ],
+            [
+                "University of Southern California",
+                [
+                    "Company Name",
+                    "15 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Adjunct Associate Professor"
+                ],
+                [
+                    "Location",
+                    "Aug 2014 - Present · 7 yrs 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Research Assistant Professor"
+                ]
+            ],
+            [
+                "Information Sciences Institute",
+                [
+                    "Company Name",
+                    "8 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Project Leader"
+                ],
+                [
+                    "Location",
+                    "Jan 2013 - Jul 2014 · 1 yr 7 mos"
+                ],
+                [
+                    "More Info",
+                    "Computer Scientist"
+                ]
+            ],
+            [
+                "Postdoctoral Research Associate",
+                [
+                    "Company Name",
+                    "University of Maryland"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2004 - Dec 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 5 mos"
                 ]
             ]
         ]
@@ -71,6 +734,177 @@
                 [
                     "Employment Duration",
                     "19 yrs 7 mos"
+                ]
+            ]
+        ]
+    },
+    "Adam Czajka": {
+        "status": "success",
+        "Education": [
+            [
+                "Warsaw University of Technology",
+                [
+                    "Degree Name",
+                    "D.Sc. (“habilitation”)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2018"
+                ],
+                [
+                    "More Info",
+                    "Scientific accomplishment: \"Making Iris Recognition More Reliable\""
+                ]
+            ],
+            [
+                "Warsaw University of Technology",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Control and Robotics, specialization: Biometrics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2005"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: IEEE, European Projects: QoSIPS (FP5), BioSec (FP6)"
+                ]
+            ],
+            [
+                "Warsaw University of Technology",
+                [
+                    "Degree Name",
+                    "M.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    " Control and Robotics, specialization: Computer Control Systems"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 2000"
+                ],
+                [
+                    "More Info",
+                    "Thesis title: Recognition of Human Signatures Dynamics. Graduated with Honors."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "University of Notre Dame",
+                [
+                    "Company Name",
+                    "6 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "South Bend, Indiana Area"
+                ],
+                [
+                    "Location",
+                    "Assistant Professor"
+                ],
+                [
+                    "More Info",
+                    "Aug 2018 - Present · 3 yrs 7 mos"
+                ]
+            ],
+            [
+                "ESTIMA COACHING LTD logo",
+                [
+                    "Company Name",
+                    "Co-Owner"
+                ],
+                [
+                    "Dates Employed",
+                    "Estima Coaching Ltd"
+                ],
+                [
+                    "Employment Duration",
+                    "Self-employed"
+                ],
+                [
+                    "Location",
+                    "Dec 2015 - Present · 6 yrs 3 mos"
+                ],
+                [
+                    "More Info",
+                    "Nottingham, United Kingdom"
+                ]
+            ],
+            [
+                "Technical Advisory Board, Member",
+                [
+                    "Company Name",
+                    "Asignio · Contract"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ],
+                [
+                    "More Info",
+                    "Asignio delivers biometric-based solutions to authorize transactions. I have a pleasure to serve on the Asignio’s Technical Advisory Board."
+                ]
+            ],
+            [
+                "IEEE Biometrics Council",
+                [
+                    "Company Name",
+                    "5 yrs"
+                ],
+                [
+                    "Dates Employed",
+                    "Vice President (Finance)"
+                ],
+                [
+                    "Location",
+                    "Contract"
+                ],
+                [
+                    "More Info",
+                    "Nov 2019 - Present · 2 yrs 4 mos"
+                ]
+            ],
+            [
+                "Member, EAB Training Committee",
+                [
+                    "Company Name",
+                    "European Association for Biometrics"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 11 mos"
+                ],
+                [
+                    "Location",
+                    "Netherlands"
+                ],
+                [
+                    "More Info",
+                    "See all 22 experiences"
                 ]
             ]
         ]

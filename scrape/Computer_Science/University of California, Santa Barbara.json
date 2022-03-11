@@ -207,6 +207,361 @@
             ]
         ]
     },
+    "Jonathan Balkind": {
+        "status": "success",
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2020"
+                ]
+            ],
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2015"
+                ]
+            ],
+            [
+                "University of Glasgow",
+                [
+                    "Degree Name",
+                    "MSci"
+                ],
+                [
+                    "Field Of Study",
+                    " Computing Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2013"
+                ],
+                [
+                    "More Info",
+                    "Grade: Honours of the First Class"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "UC Santa Barbara · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 6 mos"
+                ],
+                [
+                    "Location",
+                    "Santa Barbara, California, United States"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 - Sep 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, United Kingdom"
+                ]
+            ],
+            [
+                "University of Glasgow",
+                [
+                    "Company Name",
+                    "2 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Assistant (Summer Vacation Scholarship)"
+                ],
+                [
+                    "Location",
+                    "Jun 2013 - Sep 2013 · 4 mos"
+                ],
+                [
+                    "More Info",
+                    "Student Tutor/Demonstrator"
+                ]
+            ],
+            [
+                "Summer Placement - Processor Division",
+                [
+                    "Company Name",
+                    "ARM"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 - Sep 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "Cambridge, United Kingdom"
+                ],
+                [
+                    "More Info",
+                    "I worked on the design of a new programmable hardware component to perform memory testing on the on-chip memories of a micro-controller. This involved using Verilog HDL to design the hardware based on a provided specification, and required rigorous testing and validation."
+                ]
+            ],
+            [
+                "Assistant Engineer (Intern) - Telecommunications Systems Business",
+                [
+                    "Company Name",
+                    "Samsung Electronics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2011 - Sep 2011"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Suwon, Gyeonggi-do, Korea"
+                ],
+                [
+                    "More Info",
+                    "Undertook a 14 week internship within the LTE Software Design Lab"
+                ]
+            ]
+        ]
+    },
+    "Elizabeth M. Belding": {
+        "status": "success",
+        "Education": [
+            [
+                "UC Santa Barbara",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2000"
+                ],
+                [
+                    "More Info",
+                    "Emphasis on mobile and wireless networking"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "UC Santa Barbara",
+                [
+                    "Company Name",
+                    "21 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Associate Dean - Diversity, Equity and Inclusion, College of Engineering"
+                ],
+                [
+                    "Location",
+                    "Jul 2019 - Present · 2 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Professor"
+                ]
+            ]
+        ]
+    },
+    "Michael Beyeler": {
+        "status": "success",
+        "Education": [
+            [
+                "UC Irvine",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Grade: UC GPA 3.96"
+                ]
+            ],
+            [
+                "ETH Zürich",
+                [
+                    "Degree Name",
+                    "Master of Science (M.Sc.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Biomedical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2011"
+                ]
+            ],
+            [
+                "ETH Zürich",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.Sc.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering and Information Technology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2009"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "UC Santa Barbara · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2019 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs 4 mos"
+                ],
+                [
+                    "Location",
+                    "Santa Barbara, California Area"
+                ]
+            ],
+            [
+                "Moore/Sloan/WRF Innovation Postdoctoral Fellow in Neuroengineering and Data Science",
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Oct 2019"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 3 mos"
+                ]
+            ],
+            [
+                "University of California, Irvine",
+                [
+                    "Company Name",
+                    "4 yrs 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "SSRN Junior Specialist"
+                ],
+                [
+                    "Location",
+                    "Jun 2016 - Jul 2016 · 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Graduate Student Researcher"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "IBM Research - Almaden"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 - Aug 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "3 mos"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Fraunhofer IPA"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Sep 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Stuttgart Area, Germany"
+                ],
+                [
+                    "More Info",
+                    "See all 10 experiences"
+                ]
+            ]
+        ]
+    },
     "Tevfik Bultan": {
         "status": "success",
         "Education": [
@@ -241,7 +596,7 @@
                 ]
             ],
             [
-                "Orta Do\u011fu Teknik \u00dcniversitesi / Middle East Technical University",
+                "Orta Doğu Teknik Üniversitesi / Middle East Technical University",
                 [
                     "Degree Name",
                     "Bachelor of Science - BS"
@@ -270,6 +625,157 @@
                 [
                     "Employment Duration",
                     "23 yrs 6 mos"
+                ]
+            ]
+        ]
+    },
+    "Shiyu Chang": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2016"
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Master's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2013"
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Bachelor's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2011"
+                ],
+                [
+                    "More Info",
+                    "• Bronze Tablet Award"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "UC Santa Barbara"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2021 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 mos"
+                ]
+            ],
+            [
+                "IBM",
+                [
+                    "Company Name",
+                    "4 yrs 10 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Research Staff Member"
+                ],
+                [
+                    "Location",
+                    "Oct 2017 - Jun 2021 · 3 yrs 9 mos"
+                ],
+                [
+                    "More Info",
+                    "Cambridge, MA"
+                ]
+            ],
+            [
+                "Algorithmic Trader Intern",
+                [
+                    "Company Name",
+                    "Jump Trading LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2016 - Jun 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "2 mos"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area, IL"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Yahoo Labs"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2015 - Aug 2015"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Sunnyvale, CA"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "IBM TJ Watson Research Center"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2014 - Aug 2014"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Yorktown Heights, NY"
+                ],
+                [
+                    "More Info",
+                    "See all 10 experiences"
                 ]
             ]
         ]
@@ -498,7 +1004,7 @@
                 "Professor",
                 [
                     "Company Name",
-                    "UC Santa Barbara \u00b7 Full-time"
+                    "UC Santa Barbara · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -541,7 +1047,7 @@
                 "William &amp; Mary",
                 [
                     "Degree Name",
-                    "Master\u2019s Degree"
+                    "Master’s Degree"
                 ],
                 [
                     "Field Of Study",
@@ -560,7 +1066,7 @@
                 "University of Science and Technology of China",
                 [
                     "Degree Name",
-                    "Bachelor\u2019s Degree"
+                    "Bachelor’s Degree"
                 ],
                 [
                     "Field Of Study",
@@ -625,10 +1131,96 @@
             ]
         ]
     },
-    "\u00d6mer E\u011fecio\u011flu": {
+    "Ömer Eğecioğlu": {
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "Amr El Abbadi": {
+        "status": "success",
+        "Education": [
+            [
+                "Cornell University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1987"
+                ]
+            ],
+            [
+                "Alexandria University",
+                [
+                    "Degree Name",
+                    "B. Eng."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Automatic Control"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1975 - 1980"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "UCSB",
+                [
+                    "Company Name",
+                    "35 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Sep 1987 - Present · 34 yrs 6 mos"
+                ],
+                [
+                    "More Info",
+                    "1987 - Present · 35 yrs 2 mos"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Department of Computer Science, University of California, Santa Barbara"
+                ],
+                [
+                    "Dates Employed",
+                    "1987 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "35 yrs 2 mos"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "UCSB College of Engineering"
+                ],
+                [
+                    "Dates Employed",
+                    "1987 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "35 yrs 2 mos"
+                ]
+            ]
+        ]
     },
     "Yu Feng": {
         "status": "success",
@@ -740,7 +1332,7 @@
                 "Professor - Computer Science, Mechanical Engineering, Mathematics",
                 [
                     "Company Name",
-                    "UCSB \u00b7 Full-time"
+                    "UCSB · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -970,17 +1562,157 @@
             ]
         ]
     },
+    "Trinabh Gupta": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of Texas at Austin",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2017"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Delhi",
+                [
+                    "Degree Name",
+                    "B.Tech"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2009"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor Of Computer Science",
+                [
+                    "Company Name",
+                    "UC Santa Barbara · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2018 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 5 mos"
+                ],
+                [
+                    "Location",
+                    "Santa Barbara, California Area"
+                ],
+                [
+                    "More Info",
+                    "Research area: Computer systems, security, and privacy"
+                ]
+            ],
+            [
+                "Computer security, privacy consultant",
+                [
+                    "Company Name",
+                    "VERA Security · Part-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2020 - Mar 2021"
+                ],
+                [
+                    "Employment Duration",
+                    "4 mos"
+                ],
+                [
+                    "Location",
+                    "Palo Alto, California, United States"
+                ]
+            ],
+            [
+                "Data Secrets",
+                [
+                    "Company Name",
+                    "1 yr 9 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Palo Alto, California, United States"
+                ],
+                [
+                    "Location",
+                    "Advisor"
+                ],
+                [
+                    "More Info",
+                    "Contract"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2017 - Aug 2018"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Redmond, WA"
+                ],
+                [
+                    "More Info",
+                    "Security and Privacy Research Group within Microsoft Research"
+                ]
+            ],
+            [
+                "Department of Computer Science, The University of Texas at Austin",
+                [
+                    "Company Name",
+                    "6 yrs 1 mo"
+                ],
+                [
+                    "Dates Employed",
+                    "Austin, Texas Area"
+                ],
+                [
+                    "Location",
+                    "Graduate Research Assistant"
+                ],
+                [
+                    "More Info",
+                    "Jan 2012 - Aug 2017 · 5 yrs 8 mos"
+                ]
+            ]
+        ]
+    },
     "Ben Hardekopf": {
         "status": "fail",
         "Education": [],
         "Experience": []
     },
-    "Tobias H\u00f6llerer": {
+    "Tobias Höllerer": {
         "status": "fail",
         "Education": [],
         "Experience": []
     },
-    "\u00c7etin Kaya Ko\u00e7": {
+    "Çetin Kaya Koç": {
         "status": "fail",
         "Education": [],
         "Experience": []
@@ -989,6 +1721,194 @@
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "Chandra Krintz": {
+        "status": "success",
+        "Education": [
+            [
+                "UC San Diego",
+                [
+                    "Degree Name",
+                    "M.S. and PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2001"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Chief Scientist",
+                [
+                    "Company Name",
+                    "AppScale Systems"
+                ],
+                [
+                    "Dates Employed",
+                    "2012 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 2 mos"
+                ],
+                [
+                    "Location",
+                    "Santa Barbara, CA"
+                ],
+                [
+                    "More Info",
+                    "AppScale is a distributed software platform that we developed in the research lab at UCSB.  Given the popularity of AppScale and to support our growing user community, we have decided to transfer the technology from the lab to the commercial sector."
+                ]
+            ],
+            [
+                "UC Santa Barbara",
+                [
+                    "Company Name",
+                    "20 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Computer Science Dept"
+                ],
+                [
+                    "Location",
+                    "Professor"
+                ],
+                [
+                    "More Info",
+                    "2011 - Present · 11 yrs 2 mos"
+                ]
+            ],
+            [
+                "Member",
+                [
+                    "Company Name",
+                    "Programming Language Community"
+                ],
+                [
+                    "Dates Employed",
+                    "2001 - 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "11 yrs"
+                ],
+                [
+                    "Location",
+                    "Chandra's research focus targets the areas of programming language implementations (virtual execution environments, garbage collection, adaptive compilation, etc.) and cloud runtimes (application development, deployment, debugging, and optimization)."
+                ]
+            ]
+        ]
+    },
+    "Christopher Kruegel": {
+        "status": "success",
+        "Education": [
+            [
+                "Technische Universität Wien",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 2002"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "VP Security Services",
+                [
+                    "Company Name",
+                    "VMware"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 9 mos"
+                ]
+            ],
+            [
+                "UC Santa Barbara",
+                [
+                    "Company Name",
+                    "14 yrs 2 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "Jul 2013 - Present · 8 yrs 8 mos"
+                ],
+                [
+                    "More Info",
+                    "Associate Professor"
+                ]
+            ],
+            [
+                "Lastline, Inc.",
+                [
+                    "Company Name",
+                    "10 yrs 7 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Chief Product Officer"
+                ],
+                [
+                    "Location",
+                    "Sep 2018 - Jun 2020 · 1 yr 10 mos"
+                ],
+                [
+                    "More Info",
+                    "CEO"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Vienna University of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2004 - Dec 2007"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs 9 mos"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "UC Santa Barbara"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2002 - Mar 2004"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ]
+            ]
+        ]
     },
     "Lei Li": {
         "status": "success",
@@ -1037,7 +1957,7 @@
                 "Director of ByteDance AI Lab",
                 [
                     "Company Name",
-                    "ByteDance \u00b7 Full-time"
+                    "ByteDance · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1147,6 +2067,177 @@
         "Education": [],
         "Experience": []
     },
+    "Ziad Matni": {
+        "status": "success",
+        "Education": [
+            [
+                "Rutgers University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2018"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Treasurer: Doctoral Student Association, RUASIS&amp;T, NJASIS&amp;T."
+                ]
+            ],
+            [
+                "University of Southern California",
+                [
+                    "Degree Name",
+                    "MSEE"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1995"
+                ],
+                [
+                    "More Info",
+                    "Specialized in Communications and Circuit Design."
+                ]
+            ],
+            [
+                "Saint Mary's College of California",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Liberal Arts (3+2 Engineering)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1994"
+                ],
+                [
+                    "More Info",
+                    "Dual degree program (Liberal Arts from SMC &amp; Electrical Engineering from USC)."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "UC Santa Barbara"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Santa Barbara, California Area"
+                ],
+                [
+                    "More Info",
+                    "Areas that I teach and pursue research in:"
+                ]
+            ],
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "Rutgers University School of Communication and Information"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 - Jul 2016"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ],
+                [
+                    "More Info",
+                    "Pursued a doctoral degree (Ph.D.) in Information Science. Conducted and published research in human information behavior, social media, online communities, social networks."
+                ]
+            ],
+            [
+                "Product Marketing Manager",
+                [
+                    "Company Name",
+                    "LSI Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "2005 - 2009"
+                ],
+                [
+                    "Employment Duration",
+                    "4 yrs"
+                ],
+                [
+                    "Location",
+                    "Product responsibility for serial PHY, microprocessor subsystems and memory IP for use in the hard disk drive (HDD) market."
+                ]
+            ],
+            [
+                "Project Lead",
+                [
+                    "Company Name",
+                    "Red Sky Systems"
+                ],
+                [
+                    "Dates Employed",
+                    "2005"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ],
+                [
+                    "Location",
+                    "Hardware design of several circuit pack boards as part of an optical telecommunications system."
+                ]
+            ],
+            [
+                "Applications Engineering Manager",
+                [
+                    "Company Name",
+                    "Inphi Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "2002 - 2005"
+                ],
+                [
+                    "Employment Duration",
+                    "3 yrs"
+                ],
+                [
+                    "Location",
+                    "Responsible for all aspects of applications and marketing engineering for the entire start-up company product lines (4 product lines, approx. 110 ICs).  Product lines included: optical systems (optical modulator drivers, TIA), high-speed logic (for Test &amp; Instrumentation market), microwave prescalers and DDR-2 timing register/PLL chips."
+                ],
+                [
+                    "More Info",
+                    "See all 6 experiences"
+                ]
+            ]
+        ]
+    },
     "Diba Mirza": {
         "status": "fail",
         "Education": [],
@@ -1249,6 +2340,126 @@
                 [
                     "Location",
                     "Livermore, California"
+                ]
+            ]
+        ]
+    },
+    "Timothy Sherwood": {
+        "status": "success",
+        "Education": [
+            [
+                "UC San Diego",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2003"
+                ]
+            ],
+            [
+                "UC San Diego",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2000"
+                ]
+            ],
+            [
+                "University of California, Davis",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1998"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "UC Santa Barbara",
+                [
+                    "Company Name",
+                    "18 yrs 8 mos"
+                ],
+                [
+                    "Dates Employed",
+                    "Professor"
+                ],
+                [
+                    "Location",
+                    "2012 - Present · 10 yrs 2 mos"
+                ],
+                [
+                    "More Info",
+                    "Research on computer architecture and engineering, secure hardware design, high-throughput stream processing, sketch based interfaces, side channel security analysis, and other fun things.  I typically teach the graduate level architecture class, compilers (called \"the translation of programming languages\"), and our senior level capstone course."
+                ]
+            ],
+            [
+                "Co-Founder",
+                [
+                    "Company Name",
+                    "Tortuga Logic, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 9 mos"
+                ]
+            ],
+            [
+                "Member of the Technical Advisory Board",
+                [
+                    "Company Name",
+                    "Aperi Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2015 - Mar 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "5 yrs 1 mo"
+                ]
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2010 - Dec 2010"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Visiting Researcher in the Computer Architecture group at Microsoft Research in Redmond."
                 ]
             ]
         ]
@@ -1559,7 +2770,7 @@
                 "Sr. Director Threat Intelligence",
                 [
                     "Company Name",
-                    "VMware \u00b7 Full-time"
+                    "VMware · Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -2357,7 +3568,7 @@
                 ],
                 [
                     "More Info",
-                    "\u2022 Worked with Professor Tod Austin to leverage bandwidth provided by emerging 3D stacked DRAMS by integrating specialized near-memory accelerators"
+                    "• Worked with Professor Tod Austin to leverage bandwidth provided by emerging 3D stacked DRAMS by integrating specialized near-memory accelerators"
                 ]
             ],
             [
@@ -2380,7 +3591,7 @@
                 ],
                 [
                     "More Info",
-                    "\u2022 Worked with Professor Mario Ventresca on designing a reliable C++ library for representative social networks construction and disease simulation"
+                    "• Worked with Professor Mario Ventresca on designing a reliable C++ library for representative social networks construction and disease simulation"
                 ]
             ]
         ]
