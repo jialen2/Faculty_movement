@@ -84,7 +84,7 @@ def login(linkedin_email, linkedin_password):
 SwitchAccuntThrehold = 20
 
 # List of useable linked Account for scraping.
-linkedInAccounts = ["suild908@outlook.com", "ioter908@outlook.com" ]
+linkedInAccounts = ["ioter908@outlook.com" ]
 
 def long_sleep_if_needed(countNumScrape):
     a = 1
@@ -124,6 +124,8 @@ def scrape_data_from_linkedin(faculty_file_path, major, chromedriver_path):
     linkedInAccountIndex = -1
     university_list = os.listdir(faculty_file_path)
     for university in university_list:
+        if university != "Arizona State University":
+            continue
         filePath = faculty_file_path+"/"+university
         faculty_list = []
         if filePath.split("/")[-1] == ".DS_Store":
@@ -182,10 +184,10 @@ def get_background_on_linkedin(university, faculty_name, store_file_path):
         try:
             with open(store_file_path, "r+") as file:
                 if os.path.getsize(store_file_path) == 0:
-                    json.dump({}, file, indent=4)  
+                    json.dump({}, file, indent=4,ensure_ascii=False)  
         except:
             with open(store_file_path, "a+") as file:
-                json.dump({}, file, indent=4)    
+                json.dump({}, file, indent=4,ensure_ascii=False)    
         with open(store_file_path, "r+") as file:
             file_data = json.load(file)
             file_data[faculty_name] = {'status': status, 'Education': education, 'Experience': experience}

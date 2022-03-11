@@ -35,267 +35,10 @@
             ]
         ]
     },
-    "Remco Chang": {
-        "status": "success",
-        "Education": [
-            [
-                "University of North Carolina at Charlotte",
-                [
-                    "Degree Name",
-                    "PhD"
-                ],
-                [
-                    "Field Of Study",
-                    " Computer Science"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "2008 - 2009"
-                ],
-                [
-                    "More Info",
-                    "Got a PhD in the shortest amount of time possible (2 years!) while getting paid a full time job."
-                ]
-            ],
-            [
-                "Brown University",
-                [
-                    "Degree Name",
-                    "MSc"
-                ],
-                [
-                    "Field Of Study",
-                    " Computer Science (Graphics)"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "1997 - 2000"
-                ],
-                [
-                    "More Info",
-                    "Provided the foundation of my confidence. I can't thank the school enough for letting me be part of a great department with great colleagues, friends, and a unparalleled advisor."
-                ]
-            ],
-            [
-                "The Johns Hopkins University",
-                [
-                    "Degree Name",
-                    "BA"
-                ],
-                [
-                    "Field Of Study",
-                    " Computer Science"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "1994 - 1997"
-                ],
-                [
-                    "More Info",
-                    "Show all 4 education"
-                ]
-            ]
-        ],
-        "Experience": [
-            [
-                "Tufts University",
-                [
-                    "Company Name",
-                    "11 yrs 7 mos"
-                ],
-                [
-                    "Dates Employed",
-                    "Associate Professor"
-                ],
-                [
-                    "Location",
-                    "Sep 2016 - Present · 5 yrs 7 mos"
-                ],
-                [
-                    "More Info",
-                    "Assistant Professor"
-                ]
-            ],
-            [
-                "Research Scientist",
-                [
-                    "Company Name",
-                    "University of North Carolina Charlotte"
-                ],
-                [
-                    "Dates Employed",
-                    "Jan 2005 - Jul 2010"
-                ],
-                [
-                    "Employment Duration",
-                    "5 yrs 7 mos"
-                ],
-                [
-                    "Location",
-                    "Publishing lots of papers by slave-driving students"
-                ]
-            ],
-            [
-                "Senior Software Engineer",
-                [
-                    "Company Name",
-                    "Preston Aviation Solutions"
-                ],
-                [
-                    "Dates Employed",
-                    "2003 - 2004"
-                ],
-                [
-                    "Employment Duration",
-                    "1 yr"
-                ],
-                [
-                    "Location",
-                    "Wrote the front-end of a flight visualization system."
-                ]
-            ],
-            [
-                "Flaneur",
-                [
-                    "Company Name",
-                    "Traveling"
-                ],
-                [
-                    "Dates Employed",
-                    "2001 - 2002"
-                ],
-                [
-                    "Employment Duration",
-                    "1 yr"
-                ],
-                [
-                    "Location",
-                    "Best year of my life.  Traveled around the world (literally)."
-                ]
-            ],
-            [
-                "Technical Lead",
-                [
-                    "Company Name",
-                    "BountyQuest"
-                ],
-                [
-                    "Dates Employed",
-                    "2000 - 2001"
-                ],
-                [
-                    "Employment Duration",
-                    "1 yr"
-                ],
-                [
-                    "Location",
-                    "Did a lot of nothing, a little of everything"
-                ]
-            ]
-        ]
-    },
     "Alva Couch": {
         "status": "fail",
         "Education": [],
         "Experience": []
-    },
-    "J.P. de Ruiter": {
-        "status": "success",
-        "Education": [
-            [
-                "Radboud University",
-                [
-                    "Degree Name",
-                    "PhD"
-                ],
-                [
-                    "Field Of Study",
-                    " Cognitive Science"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "1988 - 1992"
-                ],
-                [
-                    "More Info",
-                    "Maerlant Lyceum Den Haag"
-                ]
-            ]
-        ],
-        "Experience": [
-            [
-                "Professor",
-                [
-                    "Company Name",
-                    "Tufts University"
-                ],
-                [
-                    "Dates Employed",
-                    "Jun 2016 - Present"
-                ],
-                [
-                    "Employment Duration",
-                    "5 yrs 10 mos"
-                ],
-                [
-                    "Location",
-                    "Bridge Professor for the Cognitive Sciences."
-                ],
-                [
-                    "More Info",
-                    "Depts. of Computer Science and Psychology."
-                ]
-            ],
-            [
-                "Chair for Psycholinguistics",
-                [
-                    "Company Name",
-                    "University of Bielefeld"
-                ],
-                [
-                    "Dates Employed",
-                    "Mar 2009 - May 2016"
-                ],
-                [
-                    "Employment Duration",
-                    "7 yrs 3 mos"
-                ]
-            ],
-            [
-                "Senior Researcher",
-                [
-                    "Company Name",
-                    "Max Planck Institute for Psycholinguistics"
-                ],
-                [
-                    "Dates Employed",
-                    "Jan 2002 - Mar 2009"
-                ],
-                [
-                    "Employment Duration",
-                    "7 yrs 3 mos"
-                ],
-                [
-                    "Location",
-                    "Coordinating Multimodal Communication Project."
-                ]
-            ],
-            [
-                "University of Cologne logo",
-                [
-                    "Company Name",
-                    "Researcher"
-                ],
-                [
-                    "Dates Employed",
-                    "University of Cologne"
-                ],
-                [
-                    "Location",
-                    "1999 - 2001 · 2 yrs"
-                ]
-            ]
-        ]
     },
     "Karen Edwards": {
         "status": "success",
@@ -328,7 +71,7 @@
                 "Facilities Coordinator",
                 [
                     "Company Name",
-                    "ESFM USA · Full-time"
+                    "ESFM USA \u00b7 Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -351,7 +94,7 @@
                 "Training",
                 [
                     "Company Name",
-                    "Virtual, Inc. · Full-time"
+                    "Virtual, Inc. \u00b7 Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -425,141 +168,6 @@
                 [
                     "More Info",
                     "Show all 7 experiences"
-                ]
-            ]
-        ]
-    },
-    "Soha Hassoun": {
-        "status": "success",
-        "Education": [
-            [
-                "University of Washington",
-                [
-                    "Degree Name",
-                    "PhD"
-                ],
-                [
-                    "Field Of Study",
-                    " Computer Science and Engineering"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "1991 - 1997"
-                ]
-            ],
-            [
-                "Massachusetts Institute of Technology",
-                [
-                    "Degree Name",
-                    "MSEE"
-                ],
-                [
-                    "Field Of Study",
-                    " Course 6"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "1986 - 1988"
-                ]
-            ],
-            [
-                "South Dakota State University",
-                [
-                    "Degree Name",
-                    "BSEE"
-                ],
-                [
-                    "Field Of Study",
-                    " Electrical Engineering"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "1982 - 1986"
-                ],
-                [
-                    "More Info",
-                    "Activities and societies: Eta Kappa Nu, Phi Kappa Phi, Mortar Board."
-                ]
-            ]
-        ],
-        "Experience": [
-            [
-                "Professor",
-                [
-                    "Company Name",
-                    "Tufts University"
-                ],
-                [
-                    "Dates Employed",
-                    "Jan 1998 - Present"
-                ],
-                [
-                    "Employment Duration",
-                    "24 yrs 3 mos"
-                ]
-            ],
-            [
-                "Consultant",
-                [
-                    "Company Name",
-                    "Carbon Design Systems"
-                ],
-                [
-                    "Dates Employed",
-                    "2007"
-                ],
-                [
-                    "Employment Duration",
-                    "Less than a year"
-                ]
-            ],
-            [
-                "Visiting Researcher",
-                [
-                    "Company Name",
-                    "IBM Austin Research Labs"
-                ],
-                [
-                    "Dates Employed",
-                    "Jan 2002 - Jul 2002"
-                ],
-                [
-                    "Employment Duration",
-                    "7 mos"
-                ]
-            ],
-            [
-                "IKOS Systems logo",
-                [
-                    "Company Name",
-                    "Consultant"
-                ],
-                [
-                    "Dates Employed",
-                    "IKOS"
-                ],
-                [
-                    "Location",
-                    "1999 - 2000 · 1 yr"
-                ]
-            ],
-            [
-                "Research Assistant &amp; Grad Student",
-                [
-                    "Company Name",
-                    "University of Washington"
-                ],
-                [
-                    "Dates Employed",
-                    "1991 - 1997"
-                ],
-                [
-                    "Employment Duration",
-                    "6 yrs"
-                ],
-                [
-                    "Location",
-                    "Show all 6 experiences"
                 ]
             ]
         ]
@@ -891,7 +499,7 @@
                 "Teaching Assistant Professor",
                 [
                     "Company Name",
-                    "Tufts University · Full-time"
+                    "Tufts University \u00b7 Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -910,7 +518,7 @@
                 "Assistant Professor",
                 [
                     "Company Name",
-                    "Seattle University · Full-time"
+                    "Seattle University \u00b7 Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -929,7 +537,7 @@
                 "Instructor",
                 [
                     "Company Name",
-                    "Georgia Institute of Technology · Full-time"
+                    "Georgia Institute of Technology \u00b7 Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1023,7 +631,7 @@
                 "Postdoctoral Scholar",
                 [
                     "Company Name",
-                    "Caltech · Full-time"
+                    "Caltech \u00b7 Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1042,7 +650,7 @@
                 "Visiting Research fellow",
                 [
                     "Company Name",
-                    "Simons Institute for the Theory of Computing · Full-time"
+                    "Simons Institute for the Theory of Computing \u00b7 Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1225,7 +833,7 @@
                 "Lecturer",
                 [
                     "Company Name",
-                    "Tufts Uni · Part-time"
+                    "Tufts Uni \u00b7 Part-time"
                 ],
                 [
                     "Dates Employed",
@@ -1244,7 +852,7 @@
                 "Software Engineer",
                 [
                     "Company Name",
-                    "RetailMeNot · Full-time"
+                    "RetailMeNot \u00b7 Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -1257,632 +865,6 @@
                 [
                     "Location",
                     "Austin, Texas, United States"
-                ]
-            ]
-        ]
-    },
-    "Raja Sambasivan": {
-        "status": "success",
-        "Education": [
-            [
-                "Carnegie Mellon University",
-                [
-                    "Degree Name",
-                    "PhD"
-                ],
-                [
-                    "Field Of Study",
-                    " Electrical &amp; Computer Engineering (Software Systems)"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "2006 - 2013"
-                ]
-            ],
-            [
-                "Carnegie Mellon University",
-                [
-                    "Degree Name",
-                    "MS"
-                ],
-                [
-                    "Field Of Study",
-                    " Electrical &amp; Computer Engineering"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "2003 - 2004"
-                ]
-            ],
-            [
-                "Carnegie Mellon University",
-                [
-                    "Degree Name",
-                    "BS"
-                ],
-                [
-                    "Field Of Study",
-                    " Electrical &amp; Computer Engineering &amp; Minor in Computer Science"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "1999 - 2003"
-                ]
-            ]
-        ],
-        "Experience": [
-            [
-                "Assistant Professor Of Computer Science",
-                [
-                    "Company Name",
-                    "Tufts University · Full-time"
-                ],
-                [
-                    "Dates Employed",
-                    "Aug 2019 - Present"
-                ],
-                [
-                    "Employment Duration",
-                    "2 yrs 8 mos"
-                ],
-                [
-                    "Location",
-                    "Medford, MA"
-                ]
-            ],
-            [
-                "Carnegie Mellon University",
-                [
-                    "Company Name",
-                    "12 yrs 4 mos"
-                ],
-                [
-                    "Dates Employed",
-                    "Pittsburgh, PA"
-                ],
-                [
-                    "Location",
-                    "Postdoctoral Research Fellow"
-                ],
-                [
-                    "More Info",
-                    "Jun 2013 - Sep 2016 · 3 yrs 4 mos"
-                ]
-            ],
-            [
-                "Consultant",
-                [
-                    "Company Name",
-                    "Huawei"
-                ],
-                [
-                    "Dates Employed",
-                    "Nov 2014"
-                ],
-                [
-                    "Employment Duration",
-                    "1 mo"
-                ],
-                [
-                    "Location",
-                    "Chengdu, Sichuan, China"
-                ],
-                [
-                    "More Info",
-                    "• Advised engineers on novel tools &amp; techniques for diagnosing problems in Huawei products."
-                ]
-            ],
-            [
-                "Software Engineering Intern",
-                [
-                    "Company Name",
-                    "Google"
-                ],
-                [
-                    "Dates Employed",
-                    "May 2010 - Dec 2010"
-                ],
-                [
-                    "Employment Duration",
-                    "8 mos"
-                ],
-                [
-                    "Location",
-                    "• Implemented my dissertation research (request-flow comparison) in Dapper."
-                ],
-                [
-                    "More Info",
-                    "-- Dapper: Google's end-to-end  tracing infrastructure for problem diagnosis."
-                ]
-            ],
-            [
-                "Research Intern",
-                [
-                    "Company Name",
-                    "Hewlett-Packard Labs"
-                ],
-                [
-                    "Dates Employed",
-                    "Jul 2007 - Apr 2008"
-                ],
-                [
-                    "Employment Duration",
-                    "10 mos"
-                ],
-                [
-                    "Location",
-                    "• Developed a statistical query progress indicator for a distributed database (NeoView)."
-                ]
-            ]
-        ]
-    },
-    "Mark Sheldon": {
-        "status": "success",
-        "Education": [
-            [
-                "Massachusetts Institute of Technology",
-                [
-                    "Degree Name",
-                    "SM"
-                ],
-                [
-                    "Field Of Study",
-                    " PhD, Computer Science"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "1984 - 1995"
-                ]
-            ]
-        ],
-        "Experience": [
-            [
-                "Associate Teaching Professor",
-                [
-                    "Company Name",
-                    "Tufts University"
-                ],
-                [
-                    "Dates Employed",
-                    "Sep 2011 - Present"
-                ],
-                [
-                    "Employment Duration",
-                    "10 yrs 7 mos"
-                ],
-                [
-                    "Location",
-                    "Medford, Massachusetts"
-                ]
-            ],
-            [
-                "Lecturer",
-                [
-                    "Company Name",
-                    "UMass Lowell"
-                ],
-                [
-                    "Dates Employed",
-                    "Aug 2011 - May 2012"
-                ],
-                [
-                    "Employment Duration",
-                    "10 mos"
-                ],
-                [
-                    "Location",
-                    "Lowell, MA"
-                ]
-            ],
-            [
-                "Lecturer",
-                [
-                    "Company Name",
-                    "Franklyn W. Olin College of Engineering"
-                ],
-                [
-                    "Dates Employed",
-                    "Aug 2011"
-                ],
-                [
-                    "Employment Duration",
-                    "1 mo"
-                ],
-                [
-                    "Location",
-                    "University of Massachusetts, Lowell"
-                ]
-            ],
-            [
-                "Visiting Assistant Professor",
-                [
-                    "Company Name",
-                    "Wellesley College"
-                ],
-                [
-                    "Dates Employed",
-                    "Jan 2004 - Dec 2008"
-                ],
-                [
-                    "Employment Duration",
-                    "5 yrs"
-                ]
-            ],
-            [
-                "MIT",
-                [
-                    "Company Name",
-                    "12 yrs 1 mo"
-                ],
-                [
-                    "Dates Employed",
-                    "Post doc"
-                ],
-                [
-                    "Location",
-                    "1995 - 1996 · 1 yr"
-                ],
-                [
-                    "More Info",
-                    "Graduate Student"
-                ]
-            ]
-        ]
-    },
-    "Jivko Sinapov": {
-        "status": "success",
-        "Education": [
-            [
-                "Iowa State University",
-                [
-                    "Degree Name",
-                    "Doctor of Philosophy (PhD)"
-                ],
-                [
-                    "Field Of Study",
-                    " Computer Science and Human-Computer Interaction"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "2005 - 2013"
-                ]
-            ],
-            [
-                "University of Rochester",
-                [
-                    "Degree Name",
-                    "BSc"
-                ],
-                [
-                    "Field Of Study",
-                    " Computer Science"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "2001 - 2005"
-                ]
-            ]
-        ],
-        "Experience": [
-            [
-                "Assistant Professor",
-                [
-                    "Company Name",
-                    "Tufts University"
-                ],
-                [
-                    "Dates Employed",
-                    "Aug 2017 - Present"
-                ],
-                [
-                    "Employment Duration",
-                    "4 yrs 8 mos"
-                ],
-                [
-                    "Location",
-                    "Greater Boston Area"
-                ]
-            ],
-            [
-                "Postdoc",
-                [
-                    "Company Name",
-                    "The University of Texas at Austin"
-                ],
-                [
-                    "Dates Employed",
-                    "Jun 2014 - Present"
-                ],
-                [
-                    "Employment Duration",
-                    "7 yrs 10 mos"
-                ],
-                [
-                    "Location",
-                    "Austin, Texas Area"
-                ]
-            ],
-            [
-                "Iowa State University",
-                [
-                    "Company Name",
-                    "9 yrs 6 mos"
-                ],
-                [
-                    "Dates Employed",
-                    "Lecturer"
-                ],
-                [
-                    "Location",
-                    "Jan 2014 - Jun 2014 · 6 mos"
-                ],
-                [
-                    "More Info",
-                    "Ames, IA"
-                ]
-            ],
-            [
-                "Research Intern",
-                [
-                    "Company Name",
-                    "HRL Laboratories"
-                ],
-                [
-                    "Dates Employed",
-                    "May 2011 - Dec 2011"
-                ],
-                [
-                    "Employment Duration",
-                    "8 mos"
-                ]
-            ],
-            [
-                "Research Intern",
-                [
-                    "Company Name",
-                    "Willow Garage"
-                ],
-                [
-                    "Dates Employed",
-                    "May 2010 - 2010"
-                ],
-                [
-                    "Employment Duration",
-                    "-3 mos"
-                ],
-                [
-                    "Location",
-                    "Show all 7 experiences"
-                ]
-            ]
-        ]
-    },
-    "Diane Souvaine": {
-        "status": "success",
-        "Education": [
-            [
-                "Harvard University",
-                [
-                    "Degree Name",
-                    "A.B."
-                ],
-                [
-                    "Field Of Study",
-                    " English and American Language and Literature; Mathematics"
-                ]
-            ],
-            [
-                "Princeton University",
-                [
-                    "Degree Name",
-                    "Doctor of Philosophy (Ph.D.)"
-                ],
-                [
-                    "Field Of Study",
-                    " Computer Science"
-                ]
-            ]
-        ],
-        "Experience": [
-            [
-                "Tufts University",
-                [
-                    "Company Name",
-                    "24 yrs 3 mos"
-                ],
-                [
-                    "Dates Employed",
-                    "Professor of Computer Science"
-                ],
-                [
-                    "Location",
-                    "1998 - Present · 24 yrs 3 mos"
-                ],
-                [
-                    "More Info",
-                    "Senior Advisor to the Provost"
-                ]
-            ],
-            [
-                "National Science Board (NSB)",
-                [
-                    "Company Name",
-                    "11 yrs 9 mos"
-                ],
-                [
-                    "Dates Employed",
-                    "Chair"
-                ],
-                [
-                    "Location",
-                    "May 2018 - May 2020 · 2 yrs 1 mo"
-                ],
-                [
-                    "More Info",
-                    "Member"
-                ]
-            ],
-            [
-                "Rutgers University",
-                [
-                    "Company Name",
-                    "12 yrs 1 mo"
-                ],
-                [
-                    "Dates Employed",
-                    "Associate Professor of Computer Science"
-                ],
-                [
-                    "Location",
-                    "1992 - 1998 · 6 yrs"
-                ],
-                [
-                    "More Info",
-                    "Assistant Professor of Computer Science"
-                ]
-            ]
-        ]
-    },
-    "Daniel Votipka": {
-        "status": "success",
-        "Education": [
-            [
-                "University of Maryland",
-                [
-                    "Degree Name",
-                    "Doctor of Philosophy (PhD)"
-                ],
-                [
-                    "Field Of Study",
-                    " Computer Science"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "2016 - 2020"
-                ],
-                [
-                    "More Info",
-                    "My research focuses on computer security, with an emphasis on security metrics and human factors. I'm interested in understanding the relationship between real-world threats and user security behaviors/preferences, and building systems to provide usable defenses."
-                ]
-            ],
-            [
-                "Illinois Institute of Technology",
-                [
-                    "Degree Name",
-                    "BS"
-                ],
-                [
-                    "Field Of Study",
-                    " Computer Science"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "2006 - 2010"
-                ],
-                [
-                    "More Info",
-                    "Grade: 3.97"
-                ]
-            ]
-        ],
-        "Experience": [
-            [
-                "Tufts University",
-                [
-                    "Company Name",
-                    "Full-time · 1 yr 8 mos"
-                ],
-                [
-                    "Dates Employed",
-                    "Medford, Massachusetts, United States"
-                ],
-                [
-                    "Location",
-                    "Lin Family Assistant Professor"
-                ],
-                [
-                    "More Info",
-                    "Nov 2020 - Present · 1 yr 5 mos"
-                ]
-            ],
-            [
-                "University of Maryland",
-                [
-                    "Company Name",
-                    "5 yrs 10 mos"
-                ],
-                [
-                    "Dates Employed",
-                    "PHD Student"
-                ],
-                [
-                    "Location",
-                    "Jun 2016 - Present · 5 yrs 10 mos"
-                ],
-                [
-                    "More Info",
-                    "My research focuses on computer security, with an emphasis on the human factors affecting security workers. I'm interested in understanding the processes and mental models of professionals who perform security related tasks such as vulnerability discovery, network defense, and malware analysis to provide research-based recommendations for education, policy, and automation changes to best leverage human intelligence against challenging computer security problems."
-                ]
-            ],
-            [
-                "Cyber Warfare Officer",
-                [
-                    "Company Name",
-                    "United States Air Force · Full-time"
-                ],
-                [
-                    "Dates Employed",
-                    "May 2012 - May 2016"
-                ],
-                [
-                    "Employment Duration",
-                    "4 yrs 1 mo"
-                ]
-            ],
-            [
-                "Mobile App Development Instructor",
-                [
-                    "Company Name",
-                    "Empyra Inc"
-                ],
-                [
-                    "Dates Employed",
-                    "Apr 2012 - May 2012"
-                ],
-                [
-                    "Employment Duration",
-                    "2 mos"
-                ],
-                [
-                    "Location",
-                    "Youngstown, OH"
-                ],
-                [
-                    "More Info",
-                    "- Taught eight developers how to program applications for iPhone"
-                ]
-            ],
-            [
-                "Researcher",
-                [
-                    "Company Name",
-                    "Carnegie Mellon University"
-                ],
-                [
-                    "Dates Employed",
-                    "Aug 2010 - May 2012"
-                ],
-                [
-                    "Employment Duration",
-                    "1 yr 10 mos"
-                ],
-                [
-                    "Location",
-                    "Masters in Information Security, Technology, and Management"
-                ],
-                [
-                    "More Info",
-                    "Publications:"
                 ]
             ]
         ]
@@ -2016,7 +998,7 @@
                 "Industry Professor",
                 [
                     "Company Name",
-                    "New York University · Full-time"
+                    "New York University \u00b7 Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -2031,7 +1013,7 @@
                 "Visiting Associate Professor",
                 [
                     "Company Name",
-                    "Tufts University · Full-time"
+                    "Tufts University \u00b7 Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -2055,134 +1037,6 @@
                 [
                     "Employment Duration",
                     "7 yrs"
-                ]
-            ]
-        ]
-    },
-    "Partha Biswas": {
-        "status": "success",
-        "Education": [
-            [
-                "UC Irvine",
-                [
-                    "Degree Name",
-                    "M.S."
-                ],
-                [
-                    "Field Of Study",
-                    " Ph.D., Computer Science (Embedded System Design)"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "2000 - 2006"
-                ]
-            ],
-            [
-                "Indian Institute of Technology, Kharagpur",
-                [
-                    "Degree Name",
-                    "B.Tech."
-                ],
-                [
-                    "Field Of Study",
-                    " Computer Science and Engineering"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "1994 - 1998"
-                ]
-            ]
-        ],
-        "Experience": [
-            [
-                "The MathWorks",
-                [
-                    "Company Name",
-                    "16 yrs 1 mo"
-                ],
-                [
-                    "Dates Employed",
-                    "Natick, MA"
-                ],
-                [
-                    "Location",
-                    "Software Development Manager"
-                ],
-                [
-                    "More Info",
-                    "May 2015 - Present · 6 yrs 11 mos"
-                ]
-            ],
-            [
-                "Visiting Lecturer (Computer Science)",
-                [
-                    "Company Name",
-                    "Tufts University"
-                ],
-                [
-                    "Dates Employed",
-                    "May 2013 - Present"
-                ],
-                [
-                    "Employment Duration",
-                    "8 yrs 11 mos"
-                ],
-                [
-                    "Location",
-                    "Medford, MA"
-                ],
-                [
-                    "More Info",
-                    "http://sites.tufts.edu/comp15/"
-                ]
-            ],
-            [
-                "Graduate Student Researcher",
-                [
-                    "Company Name",
-                    "UC Irvine"
-                ],
-                [
-                    "Dates Employed",
-                    "2000 - 2006"
-                ],
-                [
-                    "Employment Duration",
-                    "6 yrs"
-                ]
-            ],
-            [
-                "Graduate Student Researcher",
-                [
-                    "Company Name",
-                    "EPFL"
-                ],
-                [
-                    "Dates Employed",
-                    "Aug 2005 - Oct 2005"
-                ],
-                [
-                    "Employment Duration",
-                    "3 mos"
-                ]
-            ],
-            [
-                "Graduate Student Researcher",
-                [
-                    "Company Name",
-                    "EPFL"
-                ],
-                [
-                    "Dates Employed",
-                    "Sep 2003 - Dec 2003"
-                ],
-                [
-                    "Employment Duration",
-                    "4 mos"
-                ],
-                [
-                    "Location",
-                    "Show all 12 experiences"
                 ]
             ]
         ]
@@ -2211,7 +1065,7 @@
                 "Senior Software Engineer",
                 [
                     "Company Name",
-                    "Fidelity Investments · Full-time"
+                    "Fidelity Investments \u00b7 Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -2308,130 +1162,6 @@
             ]
         ]
     },
-    "Lisa Diorio": {
-        "status": "success",
-        "Education": [
-            [
-                "Boston University",
-                [
-                    "Degree Name",
-                    "MS"
-                ],
-                [
-                    "Field Of Study",
-                    " Computer Engineering"
-                ]
-            ],
-            [
-                "University of California, Berkeley",
-                [
-                    "Degree Name",
-                    "BS"
-                ],
-                [
-                    "Field Of Study",
-                    " Computer Science"
-                ]
-            ]
-        ],
-        "Experience": [
-            [
-                "Co-founder and Lead Developer",
-                [
-                    "Company Name",
-                    "Fembot Creative · Self-employed"
-                ],
-                [
-                    "Dates Employed",
-                    "Oct 2010 - Present"
-                ],
-                [
-                    "Employment Duration",
-                    "11 yrs 6 mos"
-                ],
-                [
-                    "Location",
-                    "Salem, Massachusetts, United States"
-                ]
-            ],
-            [
-                "Adjunct Faculty",
-                [
-                    "Company Name",
-                    "Tufts University · Contract"
-                ],
-                [
-                    "Dates Employed",
-                    "Sep 2019 - Present"
-                ],
-                [
-                    "Employment Duration",
-                    "2 yrs 7 mos"
-                ],
-                [
-                    "Location",
-                    "Cambridge, Massachusetts, United States"
-                ]
-            ],
-            [
-                "Adjunct Faculty",
-                [
-                    "Company Name",
-                    "Harvard Extension School · Contract"
-                ],
-                [
-                    "Dates Employed",
-                    "Sep 2016 - Present"
-                ],
-                [
-                    "Employment Duration",
-                    "5 yrs 7 mos"
-                ],
-                [
-                    "Location",
-                    "Cambridge, Massachusetts, United States"
-                ]
-            ],
-            [
-                "Principal",
-                [
-                    "Company Name",
-                    "iTS Custom Web Design"
-                ],
-                [
-                    "Dates Employed",
-                    "Oct 2010 - Dec 2021"
-                ],
-                [
-                    "Employment Duration",
-                    "11 yrs 3 mos"
-                ],
-                [
-                    "Location",
-                    "Marketing strategy and consulting, web presence and social media consulting, web design and development, technology consulting and training."
-                ]
-            ],
-            [
-                "The New England Institute of Art logo",
-                [
-                    "Company Name",
-                    "Faculty"
-                ],
-                [
-                    "Dates Employed",
-                    "The New England Institute of Art"
-                ],
-                [
-                    "Location",
-                    "May 2007 - Dec 2021 · 14 yrs 8 mos"
-                ],
-                [
-                    "More Info",
-                    "Faculty member - teaching web design and development, database, and computer science"
-                ]
-            ]
-        ]
-    },
     "Cody Doucette": {
         "status": "success",
         "Education": [
@@ -2486,7 +1216,7 @@
                 "Systems Engineer",
                 [
                     "Company Name",
-                    "Cloudflare · Full-time"
+                    "Cloudflare \u00b7 Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -2655,7 +1385,7 @@
                 "QA Intern",
                 [
                     "Company Name",
-                    "CompStak®"
+                    "CompStak\u00ae"
                 ],
                 [
                     "Dates Employed",
@@ -2721,7 +1451,7 @@
                 "Part-time Lecturer",
                 [
                     "Company Name",
-                    "Tufts University · Part-time"
+                    "Tufts University \u00b7 Part-time"
                 ],
                 [
                     "Dates Employed",
@@ -2736,7 +1466,7 @@
                 "Web Developer",
                 [
                     "Company Name",
-                    "Plastic Tides · Internship"
+                    "Plastic Tides \u00b7 Internship"
                 ],
                 [
                     "Dates Employed",
@@ -2767,7 +1497,7 @@
                 ],
                 [
                     "More Info",
-                    "• Guided and assisted students in problem solving"
+                    "\u2022 Guided and assisted students in problem solving"
                 ]
             ],
             [
@@ -2790,7 +1520,7 @@
                 ],
                 [
                     "More Info",
-                    "• Provided constructive and timely feedback"
+                    "\u2022 Provided constructive and timely feedback"
                 ]
             ],
             [
@@ -2809,136 +1539,11 @@
                 ],
                 [
                     "Location",
-                    "• Extended existing project: designing mechanisms to determine which seller will be placed in Amazon's Buy Box"
+                    "\u2022 Extended existing project: designing mechanisms to determine which seller will be placed in Amazon's Buy Box"
                 ],
                 [
                     "More Info",
-                    "• Conducted additional experiments"
-                ]
-            ]
-        ]
-    },
-    "Fabrizio Santini": {
-        "status": "success",
-        "Education": [
-            [
-                "Università degli Studi di Firenze",
-                [
-                    "Degree Name",
-                    "Ph.D."
-                ],
-                [
-                    "Field Of Study",
-                    " Computer Science and Robotics"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "2000 - 2004"
-                ],
-                [
-                    "More Info",
-                    "University of Rome - La Sapienza"
-                ]
-            ]
-        ],
-        "Experience": [
-            [
-                "Vicarious Surgical Inc.",
-                [
-                    "Company Name",
-                    "2 yrs 7 mos"
-                ],
-                [
-                    "Dates Employed",
-                    "Associate Director of Data Sciences and AI"
-                ],
-                [
-                    "Location",
-                    "Full-time"
-                ],
-                [
-                    "More Info",
-                    "Apr 2021 - Present · 1 yr"
-                ]
-            ],
-            [
-                "Part-time Lecturer in Artificial Intelligence",
-                [
-                    "Company Name",
-                    "Tufts University"
-                ],
-                [
-                    "Dates Employed",
-                    "Jun 2017 - Present"
-                ],
-                [
-                    "Employment Duration",
-                    "4 yrs 10 mos"
-                ],
-                [
-                    "Location",
-                    "Greater Boston Area"
-                ]
-            ],
-            [
-                "Senior Software Engineer",
-                [
-                    "Company Name",
-                    "Cogitai, Inc."
-                ],
-                [
-                    "Dates Employed",
-                    "Aug 2017 - Aug 2019"
-                ],
-                [
-                    "Employment Duration",
-                    "2 yrs 1 mo"
-                ],
-                [
-                    "Location",
-                    "Greater Boston Area"
-                ]
-            ],
-            [
-                "Boston University",
-                [
-                    "Company Name",
-                    "15 yrs 10 mos"
-                ],
-                [
-                    "Dates Employed",
-                    "Boston, Massachusetts"
-                ],
-                [
-                    "Location",
-                    "Research Fellow"
-                ],
-                [
-                    "More Info",
-                    "Mar 2008 - Jun 2018 · 10 yrs 4 mos"
-                ]
-            ],
-            [
-                "Member of the Technical Staff",
-                [
-                    "Company Name",
-                    "6 River Systems, Inc."
-                ],
-                [
-                    "Dates Employed",
-                    "Jan 2016 - Aug 2017"
-                ],
-                [
-                    "Employment Duration",
-                    "1 yr 8 mos"
-                ],
-                [
-                    "Location",
-                    "Navigation and robot intelligence."
-                ],
-                [
-                    "More Info",
-                    "Show all 12 experiences"
+                    "\u2022 Conducted additional experiments"
                 ]
             ]
         ]
@@ -2967,7 +1572,7 @@
                 "Consumer &amp; Small Business Collections Manager",
                 [
                     "Company Name",
-                    "Centurylink · Full-time"
+                    "Centurylink \u00b7 Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -2990,7 +1595,7 @@
                 "Customer Service, Technical Support and Vendor Manager",
                 [
                     "Company Name",
-                    "Sprint Nextel · Full-time"
+                    "Sprint Nextel \u00b7 Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -3006,143 +1611,7 @@
                 ],
                 [
                     "More Info",
-                    "Vendor Manager, 2005 to 2009. Led performance management of 1200-employee outsourced technical support call center sites for wireless icon. Teamed with senior management and Operations, ensuring objectives were achieved. Met with vendors’ senior management to reach staffing requirements. Seized opportunities to improve performance, collaborating with Operations."
-                ]
-            ]
-        ]
-    },
-    "Jitendra Singh": {
-        "status": "success",
-        "Education": [
-            [
-                "Syracuse University",
-                [
-                    "Degree Name",
-                    "Ph.D."
-                ],
-                [
-                    "Field Of Study",
-                    " Electrical and Computer Engineering"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "1972 - 1977"
-                ]
-            ],
-            [
-                "Indian Institute of Technology, Delhi",
-                [
-                    "Degree Name",
-                    "B.Tech"
-                ],
-                [
-                    "Field Of Study",
-                    " Electrical Engineering"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "1966 - 1971"
-                ]
-            ]
-        ],
-        "Experience": [
-            [
-                "Lecturer",
-                [
-                    "Company Name",
-                    "Tufts University"
-                ],
-                [
-                    "Dates Employed",
-                    "Jan 2019 - Present"
-                ],
-                [
-                    "Employment Duration",
-                    "3 yrs 3 mos"
-                ]
-            ],
-            [
-                "DataThinks logo",
-                [
-                    "Company Name",
-                    "Principal"
-                ],
-                [
-                    "Dates Employed",
-                    "DataThinks"
-                ],
-                [
-                    "Location",
-                    "Oct 2011 - Present · 10 yrs 6 mos"
-                ],
-                [
-                    "More Info",
-                    "Greater Boston Area"
-                ]
-            ],
-            [
-                "President &amp; Founder",
-                [
-                    "Company Name",
-                    "Early Stage IT"
-                ],
-                [
-                    "Dates Employed",
-                    "Dec 2008 - Present"
-                ],
-                [
-                    "Employment Duration",
-                    "13 yrs 4 mos"
-                ],
-                [
-                    "Location",
-                    "In early stage companies, the opportunity for building lasting value is great, speed to market is paramount, execution has to be flawless and it all has to be done with an eye on ROI."
-                ],
-                [
-                    "More Info",
-                    "Early Stage IT services the IT needs of such companies."
-                ]
-            ],
-            [
-                "Adjunct Professor",
-                [
-                    "Company Name",
-                    "Worcester Polytechnic Institute"
-                ],
-                [
-                    "Dates Employed",
-                    "Sep 2010 - Feb 2020"
-                ],
-                [
-                    "Employment Duration",
-                    "9 yrs 6 mos"
-                ],
-                [
-                    "Location",
-                    "Graduate level Database Management Systems course."
-                ],
-                [
-                    "More Info",
-                    "I am excited to return to the classroom and teach this material. Cloud computing is challenging some of the core assumptions of database systems -- we live in exciting times."
-                ]
-            ],
-            [
-                "Technology Dude",
-                [
-                    "Company Name",
-                    "The Faster Times"
-                ],
-                [
-                    "Dates Employed",
-                    "Feb 2016 - Mar 2016"
-                ],
-                [
-                    "Employment Duration",
-                    "2 mos"
-                ],
-                [
-                    "Location",
-                    "Show all 16 experiences"
+                    "Vendor Manager, 2005 to 2009. Led performance management of 1200-employee outsourced technical support call center sites for wireless icon. Teamed with senior management and Operations, ensuring objectives were achieved. Met with vendors\u2019 senior management to reach staffing requirements. Seized opportunities to improve performance, collaborating with Operations."
                 ]
             ]
         ]
@@ -3436,7 +1905,7 @@
                 "Professor of Mathematics",
                 [
                     "Company Name",
-                    "Tufts University · Full-time"
+                    "Tufts University \u00b7 Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -3545,115 +2014,6 @@
             ]
         ]
     },
-    "Ethan Danahy": {
-        "status": "success",
-        "Education": [
-            [
-                "Tufts University",
-                [
-                    "Degree Name",
-                    "PhD"
-                ],
-                [
-                    "Field Of Study",
-                    " Electrical Engineering"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "2002 - 2007"
-                ]
-            ],
-            [
-                "Tufts University",
-                [
-                    "Degree Name",
-                    "MS"
-                ],
-                [
-                    "Field Of Study",
-                    " Computer Science"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "2000 - 2002"
-                ]
-            ],
-            [
-                "Tufts University",
-                [
-                    "Degree Name",
-                    "BA"
-                ],
-                [
-                    "Field Of Study",
-                    " Computer Science (minor in Multimedia Communications)"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "1996 - 2000"
-                ]
-            ]
-        ],
-        "Experience": [
-            [
-                "Tufts University",
-                [
-                    "Company Name",
-                    "14 yrs 10 mos"
-                ],
-                [
-                    "Dates Employed",
-                    "Engineering Research Program Director"
-                ],
-                [
-                    "Location",
-                    "Jan 2010 - Present · 12 yrs 3 mos"
-                ],
-                [
-                    "More Info",
-                    "Engineering Research Program Director for the Center for Engineering Education and Outreach (CEEO)"
-                ]
-            ],
-            [
-                "Instructor",
-                [
-                    "Company Name",
-                    "Tufts University"
-                ],
-                [
-                    "Dates Employed",
-                    "Aug 2003 - Dec 2003"
-                ],
-                [
-                    "Employment Duration",
-                    "5 mos"
-                ],
-                [
-                    "Location",
-                    "Instructor for &amp;quot;Virtual Reality and Interactive Simulations Systems,&amp;quot; a senior/grad student level course, for Tufts University Department of Electrical and Computer Engineering, Fall 2003."
-                ]
-            ],
-            [
-                "Webmaster",
-                [
-                    "Company Name",
-                    "Spotfire"
-                ],
-                [
-                    "Dates Employed",
-                    "Jun 2000 - Feb 2001"
-                ],
-                [
-                    "Employment Duration",
-                    "9 mos"
-                ],
-                [
-                    "Location",
-                    "Webmaster and technical advisor for data visualization company's website (www.spotfire.com), updating pages and integrating with backend databases.  Supported marketing department, working on a team with designer, technical writer, and developer.  Developed content management system to allow browser based updates to the site, as well as customized tracking system to monitor visitors' actions."
-                ]
-            ]
-        ]
-    },
     "Mark Hempstead": {
         "status": "success",
         "Education": [
@@ -3670,7 +2030,7 @@
                 "Graphic Designer/Editor/Marketing Specialist",
                 [
                     "Company Name",
-                    "Times Union · Full-time"
+                    "Times Union \u00b7 Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -3693,7 +2053,7 @@
                 "Assistant Art Director",
                 [
                     "Company Name",
-                    "Spotlight Newspapers · Full-time"
+                    "Spotlight Newspapers \u00b7 Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -3830,157 +2190,6 @@
                 [
                     "More Info",
                     "Research assistantship for PhD work under the supervision of Professor Alan Willsky.  Thesis addressed the use of multiresolution, stochastic modeling and estimation techniques for the solution of inverse problems. Issues explored include regularization, sensor fusion, scale-recursive estimation algorithms and models, and computationally efficient implementations."
-                ]
-            ]
-        ]
-    },
-    "Josephine Wolff": {
-        "status": "success",
-        "Education": [
-            [
-                "Massachusetts Institute of Technology",
-                [
-                    "Degree Name",
-                    "Doctor of Philosophy (Ph.D.)"
-                ],
-                [
-                    "Field Of Study",
-                    " Engineering Systems: Technology, Management and Policy"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "2010 - 2015"
-                ]
-            ],
-            [
-                "Massachusetts Institute of Technology",
-                [
-                    "Degree Name",
-                    "Master of Science - MS"
-                ],
-                [
-                    "Field Of Study",
-                    " Technology &amp; Policy"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "2010 - 2012"
-                ]
-            ],
-            [
-                "Princeton University",
-                [
-                    "Degree Name",
-                    "A.B."
-                ],
-                [
-                    "Field Of Study",
-                    " mathematics"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "2006 - 2010"
-                ]
-            ]
-        ],
-        "Experience": [
-            [
-                "The Fletcher School at Tufts University",
-                [
-                    "Company Name",
-                    "2 yrs 9 mos"
-                ],
-                [
-                    "Dates Employed",
-                    "Associate Professor of Cybersecurity Policy"
-                ],
-                [
-                    "Location",
-                    "2021 - Present · 1 yr 3 mos"
-                ],
-                [
-                    "More Info",
-                    "Assistant Professor of Cybersecurity Policy"
-                ]
-            ],
-            [
-                "Assistant Professor",
-                [
-                    "Company Name",
-                    "Rochester Institute of Technology"
-                ],
-                [
-                    "Dates Employed",
-                    "Aug 2015 - Jun 2019"
-                ],
-                [
-                    "Employment Duration",
-                    "3 yrs 11 mos"
-                ],
-                [
-                    "Location",
-                    "Rochester, New York"
-                ]
-            ],
-            [
-                "Fellow, Cybersecurity Initiative",
-                [
-                    "Company Name",
-                    "New America"
-                ],
-                [
-                    "Dates Employed",
-                    "Sep 2015 - 2019"
-                ],
-                [
-                    "Employment Duration",
-                    "3 yrs 5 mos"
-                ],
-                [
-                    "Location",
-                    "Washington D.C. Metro Area"
-                ]
-            ],
-            [
-                "Faculty Associate",
-                [
-                    "Company Name",
-                    "Berkman Center for Internet &amp; Society at Harvard University"
-                ],
-                [
-                    "Dates Employed",
-                    "Sep 2014 - Jun 2016"
-                ],
-                [
-                    "Employment Duration",
-                    "1 yr 10 mos"
-                ],
-                [
-                    "Location",
-                    "Cambridge, MA"
-                ]
-            ],
-            [
-                "Technology Policy Group &amp; Trustworthy Computing Intern",
-                [
-                    "Company Name",
-                    "Microsoft"
-                ],
-                [
-                    "Dates Employed",
-                    "May 2014 - Aug 2014"
-                ],
-                [
-                    "Employment Duration",
-                    "4 mos"
-                ],
-                [
-                    "Location",
-                    "Redmond, WA"
-                ],
-                [
-                    "More Info",
-                    "Intern during the summers of 2012, 2013, and 2014."
                 ]
             ]
         ]

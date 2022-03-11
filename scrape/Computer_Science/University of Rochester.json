@@ -66,7 +66,7 @@
                 "Professor of Computer Science",
                 [
                     "Company Name",
-                    "University of Rochester · Full-time"
+                    "University of Rochester \u00b7 Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -119,169 +119,6 @@
         "status": "fail",
         "Education": [],
         "Experience": []
-    },
-    "Hoque, Ehsan": {
-        "status": "success",
-        "Education": [
-            [
-                "Massachusetts Institute of Technology",
-                [
-                    "Degree Name",
-                    "Ph.D."
-                ],
-                [
-                    "Field Of Study",
-                    " Media Lab"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "2008 - 2013"
-                ],
-                [
-                    "More Info",
-                    "Activities and societies: MIT Students Arts Center, House of Volunteers, MIT Public Services, Bangladesh Students Association"
-                ]
-            ],
-            [
-                "The University of Memphis",
-                [
-                    "Degree Name",
-                    "MS"
-                ],
-                [
-                    "Field Of Study",
-                    " Electrical and Computing Engineering"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "2005 - 2007"
-                ]
-            ],
-            [
-                "Penn State University",
-                [
-                    "Degree Name",
-                    "BS"
-                ],
-                [
-                    "Field Of Study",
-                    " Computer Engineering"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "2000 - 2004"
-                ],
-                [
-                    "More Info",
-                    "Activities and societies: Students Government Association, Penn State Model United Nations Club"
-                ]
-            ]
-        ],
-        "Experience": [
-            [
-                "University of Rochester",
-                [
-                    "Company Name",
-                    "8 yrs 7 mos"
-                ],
-                [
-                    "Dates Employed",
-                    "Associate Professor of Computer Science"
-                ],
-                [
-                    "Location",
-                    "Full-time"
-                ],
-                [
-                    "More Info",
-                    "Jul 2020 - Present · 1 yr 8 mos"
-                ]
-            ],
-            [
-                "Global Advisory Board Member",
-                [
-                    "Company Name",
-                    "Own The Room"
-                ],
-                [
-                    "Dates Employed",
-                    "Jul 2016 - Present"
-                ],
-                [
-                    "Employment Duration",
-                    "5 yrs 8 mos"
-                ],
-                [
-                    "Location",
-                    "Montclair, NJ"
-                ],
-                [
-                    "More Info",
-                    "Serve alongside industry professionals and experts on the Global Advisory Board for Own The Room, an interactive training company that helps unleash potential."
-                ]
-            ],
-            [
-                "Assistant Director of Research Outreach",
-                [
-                    "Company Name",
-                    "Goergen Institute for Data Science"
-                ],
-                [
-                    "Dates Employed",
-                    "Aug 2016 - Dec 2017"
-                ],
-                [
-                    "Employment Duration",
-                    "1 yr 5 mos"
-                ],
-                [
-                    "Location",
-                    "Rochester, New York Area"
-                ]
-            ],
-            [
-                "Graduate Research Assistant",
-                [
-                    "Company Name",
-                    "MIT Media Laboratory"
-                ],
-                [
-                    "Dates Employed",
-                    "Sep 2008 - Aug 2013"
-                ],
-                [
-                    "Employment Duration",
-                    "5 yrs"
-                ],
-                [
-                    "Location",
-                    "Thesis Title: Computers to Help with Conversations: Affective Framework to Enhance Human Nonverbal Skills."
-                ]
-            ],
-            [
-                "Summer Research Intern",
-                [
-                    "Company Name",
-                    "IBM T. J. Watson Research Center"
-                ],
-                [
-                    "Dates Employed",
-                    "Jun 2010 - Sep 2010"
-                ],
-                [
-                    "Employment Duration",
-                    "4 mos"
-                ],
-                [
-                    "Location",
-                    "Target ads more effectively to the users using multi-modal affective technologies."
-                ],
-                [
-                    "More Info",
-                    "See all 10 experiences"
-                ]
-            ]
-        ]
     },
     "Hosseini, Kaave": {
         "status": "fail",
@@ -357,116 +194,6 @@
             ]
         ]
     },
-    "Ding, Chen": {
-        "status": "success",
-        "Education": [
-            [
-                "University of Rochester",
-                [
-                    "Degree Name",
-                    "Doctor of Philosophy (Ph.D.)"
-                ],
-                [
-                    "Field Of Study",
-                    " Computer Science"
-                ],
-                [
-                    "Dates attended or expected graduation",
-                    "2014"
-                ]
-            ]
-        ],
-        "Experience": [
-            [
-                "National University of Defense Technology logo",
-                [
-                    "Company Name",
-                    "Assistant Professor"
-                ],
-                [
-                    "Dates Employed",
-                    "National University of Defense Technology"
-                ],
-                [
-                    "Employment Duration",
-                    "Full-time"
-                ],
-                [
-                    "Location",
-                    "Jun 2019 - May 2021 · 2 yrs"
-                ],
-                [
-                    "More Info",
-                    "Changsha, Hunan, China"
-                ]
-            ],
-            [
-                "Phd",
-                [
-                    "Company Name",
-                    "University of Rochester"
-                ],
-                [
-                    "Dates Employed",
-                    "Sep 2014 - May 2019"
-                ],
-                [
-                    "Employment Duration",
-                    "4 yrs 9 mos"
-                ],
-                [
-                    "Location",
-                    "Rochester, New York Area"
-                ]
-            ],
-            [
-                "Intern",
-                [
-                    "Company Name",
-                    "Qualcomm"
-                ],
-                [
-                    "Dates Employed",
-                    "Jun 2016 - Aug 2016"
-                ],
-                [
-                    "Employment Duration",
-                    "3 mos"
-                ],
-                [
-                    "Location",
-                    "Santa Clara, CA"
-                ],
-                [
-                    "More Info",
-                    "Working on OpenCL performance modeling in Graphics Compiler Team"
-                ]
-            ],
-            [
-                "Intern",
-                [
-                    "Company Name",
-                    "FutureWei Technologies"
-                ],
-                [
-                    "Dates Employed",
-                    "Jun 2015 - Aug 2015"
-                ],
-                [
-                    "Employment Duration",
-                    "3 mos"
-                ],
-                [
-                    "Location",
-                    "Santa Clara, CA"
-                ],
-                [
-                    "More Info",
-                    "Working on performance tuning for ROS (runs of slots) memory allocator of Android in Compiler Team."
-                ]
-            ]
-        ]
-    },
     "Dwarkadas, Sandhya": {
         "status": "success",
         "Education": [
@@ -524,7 +251,7 @@
                 "Chair",
                 [
                     "Company Name",
-                    "University of Rochester · Full-time"
+                    "University of Rochester \u00b7 Full-time"
                 ],
                 [
                     "Dates Employed",
@@ -543,7 +270,7 @@
                 "Invited Professor",
                 [
                     "Company Name",
-                    "EPFL (École polytechnique fédérale de Lausanne)"
+                    "EPFL (\u00c9cole polytechnique f\u00e9d\u00e9rale de Lausanne)"
                 ],
                 [
                     "Dates Employed",
@@ -723,7 +450,7 @@
         "status": "success",
         "Education": [
             [
-                "Università degli Studi di Bari",
+                "Universit\u00e0 degli Studi di Bari",
                 [
                     "Degree Name",
                     "PhD"
@@ -747,7 +474,7 @@
                 "Teaching Faculty",
                 [
                     "Company Name",
-                    "University of Rochester · Full-time"
+                    "University of Rochester \u00b7 Full-time"
                 ],
                 [
                     "Dates Employed",
