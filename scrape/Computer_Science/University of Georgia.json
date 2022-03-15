@@ -1,0 +1,222 @@
+{
+    "Ismailcem Budak Arpinar": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Prof.",
+                [
+                    "Company Name",
+                    "University of Georgia"
+                ]
+            ]
+        ]
+    },
+    "Brad Barnes": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of Georgia",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2011"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lecturer in Computer Science",
+                [
+                    "Company Name",
+                    "University of Georgia"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 9 mos"
+                ],
+                [
+                    "Location",
+                    "Athens, GA"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Muskingum University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 - Jul 2013"
+                ],
+                [
+                    "Employment Duration",
+                    "2 yrs"
+                ],
+                [
+                    "Location",
+                    "New Concord, Ohio"
+                ],
+                [
+                    "More Info",
+                    "I work in a small department (2 total CS professors), so I have the opportunity to teach a wide range of CS courses."
+                ]
+            ]
+        ]
+    },
+    "Suchendra M. Bhandarkar": {
+        "status": "success",
+        "Education": [
+            [
+                "Syracuse University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1985 - 1989"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Phi Kappa Phi, Phi Beta Delta, IEEE, ACM, AAAI, SPIE"
+                ]
+            ],
+            [
+                "Syracuse University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1983 - 1985"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Phi Kappa Phi, Phi Beta Delta"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Bombay",
+                [
+                    "Degree Name",
+                    "B.Tech"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978 - 1983"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Computer Science",
+                [
+                    "Company Name",
+                    "The University of Georgia"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1989 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "32 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Athens, Georgia"
+                ],
+                [
+                    "More Info",
+                    "Research and teaching in Computer Vision, Machine Learning and Multimedia Systems."
+                ]
+            ]
+        ]
+    },
+    "Liming Cai": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor, Computer Science",
+                [
+                    "Company Name",
+                    "University of Georgia"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "10 yrs 8 mos"
+                ],
+                [
+                    "Location",
+                    "Athens, Georgia Area"
+                ]
+            ]
+        ]
+    },
+    "Michael Cotterell": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Prashant Doshi": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Shelby H. Funk": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Le Guan": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Mario Guimaraes": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Bill Hollingsworth": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Maria Hybinette": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    }
+}

@@ -2,7 +2,7 @@
 from __future__ import unicode_literals
 from bs4 import BeautifulSoup
 import requests
-import sys
+import sys, os, time, signal
 from googlesearch import search
 def parse_school_name(name):
     # The type of variable name is 'str' while type(" university wikipedia") is unicode
@@ -19,7 +19,6 @@ def parse_school_name(name):
             heading = soup.find("h1", {"id": "firstHeading"})
             result = heading.text.strip()
             return result
-
 # We can not output variable in unicode type in print statement or write to file, so we have to encode it.
 result = parse_school_name(sys.argv[1])
 if result == None:

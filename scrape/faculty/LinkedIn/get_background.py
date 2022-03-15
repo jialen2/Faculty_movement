@@ -1,6 +1,15 @@
 from errno import EDQUOT
 import json
 import re
+import os
+import math
+from curses.ascii import isdigit
+from time import time
+from datetime import datetime
+
+from numpy import mat
+
+current_directory = os.path.dirname(os.path.realpath(__file__))
 
 # extract experience from the parsed html
 def get_experience_with_tags(html):
@@ -41,6 +50,7 @@ def get_experience_with_tags(html):
                 else:
                     cur_education.append(line.strip())
     return res
+
 
 
 def get_education_with_tags(html):
@@ -91,23 +101,154 @@ def get_education_with_tags(html):
                         cur_education.append(line)
     return res
 
+def isValidDate(data_str):
+    found = False
+    for i in range(3,len(data_str)):
+        num_str = data_str[i-3:i+1]
+        num_start = num_str[0:2]
+        if (num_start == "19" or num_start == "20") and isdigit(num_str[2]) and isdigit(num_str[3]):
+            found = True
+    return found
+
+def read_month_info_from_file():
+    months = {}
+    with open(current_directory+"/../../../Month_Info", "r") as input:
+        for line in input:
+            month, num = line.split(",")
+            months[month] = int(num)
+    return months
+
+# given a string in the form of "Jan 2019", return its (year, month) formatted result like (2019, 1)
+def parse_time_string(timeStr):
+    timeStr = timeStr.strip()
+    splittedTime = timeStr.split(" ")
+    year = -1
+    month = -1
+    present = "Present"
+    # if we got two part in the timeStr, try to find month in each part.
+    if len(splittedTime) == 2:
+        months = read_month_info_from_file()
+        for timeInfo in splittedTime:
+            num = -1
+            for m in months:
+                if m in timeInfo or m.lower() in timeInfo:
+                    num = months[m]
+            if num == -1:
+                year = int(timeInfo)
+            else:
+                month = num
+    elif len(splittedTime) == 1:
+        if present in timeStr or present.lower() in timeStr:
+            year = datetime.now().year
+            month = datetime.now().month
+        else:
+            year = int(timeStr)
+    else:
+        print("Find malformed Data")
+    # If we don't find month info, we assume month is June
+    if month == -1:
+        return (year, 6)
+    else:
+        return (year, month)
+
+# Sample input: "Feb 2019 - Dec 2020"
+# Return: [(2019, 2), (2020, 12)]
+# Sample input: "Feb 2019"
+# Return: [(2019, 2), (2022, 3)] -> current time
+def trim_time(time):
+    slashes = ["–", "-", "―", "‐"]
+    for slash in slashes:
+        if slash in time:
+            startTime, endTime = time.split(slash)
+            startTime = parse_time_string(startTime)
+            endTime = parse_time_string(endTime)
+            return [startTime, endTime]
+    time = parse_time_string(time)
+    currentTime = (datetime.now().year, datetime.now().month)
+    return [time, currentTime]
+
+# Return 1 if firstInterval is before the second one
+# Return -1 if firstInterval is after the second one
+# Return 0 if they are the same
+def compare_time(firstTime, secondTime):
+    if firstTime[0] < secondTime[0]:
+        return 1
+    elif firstTime[0] > secondTime[0]:
+        return -1
+    elif firstTime[1] < secondTime[0]:
+        return 1
+    elif firstTime[1] > secondTime[0]:
+        return -1
+    else:
+        return 0
+
+# Given [[(2019, 2), (2020, 12)], [(2020, 8), (2021, 3)], [(2018, 2), (2018, 7)]], return "Feb 2018 - Mar 2021"
+def merge_time_interval(timeIntervals):
+    startTime = (math.inf, math.inf)
+    endTime = (-math.inf, -math.inf)
+    for interval in timeIntervals:
+        result = compare_time(interval[0], startTime)
+        if result == 1:
+            startTime = interval[0]
+        result = compare_time(interval[1], endTime)
+        if result == -1:
+            endTime = interval[1]
+    return [startTime, endTime]
+
+# Given 1, return Jan
+def convertMonthNumToStr(num):
+    monthsMap = read_month_info_from_file()
+    for key, val in monthsMap.items():
+        if val == num:
+            return key
+    return None
+
+# Given [(2019, 2), (2020, 12)], return "Feb 2019 - Dec 2020"
+def convertIntervalFromNumToStr(numInterval):
+    startTime = convertMonthNumToStr(numInterval[0][1]) + " " + str(numInterval[0][0])
+    endTime = convertMonthNumToStr(numInterval[1][1]) + " " + str(numInterval[1][0])
+    return startTime + " - " + endTime
+
 def add_tag_to_experience_list(curr_experience):
     new_experience_list = []
+    timeIntervals = []
     for i in range(len(curr_experience)):
         curr_info = curr_experience[i]
-        if i == 0:
-            new_experience_list.append(curr_info)
-        if i == 1:
-            new_experience_list.append(["Company Name", curr_info])
-        elif i == 2:
-            time_info = curr_info.split("·")
-            new_experience_list.append(["Dates Employed", time_info[0].strip()])
-            if len(time_info) > 1:
-                new_experience_list.append(["Employment Duration", time_info[1].strip()])
-        elif i == 3:
-            new_experience_list.append(["Location", curr_info])
-        elif i == 4:
-            new_experience_list.append(["More Info", curr_info])
+        if isValidDate(curr_info):
+            time = curr_info.split("·")[0].strip()
+            timeInterval = trim_time(time)
+            timeIntervals.append(timeInterval)
+    companyName = ""
+    position = ""
+    if len(timeIntervals) > 1:
+        companyName = curr_experience[0].strip()
+    else:
+        position = curr_experience[0]
+        companyName = curr_experience[1].split('·').strip()
+    if position != "":
+        new_experience_list.append(position)
+    new_experience_list.append(["Company Name", companyName])
+    finalTimeInterval = merge_time_interval(timeIntervals)
+    intervalStr = convertIntervalFromNumToStr(finalTimeInterval)
+    new_experience_list.append(["Dates Employed", intervalStr])
+    if len(timeIntervals) == 1:
+        new_experience_list.append(["Location", curr_experience[3]])
+        new_experience_list.append(["More Info", curr_experience[4]])          
+    # for i in range(len(curr_experience)):
+    #     curr_info = curr_experience[i]
+    #     if i == 0:
+    #         new_experience_list.append(curr_info)
+    #     if i == 1:
+    #         new_experience_list.append(["Company Name", curr_info])
+    #     elif i == 2:
+    #         time_info = curr_info.split("·")
+    #         new_experience_list.append(["Dates Employed", time_info[0].strip()])
+    #         if len(time_info) > 1:
+    #             new_experience_list.append(["Employment Duration", time_info[1].strip()])
+    #     elif i == 3:
+    #         new_experience_list.append(["Location", curr_info])
+    #     elif i == 4:
+    #         new_experience_list.append(["More Info", curr_info])
     return new_experience_list
 
 def get_experience_without_tags(html):
@@ -127,6 +268,8 @@ def get_experience_without_tags(html):
                     to_ret.append(new_experience_list)
                     curr_experience = []
             line = line.strip()
+            if "logo" in line:
+                continue
             if len(line) > 0 and line[0] != '<' and line not in curr_experience:
                 curr_experience.append(line)
             # if 'aria-hidden="true"' in line and 'class="visually-hidden"' in line:

@@ -17,6 +17,7 @@ def find(university, department):
     possibleURLs = []
     query = university + ' ' + department
     url = 'https://www.google.com/search?q=' + query.replace(' ', '+').replace('/', "%2F").replace('–', '') + '+faculty'
+    print(url)
     req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0', 'Referer': 'https://www.google.com/'})
     with urllib.request.urlopen(req) as response:
         r = response.read()
@@ -32,6 +33,7 @@ def find(university, department):
             link = i[7:].split('&amp')[0]
             link = urllib.parse.unquote(link)
             possibleURLs.append(link)
+    print(possibleURLs)
 
     # for i in possibleURLs:
     #     print(i)

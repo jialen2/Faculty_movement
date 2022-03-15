@@ -1,232 +1,789 @@
-Massachusetts Institute of Technology,4.943844
-University of Illinois Urbana-Champaign,4.857564
-The Johns Hopkins University,3.775533
-Harvard University,2.652268
-University of Utah,2.266184
-North Carolina State University,2.247389
-University of Virginia,2.157985
-Carnegie Mellon University,2.102825
-Arizona State University,2.085984
-University of Wollongong,2.075190
-University of Pennsylvania,2.065031
-University of Louisville,1.960210
-Michigan State University,1.700559
-Boston University,1.600253
-Korea Advanced Institute of Science and Technology,1.590180
-University of California, Berkeley,1.536248
-University of Rochester,1.433020
-University of Colorado Boulder,1.355337
-American University,1.352349
-University of Southern California,1.313290
-University of California, Irvine,1.280287
-University of Florida,1.196546
-Princeton University,1.164993
-University of Maryland,1.146694
-Rensselaer Polytechnic Institute,1.132119
-Purdue University,1.036060
-Brown University,1.016823
-University of California, Santa Barbara,0.999621
-The Hebrew University of Jerusalem,0.996160
-University of Massachusetts Amherst,0.831319
-Columbia University in the City of New York,0.819523
-National Technical University of Athens,0.812037
-University of North Carolina at Charlotte,0.796300
-New York University,0.733292
-UC San Diego,0.633735
-Penn State University,0.623570
-UC Irvine,0.616862
-University at Buffalo,0.611516
-University of Wisconsin-Madison,0.594992
-Cornell University,0.589818
-The University of British Columbia,0.561683
-University of Waterloo,0.560452
-University of Tsukuba,0.546576
-Politecnico di Torino,0.531910
-Rutgers University,0.529491
-University of Minnesota,0.474587
-UC Santa Barbara,0.459602
-Georgia Institute of Technology,0.457554
-Virginia Tech,0.449346
-Texas Tech University,0.448877
-Southern Methodist University,0.447324
-Stanford University,0.442301
-Rice University,0.433617
-University of Idaho,0.423812
-University of Michigan,0.417646
-École Polytechnique,0.407772
-Stony Brook University,0.391233
-University of Arizona,0.384250
-University of California, Los Angeles,0.380234
-University of Connecticut,0.374622
-University of North Carolina at Chapel Hill,0.374571
-University of Michigan - School of Information,0.370370
-Dartmouth College,0.366834
-Shanghai Jiao Tong University,0.364871
-Weizmann Institute of Science,0.352727
-Old Dominion University,0.338267
-The London School of Economics and Political Science (LSE),0.334447
-Northeastern University,0.317017
-University of California, San Diego,0.316966
-University of Delaware,0.315141
-Auburn University,0.315141
-Boston College Carroll School of Management,0.314427
-KU Leuven,0.312221
-University of Washington,0.311578
-University of Cambridge,0.311282
-Indian Institute of Technology, Kanpur,0.307021
-The University of Texas at Austin,0.301868
-Michigan State University - Eli Broad College of Business,0.297881
-Tulane University,0.294773
-Drexel University,0.293442
-UCL,0.293442
-Indiana University Bloomington,0.293442
-Karlsruhe Institute of Technology (KIT),0.290870
-Washington University in St. Louis,0.281625
-University of Calgary,0.278252
-University at Albany, SUNY,0.266448
-Texas A&amp;M University,0.264202
-Beijing University of Posts and Telecommunications,0.254100
-Swarthmore College,0.249195
-Pierre and Marie Curie University,0.242443
-University of Toronto,0.239176
-Northwestern University,0.226235
-Syracuse University,0.224282
-University of Tehran,0.223351
-Huazhong University of Science and Technology,0.223351
-Eastern Mediterranean University,0.223351
-Tsinghua University,0.222052
-Bar-Ilan University,0.217656
-University of Kaiserslautern,0.216835
-Mississippi State University,0.214564
-University of Massachusetts Lowell,0.212504
-Technion - Israel Institute of Technology,0.209778
-Loyola Law School, Los Angeles,0.204078
-Tufts University,0.201505
-Keck Graduate Institute,0.201505
-University of Nebraska–Lincoln,0.200626
-Seoul National University,0.198155
-Yale University,0.197761
-Columbia Engineering,0.194494
-West Virginia University,0.194494
-Ecole normale supérieure,0.194494
-Vanderbilt University,0.194494
-Tarbiat Modares University,0.194494
-Western Illinois University,0.194494
-EPFL (École polytechnique fédérale de Lausanne),0.182842
-Universidade de São Paulo,0.182842
-Beijing Jiaotong University,0.182842
-University of Pretoria/Universiteit van Pretoria,0.182842
-Case Western Reserve University,0.182842
-University of New Orleans,0.182842
-Beijing Institute of Technology,0.182842
-University of Rome Tor Vergata,0.182842
-Università degli Studi di Genova,0.182842
-Lancaster University,0.168706
-Emory University,0.168706
-Valencia College,0.164706
-KTH Royal Institute of Technology,0.159132
-Columbia College Chicago,0.153078
-Simon Fraser University,0.153078
-William &amp; Mary,0.149811
-Lehigh University,0.149811
-Southern Illinois University,0.149811
-Virginia Union University,0.149811
-University of New Hampshire,0.149811
-TU Bergakademie Freiberg,0.149811
-The University of Kansas,0.149811
-University of Chicago,0.147578
-University of Alberta,0.134917
-University of Maryland, College Park,0.134917
-Fudan University,0.133499
-Colgate University,0.128066
-University of Pittsburgh,0.113934
-Yonsei University,0.113934
-Indian Institute of Technology, Bombay,0.105129
-American University of Beirut,0.105129
-University POLITEHNICA of Bucharest,0.105129
-Universidad Politécnica de Madrid,0.105129
-St. Stephen's College, Delhi,0.105129
-University of Science and Technology of China,0.105129
-Beihang University,0.105129
-Kendriya Vidyalaya,0.105129
-Valdosta State University,0.105129
-National University of Singapore,0.105129
-Nanjing University of Information Science and Technology,0.105129
-Full Sail University,0.105129
-Alexandria University,0.105129
-The University of Tulsa,0.105129
-Iowa State University,0.105129
-Punjab Engineering College,0.105129
-Universidad Católica de Córdoba,0.105129
-Sharif University of Technology,0.105129
-Sungkyunkwan University,0.105129
-Konkuk University,0.105129
-Zhejiang University,0.105129
-Indian Institute of Technology, Madras,0.105129
-Park University,0.105129
-Morehead State University,0.105129
-West Virginia Wesleyan College,0.105129
-Bilkent University,0.105129
-Waseda University,0.105129
-University of Technology Sydney,0.105129
-The University of Bonn,0.105129
-University of Wisconsin Oshkosh,0.105129
-Wesleyan University,0.105129
-The George Washington University,0.105129
-Universitat Politècnica de Catalunya,0.105129
-Western Michigan University,0.105129
-Williams College,0.105129
-ESIEE PARIS,0.105129
-Purchase College, SUNY,0.105129
-Stevens Institute of Technology,0.105129
-Wright State University,0.105129
-University of Zagreb/Sveuciliste u Zagrebu,0.105129
-Kansas State University,0.105129
-Southeast University,0.105129
-Boğaziçi University,0.105129
-Tuskegee University,0.105129
-Ludwig-Maximilians-Universität München,0.105129
-University of Isfahan,0.105129
-Louisiana Tech University,0.105129
-Birla Institute of Technology and Science, Pilani,0.105129
-National Taiwan University,0.105129
-University of Iowa,0.105129
-Grove City College,0.105129
-University of Houston,0.105129
-Christopher Newport University,0.105129
-University of South Carolina,0.105129
-University of Oxford,0.105129
-ETH Zürich,0.105129
-Imperial College London,0.105129
-Santa Clara University,0.105129
-Queens College,0.105129
-University of Otago,0.105129
-Worcester Polytechnic Institute,0.105129
-Lawrence University,0.105129
-China Medical University,0.105129
-The University of Edinburgh,0.105129
-Cairo University,0.105129
-Reed College,0.105129
-Miami University,0.105129
-McGill University,0.105129
-Columbia University,0.105129
-University of Texas at Austin,0.105129
-California Institute of Technology,0.105129
-KAIST,0.105129
-Florida Atlantic University,0.105129
-Temple University,0.105129
-Osaka University,0.105129
-University of Advancing Technology,0.105129
-Southern New Hampshire University,0.105129
-University of Vermont,0.105129
-George Washington University,0.105129
-City University of New York,0.105129
-University of Tennessee,0.105129
-University of Zaragoza,0.105129
-Air Force Institute of Technology,0.105129
-Elizabeth City State University,0.105129
-Clemson University,0.105129
-Baylor University,0.105129
-Tel Aviv University,0.105129
-Pennsylvania State University,0.105129
-University of Notre Dame,0.105129
+Massachusetts Institute of Technology,5.708802
+University of California, Berkeley,4.250472
+Stanford University,3.628328
+Carnegie Mellon University,2.879542
+University of Illinois Urbana-Champaign,2.658915
+Cornell University,1.961226
+University of Pennsylvania,1.917402
+University of Washington,1.551033
+Brown University,1.384129
+Columbia University,1.377723
+Georgia Tech,1.320902
+University of Texas at Austin,1.275702
+Harvard University,1.234458
+Princeton University,1.232171
+University of California, Los Angeles,1.226754
+University of California, Irvine,1.197751
+Northwestern University,1.085550
+University of Michigan,1.021828
+University of Wisconsin–Madison,1.014046
+University of Maryland, College Park,1.007386
+Vanderbilt University,0.946334
+North Carolina State University,0.904205
+Stony Brook University,0.846249
+Duke University,0.824614
+Purdue University,0.810427
+Johns Hopkins University,0.801705
+University of North Carolina at Chapel Hill,0.773076
+University of Colorado Boulder,0.765348
+University of Massachusetts Amherst,0.742294
+California Institute of Technology,0.699514
+University of Utah,0.669416
+Boston University,0.642517
+Rutgers University,0.633617
+University of Virginia,0.630076
+University,0.614077
+University of California, San Diego,0.606784
+Kellogg School of Management,0.586390
+University of Minnesota,0.583001
+University of Chicago,0.563965
+Yale University,0.553590
+University of Southern California,0.549687
+Arizona State University,0.531131
+University of California, Santa Barbara,0.497647
+Washington University in St. Louis,0.495273
+Brandeis University,0.471025
+Pennsylvania State University,0.465636
+University of Illinois Chicago,0.465202
+Dartmouth College,0.461258
+Rice University,0.439601
+New York University,0.432189
+Washington State University,0.423408
+Grand Valley State University,0.391105
+University of Florida,0.385454
+Victoria University of Wellington,0.373959
+University of Central Florida,0.358396
+École Polytechnique Fédérale de Lausanne,0.354006
+University of California, Berkeley School of Information,0.350503
+University of Toronto,0.349708
+University of Texas at Arlington,0.349136
+University of Cambridge,0.329737
+Michigan State University,0.310255
+Tufts University,0.304273
+Texas A&M University,0.301056
+Syracuse University,0.294342
+University of Nebraska–Lincoln,0.291346
+Clemson University,0.282462
+Horace H. Rackham School of Graduate Studies,0.272976
+ETH Zurich,0.267676
+Lehigh University,0.260099
+University of Oxford,0.254933
+University of Iowa,0.252844
+Ohio State University,0.252555
+University of Cyprus,0.250769
+Instituto Superior Técnico,0.248500
+A. James Clark School of Engineering,0.248500
+University of Rochester,0.240397
+University of Delaware,0.230146
+Hebrew University of Jerusalem,0.222673
+University at Buffalo,0.222190
+Northeastern University,0.218871
+Imperial College London,0.211173
+University of Pittsburgh,0.209611
+Virginia Tech,0.209249
+Newcastle University,0.207425
+KU Leuven,0.202123
+University of Edinburgh,0.201684
+Drexel University,0.201084
+Free University of Berlin,0.189757
+West Virginia University,0.187684
+University of the Amazon,0.185893
+University of British Columbia,0.183033
+Technion – Israel Institute of Technology,0.178625
+University of New Mexico,0.167737
+University of Waterloo,0.163359
+Colorado State University,0.161720
+Kansas State University,0.161586
+University of North Carolina at Charlotte,0.159164
+University College London,0.157667
+Case Western Reserve University,0.157399
+American University,0.154557
+University of California, Davis,0.151242
+Technical University of Kaiserslautern,0.149557
+University of Bologna,0.145931
+National University of Singapore,0.145106
+University of Notre Dame,0.144791
+Indian Institute of Science,0.144683
+University of Arizona,0.144606
+KAIST,0.144218
+McGill University,0.142644
+Tsinghua University,0.142179
+Harvard Medical School,0.141371
+Iowa State University,0.139444
+Stanford University School of Medicine,0.138541
+IIT Bombay,0.133789
+College of William & Mary,0.133313
+Sungkyunkwan University,0.133145
+University of Tennessee,0.131674
+George Mason University,0.130899
+University of California, Santa Cruz,0.129091
+Delft University of Technology,0.127030
+Weizmann Institute of Science,0.126066
+Worcester Polytechnic Institute,0.123581
+Oregon State University,0.123221
+Peking University,0.120644
+Saarland University,0.119612
+UCLA Graduate School of Education and Information Studies,0.119294
+Rensselaer Polytechnic Institute,0.116364
+École normale supérieure (Paris),0.112791
+IIT Kanpur,0.108560
+University of Louisville,0.107397
+KTH Royal Institute of Technology,0.103231
+City University of New York,0.102304
+Georgetown University,0.099531
+Nanyang Technological University,0.097547
+Simon Fraser University,0.096579
+Stevens Institute of Technology,0.092341
+University of Missouri,0.091545
+University of Manchester,0.089216
+University of California, Riverside,0.088696
+George Washington University,0.088547
+Utrecht University,0.087957
+Colorado School of Mines,0.087897
+Chatham University,0.087692
+University of Technology Sydney,0.086070
+IIT Kharagpur,0.085003
+London School of Economics,0.084704
+University of Georgia,0.081674
+University of North Dakota,0.081665
+Emory University,0.080261
+Northwestern University Pritzker School of Law,0.080182
+Portland State University,0.078877
+University of Rhode Island,0.078079
+University of Alberta,0.078020
+Rochester Institute of Technology,0.077984
+Institute of technology,0.077952
+Polytechnic University of Turin,0.077554
+Johannes Kepler University Linz,0.077429
+Tata Memorial Centre,0.077292
+University of Idaho,0.076199
+Rutgers University–Newark,0.076126
+Indiana University Bloomington,0.075669
+University of Texas at San Antonio,0.074597
+Chapman University,0.074554
+Stanford Graduate School of Business,0.073954
+Capital University,0.073954
+Mälardalen University College,0.073893
+Medical University of South Carolina,0.073134
+Auburn University,0.072509
+Texas Woman's University,0.071821
+Carroll School of Management,0.071762
+Bar-Ilan University,0.070694
+University of Massachusetts Dartmouth,0.070680
+University at Albany, SUNY,0.070238
+Florida Atlantic University,0.069349
+International university,0.068798
+National Technical University of Athens,0.068475
+University of Science and Technology of China,0.067767
+Birla Institute of Technology and Science, Pilani,0.067767
+University of Alabama,0.067253
+Galvanize (software company),0.066629
+North Carolina A&T State University,0.066349
+Lancaster University,0.065825
+Tulane University,0.065133
+St. John's University (New York City),0.065046
+Flinders University,0.064792
+Max Planck Institute for Informatics,0.064690
+Seton Hall University,0.064569
+Sun Yat-sen University,0.064534
+California State University, Northridge,0.064469
+Pepperdine University,0.064469
+Western New England University,0.064464
+Amherst College,0.064464
+Chinese University of Hong Kong,0.064323
+University of Calgary,0.064227
+Czech Technical University in Prague,0.063779
+University of California,0.063757
+Open University,0.063573
+Johns Hopkins School of Medicine,0.062731
+University of San Francisco,0.062499
+Eastern Michigan University,0.062233
+University of Information Science and Technology "St. Paul The Apostle",0.062208
+Wright State University,0.062165
+Max Planck Institute for Intelligent Systems,0.061924
+University of Oregon,0.061848
+DePauw University,0.061588
+University of Tsukuba,0.061510
+University of Advancing Technology,0.061356
+Toyota Technological Institute at Chicago,0.061339
+Freed–Hardeman University,0.061034
+University of Wyoming,0.060888
+School of Visual Arts,0.060116
+Northeastern University School of Law,0.060092
+National and Kapodistrian University of Athens,0.060000
+Technical University of Dortmund,0.059809
+University of Missouri–St. Louis,0.059504
+Saint Mary's College of California,0.059263
+Harvard–MIT Program in Health Sciences and Technology,0.059046
+U.S. Air Force Test Pilot School,0.059046
+York College of Pennsylvania,0.058993
+Western Illinois University,0.058766
+Muğla University,0.058474
+Friends University,0.058474
+Tamil Nadu Veterinary and Animal Sciences University,0.058427
+Free University of Bozen-Bolzano,0.057424
+Eli Broad College of Business,0.057239
+Huazhong University of Science and Technology,0.056799
+Macquarie University,0.056795
+University of Basel,0.056734
+SRM Institute of Science and Technology,0.056669
+Seattle University,0.056539
+University of Illinois College of Law,0.055938
+Stephen Wolfram,0.055833
+University of Texas at Dallas,0.055573
+Technical University of Košice,0.055567
+Southern Illinois University,0.055500
+Wesleyan University,0.055497
+King Abdullah University of Science and Technology,0.055411
+Phillips University,0.055409
+Harvard T.H. Chan School of Public Health,0.055369
+Chalmers University of Technology,0.055329
+University of Miami,0.055270
+Illinois Institute of Technology,0.055222
+University of Würzburg,0.054784
+University of Erlangen–Nuremberg,0.054624
+Toyota Technological Institute,0.054379
+List of state and territorial universities in the United States,0.054346
+University of Cincinnati,0.054238
+Polytechnic University of Milan,0.054192
+IIT Madras,0.053588
+Emerson College,0.053474
+Ohio University,0.053460
+Howard University,0.053267
+University of Ottawa,0.053262
+Boston College,0.052921
+Chuo University,0.052921
+Wuhan University,0.052807
+Uniformed Services University of the Health Sciences,0.052807
+St. Edward's University,0.052478
+Rockefeller University,0.052441
+University of Colorado Denver,0.052426
+Pohang University of Science and Technology,0.052086
+University of Helsinki,0.051822
+Technical University of Munich,0.051798
+Post University,0.051527
+University of North Texas,0.051507
+University of North Carolina at Greensboro,0.051418
+Ben-Gurion University of the Negev,0.051241
+Lamar University,0.051183
+Florida International University,0.050699
+University of Tehran,0.050394
+University of Liverpool,0.050314
+Cranfield University,0.050054
+Adelphi University,0.049911
+Wang Institute of Graduate Studies,0.049375
+Wharton School of the University of Pennsylvania,0.049277
+Bilkent University,0.048957
+University of California, Merced,0.048785
+Istanbul Technical University,0.048389
+Binghamton University,0.048389
+University of Vermont,0.048389
+Loyola University Chicago,0.048247
+Argosy University,0.048247
+University of Tennessee at Chattanooga,0.048092
+Kennesaw State University,0.048004
+Sharif University of Technology,0.047815
+Karlsruhe Institute of Technology,0.047737
+Mississippi State University,0.047717
+Clarkson University,0.047328
+Tel Aviv University,0.047256
+Colorado State University–Global Campus,0.047250
+University of Central Florida College of Business Administration,0.046866
+Jawaharlal Nehru University,0.046432
+University of the Chinese Academy of Sciences,0.046432
+Sichuan University,0.046432
+University of Southern Denmark,0.046432
+Institute of Software, Chinese Academy of Sciences,0.046432
+University of Burgundy,0.046432
+University of Tulsa,0.046432
+Guru Ghasidas Vishwavidyalaya,0.046432
+Aalto University,0.046432
+Tarbiat Modares University,0.046432
+Polytechnic University of Catalonia,0.046432
+École Polytechnique,0.046432
+University of Queensland,0.046432
+Carleton College,0.046432
+Albert Einstein College of Medicine,0.046432
+Bemidji State University,0.046432
+Monmouth University,0.046432
+University of Victoria,0.046432
+Kwantlen Polytechnic University,0.045624
+Hofstra University,0.045538
+Hokkaido University,0.045538
+Northwestern Health Sciences University,0.045166
+Sorbonne University,0.044783
+Aarhus University,0.044783
+Loyola Marymount University,0.044783
+United States Navy Strike Fighter Tactics Instructor program,0.044720
+Indiana University–Purdue University Indianapolis,0.044720
+Eötvös Loránd University,0.044720
+University of Canterbury,0.044494
+Jiwaji University,0.044494
+Harvey Mudd College,0.044427
+Marian University (Indiana),0.044427
+New College of Florida,0.044427
+Missouri University of Science and Technology,0.044241
+University of Wisconsin–Milwaukee,0.044241
+American Business and Technology University,0.044241
+University of Alabama at Birmingham,0.043938
+Thompson Rivers University,0.043938
+Jagiellonian University,0.043653
+Pratt Institute,0.043653
+University of Rome Tor Vergata,0.043653
+University of Warsaw,0.043653
+University of Freiburg,0.043653
+South China University of Technology,0.043653
+University of Cape Town,0.043653
+University of Pretoria,0.043653
+College of Staten Island,0.043653
+Central China Normal University,0.043653
+Federal University of Minas Gerais,0.043653
+University of Tokyo,0.043653
+University of Bari,0.043653
+Ismail Qemali University of Vlorë,0.043653
+Savannah College of Art and Design,0.043653
+University of Connecticut,0.043631
+Oregon Health & Science University,0.043631
+Harvard Law School,0.043519
+Cardiff University,0.043176
+Korea University,0.042982
+LAB University of Applied Sciences,0.042478
+Hampshire College,0.042444
+Singapore Management University,0.042444
+Cheyney University of Pennsylvania,0.042444
+New Jersey Institute of Technology,0.042444
+University of Salerno,0.042194
+University of South Dakota,0.042194
+MIT Sloan School of Management,0.042072
+University of Sussex,0.042072
+Linnaeus University,0.042072
+Cairo University,0.042026
+University of Otago,0.042026
+ESIEE Paris,0.042026
+Northern Arizona University,0.041825
+Ajou University,0.041825
+Grenoble Institute of Technology,0.041792
+Alliance University,0.041687
+University of Toulouse,0.041687
+University of Southampton,0.041586
+Keck Graduate Institute,0.041586
+Moscow State University,0.040751
+Florida State University,0.040751
+ICT University,0.040699
+Eindhoven University of Technology,0.040596
+Beijing University of Posts and Telecommunications,0.040596
+University of Sydney,0.040596
+Oglethorpe University,0.040596
+University of Zurich,0.040513
+Oral Roberts University,0.040513
+York University,0.040299
+Pädagogische Hochschule Schwäbisch Gmünd,0.040233
+Winthrop University,0.040192
+Swarthmore College,0.040187
+Montana State University,0.040187
+Universidad Nacional del Sur,0.040187
+Muskingum University,0.040187
+Alexandru Ioan Cuza University,0.040187
+Bennington College,0.040187
+University of Memphis,0.039868
+Vassar College,0.039868
+University of the Western Cape,0.039861
+Rose–Hulman Institute of Technology,0.039861
+Ghent University,0.039861
+ITMO University,0.039861
+Hachinohe Gakuin University,0.039861
+Keio University,0.039861
+McMaster University,0.039861
+Louisiana Tech University,0.039604
+Appalachian State University,0.039604
+Vrije Universiteit Amsterdam,0.039469
+Himachal Pradesh University,0.039432
+Yaşar University,0.039257
+LUT University,0.039257
+School of the Art Institute of Chicago,0.039203
+Monash University,0.039203
+Hong Kong University of Science and Technology,0.038986
+French Institute for Research in Computer Science and Automation,0.038644
+University of Bremen,0.038583
+University of Nevada, Reno,0.038449
+University of Warwick,0.038437
+San Jose State University,0.038137
+American University of Armenia,0.038034
+Olympic College,0.038029
+University of Maryland, Baltimore County,0.038029
+University of Innsbruck,0.038025
+Tongji University,0.037821
+Southern Methodist University,0.037821
+University of Agder,0.037821
+UCLA Anderson School of Management,0.037745
+California Institute of the Arts,0.037745
+Nanjing University,0.037745
+Holy Names University,0.037745
+University of Massachusetts Lowell,0.037745
+Fiji National University,0.037404
+Fudan University,0.036914
+Surugadai University,0.036582
+New York University Abu Dhabi,0.036582
+Central European University,0.036582
+List of aerospace engineering schools,0.036321
+Humboldt University of Berlin,0.036250
+Yonsei University,0.036238
+Concordia University,0.036124
+Brock University,0.035820
+New Mexico State University,0.035765
+University of Amsterdam,0.035765
+Western University,0.035765
+Truman State University,0.035765
+Jerash University,0.035765
+Technische Universität Darmstadt,0.035765
+Southern New Hampshire University,0.035765
+Ryerson University,0.035765
+Georgia State University,0.035765
+Austin Community College District,0.035765
+Air Force Institute of Technology,0.035765
+Claflin University,0.035765
+King Fahd University of Petroleum and Minerals,0.035765
+Michigan Technological University,0.035765
+Freiberg University of Mining and Technology,0.035765
+Teachers College, Columbia University,0.035606
+Dalhousie University,0.035154
+Murray State University,0.035154
+Sapienza University of Rome,0.035154
+Beijing Jiaotong University,0.035021
+Santa Clara University,0.035021
+Budapest University of Technology and Economics,0.035021
+University of São Paulo,0.035021
+Oklahoma State University–Stillwater,0.035021
+École des ponts ParisTech,0.034965
+Palm Beach State College,0.034925
+University of Mary Washington,0.033994
+University of Hong Kong,0.033905
+Valencia College,0.033632
+Regis University,0.033186
+University of Oklahoma,0.033136
+Chinese Culture University,0.033136
+Northeast Forestry University,0.033009
+Middle East Technical University,0.032672
+Daido University,0.032646
+Mount Mercy University,0.032508
+Bentley University,0.032410
+Wilfrid Laurier University,0.032408
+IIT Delhi,0.032209
+Johnson & Wales University,0.032209
+Bethel University (Indiana),0.032209
+Teikyo University,0.032001
+University of Orléans,0.031871
+Technical University of Berlin,0.031871
+University of Bonn,0.031871
+The New School,0.031794
+University of Nevada, Las Vegas,0.031563
+Vienna University of Economics and Business,0.031516
+University of Padua,0.030943
+EAFIT University,0.030594
+Beihang University,0.030239
+New York Academy of Art,0.029365
+Shanghai Jiao Tong University,0.029240
+Olin College,0.029240
+National Taiwan University,0.029240
+University of Kansas,0.029212
+Zhejiang University,0.027423
+University of Maryland Global Campus,0.025098
+Allegheny College,0.025098
+North Park University,0.025098
+University of St. Thomas (Minnesota),0.025098
+Middlebury College,0.025098
+University of Electronic Science and Technology of China,0.025098
+Monterrey Institute of Technology and Higher Education,0.025098
+University of Ulm,0.025098
+Chennai Mathematical Institute,0.025098
+not found,0.025098
+East China Normal University,0.025098
+Sabancı University,0.025098
+Waseda University,0.025098
+University of Wisconsin–Oshkosh,0.025098
+Singapore University of Technology and Design,0.025098
+Houghton College,0.025098
+IIT Roorkee,0.025098
+Webster University,0.025098
+Seoul National University,0.025098
+The College at Brockport, State University of New York,0.025098
+Ocean University of China,0.025098
+Shandong University,0.025098
+Bangalore Institute of Technology,0.025098
+Beijing Forestry University,0.025098
+Hanyang University,0.025098
+Vistula University,0.025098
+PES University,0.025098
+Colvin Taluqdars' College,0.025098
+Southeast University,0.025098
+Florida Institute of Technology,0.025098
+Queens College, City University of New York,0.025098
+Hebei Normal University,0.025098
+Jadavpur University,0.025098
+Campion College,0.025098
+Dalian University of Technology,0.025098
+Osnabrück University,0.025098
+University of Patras,0.025098
+Aristotle University of Thessaloniki,0.025098
+Evergreen State College,0.025098
+Boğaziçi University,0.025098
+High School Affiliated to Fudan University,0.025098
+Maret School,0.025098
+St. Columba's School, Delhi,0.025098
+Colby College,0.025098
+Macalester College,0.025098
+Odense University,0.025098
+University College Cork,0.025098
+Pomona College,0.025098
+Lexington High School (Massachusetts),0.025098
+Supélec,0.025098
+Nankai University,0.025098
+Williams College,0.025098
+Technical University of Valencia,0.025098
+National Institute of Technology Calicut,0.025098
+University of Richmond,0.025098
+Southwest Jiaotong University,0.025098
+Chestnut Hill College,0.025098
+Earlham College,0.025098
+National Chiao Tung University,0.025098
+Staffordshire University,0.025098
+Yeshiva University,0.025098
+Calvin University,0.025098
+Champlain Valley Union High School,0.025098
+Kendriya Vidyalaya Sangathan,0.025098
+Nanjing University of Information Science and Technology,0.025098
+Full Sail University,0.025098
+Claremont McKenna College,0.025098
+IIT Guwahati,0.025098
+Wake Forest University,0.025098
+Stephen F. Austin High School (Austin, Texas),0.025098
+University of Arkansas,0.025098
+Arab Academy for Science, Technology and Maritime Transport,0.025098
+Oberlin College,0.025098
+Delhi University,0.025098
+State University of New York at Purchase,0.025098
+University of Wisconsin–Eau Claire,0.025098
+Visvesvaraya National Institute of Technology Nagpur,0.025098
+Hanoi University of Science and Technology,0.025098
+University of Hawaiʻi at Mānoa,0.025098
+Northeastern University (China),0.025098
+University of Zagreb,0.025098
+State University of New York,0.025098
+Rani Durgavati Vishwavidyalaya,0.025098
+University of Crete,0.025098
+Smith College,0.025098
+University of Macedonia,0.025098
+University of Texas at El Paso,0.025098
+University of Oldenburg,0.025098
+FH Aachen,0.025098
+University of Auckland,0.025098
+Seaholm High School,0.025098
+University of Ioannina,0.025098
+Duquesne University,0.025098
+Bronx High School of Science,0.025098
+National Institute of Technology Karnataka,0.025098
+University of Adelaide,0.025098
+Watchung Hills Regional High School,0.025098
+United States Air Force Academy,0.025098
+List of universities in Austria,0.025098
+Bursa Technical University,0.025098
+Cooper Union,0.025098
+IIT (BHU) Varanasi,0.025098
+Savitribai Phule Pune University,0.025098
+University of Isfahan,0.025098
+Australian National University,0.025098
+EOI Business School,0.025098
+University of Deusto,0.025098
+California Polytechnic State University, San Luis Obispo,0.025098
+Saratoga High School (California),0.025098
+Hefei University,0.025098
+DePaul University,0.025098
+American University of Beirut,0.025098
+California State University, Dominguez Hills,0.025098
+Saint Joseph's University,0.025098
+Politehnica University of Bucharest,0.025098
+Technical University of Madrid,0.025098
+Ulrich von Hutten,0.025098
+Queen's University,0.025098
+University of Liège,0.025098
+College of Engineering, Pune,0.025098
+Slovak University of Technology in Bratislava,0.025098
+Brigham Young University,0.025098
+Netaji Subhas University of Technology,0.025098
+Utah State University,0.025098
+Gjøvik University College,0.025098
+Amador Valley High School,0.025098
+TU Dresden,0.025098
+University of Leeds,0.025098
+University of Ljubljana,0.025098
+St. Peter's College, Agra,0.025098
+Bauhaus University, Weimar,0.025098
+Northeastern State University,0.025098
+Bangladesh University of Engineering and Technology,0.025098
+Fu Foundation School of Engineering and Applied Science,0.025098
+University of New South Wales,0.025098
+Staples High School,0.025098
+Ridgewood High School (New Jersey),0.025098
+Charles University,0.025098
+Peter the Great St. Petersburg Polytechnic University,0.025098
+Junior college,0.025098
+Veermata Jijabai Technological Institute,0.025098
+Sonoma State University,0.025098
+Indian Institute of Technology (Indian School of Mines), Dhanbad,0.025098
+Tianjin University,0.025098
+University of the Witwatersrand,0.025098
+San Joaquin Delta College,0.025098
+Hangzhou Foreign Languages School,0.025098
+Johnson C. Smith University,0.025098
+University of Toledo,0.025098
+University of Belgrade,0.025098
+Albany State University,0.025098
+University of Vienna,0.025098
+University of Tübingen,0.025098
+University of Regina,0.025098
+Emmaus High School,0.025098
+St. George's University,0.025098
+University of Michigan College of Engineering,0.025098
+Lincoln-Sudbury Regional High School,0.025098
+Belmont High School (Massachusetts),0.025098
+University of Mainz,0.025098
+Punjab Engineering College,0.025098
+Catholic University of Córdoba,0.025098
+Konkuk University,0.025098
+Choate Rosemary Hall,0.025098
+National Institute of Technology, Warangal,0.025098
+Tennessee Technological University,0.025098
+Siena College,0.025098
+Florida A&M University,0.025098
+Moscow Institute of Physics and Technology,0.025098
+MIT World Peace University,0.025098
+Government College of Engineering & Textile Technology Serampore,0.025098
+United States Naval Academy,0.025098
+Shattuck-Saint Mary's,0.025098
+Luther College (Iowa),0.025098
+Trinity University (Texas),0.025098
+Birla High School,0.025098
+University of Moratuwa,0.025098
+National University of Computer and Emerging Sciences,0.025098
+Berklee College of Music,0.025098
+Fordham University,0.025098
+University of Navarra,0.025098
+Aurora University,0.025098
+University of Nottingham,0.025098
+University of Stuttgart,0.025098
+Xiamen University,0.025098
+University of Calicut,0.025098
+Banaras Hindu University,0.025098
+RMIT University,0.025098
+Chaparral High School (Arizona),0.025098
+Haldia Institute of Technology,0.025098
+Grove City College,0.025098
+University of Houston,0.025098
+Union University,0.025098
+University of South Carolina,0.025098
+State University of New York at Plattsburgh,0.025098
+Lawrence University,0.025098
+China Medical University,0.025098
+Amirkabir University of Technology,0.025098
+Reed College,0.025098
+Miami University,0.025098
+Bloomsburg University of Pennsylvania,0.025098
+Palo Alto High School,0.025098
+Ohio Wesleyan University,0.025098
+Ithaca College,0.025098
+King's College London,0.025098
+Cardinal Newman High School (West Palm Beach, Florida),0.025098
+Baltimore Polytechnic Institute,0.025098
+Pritzker School of Medicine,0.025098
+University of Hanover,0.025098
+University of Buenos Aires,0.025098
+Ain Shams University,0.025098
+College of Engineering, Guindy,0.025098
+Minnesota State University, Mankato,0.025098
+Jilin University,0.025098
+West Springfield High School (Virginia),0.025098
+Lawrenceville School,0.025098
+Polytechnique Montréal,0.025098
+Beijing University of Technology,0.025098
+West Virginia Wesleyan College,0.025098
+Radboud University Nijmegen,0.025098
+Lake Forest College,0.025098
+Fairfield University,0.025098
+Jordan University of Science and Technology,0.025098
+William Jewell College,0.025098
+City University,0.025098
+Lawrence Technological University,0.025098
+Old Dominion University,0.025098
+Osaka University,0.025098
+Colorado Mesa University,0.025098
+Marist College,0.025098
+Azerbaijan State Oil and Industry University,0.025098
+University of Arkansas at Little Rock,0.025098
+De Montfort University,0.025098
+National University of Health Sciences,0.025098
+Paris Diderot University,0.025098
+Coastal Carolina University,0.025098
+University of Mannheim,0.025098
+Tusculum University,0.025098
+Reichman University,0.025098
+Zhejiang University of Technology,0.025098
+Wichita State University,0.025098
+Gandhi Institute of Technology and Management,0.025098
+Wayne State University,0.025098
+University of Western Ontario,0.025098
+University of Maine,0.025098
+University of Alabama in Huntsville,0.025098
+Villanova University,0.025098
+California State Polytechnic University, Pomona,0.025098
+Université libre de Bruxelles,0.025098
+University of Bern,0.025098
+Marquette University,0.025098
+University of North Carolina Wilmington,0.025098
+Manhattan College,0.025098
+Ateneo de Manila University,0.025098
+University of the Arts (Philadelphia),0.025098
+Northern Virginia Community College,0.025098
+California Baptist University,0.025098
+University of South Florida,0.025098
+Soka University of America,0.025098
+Brescia University,0.025098
+Ruhr University Bochum,0.025098
+National Defense University,0.025098
+University of Genoa,0.025098
+Thomas Jefferson University,0.025098
+Park University,0.025098
+Leipzig University,0.025098
+Private university,0.025098
+Baldwin Wallace University,0.025098
+Bu-Ali Sina University,0.025098
+Westminster College (Pennsylvania),0.025098
+University of Zaragoza,0.025098
+Lindenwood University,0.025098
+Troy University,0.025098
+Wellesley College,0.025098
+University of Essex,0.025098
+University of Malaya,0.025098
+Fort Valley State University,0.025098
+Kyushu University,0.025098
+Johnson University,0.025098
+Bridgewater College,0.025098
+Palo Alto University,0.025098
+Newberry College,0.025098
+Tennessee State University,0.025098
+Louisiana State University,0.025098
+Texas Tech University,0.025098
+Baylor University,0.025098
+Durham University,0.025098
+Baylor College of Medicine,0.025098
+University College Dublin,0.025098
+Fairmont State University,0.025098
+Uppsala University,0.025098
+BRAC University,0.025098
+Simón Bolívar University (Venezuela),0.025098
+American Public University System,0.025098
+Trine University,0.025098
+Grand Canyon University,0.025098
+Saxion University of Applied Sciences,0.025098
+Biola University,0.025098
+James Madison University,0.025098
+Temple University,0.025098

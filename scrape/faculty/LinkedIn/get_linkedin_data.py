@@ -52,11 +52,11 @@ def setupWebDriver(chromedriver_path):
         driver.quit()
         time.sleep(30)
     option = webdriver.ChromeOptions()
-    option.add_argument(' — incognito')
-    option.add_argument('--no - sandbox')
-    option.add_argument('--window - size = 1420, 1080')
-    option.add_argument('--headless')
-    option.add_argument('--disable - gpu')
+    # option.add_argument(' — incognito')
+    # option.add_argument('--no - sandbox')
+    # option.add_argument('--window - size = 1420, 1080')
+    # option.add_argument('--headless')
+    # option.add_argument('--disable - gpu')
 
     # option.add_argument('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45')
     option.add_argument('Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664S.45 Safari/537.36')
@@ -84,7 +84,7 @@ def login(linkedin_email, linkedin_password):
 SwitchAccuntThrehold = 20
 
 # List of useable linked Account for scraping.
-linkedInAccounts = ["ioter908@outlook.com" ]
+linkedInAccounts = ["sanguo908@outlook.com"]
 
 def long_sleep_if_needed(countNumScrape):
     a = 1
@@ -124,6 +124,8 @@ def scrape_data_from_linkedin(faculty_file_path, major, chromedriver_path):
     linkedInAccountIndex = -1
     university_list = os.listdir(faculty_file_path)
     for university in university_list:
+        if university != "University of Illinois, Chicago":
+            continue
         filePath = faculty_file_path+"/"+university
         faculty_list = []
         if filePath.split("/")[-1] == ".DS_Store":
@@ -207,6 +209,7 @@ def get_background_on_linkedin(university, faculty_name, store_file_path):
         print('cannot find linkedin page for {}'.format(faculty_name))
         return
     driver.get(url)
+    time.sleep(1000000)
     time.sleep(2)
     # print(BeautifulSoup(html_string, 'html.parser').prettify())
     html = parse_html_string(str(driver.page_source))

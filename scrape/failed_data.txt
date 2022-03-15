@@ -19,3 +19,10 @@
 "Kristin Tufte," "Portland State University" <class 'AssertionError'>
 "Jia Zhang" "Southern Methodist University" <class 'AssertionError'>
 "Karthik Dantu" "University at Buffalo, SUNY" <class 'AssertionError'>
+"Karthik Dantu" "University at Buffalo, SUNY" <class 'json.decoder.JSONDecodeError'>
+"A. Erdem Sariyuce" "University at Buffalo, SUNY" <class 'AssertionError'>
+"Ramalingam Sridhar" "University at Buffalo, SUNY" <class 'AssertionError'>
+"Mohammad Torabi Konjin" "Washington State University" <class 'AssertionError'>
+"Roger Wood" "Washington State University" <class 'AssertionError'>
+"Ashley Ater-Kranov" "Washington State University" <class 'AssertionError'>
+"Daniel Bernstein" "University of Illinois, Chicago" <class 'selenium.common.exceptions.NoSuchWindowException'>

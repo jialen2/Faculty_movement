@@ -1,19 +1,53 @@
 # -*- coding: utf-8 -*-
+from glob import glob
 import json
+import signal
 from posixpath import split
-import sys
+import sys, csv
 import os
+from time import sleep
 from turtle import done
 from bs4 import BeautifulSoup
 import subprocess
-import requests
 from googlesearch import search
 import atexit
+pid = os.getpid()
+def handler(signum, frame):
+    exit_handler()
+    os.kill(os.getpid(), signal.SIGTERM)
+signal.signal(signal.SIGINT, handler)
 dataset_directory = os.getcwd() + "/../scrape/Computer_Science"
-edu_to_edu = {}
-edu_to_work = {}
-work_to_work = {}
-general = {}
+def read_faculty_data_from_file_to_map(file_path):
+    map = {}
+    with open(file_path) as input:
+        count_index = 0
+        csv_reader = csv.reader(input, delimiter=",")
+        for line in csv_reader:
+            if count_index == 0:
+                count_index += 1
+                continue
+            first_attr = line[0]
+            second_attr = line[1]
+            num = int(line[2])
+            if first_attr in map:
+                map[first_attr][second_attr] = map[first_attr].get(second_attr, 0) + num
+            else:
+                map[first_attr] = {}
+                map[first_attr][second_attr] = num
+    return map
+            
+def read_faculty_data_from_file():
+    edu_to_work = read_faculty_data_from_file_to_map("./result/normal/edu_to_work.csv")
+    edu_to_edu = read_faculty_data_from_file_to_map("./result/normal/edu_to_edu.csv")
+    work_to_work = read_faculty_data_from_file_to_map("./result/normal/work_to_work.csv")
+    general = read_faculty_data_from_file_to_map("./result/normal/general.csv")
+    return edu_to_edu, edu_to_work, work_to_work, general
+
+
+
+edu_to_edu, edu_to_work, work_to_work, general = read_faculty_data_from_file()
+
+    
 
 # Dict to store all name to its normalized version, for saving time 
 normalized_name = {}
@@ -36,9 +70,6 @@ def exit_handler():
     with open("./result/normal/general.csv", "w") as f:
         f.write("head_node,tail_node,weight\n")
         write_edge_to_file(general, f)
-    with open("done_scraping_files.txt", "w") as output:
-        for file in done_scraping_files:
-            output.write(file + "\n")
 def split_dash(s):
     if "–" in s:
         return s.split("–")
@@ -100,7 +131,7 @@ with open("done_scraping_files.txt", "r") as input:
     for line in input:
         done_scraping_files.append(line.replace("\n", ""))
 
-for filename in os.listdir(dataset_directory):        
+for filename in os.listdir(dataset_directory):      
     if not filename[-5:] == ".json" or filename in done_scraping_files:
         continue
     with open(os.path.join(dataset_directory, filename), 'r') as f:
@@ -126,7 +157,7 @@ for filename in os.listdir(dataset_directory):
                         # Find the earliest start time of an experience
                         if isinstance(curr_prop, list) and curr_prop[0] == "Dates Employed":
                             times = split_dash(curr_prop[1])
-                            start_time = min(start_time, int((times[0]).strip().split(" ")[-1]))
+                            start_time = min(start_time, int(times[0].strip().split(" ")[-1]))
                     if curr_company == school_name:
                         related = 1
                     # if curr company is invalid or no valid start_time provided, skip
@@ -200,6 +231,9 @@ for filename in os.listdir(dataset_directory):
                 continue  
     print(edu_to_work)
     done_scraping_files.append(filename)
+    with open("done_scraping_files.txt", "w") as output:
+        for file in done_scraping_files:
+            output.write(file + "\n")
 
 
 # print("num_prof:", count_prof)

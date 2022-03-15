@@ -408,5 +408,141 @@
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "Jia Zhang": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Chicago",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Activities and societies: IEEE Computer Society"
+                ]
+            ],
+            [
+                "Nanjing University",
+                [
+                    "Degree Name",
+                    "MS; BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Cruse C. and Marjorie F. Calahan Centennial Chair in Engineering, Professor",
+                [
+                    "Company Name",
+                    "Southern Methodist University · Full-time"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2020 - Present"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr 8 mos"
+                ],
+                [
+                    "Location",
+                    "Dallas, Texas, United States"
+                ],
+                [
+                    "More Info",
+                    "Dr. Jia Zhang is the Cruse C. and Marjorie F. Calahan Centennial Chair in Engineering, Professor of Department of Computer Science at Southern Methodist University. Her research interests emphasize the application of machine learning and information retrieval methods to tackle data science infrastructure problems, with a recent focus on scientific workflows, provenance mining, software discovery, knowledge graph, and interdisciplinary applications of all of these interests in the area of earth science. She has served as PI on grants worth over $5 Million."
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Carnegie Mellon University Silicon Valley"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Aug 2020"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 3 mos"
+                ],
+                [
+                    "Location",
+                    "NASA Research Park, Bldg. 23 (MS 23-11), P.O. Box 1, Moffett Field, CA 94035"
+                ]
+            ],
+            [
+                "Asociate Professor",
+                [
+                    "Company Name",
+                    "Northern Illinois University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2003 - May 2012"
+                ],
+                [
+                    "Employment Duration",
+                    "8 yrs 10 mos"
+                ],
+                [
+                    "Location",
+                    "DeKalb, IL"
+                ],
+                [
+                    "More Info",
+                    "Research; Teaching"
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "IBM T J Watson Research Center"
+                ],
+                [
+                    "Dates Employed",
+                    "2006"
+                ],
+                [
+                    "Employment Duration",
+                    "Less than a year"
+                ],
+                [
+                    "Location",
+                    "Research"
+                ]
+            ],
+            [
+                "Principal Consultant",
+                [
+                    "Company Name",
+                    "BEA Systems, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "2005 - 2006"
+                ],
+                [
+                    "Employment Duration",
+                    "1 yr"
+                ],
+                [
+                    "Location",
+                    "Lead enterprise software design and development; software engineering research focusing on fast prototyping"
+                ]
+            ]
+        ]
     }
 }
