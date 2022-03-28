@@ -1,9 +1,11 @@
+from dataclasses import dataclass
 from errno import EDQUOT
+from itertools import count
 import json
 import re
 import os
 import math
-from curses.ascii import isdigit
+from curses.ascii import isalpha, isdigit
 from time import time
 from datetime import datetime
 
@@ -22,8 +24,8 @@ def get_experience_with_tags(html):
         # sign of experience field
         if 'pv-entity__position-group-pager pv-profile-section__list-item ember-view' in line:
             education_area = True
-        if education_area:
-            print("found")
+        # if education_area:
+        #     print("Found Experience")
         if education_area:
             if line[:4] == '<img' or line[:3] == '<br' or line[:2] == '<!':
                 continue
@@ -63,8 +65,8 @@ def get_education_with_tags(html):
     for line in html:
         if 'pv-profile-section__list-item pv-education-entity pv-profile-section__card-item ember-view' in line:
             education_area = True
-        if education_area:
-            print("found")
+        # if education_area:
+        #     print("Found Education")
         if education_area:
             if line[:4] == '<img' or line[:3] == '<br' or line[:2] == '<!':
                 continue
@@ -101,12 +103,50 @@ def get_education_with_tags(html):
                         cur_education.append(line)
     return res
 
-def isValidDate(data_str):
+# Given "Sep 2019 - Feb 2021" Return ["Sep", "Feb"]
+def extractWords(dateStr):
+    wordList = []
+    word = ""
+    for char in dateStr:
+        if isalpha(""+char):
+            word += char
+        elif word != "":
+            wordList.append(word)
+            word = ""
+    return wordList
+
+def checkIfValidMonth(dateStr):
+    wordList = extractWords(dateStr)
+    monthsMap = read_month_info_from_file()
+    validWords = []
+    for key in monthsMap.keys():
+        validWords.append(key)
+    validWords.append("Present")
+    for word in wordList:
+        isValid = False
+        for key in monthsMap.keys():
+            if key == word or key.lower() == word:
+                isValid = True
+                break
+        if not isValid:
+            return False
+    return True
+                
+
+def isValidDate(dateStr):
+    # Maximum possible string: "Sep 2019 - Oct 2021"
+    if len(dateStr) > 19:
+        return False
+
+    # Given String like "Developed Quickshift, 2008", should return False
+    if not checkIfValidMonth(dateStr):
+        return False
+    
     found = False
-    for i in range(3,len(data_str)):
-        num_str = data_str[i-3:i+1]
-        num_start = num_str[0:2]
-        if (num_start == "19" or num_start == "20") and isdigit(num_str[2]) and isdigit(num_str[3]):
+    for i in range(3,len(dateStr)):
+        numStr = dateStr[i-3:i+1]
+        numStart = numStr[0:2]
+        if (numStart == "19" or numStart == "20") and isdigit(numStr[2]) and isdigit(numStr[3]):
             found = True
     return found
 
@@ -159,7 +199,8 @@ def trim_time(time):
     slashes = ["–", "-", "―", "‐"]
     for slash in slashes:
         if slash in time:
-            startTime, endTime = time.split(slash)
+            startTime = time.split(slash)[0]
+            endTime = time.split(slash)[1]
             startTime = parse_time_string(startTime)
             endTime = parse_time_string(endTime)
             return [startTime, endTime]
@@ -214,8 +255,8 @@ def add_tag_to_experience_list(curr_experience):
     timeIntervals = []
     for i in range(len(curr_experience)):
         curr_info = curr_experience[i]
-        if isValidDate(curr_info):
-            time = curr_info.split("·")[0].strip()
+        time = curr_info.split("·")[0].strip()
+        if isValidDate(time):
             timeInterval = trim_time(time)
             timeIntervals.append(timeInterval)
     companyName = ""
@@ -224,63 +265,52 @@ def add_tag_to_experience_list(curr_experience):
         companyName = curr_experience[0].strip()
     else:
         position = curr_experience[0]
-        companyName = curr_experience[1].split('·').strip()
+        companyName = curr_experience[1].split('·')[0].strip()
     if position != "":
         new_experience_list.append(position)
     new_experience_list.append(["Company Name", companyName])
     finalTimeInterval = merge_time_interval(timeIntervals)
-    intervalStr = convertIntervalFromNumToStr(finalTimeInterval)
-    new_experience_list.append(["Dates Employed", intervalStr])
+    if finalTimeInterval[0] != (math.inf, math.inf) and finalTimeInterval[1] != (-math.inf, -math.inf):
+        intervalStr = convertIntervalFromNumToStr(finalTimeInterval)
+        new_experience_list.append(["Dates Employed", intervalStr])
     if len(timeIntervals) == 1:
-        new_experience_list.append(["Location", curr_experience[3]])
-        new_experience_list.append(["More Info", curr_experience[4]])          
-    # for i in range(len(curr_experience)):
-    #     curr_info = curr_experience[i]
-    #     if i == 0:
-    #         new_experience_list.append(curr_info)
-    #     if i == 1:
-    #         new_experience_list.append(["Company Name", curr_info])
-    #     elif i == 2:
-    #         time_info = curr_info.split("·")
-    #         new_experience_list.append(["Dates Employed", time_info[0].strip()])
-    #         if len(time_info) > 1:
-    #             new_experience_list.append(["Employment Duration", time_info[1].strip()])
-    #     elif i == 3:
-    #         new_experience_list.append(["Location", curr_info])
-    #     elif i == 4:
-    #         new_experience_list.append(["More Info", curr_info])
+        if len(curr_experience) >= 4:
+            new_experience_list.append(["Location", curr_experience[3]])
+        if len(curr_experience) >= 5:
+            new_experience_list.append(["More Info", curr_experience[4]])          
     return new_experience_list
 
 def get_experience_without_tags(html):
     to_ret = []
     experience_area = False
     curr_experience = []
+    countIndex = 0
+    dataArea = False
     for line in html:
         if 'id="experience"' in line:
             experience_area = True
         # if experience_area:
-        #     print("found")
+        #     print("Found Experience")
         if experience_area:
             if 'experience_company_logo' in line:
-                found_experience = True
-                if curr_experience:
+                if curr_experience and countIndex != 0:
                     new_experience_list = add_tag_to_experience_list(curr_experience)
                     to_ret.append(new_experience_list)
-                    curr_experience = []
+                curr_experience = []
+                countIndex += 1
+            if 'aria-hidden="true"' in line:
+                dataArea = True
             line = line.strip()
             if "logo" in line:
                 continue
-            if len(line) > 0 and line[0] != '<' and line not in curr_experience:
+            if len(line) > 0 and line[0] != '<' and dataArea:
                 curr_experience.append(line)
-            # if 'aria-hidden="true"' in line and 'class="visually-hidden"' in line:
-            #     # mo = re.search(r"[<.*?>]*?(.+?)[<.*?>]*?", line)
-            #     mo = re.search(r"!---->(.+?)<", line)
-            #     curr_experience.append(mo.group(1))
+                dataArea = False
             if "</section>" in line:
-                if curr_experience:
+                if curr_experience and countIndex != 0:
                     new_experience_list = add_tag_to_experience_list(curr_experience)
                     to_ret.append(new_experience_list)
-                return to_ret[1:], experience_area                  
+                return to_ret, experience_area                  
     return [], experience_area
 
 def add_tag_to_education_list(curr_education):
@@ -308,7 +338,7 @@ def get_education_without_tags(html):
         if 'id="education"' in line:
             education_area = True
         # if experience_area:
-        #     print("found")
+        #     print("Found Education")
         if education_area:
             regex_for_indicator = re.search(r'alt=(.*?)logo', line)
             if regex_for_indicator:
@@ -338,7 +368,7 @@ def get_background_info(html):
         experience = get_education_with_tags(html)
     return (education, found_education), (experience, found_experience)
 
-# with open("./test_html_david", "r") as input:
+# with open("./David_Baquaee_Linkedin_after_parse.html", "r") as input:
 #     html_str_list = []
 #     for line in input:
 #         html_str_list.append(line)

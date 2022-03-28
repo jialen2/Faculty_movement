@@ -1,0 +1,1899 @@
+{
+    "Corey Baker": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Florida",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2015"
+                ],
+                [
+                    "More Info",
+                    "Corey E. Baker"
+                ]
+            ],
+            [
+                "University of Florida",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2012"
+                ]
+            ],
+            [
+                "California State University, Los Angeles",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering - Emphasis in Control Systems, Bioelectrical Engineering, Systems Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Masters Thesis titled: \"Design and Implementation of a Non-Linear Dynamical System Replicating Spring Buckling Behavior\". Conducted research in Brain-Body Dynamics Lab at the University of Southern California under Dr. Francisco Valero-Cuevas to use a linear motor in place of a spring to replicate the edge of instability using the duffing equation. The device can be used to measure the strength and dexterity of a patient’s hand and how much vision factors in when dexterity deteriorates."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Kentucky"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Lexington, Kentucky"
+                ]
+            ],
+            [
+                "CEO and President",
+                [
+                    "Company Name",
+                    "1 Degree Technologies, LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2014 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Newark, DE"
+                ],
+                [
+                    "More Info",
+                    "Corey is the creator of Low Energy Socially Cognizant (LESC) routing protocol and responsible for leading the direction of 1 Degree Technologies LLC. LESC is designed for efficient message delivery in mobile ad-hoc social networks. 1 Degree Technologies specializes in infrastructure-free networks for disaster relief and emergency response situations."
+                ]
+            ],
+            [
+                "Visiting Scholar",
+                [
+                    "Company Name",
+                    "USC Viterbi School of Engineering"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2017 - Dec 2017"
+                ],
+                [
+                    "Location",
+                    "Los Angeles, California"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of California, San Diego - Jacobs School of Engineering"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Dec 2017"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Florida"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2010 - Aug 2015"
+                ],
+                [
+                    "Location",
+                    "Gainesville, Florida Area"
+                ],
+                [
+                    "More Info",
+                    "Research Assistant in the Electrical and Computer Engineering Department at the University of Florida in the Wireless and Mobile (WAM) Systems Laboratory directed by Professor Janise McNair.  My current interests are in the area of Cyber Physical Systems particularly Wireless Sensor Networks and Social Networking."
+                ]
+            ]
+        ]
+    },
+    "James Brusuelas": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Cody Bumgardner": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Kentucky",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2017"
+                ],
+                [
+                    "More Info",
+                    "Dissertation Title: Contributions to Edge Computing : https://uknowledge.uky.edu/cs_etds/56/"
+                ]
+            ],
+            [
+                "University of Kentucky",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2009"
+                ],
+                [
+                    "More Info",
+                    "Show all 5 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of Kentucky College of Medicine"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Mar 2022"
+                ]
+            ],
+            [
+                "Senior Fellow Innovation",
+                [
+                    "Company Name",
+                    "Kentucky Council on Postsecondary Education (CPE)"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2021 - Mar 2022"
+                ]
+            ],
+            [
+                "Assistant Professor Of Computer Science (Joint)",
+                [
+                    "Company Name",
+                    "University of Kentucky"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2017 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Lexington, Kentucky Area"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of Kentucky"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2008 - Jul 2017"
+                ]
+            ],
+            [
+                "Director - Technical Services",
+                [
+                    "Company Name",
+                    "Netsource"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2001 - May 2002"
+                ],
+                [
+                    "Location",
+                    "Managed daily technical operations for a regional ISP.  Responsible for ISP redesign and update. Designed and was responsible for our statewide network."
+                ]
+            ]
+        ]
+    },
+    "Kenneth Calvert": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of Texas at Austin",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1979 - 1980"
+                ]
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "S.B."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science &amp; Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1975 - 1979"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Water polo (4-year letterman), swimming (3-year letterman), FINBoard, Lamba Chi Alpha"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of Kentucky Department of Computer Science"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1998 - Mar 2022"
+                ]
+            ],
+            [
+                "Division Director, Computer &amp; Network Systems",
+                [
+                    "Company Name",
+                    "National Science Foundation (NSF)"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2016 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Arlington, VA"
+                ],
+                [
+                    "More Info",
+                    "Supporting and catalyzing fundamental research in computer systems, networks, education and workforce development, security, and cyber-physical systems."
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Georgia Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1991 - Aug 1998"
+                ]
+            ],
+            [
+                "PhD Student",
+                [
+                    "Company Name",
+                    "University of Texas at Austin"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1984 - Jun 1991"
+                ]
+            ],
+            [
+                "Member of Technical Staff",
+                [
+                    "Company Name",
+                    "AT&amp;T Bell Laboratories, Holmdel NJ"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1979 - Jul 1984"
+                ],
+                [
+                    "Location",
+                    "Design and implementation of paperless network administration system; system engineering for DATAKIT switch"
+                ]
+            ]
+        ]
+    },
+    "Jin Chen": {
+        "status": "success",
+        "Education": [
+            [
+                "National University of Singapore",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2007"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: database group"
+                ]
+            ],
+            [
+                "Southeast University",
+                [
+                    "Degree Name",
+                    "Bachelor"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 1997"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of Kentucky"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Mar 2022"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Michigan State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2009 - Jun 2016"
+                ],
+                [
+                    "Location",
+                    "East Lansing, MI"
+                ],
+                [
+                    "More Info",
+                    "Machine learning, graph mining, network biology, imaging analysis, plant biology"
+                ]
+            ],
+            [
+                "Postdococtoral research fellow",
+                [
+                    "Company Name",
+                    "Carnegie Institution for Science, Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2006 - Aug 2009"
+                ],
+                [
+                    "Location",
+                    "Stanford, CA"
+                ],
+                [
+                    "More Info",
+                    "Designing new data mining algorithms, especially bi-clustering &amp; constrained frequent pattern mining algorithms, for microarray and ChIP-chip data analysis for protein function prediction; developing practical computational solutions for protein-protein interaction validation and protein functional module discovery"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "National University of Singapore"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2006 - Dec 2006"
+                ],
+                [
+                    "Location",
+                    "Singapore"
+                ],
+                [
+                    "More Info",
+                    "Providing a practical classification solution to predict the natural rupture of the intracerebral aneurysms"
+                ]
+            ],
+            [
+                "Software Developer / Team Leader",
+                [
+                    "Company Name",
+                    "State Grid Corporation of China"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1997 - Apr 2002"
+                ],
+                [
+                    "Location",
+                    "Nanjing, Jiangsu, China"
+                ],
+                [
+                    "More Info",
+                    "Team leader for the official automation system development; Algorithm designer for the web-based workflow applications; Framework constructor for the Internet &amp; Intranet services for electric power kernel operations; IBM Lotus Domino system super administrator to manage the 168 Domino servers &amp; 16,000 clients"
+                ]
+            ]
+        ]
+    },
+    "Fuhua (Frank) Cheng": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Qiang (Shawn) Cheng": {
+        "status": "success",
+        "Education": [
+            [
+                "Peking University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " MS, maths, applied maths and computer science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1996"
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of Kentucky"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Lexington, Kentucky Area"
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Biomedical Informatics and Computer Science"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Lexington, Kentucky Area"
+                ]
+            ],
+            [
+                "associate professor",
+                [
+                    "Company Name",
+                    "Southern Illinois University"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2012 - Mar 2022"
+                ]
+            ],
+            [
+                "Senior Research Scientist, Senior Researcher",
+                [
+                    "Company Name",
+                    "Siemens Medical, Siemens Corporate Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - Jun 2007"
+                ]
+            ]
+        ]
+    },
+    "Kevin Eby": {
+        "status": "success",
+        "Education": [
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "BSECE"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 - 1988"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Small Group Worship and Bible Study, Freshman Engineering Teaching Assistant"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "University of Kentucky"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Lexington, Kentucky, United States"
+                ],
+                [
+                    "More Info",
+                    "Instructor for department of Computer Science,  teaching introduction to programming for incoming students, teaching Software Engineering Theory for students preparing for external design projects with companies within the Industry Partners Association."
+                ]
+            ],
+            [
+                "Small Business Builder",
+                [
+                    "Company Name",
+                    "Mosquito Squad of Lexington"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2016 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Lexington, Kentucky Area"
+                ],
+                [
+                    "More Info",
+                    "Reducing the population of mosquitoes in your outdoor living space so that you can enjoy healthy outdoor lifestyles.  By building a local culture that can win the battle against mosquitoes, we are also helping to establish a global culture that can win the war against mosquitoes and the diseases that they carry."
+                ]
+            ],
+            [
+                "Administrator",
+                [
+                    "Company Name",
+                    "The Church at Tatesbrook"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1997 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Lexington, Kentucky"
+                ],
+                [
+                    "More Info",
+                    "Administration, Service, Finance, Maintenance of the facility that supports the people that meet weekly to encourage and build each other in Christ."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Lexmark"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Dec 2020"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "IBM"
+                ],
+                [
+                    "Dates Employed",
+                    "May 1988 - Mar 1991"
+                ]
+            ]
+        ]
+    },
+    "Zongming Fei": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Kentucky"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2000 - Jun 2017"
+                ]
+            ]
+        ]
+    },
+    "Raphael Finkel": {
+        "status": "success",
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ],
+            [
+                "University of Chicago",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " MAT, Mathematics, Mathematics Teacher Education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Kentucky"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1986 - Mar 2022"
+                ]
+            ],
+            [
+                "Visitor",
+                [
+                    "Company Name",
+                    "Surrey Morphology Group"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2016 - Jul 2016"
+                ],
+                [
+                    "Location",
+                    "Guidford, England"
+                ]
+            ],
+            [
+                "Co-President",
+                [
+                    "Company Name",
+                    "International Association of Yiddish Clubs"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Jun 2016"
+                ]
+            ],
+            [
+                "Visitor",
+                [
+                    "Company Name",
+                    "Cork Constraint Computation Centre"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2008 - Jun 2009"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Wisconsin"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1976 - Aug 1986"
+                ]
+            ]
+        ]
+    },
+    "Judy Goldsmith": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "Hunter High"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Kentucky"
+                ]
+            ],
+            [
+                "visiting professor",
+                [
+                    "Company Name",
+                    "University of Illinois at Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2006 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "James Griffioen": {
+        "status": "success",
+        "Education": [
+            [
+                "Liberty University",
+                [
+                    "Degree Name",
+                    "Photography"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1985 - 1987"
+                ]
+            ],
+            [
+                "Kalamazoo Valley Community College",
+                [
+                    "Degree Name",
+                    "Drafting and Design Technology/Technician"
+                ],
+                [
+                    "Field Of Study",
+                    " General"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Home repair",
+                [
+                    "Company Name",
+                    "Retired"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Home"
+                ],
+                [
+                    "More Info",
+                    "Total remodel"
+                ]
+            ],
+            [
+                "Terminal driver",
+                [
+                    "Company Name",
+                    "RSS Trailer repair"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2018 - Jan 2020"
+                ],
+                [
+                    "Location",
+                    "Target Distribution Center"
+                ],
+                [
+                    "More Info",
+                    "Spotting trailers"
+                ]
+            ]
+        ]
+    },
+    "Brent Harrison": {
+        "status": "success",
+        "Education": [
+            [
+                "North Carolina State University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2014"
+                ]
+            ],
+            [
+                "North Carolina State University",
+                [
+                    "Degree Name",
+                    "Master of Computer Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2011"
+                ]
+            ],
+            [
+                "Auburn University",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " English"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2008"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Kentucky"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2017 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Lexington, Kentucky Area"
+                ]
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "Georgia Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Jul 2017"
+                ],
+                [
+                    "Location",
+                    "Atlanta, Georgia"
+                ]
+            ],
+            [
+                "Machine Learning Intern",
+                [
+                    "Company Name",
+                    "Epic Games"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2014 - Aug 2014"
+                ],
+                [
+                    "Location",
+                    "Cary, North Carolina"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "North Carolina State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2009 - May 2014"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Auburn University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2007 - Aug 2008"
+                ]
+            ]
+        ]
+    },
+    "Nathan Jacobs": {
+        "status": "success",
+        "Education": [
+            [
+                "Washington University in St. Louis",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Computer vision; Video surveillance; Nonlinear optimization; Big data; Computational photography."
+                ]
+            ],
+            [
+                "University of Missouri-Columbia",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 2000"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Ultimate Frisbee, Engineering Ambassadors"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of Kentucky"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Mar 2022"
+                ]
+            ],
+            [
+                "Owner",
+                [
+                    "Company Name",
+                    "Multidomain Vision Research, LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2019 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Consulting and technical advising in computer vision, medical imaging, remote sensing, and deep learning."
+                ]
+            ],
+            [
+                "Visiting Research Scientist",
+                [
+                    "Company Name",
+                    "Orbital Insight"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 - Aug 2018"
+                ],
+                [
+                    "Location",
+                    "Mountain View, CA"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "Washington University in St. Louis"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2005 - Jun 2010"
+                ],
+                [
+                    "Location",
+                    "Developed algorithms for geolocating and geo-orienting widely-distributed cameras.  Part of this work was collecting and processing millions of images from hundreds of web cameras."
+                ]
+            ],
+            [
+                "Computer Vision Engineer (intern)",
+                [
+                    "Company Name",
+                    "ObjectVideo"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2008 - Aug 2008"
+                ],
+                [
+                    "Location",
+                    "Research into multi-object tracking and geographic data integration."
+                ]
+            ]
+        ]
+    },
+    "Jerzy Jaromczyk": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Kentucky",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Agricultural Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2020"
+                ]
+            ],
+            [
+                "Xavier University - Williams College of Business",
+                [
+                    "Degree Name",
+                    "Bachelor of Business Administration - BBA"
+                ],
+                [
+                    "Field Of Study",
+                    " Finance, General"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Cornell University"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2017 - Mar 2022"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "University of Kentucky"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Nov 2017"
+                ],
+                [
+                    "Location",
+                    "Lexington, Kentucky"
+                ]
+            ],
+            [
+                "Analyst",
+                [
+                    "Company Name",
+                    "Global Parametrics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 - Jun 2017"
+                ],
+                [
+                    "Location",
+                    "Lexington, Kentucky"
+                ]
+            ],
+            [
+                "Systems Analyst",
+                [
+                    "Company Name",
+                    "GLOBALAGRISK INC"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 - Jul 2016"
+                ],
+                [
+                    "Location",
+                    "Lexington, Kentucky"
+                ]
+            ],
+            [
+                "Programmer",
+                [
+                    "Company Name",
+                    "GLOBALAGRISK INC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2009 - Nov 2009"
+                ],
+                [
+                    "Location",
+                    "Lexington, Kentucky"
+                ]
+            ]
+        ]
+    },
+    "Ramakanth Kavuluru": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Kentucky",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2009"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0"
+                ]
+            ],
+            [
+                "Western Kentucky University",
+                [
+                    "Degree Name",
+                    "M.S"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2004"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0"
+                ]
+            ],
+            [
+                "Jawaharlal Nehru Technological University",
+                [
+                    "Degree Name",
+                    "Bachelor of Technology (B.Tech.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2002"
+                ],
+                [
+                    "More Info",
+                    "Grade: 83.2%"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of Kentucky"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 - Mar 2022"
+                ]
+            ],
+            [
+                "Postdoctoral Research Scientist",
+                [
+                    "Company Name",
+                    "Wright State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2009 - Jul 2011"
+                ],
+                [
+                    "Location",
+                    "conducting research in text mining and knowledge-based systems: information extraction, domain model generation, knowledge-base enhanced search and exploration of biomedical literature;  leading software development efforts in building a knowledge-base and using it to facilitate entity-relationship based search and exploration of biomedical articles."
+                ]
+            ]
+        ]
+    },
+    "Debby Keen": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Dakshnamoorthy (Mani) Manivannan": {
+        "status": "success",
+        "Education": [
+            [
+                "The Ohio State University",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1993"
+                ]
+            ],
+            [
+                "The Ohio State University",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 1997"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Senior Member, Association for the Computing Machinery (ACM)"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor of Computer Science",
+                [
+                    "Company Name",
+                    "University of Kentucky"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1998 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Lexington"
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "Indian Institute Technology, Kanpur"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2007 - Apr 2007"
+                ],
+                [
+                    "Location",
+                    "Kanpur, India"
+                ]
+            ],
+            [
+                "Teaching associate",
+                [
+                    "Company Name",
+                    "The Ohio State Univerirsty"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1992 - Jun 1997"
+                ]
+            ]
+        ]
+    },
+    "Neil Moore": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Yi Pike": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "A.B. Siddique": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Riverside",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 2017 - Jun 2021"
+                ],
+                [
+                    "More Info",
+                    "Natural Language Processing"
+                ]
+            ],
+            [
+                "Lahore University of Management Sciences",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2011"
+                ]
+            ],
+            [
+                "International Islamic University, Islamabad",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2007"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Kentucky"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Lexington, Kentucky, United States"
+                ],
+                [
+                    "More Info",
+                    "Natural Language Processing, Zero-shot Learning, Conversational AI"
+                ]
+            ],
+            [
+                "Graduate Student Researcher",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2017 - Jun 2021"
+                ],
+                [
+                    "Location",
+                    "Riverside, California"
+                ],
+                [
+                    "More Info",
+                    "Topic: Unsupervised and Zero-shot Learning for open-domain Natural Language Processing"
+                ]
+            ],
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "University of Management and Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2009 - Aug 2017"
+                ],
+                [
+                    "Location",
+                    "Lahore, Punjab, Pakistan"
+                ]
+            ]
+        ]
+    },
+    "Simone Silvestri": {
+        "status": "success",
+        "Education": [
+            [
+                "Imperial College London",
+                [
+                    "Degree Name",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2009"
+                ]
+            ],
+            [
+                "Sapienza Università di Roma",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of Kentucky"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Mar 2022"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Missouri S&amp;T"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2014 - Jul 2016"
+                ],
+                [
+                    "Location",
+                    "Rolla"
+                ]
+            ],
+            [
+                "Post-Doc Researcher",
+                [
+                    "Company Name",
+                    "Department of Computer Science and Engineering, Penn State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - Aug 2014"
+                ],
+                [
+                    "Location",
+                    "State College, Pennsylvania Area"
+                ]
+            ],
+            [
+                "Post Doc researcher",
+                [
+                    "Company Name",
+                    "Penn State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Mar 2022"
+                ]
+            ],
+            [
+                "Post-Doc Researcher",
+                [
+                    "Company Name",
+                    "Department of Computer Science University of Rome \"La Sapienza\""
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2009 - Dec 2012"
+                ],
+                [
+                    "Location",
+                    "Rome Area, Italy"
+                ]
+            ]
+        ]
+    },
+    "Jeffrey Talbert": {
+        "status": "success",
+        "Education": [
+            [
+                "Texas A&amp;M University"
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor and Division Chief",
+                [
+                    "Company Name",
+                    "University of Kentucky College of Medicine"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2020 - Mar 2022"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Kentucky"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2007 - Jun 2020"
+                ],
+                [
+                    "Location",
+                    "College of Pharmacy"
+                ]
+            ]
+        ]
+    },
+    "Mirek Truszczynski": {
+        "status": "success",
+        "Education": [
+            [
+                "Warsaw University of Technology",
+                [
+                    "Degree Name",
+                    "1973 - 1980"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Kentucky"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1984 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Lexington, KY, USA"
+                ]
+            ]
+        ]
+    },
+    "Xiaoqin (Jennifer) Wang": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Kentucky",
+                [
+                    "Degree Name",
+                    "Doctor of Medicine (M.D.)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2010"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Kentucky"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Mar 2022"
+                ]
+            ],
+            [
+                "Fellow",
+                [
+                    "Company Name",
+                    "University of Chicago Medicine"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 - Jun 2016"
+                ],
+                [
+                    "Location",
+                    "Chicago, IL"
+                ],
+                [
+                    "More Info",
+                    "Breast Imaging including screening and diagnostic mammography, tomosynthesis, breast ultrasound, breast MRI , and all breast imaging related procedures."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of Kentucky HealthCare"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2010 - Jun 2015"
+                ]
+            ]
+        ]
+    },
+    "Stephen Ware": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Grzegorz Wasilkowski": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Hana Khamfroush": {
+        "status": "success",
+        "Education": [
+            [
+                "Penn State University",
+                [
+                    "Degree Name",
+                    "Postdoc"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Member of Association of women in computer science (AWC) at Penn State"
+                ]
+            ],
+            [
+                "Faculdade de Engenharia da Universidade do Porto",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Telecommunications Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2014"
+                ],
+                [
+                    "More Info",
+                    "Grade: Graduated with summa cum laude (highest honor)"
+                ]
+            ],
+            [
+                "University of Kentucky"
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Kentucky"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Lexington, Kentucky Area"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Penn State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2015 - Dec 2017"
+                ]
+            ],
+            [
+                "PhD in Telecommunications Engineering-Electrical engieering Department",
+                [
+                    "Company Name",
+                    "University of Porto"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2009 - Nov 2014"
+                ],
+                [
+                    "Location",
+                    "Porto Area, Portugal"
+                ],
+                [
+                    "More Info",
+                    "Instituto de Telecomunicacoes (IT)"
+                ]
+            ],
+            [
+                "Research Visitor",
+                [
+                    "Company Name",
+                    "Aalborg University"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2014 - Jul 2014"
+                ],
+                [
+                    "Location",
+                    "Aalborg - Denmark"
+                ],
+                [
+                    "More Info",
+                    "Department of Electronic Systems"
+                ]
+            ],
+            [
+                "Research Visitor",
+                [
+                    "Company Name",
+                    "Aalborg University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2013 - Dec 2013"
+                ],
+                [
+                    "Location",
+                    "Aalborg"
+                ],
+                [
+                    "More Info",
+                    "Department of Electronic Systems"
+                ]
+            ]
+        ]
+    }
+}

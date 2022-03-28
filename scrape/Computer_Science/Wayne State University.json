@@ -1,0 +1,1761 @@
+{
+    "Suzan Arslanturk": {
+        "status": "success",
+        "Education": [
+            [
+                "Oakland University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2015"
+                ]
+            ],
+            [
+                "Oakland University",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2011"
+                ]
+            ],
+            [
+                "Baskent University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2008"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor of Computer Science",
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Greater Detroit Area"
+                ]
+            ],
+            [
+                "Healthcare Research Analyst",
+                [
+                    "Company Name",
+                    "Improvement Path Systems"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2014 - May 2017"
+                ],
+                [
+                    "Location",
+                    "Rochester, MI"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Özyeğin University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Jan 2017"
+                ],
+                [
+                    "Location",
+                    "Istanbul, Turkey"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Oakland University"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2011 - Apr 2014"
+                ],
+                [
+                    "Location",
+                    "Greater Detroit Area"
+                ],
+                [
+                    "More Info",
+                    "Index Estimation of the Medical, Epidemiological and Social Aspects of Aging Data."
+                ]
+            ]
+        ]
+    },
+    "Amiangshu Bosu": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of Alabama",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2015"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.93"
+                ]
+            ],
+            [
+                "The University of Alabama",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.9"
+                ]
+            ],
+            [
+                "Bangladesh University of Engineering and Technology",
+                [
+                    "Degree Name",
+                    "BSc."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2006"
+                ],
+                [
+                    "More Info",
+                    "Show all 5 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor Of Computer Science",
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Greater Detroit Area"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Southern Illinois University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2016 - Aug 2018"
+                ],
+                [
+                    "Location",
+                    "Carbondale, Illinois"
+                ]
+            ],
+            [
+                "Postdoctoral Associate",
+                [
+                    "Company Name",
+                    "Virginia Tech"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Dec 2015"
+                ],
+                [
+                    "Location",
+                    "Blacksburg, VA"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "University of Alabama"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2010 - Jul 2015"
+                ],
+                [
+                    "Location",
+                    "Tuscaloosa, Alabama Area"
+                ],
+                [
+                    "More Info",
+                    "My PhD dissertation is titled, \"Contemporary Peer Code Review Practices and Associated Benefits\". Many well-known software projects and companies use peer code review.  A large number of developers from those organizations practice code review. In my survey of these developers, the results showed that they spend about 10% of their time on code review. Thus, increasing the effectiveness of peer code review has the potential to have a great impact. Therefore, the goal of my dissertation is to understand and improve contemporary code review practices."
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 - Aug 2014"
+                ],
+                [
+                    "Location",
+                    "Redmond, WA, USA"
+                ],
+                [
+                    "More Info",
+                    "The goal of my project was to find the characteristics of useful code review comments. I applied machine learning techniques on data mined from software repositories to build a classifier for useful code review comments with very high precision and recall."
+                ]
+            ]
+        ]
+    },
+    "Marco Brocanelli": {
+        "status": "success",
+        "Education": [
+            [
+                "The Ohio State University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and computer engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2018"
+                ]
+            ],
+            [
+                "University of Rome Tor Vergata",
+                [
+                    "Degree Name",
+                    "Bachelor and Master degree in Control  Engineer"
+                ],
+                [
+                    "Field Of Study",
+                    " università degli studi di Roma Tor Vergata"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2010"
+                ],
+                [
+                    "More Info",
+                    "score: 110/110 summa cum laude"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Detroit, Michigan"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "The Ohio State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 - Aug 2018"
+                ]
+            ],
+            [
+                "Control Engineer - Research Scholar",
+                [
+                    "Company Name",
+                    "The Ohio State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2011 - May 2012"
+                ],
+                [
+                    "Location",
+                    "Hypersonic Vehicle Control"
+                ]
+            ],
+            [
+                "Visiting Scholar",
+                [
+                    "Company Name",
+                    "The Ohio State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2010 - Apr 2011"
+                ],
+                [
+                    "Location",
+                    "Hypersonic Vehicle Control"
+                ]
+            ]
+        ]
+    },
+    "Monica Brockmeyer": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics and Statistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 - 1999"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2006 - Mar 2022"
+                ]
+            ],
+            [
+                "Statistician",
+                [
+                    "Company Name",
+                    "Department of Veterans Affairs"
+                ],
+                [
+                    "Dates Employed",
+                    "May 1987 - Jun 1992"
+                ]
+            ]
+        ]
+    },
+    "Alberto Castro Hernandez": {
+        "status": "success",
+        "Education": [
+            [
+                "University of North Texas",
+                [
+                    "Degree Name",
+                    "Phd"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2015"
+                ],
+                [
+                    "More Info",
+                    "Instituto Tecnológico de Ciudad Madero logo"
+                ]
+            ],
+            [
+                "IEST Anáhuac",
+                [
+                    "Degree Name",
+                    "Bachelor of Computer Systems"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer systems"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2002"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Ecology group"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor of Teaching",
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2020 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Detroit, Michigan, United States"
+                ],
+                [
+                    "More Info",
+                    "Teaching:"
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "Oakland University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Aug 2020"
+                ],
+                [
+                    "Location",
+                    "Rochester, Michigan"
+                ],
+                [
+                    "More Info",
+                    "Teaching:"
+                ]
+            ],
+            [
+                "Visiting Assistant Professor",
+                [
+                    "Company Name",
+                    "Miami University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Jul 2019"
+                ],
+                [
+                    "Location",
+                    "Oxford, OH"
+                ],
+                [
+                    "More Info",
+                    "Teaching Computer Science courses:"
+                ]
+            ],
+            [
+                "Postdoctoral Research Fellow",
+                [
+                    "Company Name",
+                    "University of Michigan College of Engineering"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2017 - Aug 2017"
+                ],
+                [
+                    "Location",
+                    "Ann Arbor, Michigan"
+                ],
+                [
+                    "More Info",
+                    "Use linguistic and learning analytics features extracted from individual behavior data to implement machine learning algorithms to help in the prediction student performance."
+                ]
+            ],
+            [
+                "Visiting Research Scholar",
+                [
+                    "Company Name",
+                    "University of Michigan"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2016 - Dec 2016"
+                ],
+                [
+                    "Location",
+                    "Ann Arbor, Michigan"
+                ],
+                [
+                    "More Info",
+                    "Analyze database structure, then extract data according to the objectives of the project."
+                ]
+            ]
+        ]
+    },
+    "Zheng Dong": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of Texas at Dallas",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2019"
+                ]
+            ],
+            [
+                "University of Science and Technology of China",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Software Engineering"
+                ]
+            ],
+            [
+                "Wuhan University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Detroit, Michigan, United States"
+                ]
+            ]
+        ]
+    },
+    "Ming Dong": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Cincinnati",
+                [
+                    "Degree Name",
+                    "Ph. D."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2001"
+                ]
+            ],
+            [
+                "Shanghai Jiao Tong University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Automatic Control"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1995"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2002 - Mar 2022"
+                ]
+            ],
+            [
+                "Director",
+                [
+                    "Company Name",
+                    "Data Science and Business Analytics Program"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Sorin Draghici": {
+        "status": "success",
+        "Education": [
+            [
+                "University of St Andrews",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1995"
+                ],
+                [
+                    "More Info",
+                    "Liceul Matematica-Fizica Nr. 3"
+                ]
+            ],
+            [
+                "University POLITEHNICA of Bucharest",
+                [
+                    "Degree Name",
+                    "M.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering (Automatica)"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1996 - Mar 2022"
+                ]
+            ],
+            [
+                "President and CEO",
+                [
+                    "Company Name",
+                    "Advaita Bio"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Plymouth, MI"
+                ]
+            ],
+            [
+                "Director, Bioinformatics Core",
+                [
+                    "Company Name",
+                    "Karmanos Cancer Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2002 - Jun 2008"
+                ]
+            ],
+            [
+                "Project Manager",
+                [
+                    "Company Name",
+                    "BioDiscovery"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2000 - Jun 2001"
+                ]
+            ],
+            [
+                "Software engineer",
+                [
+                    "Company Name",
+                    "Olivetti"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1990 - Jun 1991"
+                ]
+            ]
+        ]
+    },
+    "Nathan Fisher": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ]
+            ]
+        ]
+    },
+    "Farshad Fotouhi": {
+        "status": "success",
+        "Education": [
+            [
+                "Michigan State University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ],
+            [
+                "Western Michigan University",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1982"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Dean, College of Engineering",
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1988 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Narendra Goel": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Daniel Grosu": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of Texas at San Antonio",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2003"
+                ]
+            ],
+            [
+                "The University of Texas at San Antonio",
+                [
+                    "Degree Name",
+                    "M.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2002"
+                ]
+            ],
+            [
+                "Gheorghe Asachi​ Technical University of Iași",
+                [
+                    "Degree Name",
+                    "Diploma in Engineering"
+                ],
+                [
+                    "Field Of Study",
+                    " Automatic Control and Industrial Informatics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1994"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2003 - Mar 2022"
+                ]
+            ],
+            [
+                "Assistant Lecturer",
+                [
+                    "Company Name",
+                    "Transilvania University of Brasov"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1994 - Jun 1999"
+                ]
+            ]
+        ]
+    },
+    "Zhizhong Han": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Jing Hua": {
+        "status": "success",
+        "Education": [
+            [
+                "Stony Brook University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2004"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2004 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Rhongho Jang": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Central Florida",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2018 - 2020"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0/4.0"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2020 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Detroit, Michigan, United States"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "University of Central Florida"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Aug 2020"
+                ]
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "Information Sciences Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2019 - Aug 2019"
+                ],
+                [
+                    "Location",
+                    "Marina del Rey, California"
+                ]
+            ]
+        ]
+    },
+    "Thaer Jayyousi": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Alexander Kotov": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2011"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Mar 2022"
+                ]
+            ],
+            [
+                "Post-Doctoral Fellow and Adjunct Assistant Professor",
+                [
+                    "Company Name",
+                    "Emory University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 - Jul 2013"
+                ],
+                [
+                    "Location",
+                    "Greater Atlanta Area"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Illinois at Urbana-Champaign"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2006 - Sep 2011"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2010 - Aug 2010"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Yahoo!"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2008 - Sep 2008"
+                ]
+            ]
+        ]
+    },
+    "Shiyong Lu": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Seyed Ziae Mousavi Mojab": {
+        "status": "success",
+        "Education": [
+            [
+                "Wayne State University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2020"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Member of ACM (Association for Computing Machinery)"
+                ]
+            ],
+            [
+                "Wayne State University",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2013"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Golden Key International Honor Society"
+                ]
+            ],
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "Bachelor of Science Engineering (BSE)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Computer Science Engineering - University of Michigan Ann arbor"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Lawrence Technological University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2018 - Mar 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2014 - Mar 2022"
+                ]
+            ],
+            [
+                "Adjunct Faculty",
+                [
+                    "Company Name",
+                    "ITT Technical Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2015 - Sep 2016"
+                ],
+                [
+                    "Location",
+                    "Canton, Michigan"
+                ],
+                [
+                    "More Info",
+                    "Teaching SD1240, SD1340, SD2520"
+                ]
+            ],
+            [
+                "Quality Rater &amp; Moderator",
+                [
+                    "Company Name",
+                    "Google Inc. (Through WorkForceLogic)"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2007 - Jun 2008"
+                ],
+                [
+                    "Location",
+                    "United States"
+                ],
+                [
+                    "More Info",
+                    "· Quality Rating and Evaluation"
+                ]
+            ],
+            [
+                "IT Manager",
+                [
+                    "Company Name",
+                    "IT Development Office"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2004 - Jun 2007"
+                ],
+                [
+                    "Location",
+                    "Iran"
+                ],
+                [
+                    "More Info",
+                    "· Installed and configured Domain Controller"
+                ]
+            ]
+        ]
+    },
+    "Thomas Palazzolo": {
+        "status": "success",
+        "Education": [
+            [
+                "Wayne State University",
+                [
+                    "Degree Name",
+                    "BSIE"
+                ],
+                [
+                    "Field Of Study",
+                    " MSIE, Industrial Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1969 - 1974"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Operations Director",
+                [
+                    "Company Name",
+                    "Smiths Power - PDI|ONYX|PolyPhaser|Transtector"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2014 - Apr 2015"
+                ],
+                [
+                    "Location",
+                    "Richmond, Virginia Area"
+                ],
+                [
+                    "More Info",
+                    "Retired April 2015 to pursue personal interests and enjoy life"
+                ]
+            ],
+            [
+                "Plant Mgr",
+                [
+                    "Company Name",
+                    "Lutron"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2007 - Jan 2014"
+                ]
+            ],
+            [
+                "Plant Manager",
+                [
+                    "Company Name",
+                    "Diebold"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2002 - Jun 2007"
+                ]
+            ],
+            [
+                "Plant Manager",
+                [
+                    "Company Name",
+                    "Celestica"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1998 - Jun 2002"
+                ],
+                [
+                    "Location",
+                    "Greater Nashville Area, TN"
+                ]
+            ],
+            [
+                "Production Manager",
+                [
+                    "Company Name",
+                    "SCI"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1992 - Jun 1998"
+                ],
+                [
+                    "Location",
+                    "Graham, North Carolina, United States"
+                ]
+            ]
+        ]
+    },
+    "Robert Reynolds": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "Ph.D. Computer Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Michigan State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1979 - Jun 1983"
+                ]
+            ]
+        ]
+    },
+    "Loren Schwiebert": {
+        "status": "success",
+        "Education": [
+            [
+                "The Ohio State University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer and Information Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1995"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Upsilon Pi Epsilon"
+                ]
+            ],
+            [
+                "The Ohio State University",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer and Information Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1995"
+                ]
+            ],
+            [
+                "Heidelberg University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1983 - 1986"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Soccer Team"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1995 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Detroit, MI"
+                ],
+                [
+                    "More Info",
+                    "Department of Computer Science"
+                ]
+            ]
+        ]
+    },
+    "Weisong Shi": {
+        "status": "success",
+        "Education": [
+            [
+                "Xidian University",
+                [
+                    "Degree Name",
+                    "Bachelor of Engineering (BEng)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1995"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2020 - Mar 2022"
+                ]
+            ],
+            [
+                "Associate Editor-in-Chief of IEEE Internet Computing Magazine",
+                [
+                    "Company Name",
+                    "IEEE"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 - Mar 2022"
+                ]
+            ],
+            [
+                "Editor In Chief",
+                [
+                    "Company Name",
+                    "Smart Health Jounral"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2016 - Mar 2022"
+                ]
+            ],
+            [
+                "Program Director",
+                [
+                    "Company Name",
+                    "National Science Foundation"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Aug 2015"
+                ],
+                [
+                    "Location",
+                    "4201 Wilson Blvd, Arlington,  VA, 22230"
+                ],
+                [
+                    "More Info",
+                    "During Dr. Shi's tenure at NSF, Dr. Shi is mainly responsible for the Computer Systems Research (CSR) core program, one of two core programs within the Division of Computer and Network Systems (CNS), CISE. In addition, he is responsible for three crosscutting programs, including Cyber-Innovation for Sustainability Science and Engineering (CyberSEES), Smart and Connected Health (SCH), and NSF/Intel Partnership on Visual and Experiential Computing (VEC)."
+                ]
+            ],
+            [
+                "Associate Research Scientist",
+                [
+                    "Company Name",
+                    "New York University"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2000 - Aug 2002"
+                ]
+            ]
+        ]
+    },
+    "Doug Witten": {
+        "status": "success",
+        "Education": [
+            [
+                "Oakland University",
+                [
+                    "Degree Name",
+                    "Worked on Ph.D in Computer Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 2014 - Dec 2017"
+                ],
+                [
+                    "More Info",
+                    "Specializing in Cyber Security."
+                ]
+            ],
+            [
+                "University of Michigan-Flint",
+                [
+                    "Degree Name",
+                    "Master of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ],
+            [
+                "Baker College",
+                [
+                    "Degree Name",
+                    "Bachelor of Computer Information Systems"
+                ],
+                [
+                    "Field Of Study",
+                    " CIS"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assitant Professor / Teaching - Cyber Security and Computer Science",
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2020 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Detroit, Michigan, United States"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Baker College"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2008 - Aug 2020"
+                ]
+            ],
+            [
+                "Adjunct Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Michigan-Flint"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2012 - Aug 2020"
+                ],
+                [
+                    "Location",
+                    "Flint, MI"
+                ],
+                [
+                    "More Info",
+                    "Honored to be part of the University of Michigan - Flint Department of Computer Science, Engineering and Physics group teaching Computer Science courses."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "State of Michigan"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2002 - Oct 2015"
+                ]
+            ],
+            [
+                "UNIX System Administrator",
+                [
+                    "Company Name",
+                    "EDS Group"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1991 - Dec 2002"
+                ]
+            ]
+        ]
+    },
+    "Lihao Xu": {
+        "status": "success",
+        "Education": [
+            [
+                "Caltech"
+            ],
+            [
+                "Caltech",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Prof",
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Advanced Research and Development in Data Storage Systems, Distributed Systems, Cloud Computing, Erasure Codes and Information Theory"
+                ]
+            ]
+        ]
+    },
+    "Zichun Zhong": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "RA",
+                [
+                    "Company Name",
+                    "UTDallas"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2009 - Jun 2013"
+                ]
+            ]
+        ]
+    },
+    "Dongxiao Zhu": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ]
+            ],
+            [
+                "Peking University",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ]
+            ],
+            [
+                "Shandong University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Wayne State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 - Mar 2022"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of New Orleans"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2008 - Aug 2011"
+                ],
+                [
+                    "Location",
+                    "New Orleans"
+                ],
+                [
+                    "More Info",
+                    "+ Perform externally-funded cutting-edge research in Computational Biology, Bioinformatics and interface with Data Mining, Machine Learning and Pattern Recognition."
+                ]
+            ],
+            [
+                "Biostatistician",
+                [
+                    "Company Name",
+                    "Stowers Institute for Medical Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2006 - Jan 2008"
+                ],
+                [
+                    "Location",
+                    "Kansas City, Missouri Area"
+                ],
+                [
+                    "More Info",
+                    "Permanent position: provide professional statistics and data analytics consulting, support and service to biomedical and clinical investigators."
+                ]
+            ]
+        ]
+    }
+}

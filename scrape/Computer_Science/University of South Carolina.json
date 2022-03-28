@@ -1,0 +1,3397 @@
+{
+    "Forest Agostinelli": {
+        "status": "success",
+        "Education": [
+            [
+                "UC Irvine",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2019"
+                ]
+            ],
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2014"
+                ],
+                [
+                    "More Info",
+                    "NIPS2013: Adaptive Multi-Column Deep Neural Networks"
+                ]
+            ],
+            [
+                "The Ohio State University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2012"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 - Mar 2022"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "UC Irvine"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2019 - Jul 2020"
+                ]
+            ],
+            [
+                "Visiting Scholar",
+                [
+                    "Company Name",
+                    "Syntiant Corp"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 - Sep 2019"
+                ],
+                [
+                    "Location",
+                    "United States"
+                ],
+                [
+                    "More Info",
+                    "Analog deep neural networks, sampling unlabeled data"
+                ]
+            ],
+            [
+                "Deep Learning Research Intern",
+                [
+                    "Company Name",
+                    "DeepMind"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 - Sep 2017"
+                ],
+                [
+                    "Location",
+                    "London, United Kingdom"
+                ],
+                [
+                    "More Info",
+                    "Deep Reinforcement Learning"
+                ]
+            ],
+            [
+                "Machine Learning Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 - Sep 2015"
+                ],
+                [
+                    "Location",
+                    "Beijing City, China"
+                ],
+                [
+                    "More Info",
+                    "Deep Learning"
+                ]
+            ]
+        ]
+    },
+    "Jason D. Bakos": {
+        "status": "success",
+        "Education": [
+            [
+                "University of South Carolina",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2020 - 2023"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Association for Computing Machinery (ACM), Institute of Electrical and Electronics Engineers (IEEE), &amp; Indian Student Organization (ISO)"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "UofSC College of Engineering and Computing"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2021 - Mar 2022"
+                ]
+            ],
+            [
+                "Summer Research Intern at UofSC College of Engineering and Computing - Computer Engineering",
+                [
+                    "Company Name",
+                    "UofSC College of Engineering and Computing"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2018 - Jul 2019"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina, United States"
+                ],
+                [
+                    "More Info",
+                    "Advisor: Prof. Jason D. Bakos"
+                ]
+            ],
+            [
+                "Summer Research Intern at UofSC College of Engineering and Computing - Computer Science",
+                [
+                    "Company Name",
+                    "UofSC College of Engineering and Computing"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 - Aug 2017"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina, United States"
+                ],
+                [
+                    "More Info",
+                    "Advisor: Prof. Jason O’Kane"
+                ]
+            ]
+        ]
+    },
+    "Casey Cole": {
+        "status": "success",
+        "Education": [
+            [
+                "University of South Carolina",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2020"
+                ]
+            ],
+            [
+                "University of South Carolina",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2016 - 2018"
+                ]
+            ],
+            [
+                "University of South Carolina",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2015"
+                ],
+                [
+                    "More Info",
+                    "Graduated with Honors"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Data Scientist",
+                [
+                    "Company Name",
+                    "Legion Technologies"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "- Works to continually improve the existing demand forecasting techniques employed by Legion"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Dec 2021"
+                ]
+            ],
+            [
+                "Senior Consultant",
+                [
+                    "Company Name",
+                    "S.C. Department of Health &amp; Environmental Control"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2020 - May 2021"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina, United States"
+                ],
+                [
+                    "More Info",
+                    "COVID-19 related work."
+                ]
+            ],
+            [
+                "Sr Associate Analytical Consultant",
+                [
+                    "Company Name",
+                    "SAS"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 - Jul 2019"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina Area"
+                ],
+                [
+                    "More Info",
+                    "In charge of developing and implementing models for detecting healthcare insurance fraud, waste, and abuse."
+                ]
+            ]
+        ]
+    },
+    "Csilla Farkas": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ]
+            ]
+        ]
+    },
+    "Stephen A. Fenner": {
+        "status": "success",
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "1979 - 1983"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor of Computer Science and Engineering",
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1999 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Kirk Fiedler": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Pittsburgh",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Management Information Systems with a Minor Study in Behavioral Accounting"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1988 - 1991"
+                ]
+            ],
+            [
+                "University of Louisville",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Systems and System Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1985 - 1988"
+                ]
+            ],
+            [
+                "University of Louisville",
+                [
+                    "Degree Name",
+                    "Master of Business Administration - MBA"
+                ],
+                [
+                    "Field Of Study",
+                    " Business Administration and Management"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1983 - 1985"
+                ],
+                [
+                    "More Info",
+                    "Show all 5 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Darla Moore School of Business"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1991 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina Area"
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "UofSC College of Engineering and Computing"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina Area"
+                ]
+            ],
+            [
+                "Auditing/Consulting/Senior",
+                [
+                    "Company Name",
+                    "Arthur Young"
+                ],
+                [
+                    "Dates Employed",
+                    "May 1986 - Aug 1988"
+                ],
+                [
+                    "Location",
+                    "Louisville, Kentucky Area"
+                ]
+            ]
+        ]
+    },
+    "William Hoskins": {
+        "status": "success",
+        "Education": [
+            [
+                "University of South Carolina",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2020"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Game Design Club,"
+                ]
+            ],
+            [
+                "University of South Carolina",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2013"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "PhD Candidate in Computer Science",
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Mar 2022"
+                ]
+            ],
+            [
+                "Graphics Intern",
+                [
+                    "Company Name",
+                    "Intel Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2013 - Aug 2013"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina Area"
+                ]
+            ],
+            [
+                "Graphics Intern",
+                [
+                    "Company Name",
+                    "Intel Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2012 - Aug 2012"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina Area"
+                ]
+            ]
+        ]
+    },
+    "Jianjun Hu": {
+        "status": "success",
+        "Education": [
+            [
+                "Michigan State University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2004"
+                ],
+                [
+                    "More Info",
+                    "My research is about using genetic programming for automated synthesis of mechatronic systems in terms of bond graphs."
+                ]
+            ],
+            [
+                "Beihang University",
+                [
+                    "Degree Name",
+                    "Intelligent Manufacturing"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2000"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Apply neural network and genetic algorithm to manufacuring problem."
+                ]
+            ],
+            [
+                "Wuhan University of Technology",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Mechanical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1998"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Computer aided design, Double-envoloped worm mechanism simulation"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 - Mar 2022"
+                ]
+            ],
+            [
+                "Postdoc",
+                [
+                    "Company Name",
+                    "University of Southern California"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2005 - Jun 2007"
+                ],
+                [
+                    "Location",
+                    "Worked in Jasmine Xianghong Zhou's integrative genomics lab on microarray analysis."
+                ]
+            ],
+            [
+                "Postdoc",
+                [
+                    "Company Name",
+                    "Purdue University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2004 - Aug 2005"
+                ],
+                [
+                    "Location",
+                    "Work in  Daisuke Kihara's lab working on DNA motif discovery problem."
+                ]
+            ]
+        ]
+    },
+    "Chin-Tser Huang": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of Texas at Austin",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2003"
+                ]
+            ],
+            [
+                "National Taiwan University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1993"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2010 - Mar 2022"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Univ of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2003 - Aug 2010"
+                ]
+            ]
+        ]
+    },
+    "Pooyan Jamshidi": {
+        "status": "success",
+        "Education": [
+            [
+                "Dublin City University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science (Machine Learning)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2014"
+                ],
+                [
+                    "More Info",
+                    "A Framework for Robust Control of Uncertainty in Self-Adaptive Software Connectors"
+                ]
+            ],
+            [
+                "Amirkabir University of Technology - Tehran Polytechnic",
+                [
+                    "Degree Name",
+                    "MSc."
+                ],
+                [
+                    "Field Of Study",
+                    " Systems Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2006"
+                ]
+            ],
+            [
+                "Amirkabir University of Technology - Tehran Polytechnic",
+                [
+                    "Degree Name",
+                    "BSc."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2003"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "Google"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Mountain View, California, United States"
+                ],
+                [
+                    "More Info",
+                    "I will be working on integrating our ATHENA framework (https://softsys4ai.github.io/athena/) with the Google backend systems."
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "South Carolina, US"
+                ],
+                [
+                    "More Info",
+                    "My goal is to advance a scientific and principled understanding of learning-enabled autonomous systems (e.g., rovers, spacecraft landers) informed by careful empirical and theoretical work. My research is driven by a theoretical understanding of machine learning and the mathematics behind statistical learning theory. I am, in particular, interested in transfer and representation learning, with the goal of developing reliable and robust algorithms that enable autonomous agents to learn optimal policies in a way that they can reuse the learned policy to solve similar tasks over varieties of diverse environments. Naturally, I am also interested in connections between computer systems, machine learning, and artificial intelligence. Details: https://pooyanjamshidi.github.io/AISys/"
+                ]
+            ],
+            [
+                "Postdoctoral Research Associate",
+                [
+                    "Company Name",
+                    "Carnegie Mellon University"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2016 - Aug 2018"
+                ],
+                [
+                    "Location",
+                    "Pittsburgh, US"
+                ],
+                [
+                    "More Info",
+                    "Worked as a postdoctoral researcher in Institute for Software Research, School of Computer Science at CMU."
+                ]
+            ],
+            [
+                "Postdoctoral Research Associate",
+                [
+                    "Company Name",
+                    "Imperial College London"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2015 - Dec 2016"
+                ],
+                [
+                    "Location",
+                    "London, United Kingdom"
+                ],
+                [
+                    "More Info",
+                    "I'm involved in two European projects, FP7 MODAClouds (multi-cloud modeling and runtime adaptation) and H2020 DICE (DevOps, performance modeling, testing and architecture refactoring for big data systems). My current research is predominantly in the area of the usage of machine learning for enabling configuration optimization, self-adaptation and anomaly detection in distributed processing platforms which are designed to process big data and provide predictive analytics. I generally undertake research in self-adaptive software, cloud computing, performance engineering, big data and software architecture refactoring."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "The Irish Centre for Cloud Computing and Commerce (IC4)"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Mar 2015"
+                ]
+            ]
+        ]
+    },
+    "Neema Kanapala": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Rasha Karakchi": {
+        "status": "success",
+        "Education": [
+            [
+                "University of South Carolina",
+                [
+                    "Degree Name",
+                    "Doctorate"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineeri"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2020"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Women In Computing"
+                ]
+            ],
+            [
+                "University of South Carolina",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2016"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2013 - Mar 2022"
+                ]
+            ],
+            [
+                "Adjunct Instructor",
+                [
+                    "Company Name",
+                    "Columbia College (SC)"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Dec 2019"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina, United States"
+                ]
+            ],
+            [
+                "University Lecturer",
+                [
+                    "Company Name",
+                    "Mosul University"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2008 - Feb 2013"
+                ],
+                [
+                    "Location",
+                    "Mosul, Nīnawá, Iraq"
+                ]
+            ]
+        ]
+    },
+    "Jeremy Lewis": {
+        "status": "success",
+        "Education": [
+            [
+                "University of South Carolina",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science / Robotics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2018"
+                ]
+            ],
+            [
+                "University of South Carolina",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2011"
+                ]
+            ],
+            [
+                "Francis Marion University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science / Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2008"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Fulltime Faculty",
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2017 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina Area"
+                ]
+            ],
+            [
+                "Systems Developer",
+                [
+                    "Company Name",
+                    "Low Country Rheumatology"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2012 - May 2017"
+                ]
+            ],
+            [
+                "Assistant Professor Of Computer Science",
+                [
+                    "Company Name",
+                    "Francis Marion University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Apr 2017"
+                ]
+            ],
+            [
+                "Instructor",
+                [
+                    "Company Name",
+                    "ECPI University"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2012 - Aug 2013"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2009 - May 2012"
+                ]
+            ]
+        ]
+    },
+    "Lannan Luo": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "PhD",
+                [
+                    "Company Name",
+                    "Penn State University"
+                ]
+            ]
+        ]
+    },
+    "Catherine Matthews": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "REALTOR / Broker Associate",
+                [
+                    "Company Name",
+                    "Keller Williams Realty"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2017 - Aug 2020"
+                ],
+                [
+                    "Location",
+                    "1707 John B. White Blvd. Suite E, Spartanburg, SC 29301"
+                ]
+            ],
+            [
+                "REALTOR® Broker Associate",
+                [
+                    "Company Name",
+                    "BHG"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 - Mar 2017"
+                ],
+                [
+                    "Location",
+                    "Spartanburg, SC"
+                ],
+                [
+                    "More Info",
+                    "Helping buyers and sellers in all areas of Spartanburg, Greenville, and Cherokee Counties with real estate transactions."
+                ]
+            ],
+            [
+                "Realtor Sales Associate",
+                [
+                    "Company Name",
+                    "KW Realty"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2010 - Aug 2011"
+                ]
+            ],
+            [
+                "Realtor",
+                [
+                    "Company Name",
+                    "Prudential C Dan Joyner"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2008 - Oct 2010"
+                ]
+            ]
+        ]
+    },
+    "Vignesh Narayanan": {
+        "status": "success",
+        "Education": [
+            [
+                "Missouri University of Science and Technology",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2017"
+                ]
+            ],
+            [
+                "National Institute of Technology Kurukshetra",
+                [
+                    "Degree Name",
+                    "Master's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering - Control Systems"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2014"
+                ],
+                [
+                    "More Info",
+                    "Research Internship at HILS, RCI, Hyderabad"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "AIISC and Department of Computer Science and Engineering",
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2021 - Mar 2022"
+                ]
+            ],
+            [
+                "Postdoctoral Research Fellow",
+                [
+                    "Company Name",
+                    "Washington University in St. Louis"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2017 - Aug 2021"
+                ],
+                [
+                    "Location",
+                    "United States"
+                ],
+                [
+                    "More Info",
+                    "Applied Mathematics, Computational Neuroscience"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "Missouri S&amp;T"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Aug 2017"
+                ],
+                [
+                    "Location",
+                    "Rolla, MO"
+                ],
+                [
+                    "More Info",
+                    "Learning and Control, Networked Dynamical Systems"
+                ]
+            ]
+        ]
+    },
+    "Srihari Nelakuditi": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Jason O'Kane": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Christian O'Reilly": {
+        "status": "success",
+        "Education": [
+            [
+                "Polytechnique Montréal",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Génie Biomédical"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2012"
+                ]
+            ],
+            [
+                "Polytechnique Montréal",
+                [
+                    "Degree Name",
+                    "Maîtrise en sciences appliquées (M.Sc.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Génie biomédical"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2011"
+                ]
+            ],
+            [
+                "Polytechnique Montréal",
+                [
+                    "Degree Name",
+                    "Baccalauréat en génie B.Ing."
+                ],
+                [
+                    "Field Of Study",
+                    " Génie électrique"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2008"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant professor",
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Columbia, Caroline du Sud, États-Unis"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Artificial Intelligence Institute at University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Columbia, Caroline du Sud, États-Unis"
+                ]
+            ],
+            [
+                "Research associate - Brain Mapping in ASD",
+                [
+                    "Company Name",
+                    "McGill University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2020 - Aug 2021"
+                ],
+                [
+                    "Location",
+                    "Région de Montréal, Canada"
+                ],
+                [
+                    "More Info",
+                    "Study of EEG functional connectivity in autism."
+                ]
+            ],
+            [
+                "Freelance researcher",
+                [
+                    "Company Name",
+                    "Ronin Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 - Dec 2019"
+                ],
+                [
+                    "Location",
+                    "world"
+                ],
+                [
+                    "More Info",
+                    "EEG source imaging and functional connectivity."
+                ]
+            ],
+            [
+                "Postdoctoral researcher",
+                [
+                    "Company Name",
+                    "EPFL (École polytechnique fédérale de Lausanne)"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2015 - Oct 2018"
+                ],
+                [
+                    "Location",
+                    "Biotech Campus, Geneva"
+                ],
+                [
+                    "More Info",
+                    "Lead of the modeling of the thalamus at the Blue Brain Project."
+                ]
+            ]
+        ]
+    },
+    "James O'Reilly": {
+        "status": "success",
+        "Education": [
+            [
+                "College of Charleston",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Business Administration"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Finance Club, Club Ultimate Frisbee team"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "SPAWAR"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Dec 2018"
+                ]
+            ],
+            [
+                "Financial Panning Intern",
+                [
+                    "Company Name",
+                    "Oak Capital Management, LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2015 - Aug 2015"
+                ],
+                [
+                    "Location",
+                    "Mt. Pleasant, SC"
+                ],
+                [
+                    "More Info",
+                    "•Maintained  client database using the CRM system Salesforce"
+                ]
+            ],
+            [
+                "Cadet/4th class",
+                [
+                    "Company Name",
+                    "United States Air Force ROTC"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Dec 2014"
+                ],
+                [
+                    "Location",
+                    "Charleston, South Carolina Area"
+                ],
+                [
+                    "More Info",
+                    "•\tLearned and performed the basic leadership skills of teamwork, hard-work and service."
+                ]
+            ],
+            [
+                "Valet/Bellman",
+                [
+                    "Company Name",
+                    "The Mills House"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2014 - Sep 2014"
+                ],
+                [
+                    "Location",
+                    "Charleston, South Carolina Area"
+                ],
+                [
+                    "More Info",
+                    "•\tAccommodated guests by providing assistance with luggage, vehicles, and the check-in process"
+                ]
+            ],
+            [
+                "Intern",
+                [
+                    "Company Name",
+                    "College of Charleston Athletics Marketing Department"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - May 2014"
+                ],
+                [
+                    "Location",
+                    "Charleston, South Carolina"
+                ],
+                [
+                    "More Info",
+                    "•\tGained marketing skills by creating promotional game day flyers and promoting sporting events"
+                ]
+            ]
+        ]
+    },
+    "Portia Plante": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Washington",
+                [
+                    "Degree Name",
+                    "Master's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Human Centered Design and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2014"
+                ]
+            ],
+            [
+                "University of Waterloo",
+                [
+                    "Degree Name",
+                    "Software Engineering"
+                ],
+                [
+                    "Field Of Study",
+                    " Software Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2007"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor of Computer Science",
+                [
+                    "Company Name",
+                    "Winthrop University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Rock Hill, SC"
+                ]
+            ],
+            [
+                "Web IT Instructor",
+                [
+                    "Company Name",
+                    "Seattle Central Community College"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2009 - Jun 2014"
+                ],
+                [
+                    "Location",
+                    "Taught courses in PHP, JavaScript, C#, and WordPress"
+                ]
+            ],
+            [
+                "Web IT Instructor",
+                [
+                    "Company Name",
+                    "Bellevue College"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 - Sep 2011"
+                ],
+                [
+                    "Location",
+                    "Teach a PHP web development class"
+                ]
+            ],
+            [
+                "Program Manager - Microsoft Office",
+                [
+                    "Company Name",
+                    "Microsoft Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2007 - Aug 2009"
+                ],
+                [
+                    "Location",
+                    "Worked tightly with product managers across multiple teams to ensure the user experience was consistent across Word, Excel, PowerPoint..."
+                ]
+            ]
+        ]
+    },
+    "Ioannis Rekleitis": {
+        "status": "success",
+        "Education": [
+            [
+                "McGill University",
+                [
+                    "Degree Name",
+                    "M.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Vision, Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 2004"
+                ]
+            ],
+            [
+                "McGill University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Multi-Robot Systems, Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 2002"
+                ]
+            ],
+            [
+                "Ethnikon kai Kapodistriakon Panepistimion Athinon",
+                [
+                    "Degree Name",
+                    "B.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 - 1991"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Mar 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "School of Computer Science, Mcgill University"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2004 - Aug 2014"
+                ]
+            ],
+            [
+                "Research Associate",
+                [
+                    "Company Name",
+                    "McGill University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2004 - Sep 2004"
+                ],
+                [
+                    "Location",
+                    "Supervision and co-supervision of graduate and undergraduate studies in vision-sensor networks. Field tests of an underwater robotic system (AQUA)."
+                ]
+            ],
+            [
+                "Post-Doctoral Fellow",
+                [
+                    "Company Name",
+                    "CMU"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2002 - Dec 2003"
+                ],
+                [
+                    "Location",
+                    "Managed a multi-robot coverage R&amp;D project. Developed and implemented algorithms for an autonomous team of robots under various environmental and communication constraints. Developed algorithms for sonar control and data processing, and for localization and tracking of single robots. Co-advised an M.Sc. study."
+                ]
+            ]
+        ]
+    },
+    "John R. Rose": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Jeremiah Shepherd": {
+        "status": "success",
+        "Education": [
+            [
+                "University of South Carolina",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2014"
+                ],
+                [
+                    "More Info",
+                    "My research was using games for scientific research in such fields as language acquisition, speech rehabilitation, and visualizing the genome."
+                ]
+            ],
+            [
+                "University of South Carolina",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2009"
+                ],
+                [
+                    "More Info",
+                    "My research was focused on robotic path-finding algorithms in real-time simulations."
+                ]
+            ],
+            [
+                "University of South Carolina",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2007"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2007 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Amit Sheth": {
+        "status": "success",
+        "Education": [
+            [
+                "The Ohio State University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer &amp; Information Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1983 - 1985"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Chair, Graduate Students Council"
+                ]
+            ],
+            [
+                "The Ohio State University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer &amp; Information Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1983"
+                ]
+            ],
+            [
+                "Birla Institute of Technology and Science, Pilani",
+                [
+                    "Degree Name",
+                    "BE (Hons)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Electronics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1976 - 1981"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Founding Director, Artificial Intelligence institute",
+                [
+                    "Company Name",
+                    "Artificial Intelligence Institute at University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina Area"
+                ],
+                [
+                    "More Info",
+                    "Web Site: http://aiisc.ai"
+                ]
+            ],
+            [
+                "Fellow",
+                [
+                    "Company Name",
+                    "ACM, Association for Computing Machinery"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2020 - Mar 2022"
+                ]
+            ],
+            [
+                "Professor, Computer Science &amp; Engineering",
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina, United States"
+                ]
+            ],
+            [
+                "Fellow",
+                [
+                    "Company Name",
+                    "AAAS"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Citation: For his pioneering and enduring contributions on information integration, distributed workflow, and semantics and knowledge-based big data analytics. Class of 2018."
+                ],
+                [
+                    "More Info",
+                    "Amit Sheth elected a Fellow of American Association for the Advancement of Sciences"
+                ]
+            ],
+            [
+                "Fellow",
+                [
+                    "Company Name",
+                    "Association for the Advancement of Artificial Intelligence (AAAI)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Citation: For significant and enduring contribution to semantics and knowledge based techniques to transform diverse data into insights and actions. Class of 2018."
+                ]
+            ]
+        ]
+    },
+    "Biplav Srivastava": {
+        "status": "success",
+        "Education": [
+            [
+                "Arizona State University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2000"
+                ]
+            ],
+            [
+                "Arizona State University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1996"
+                ]
+            ],
+            [
+                "Indian Institute of Technology (Banaras Hindu University), Varanasi",
+                [
+                    "Degree Name",
+                    "B. Tech."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engg."
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1993"
+                ],
+                [
+                    "More Info",
+                    "IIT-BHU was earlier known as IT-BHU, but always in in the IIT system with the same entrance exam (JEE), since  early 1980s."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "AI Institute, University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina, United States"
+                ],
+                [
+                    "More Info",
+                    "Exploring new approaches for goal-oriented, ethical, human-machine collaboration via natural interfaces using domain and user models, learning, and planning."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "IBM"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2001 - Jun 2020"
+                ]
+            ],
+            [
+                "Core Technology Architect",
+                [
+                    "Company Name",
+                    "Bodha.com"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2000 - Feb 2001"
+                ],
+                [
+                    "Location",
+                    "The company was acquired by Peregrine, which itself was acquired by SAP."
+                ]
+            ],
+            [
+                "Staff Software Engineer",
+                [
+                    "Company Name",
+                    "Philips Semiconductors"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1996 - Sep 2000"
+                ],
+                [
+                    "Location",
+                    "Located in Tempe, AZ"
+                ]
+            ]
+        ]
+    },
+    "Sanjib Sur": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2018"
+                ]
+            ],
+            [
+                "IIEST, Shibpur",
+                [
+                    "Degree Name",
+                    "Bachelor of Engineering (B.E.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Grade: 91"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina Area"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Wisconsin-Madison"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Jul 2018"
+                ],
+                [
+                    "Location",
+                    "Madison, Wisconsin Area"
+                ]
+            ],
+            [
+                "Research Associate",
+                [
+                    "Company Name",
+                    "Hewlett Packard Enterprise"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2015 - Dec 2017"
+                ],
+                [
+                    "Location",
+                    "Palo Alto, California"
+                ],
+                [
+                    "More Info",
+                    "Research Associate."
+                ]
+            ],
+            [
+                "Design Engineer",
+                [
+                    "Company Name",
+                    "Texas Instruments"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2011 - Jul 2013"
+                ],
+                [
+                    "Location",
+                    "India"
+                ],
+                [
+                    "More Info",
+                    "* Working in Application Verification and Validation (AVV) group that deals with pre-silicon verification and post-silicon validation of SoCs in application perspective of automotive vision and infotainment"
+                ]
+            ],
+            [
+                "Software Development Intern",
+                [
+                    "Company Name",
+                    "Texas Instruments"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2010 - Jul 2010"
+                ],
+                [
+                    "Location",
+                    "India"
+                ],
+                [
+                    "More Info",
+                    "* Partly developed H.264 AVC decoder software in C++ from scratch - bit-accurate with JM v. 14.2"
+                ]
+            ]
+        ]
+    },
+    "Jijun Tang": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of New Mexico",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2004"
+                ]
+            ],
+            [
+                "Tianjin University",
+                [
+                    "Degree Name",
+                    "Master's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Naval Architecture and Marine Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1998"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Full Professor",
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2004 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina Area"
+                ],
+                [
+                    "More Info",
+                    "Researcher and educator, with focus on algorithm design, computational biology, bioinformatics, machine learning, deep learning and computer game development."
+                ]
+            ],
+            [
+                "Ph.D.",
+                [
+                    "Company Name",
+                    "University of New Mexico"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1998 - Jun 2004"
+                ],
+                [
+                    "Location",
+                    "Albuquerque, New Mexico Area"
+                ]
+            ]
+        ]
+    },
+    "Matt E. Thatcher": {
+        "status": "success",
+        "Education": [
+            [
+                "The Wharton School",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Management Information Systems, General"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 1998"
+                ]
+            ],
+            [
+                "The Wharton School",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Decision Sciences and Finance"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1992"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Research: Economic and strategic impact of Computer Information Systems"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Louisville"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2008 - May 2012"
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of Nevada Las Vegas"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2006 - Jun 2008"
+                ]
+            ]
+        ]
+    },
+    "Yan Tong": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Department of Computer Science and Engineering, University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2010 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Homayoun Valafar": {
+        "status": "success",
+        "Education": [
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1995"
+                ]
+            ],
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1988 - 1990"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2004 - Mar 2022"
+                ]
+            ],
+            [
+                "Genomic Core Director",
+                [
+                    "Company Name",
+                    "UofSC Big Data Health Science Center"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2019 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina, United States"
+                ]
+            ],
+            [
+                "Director of the Bioinformatics Core",
+                [
+                    "Company Name",
+                    "SC INBRE"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2008 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina, United States"
+                ]
+            ],
+            [
+                "Senior Consultant",
+                [
+                    "Company Name",
+                    "S.C. Department of Health &amp; Environmental Control"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2020 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina Metropolitan Area"
+                ],
+                [
+                    "More Info",
+                    "- Help to coordinate genomic analysis of Sars-CoV2 for variant tracking"
+                ]
+            ],
+            [
+                "Project Coordinator",
+                [
+                    "Company Name",
+                    "South East Collaboratory for Structural Genomics (SECSG)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1999 - Jun 2004"
+                ],
+                [
+                    "Location",
+                    "Athens, Georgia, United States"
+                ]
+            ]
+        ]
+    },
+    "Marco Valtorta": {
+        "status": "success",
+        "Education": [
+            [
+                "Duke University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1980 - 1985"
+                ]
+            ],
+            [
+                "Politecnico di Milano",
+                [
+                    "Degree Name",
+                    "Laurea"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1980 - 1985"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Department of Computer Science and Engineering, University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1993 - Mar 2022"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Department of Computer Science, University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1988 - Jun 1993"
+                ]
+            ],
+            [
+                "Temporary Agent",
+                [
+                    "Company Name",
+                    "Commission of the European Communities"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 1985 - Aug 1988"
+                ],
+                [
+                    "Location",
+                    "I was a project officer"
+                ]
+            ]
+        ]
+    },
+    "Juan Vargas": {
+        "status": "success",
+        "Education": [
+            [
+                "Mercer University",
+                [
+                    "Degree Name",
+                    "Master of Business Administration (M.B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Technology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2001"
+                ],
+                [
+                    "More Info",
+                    "Obtained and MBA while working at Brown Williamson Tobacco Corp as main support of ASRS of manufacturing system"
+                ]
+            ],
+            [
+                "Universidad ICESI",
+                [
+                    "Degree Name",
+                    "Systems Engineering"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Software Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 - 1991"
+                ],
+                [
+                    "More Info",
+                    "Obtained degree as Systems Engineer and worked as intern at Corporation of Cauca Valley (CVC) as SW Junior Analyst and Developer."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "IBM"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2018 - Mar 2022"
+                ]
+            ],
+            [
+                "Consulting Software Engineer",
+                [
+                    "Company Name",
+                    "iGate Mastech"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 1998 - May 2001"
+                ],
+                [
+                    "Location",
+                    "Client Based"
+                ],
+                [
+                    "More Info",
+                    "Architect specific solutions based on customers needs for a given determined strategic project. Developed technical specifications for development team while monitor progress of the project and worked to get the solution through Users Acceptance Test and Final deployment."
+                ]
+            ]
+        ]
+    },
+    "Jose M. Vidal": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 1998"
+                ]
+            ],
+            [
+                "Rensselaer Polytechnic Institute",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1991"
+                ]
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "BSE"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1990"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2004 - Mar 2022"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Michigan"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1992 - Jun 1998"
+                ]
+            ],
+            [
+                "Software Engineer",
+                [
+                    "Company Name",
+                    "NCR Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "May 1991 - Aug 1991"
+                ],
+                [
+                    "Location",
+                    "Atlanta, GA"
+                ]
+            ],
+            [
+                "Member of Technical Staff",
+                [
+                    "Company Name",
+                    "Bellcore"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 1991 - Aug 1991"
+                ],
+                [
+                    "Location",
+                    "Piscataway, NJ"
+                ]
+            ],
+            [
+                "Software Engineer",
+                [
+                    "Company Name",
+                    "NCR Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "May 1990 - Aug 1990"
+                ],
+                [
+                    "Location",
+                    "Atlanta, GA"
+                ]
+            ]
+        ]
+    },
+    "Song Wang": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2002"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: IEEE"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2008 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Ramtin Zand": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Central Florida",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2019"
+                ]
+            ],
+            [
+                "Sharif University of Technology",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Electronics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2012"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "iCAS Lab"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Mar 2022"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "UofSC College of Engineering and Computing"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina Area"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of Central Florida"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - May 2019"
+                ]
+            ]
+        ]
+    },
+    "Qiang Zeng": {
+        "status": "success",
+        "Education": [
+            [
+                "Penn State University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2014"
+                ],
+                [
+                    "More Info",
+                    "My doctoral research topic is cyber security, with a focus on defeating memory corruption attacks, which are among the most prevalent cyber-attacks."
+                ]
+            ],
+            [
+                "Beihang University",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2008"
+                ],
+                [
+                    "More Info",
+                    "Thesis: “An Overlay Network for Realtime Streaming Media Transmission.”"
+                ]
+            ],
+            [
+                "Beihang University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2005"
+                ],
+                [
+                    "More Info",
+                    "Thesis: “Transparent Data Encryption for Realtime Streaming Media Transmission.”"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina, United States"
+                ],
+                [
+                    "More Info",
+                    "We always look for passionate students to join our Systems and Software Security lab."
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 - Aug 2018"
+                ],
+                [
+                    "Location",
+                    "Systems Security, Mobile Security, Cloud Security"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Cyber Security Lab at Penn State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2009 - Dec 2014"
+                ],
+                [
+                    "Location",
+                    "Led multiple projects and mentored junior lab fellows. Published work in Oakland’14, NDSS’12 and PLDI’11."
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "NEC Laboratories America, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - Apr 2013"
+                ],
+                [
+                    "Location",
+                    "Princeton, NJ"
+                ],
+                [
+                    "More Info",
+                    "Improved the calling context encoding technique below to work with dynamic class loading. The work was published in CGO’14."
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "NEC Laboratories America, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "May 2012 - Aug 2012"
+                ],
+                [
+                    "Location",
+                    "Built a Java analysis technique based on calling context encoding. The work led to two patents."
+                ]
+            ]
+        ]
+    },
+    "Qi Zhang": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2020"
+                ]
+            ],
+            [
+                "Shanghai Jiao Tong University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2015"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2020 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "W. Jim Zheng": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of Texas at Dallas",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2000"
+                ]
+            ],
+            [
+                "UT Southwestern Medical Center",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Biochemistry &amp; Molecular Biology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 1997"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "The University of Texas Health Science Center at Houston (UTHealth)"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 - Mar 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "School of Biomedical Informatics, U. Texas Health Science Center Houston"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2013 - Mar 2022"
+                ]
+            ],
+            [
+                "Director, Computational Biology and High Performance Computing Core",
+                [
+                    "Company Name",
+                    "South Carolina Clinical and Translational Institute (SCTR--MUSC CTSA)"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2009 - Jan 2013"
+                ],
+                [
+                    "Location",
+                    "Computational Biology and High Performance Computing Core is part of the Biomedical Informatics Program of the MUSC CTSA project"
+                ]
+            ],
+            [
+                "Assistant Professor of Bioinformatics",
+                [
+                    "Company Name",
+                    "MUSC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2004 - Jan 2013"
+                ],
+                [
+                    "Location",
+                    "Applying bioinformatics and genome analysis to understand the molecular mechanism of diseases.  Main focuses are ontology and text mining, large scale data integration, gene networks, modeling,"
+                ]
+            ],
+            [
+                "Senior Scientist",
+                [
+                    "Company Name",
+                    "Accelrys"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2003 - Jun 2004"
+                ],
+                [
+                    "Location",
+                    "Develop commercial bioinformatics software, Discovery Studio Gene, GCG, MacVector, genome research"
+                ]
+            ]
+        ]
+    },
+    "Carter J. Bays": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Distinguished Professor Emeritus",
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ]
+            ]
+        ]
+    },
+    "John B. Bowles": {
+        "status": "success",
+        "Education": [
+            [
+                "Clemson University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Management Information Systems"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.52"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Business Systems Analyst",
+                [
+                    "Company Name",
+                    "Dominion Energy"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2020 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Cayce, South Carolina, United States"
+                ]
+            ],
+            [
+                "Business Analyst",
+                [
+                    "Company Name",
+                    "Next Level Solutions"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2020 - Apr 2020"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina, United States"
+                ]
+            ],
+            [
+                "Business Analyst",
+                [
+                    "Company Name",
+                    "Capgemini"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2017 - Feb 2020"
+                ],
+                [
+                    "Location",
+                    "Columbia, South Carolina Metropolitan Area"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "TCube Solutions"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2016 - Mar 2017"
+                ]
+            ]
+        ]
+    },
+    "Duncan Buell": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Chicago",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1972 - 1976"
+                ]
+            ],
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "M.A."
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1971 - 1972"
+                ]
+            ],
+            [
+                "University of Arizona",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1967 - 1971"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Phi Beta Kappa, Phi Kappa Phi"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2000 - Mar 2022"
+                ]
+            ],
+            [
+                "Professor and Chair",
+                [
+                    "Company Name",
+                    "Comp Sci and Engr, U of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2000 - Jun 2009"
+                ]
+            ],
+            [
+                "Rsearch Staff Member",
+                [
+                    "Company Name",
+                    "IDA/Supercomputing Research Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1986 - Jun 2000"
+                ]
+            ]
+        ]
+    },
+    "Robert L. Cannon": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Caroline Eastman": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 1986 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Michael N. Huhns": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Southern California",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering (Image Processing)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1971 - 1975"
+                ]
+            ],
+            [
+                "University of Southern California",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering (Communications)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1969 - 1971"
+                ]
+            ],
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1965 - 1969"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Research Consultant",
+                [
+                    "Company Name",
+                    "Global InfoTek, Inc. (GITI)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1998 - Mar 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1995 - Oct 2014"
+                ]
+            ],
+            [
+                "Senior Member of Research Staff",
+                [
+                    "Company Name",
+                    "MCC (Microelectronics &amp; Computer Technology Corporation)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1985 - Jun 1995"
+                ]
+            ]
+        ]
+    },
+    "Manton M. Matthews": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor and Chair",
+                [
+                    "Company Name",
+                    "University of South Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Department of Computer Science and Engineering, Univ. of South Carolina"
+                ]
+            ]
+        ]
+    }
+}

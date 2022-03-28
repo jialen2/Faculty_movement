@@ -1,0 +1,280 @@
+{
+    "Dr. Thomas Jhy-Cheng Liu": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Chicago",
+                [
+                    "Degree Name",
+                    "1981 - 1988"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Computer Science",
+                [
+                    "Company Name",
+                    "New Jersey City University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2002 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "New Jersey City University"
+                ],
+                [
+                    "More Info",
+                    "Research and Teaching Faculty in computer Science at"
+                ]
+            ]
+        ]
+    },
+    "Laurie Comes": {
+        "status": "success",
+        "Education": [
+            [
+                "Arcadia University",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (BA)"
+                ],
+                [
+                    "Field Of Study",
+                    " English Language and Literature/Letters"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1976 - 1980"
+                ],
+                [
+                    "More Info",
+                    "Grade: Academic Honors"
+                ]
+            ],
+            [
+                "Arcadia University",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Major in English with minor in Sociology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1976 - 1980"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Participated in community service work, food pantry volunteer and worked as a peer tutor in the Writing Workshop while attending university."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Secretary-Computer Science Department",
+                [
+                    "Company Name",
+                    "New Jersey City University"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2010 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Receptionist, Office support for facultya nd students."
+                ]
+            ],
+            [
+                "Clerk Typist",
+                [
+                    "Company Name",
+                    "New Jersey City University Dean's Office"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2008 - Oct 2010"
+                ],
+                [
+                    "Location",
+                    "Dean's Office"
+                ],
+                [
+                    "More Info",
+                    "Worked as a clerical support aid int eh Dean's Office."
+                ]
+            ],
+            [
+                "Administrative Assistant",
+                [
+                    "Company Name",
+                    "MetLife"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2008 - Sep 2009"
+                ],
+                [
+                    "Location",
+                    "Help process insurance claims for Life Insurance policies."
+                ]
+            ],
+            [
+                "Insurance Claims Clerk",
+                [
+                    "Company Name",
+                    "Met Life Insurance"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2008 - Sep 2009"
+                ],
+                [
+                    "Location",
+                    "Processed and filed insurance claims."
+                ]
+            ]
+        ]
+    },
+    "Dr. Morteza Aabdollah": {
+        "status": "success",
+        "Education": [
+            [
+                "Sun Yat-sen University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Psychology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2010"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Research Assistant Professor",
+                [
+                    "Company Name",
+                    "New Jersey Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2012 - Mar 2022"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "University of Medicine and Dentistry of New Jersey -New Jersey Medical School"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2011 - Sep 2012"
+                ]
+            ]
+        ]
+    },
+    "Dr. Jinrui Cao": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Lecturer and PHD Student",
+                [
+                    "Company Name",
+                    "New Jersey Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Dr. Moitrayee Chatterjee": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Dr. Jean-Claude Ngatchou": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Chair, Computer Science",
+                [
+                    "Company Name",
+                    "New Jersey City University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1999 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Dr. Nan Wang": {
+        "status": "success",
+        "Education": [
+            [
+                "Mississippi State University",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2009"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "New Jersey City University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2017 - Mar 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "The University of Southern Mississippi"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2008 - Jul 2017"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Mississippi State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2003 - Jun 2008"
+                ]
+            ]
+        ]
+    }
+}

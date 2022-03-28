@@ -26,3 +26,244 @@
 "Roger Wood" "Washington State University" <class 'AssertionError'>
 "Ashley Ater-Kranov" "Washington State University" <class 'AssertionError'>
 "Daniel Bernstein" "University of Illinois, Chicago" <class 'selenium.common.exceptions.NoSuchWindowException'>
+"Daniel Bernstein" "University of Illinois, Chicago" <class 'IndexError'>
+"Ashley Ater-Kranov" "Washington State University" <class 'IndexError'>
+"David Bakken" "Washington State University" <class 'urllib3.exceptions.MaxRetryError'>
+"Bernstein,  Daniel  J." "University of Illinois, Chicago" <class 'IndexError'>
+"Buy,  Ugo" "University of Illinois, Chicago" <class 'IndexError'>
+"Cranch,  Cody" "University of Illinois, Chicago" <class 'urllib3.exceptions.MaxRetryError'>
+"Chattopadhyay,  Debaleena" "University of Illinois, Chicago" <class 'AssertionError'>
+"Chattopadhyay,  Debaleena" "University of Illinois, Chicago" <class 'AssertionError'>
+"Sloan,  Robert" "University of Illinois, Chicago" <class 'AssertionError'>
+"Chris Bourke" "University of Nebraska, Lincoln" <class 'AssertionError'>
+"Hong Jiang" "University of Nebraska, Lincoln" <class 'TypeError'>
+"Xiaojun Bi" "Stony Brook University, SUNY" <class 'AssertionError'>
+"Jihoon Ryoo" "Stony Brook University, SUNY" <class 'AssertionError'>
+"Hong Jiang" "University of Nebraska, Lincoln" <class 'TypeError'>
+"Rida Bazzi" "Arizona State University" <class 'TypeError'>
+"Zilin Jiang" "Arizona State University" <class 'urllib3.exceptions.MaxRetryError'>
+"Dianne Hansford" "Arizona State University" <class 'AssertionError'>
+"Stephen Yau" "Arizona State University" <class 'AssertionError'>
+"Gustavo Rodriguez-Rivera" "Purdue University, West Lafayette" <class 'AssertionError'>
+"Yung-Hsiang Lu" "Purdue University, West Lafayette" <class 'AssertionError'>
+"Miodrag Potkonjak." "UCLA" <class 'AssertionError'>
+"Stefano Soatto." "UCLA" <class 'ValueError'>
+"Stanley Osher." "UCLA" <class 'TypeError'>
+"Teaching Professor." "UCLA" <class 'AssertionError'>
+"Stefano Soatto." "UCLA" <class 'ValueError'>
+"Stanley Osher." "UCLA" <class 'TypeError'>
+"Boaz Barak" "Harvard University" <class 'AssertionError'>
+"Yiling Chen" "Harvard University" <class 'AssertionError'>
+"Susan A Murphy" "Harvard University" <class 'TypeError'>
+"Stratos Idreos" "Harvard University" <class 'AssertionError'>
+"Gu-Yeon Wei" "Harvard University" <class 'AssertionError'>
+"Dr. Ivan Garibay" "University of Central Florida" <class 'AssertionError'>
+"Stefano Soatto." "UCLA" <class 'AssertionError'>
+"Stefano Soatto." "UCLA" <class 'AssertionError'>
+"Stanley Osher." "UCLA" <class 'TypeError'>
+"Stanley Osher." "UCLA" <class 'TypeError'>
+"Dear, Tony ." "Columbia" <class 'AssertionError'>
+"Nieh, Jason ." "Columbia" <class 'AssertionError'>
+"Nayar, Shree K." "Columbia" <class 'AssertionError'>
+"Thomas Hinrichs." "Northwestern University" <class 'AssertionError'>
+"Jack Tumblin." "Northwestern University" <class 'AssertionError'>
+"Jack Tumblin." "Northwestern University" <class 'AttributeError'>
+"Qi Zhu." "Northwestern University" <class 'AttributeError'>
+"Jack Tumblin." "Northwestern University" <class 'json.decoder.JSONDecodeError'>
+"Qi Zhu." "Northwestern University" <class 'json.decoder.JSONDecodeError'>
+"Zhaoran Wang." "Northwestern University" <class 'AssertionError'>
+"Zhaoran Wang." "Northwestern University" <class 'AssertionError'>
+"Ronald Brachman." "Cornell University" <class 'AssertionError'>
+"Yudong Chen." "Cornell University" <class 'AssertionError'>
+"Justin Hsu." "Cornell University" <class 'AssertionError'>
+"Deborah Estrin." "Cornell University" <class 'AssertionError'>
+"Deborah Estrin." "Cornell University" <class 'ValueError'>
+"Karthik Sridharan." "Cornell University" <class 'ValueError'>
+"Steve Marschner." "Cornell University" <class 'ValueError'>
+"Zhiru Zhang." "Cornell University" <class 'ValueError'>
+"Nate Foster." "Cornell University" <class 'ValueError'>
+"Evren Gurkan-Cavusoglu" "Case Western Reserve University" <class 'AssertionError'>
+"Joanne Selinski." "Johns Hopkins University" <class 'AssertionError'>
+"Godmar Back" "Virginia Tech" <class 'AssertionError'>
+"Wonsun Ahn" "University of Pittsburgh" <class 'ValueError'>
+"Malihe Alikhani" "University of Pittsburgh" <class 'ValueError'>
+"Amy Babay" "University of Pittsburgh" <class 'ValueError'>
+"Jacob Biehl" "University of Pittsburgh" <class 'ValueError'>
+"Arjun Chandraesekhar" "University of Pittsburgh" <class 'ValueError'>
+"Bruce Childers" "University of Pittsburgh" <class 'ValueError'>
+"Panos Chrysanthis" "University of Pittsburgh" <class 'ValueError'>
+"Paul Cohen" "University of Pittsburgh" <class 'ValueError'>
+"Constantinos Costa" "University of Pittsburgh" <class 'ValueError'>
+"Timothy Hoffman" "University of Pittsburgh" <class 'ValueError'>
+"Rebecca Hwa" "University of Pittsburgh" <class 'ValueError'>
+"Sherif Khattab" "University of Pittsburgh" <class 'ValueError'>
+"Alexandros Labrinidis" "University of Pittsburgh" <class 'ValueError'>
+"Adam Lee" "University of Pittsburgh" <class 'ValueError'>
+"Stephen Lee" "University of Pittsburgh" <class 'ValueError'>
+"Rob Rutenbar" "University of Pittsburgh" <class 'ValueError'>
+"Youtao Zhang" "University of Pittsburgh" <class 'ValueError'>
+"Amani Altarawneh" "Colorado State University" <class 'ValueError'>
+"James Bieman" "Colorado State University" <class 'ValueError'>
+"Nathaniel Blanchard" "Colorado State University" <class 'ValueError'>
+"Megan Brice" "Colorado State University" <class 'ValueError'>
+"Abhimanyu Chawla" "Colorado State University" <class 'ValueError'>
+"Joe Gersch" "Colorado State University" <class 'ValueError'>
+"Sudipto Ghosh" "Colorado State University" <class 'ValueError'>
+"Michael Kirby" "Colorado State University" <class 'ValueError'>
+"Nikhil Krishnaswamy" "Colorado State University" <class 'ValueError'>
+"Albert Lionelle" "Colorado State University" <class 'ValueError'>
+"Ross McConnell" "Colorado State University" <class 'ValueError'>
+"Marcia Moraes" "Colorado State University" <class 'ValueError'>
+"Francisco Ortega" "Colorado State University" <class 'ValueError'>
+"Shrideep Pallickara" "Colorado State University" <class 'ValueError'>
+"Craig Partridge" "Colorado State University" <class 'ValueError'>
+"Sudeep Pasricha" "Colorado State University" <class 'ValueError'>
+"Jean Peccoud" "Colorado State University" <class 'ValueError'>
+"Sanjay Rajopadhye" "Colorado State University" <class 'ValueError'>
+"Indrajit Ray" "Colorado State University" <class 'ValueError'>
+"Indrakshi Ray" "Colorado State University" <class 'ValueError'>
+"Heidi Runge" "Colorado State University" <class 'ValueError'>
+"Benjamin Say" "Colorado State University" <class 'ValueError'>
+"Phil Sharp" "Colorado State University" <class 'ValueError'>
+"Wendy Stevenson" "Colorado State University" <class 'ValueError'>
+"Tran Winick" "Colorado State University" <class 'ValueError'>
+"Jay Aikat" "University of North Carolina, Chapel Hill" <class 'ValueError'>
+"Ron Alterovitz" "University of North Carolina, Chapel Hill" <class 'ValueError'>
+"Stephen Aylward" "University of North Carolina, Chapel Hill" <class 'ValueError'>
+"Mohit Bansal" "University of North Carolina, Chapel Hill" <class 'ValueError'>
+"Alexander C. Berg" "University of North Carolina, Chapel Hill" <class 'ValueError'>
+"Tamara L. Berg" "University of North Carolina, Chapel Hill" <class 'ValueError'>
+"David Cowhig" "University of North Carolina, Chapel Hill" <class 'ValueError'>
+"Jackson Cox" "University of North Carolina, Chapel Hill" <class 'ValueError'>
+"David Gotz" "University of North Carolina, Chapel Hill" <class 'AssertionError'>
+"Alexander Sasha" Rush."" "Cornell University" <class 'AssertionError'>
+"Alexander C. Berg" "University of North Carolina, Chapel Hill" <class 'AssertionError'>
+"Alexander Sasha" Rush."" "Cornell University" <class 'AssertionError'>
+"Alexander Sasha" Rush."" "Cornell University" <class 'AssertionError'>
+"Jorge Silva" "University of North Carolina, Chapel Hill" <class 'AssertionError'>
+"Hao Chen" "University of California, Davis" <class 'AssertionError'>
+"Bryan Plummer" "Boston University" <class 'AssertionError'>
+"Alexander Sasha" Rush."" "Cornell University" <class 'AssertionError'>
+"Thomas Wies" "New York University" <class 'AssertionError'>
+"Gowtham Kaki" "University of Colorado, Boulder" <class 'AssertionError'>
+"Orit Peleg" "University of Colorado, Boulder" <class 'AssertionError'>
+"Hank (Henry) Korth" "Lehigh University" <class 'json.decoder.JSONDecodeError'>
+"Stephen Lee-Urban" "Lehigh University" <class 'json.decoder.JSONDecodeError'>
+"Daniel P. Lopresti" "Lehigh University" <class 'json.decoder.JSONDecodeError'>
+"Corey Montella" "Lehigh University" <class 'json.decoder.JSONDecodeError'>
+"Roberto Palmieri" "Lehigh University" <class 'json.decoder.JSONDecodeError'>
+"Michael F. Spear" "Lehigh University" <class 'json.decoder.JSONDecodeError'>
+"George Witmer" "Lehigh University" <class 'json.decoder.JSONDecodeError'>
+"Andre Wibisono." "Yale" <class 'json.decoder.JSONDecodeError'>
+"Ruzica Piskac." "Yale" <class 'AssertionError'>
+"Y. Richard Yang." "Yale" <class 'json.decoder.JSONDecodeError'>
+"Abraham Silberschatz." "Yale" <class 'json.decoder.JSONDecodeError'>
+"Brian Scassellati." "Yale" <class 'json.decoder.JSONDecodeError'>
+"Anurag Khandelwal." "Yale" <class 'json.decoder.JSONDecodeError'>
+"Daniel Spielman." "Yale" <class 'json.decoder.JSONDecodeError'>
+"Abhishek Bhattacharjee." "Yale" <class 'json.decoder.JSONDecodeError'>
+"Holly Rushmeier." "Yale" <class 'json.decoder.JSONDecodeError'>
+"Nisheeth Vishnoi." "Yale" <class 'json.decoder.JSONDecodeError'>
+"Julie Dorsey." "Yale" <class 'json.decoder.JSONDecodeError'>
+"Zhong Shao." "Yale" <class 'json.decoder.JSONDecodeError'>
+"Dragomir Radev." "Yale" <class 'json.decoder.JSONDecodeError'>
+"Charalampos Papamanthou." "Yale" <class 'json.decoder.JSONDecodeError'>
+"Yang Cai." "Yale" <class 'json.decoder.JSONDecodeError'>
+"Michael Fischer." "Yale" <class 'json.decoder.JSONDecodeError'>
+"Joan Feigenbaum." "Yale" <class 'json.decoder.JSONDecodeError'>
+"Boady, Mark" "Drexel University" <class 'json.decoder.JSONDecodeError'>
+"Breen, David E." "Drexel University" <class 'json.decoder.JSONDecodeError'>
+"Burlick, Matthew" "Drexel University" <class 'json.decoder.JSONDecodeError'>
+"Cai, Yuanfang" "Drexel University" <class 'json.decoder.JSONDecodeError'>
+"Chatterjee, Preetha" "Drexel University" <class 'json.decoder.JSONDecodeError'>
+"Khosroshahi, Ehsan B." "Drexel University" <class 'json.decoder.JSONDecodeError'>
+"Mainland, Geoffrey" "Drexel University" <class 'json.decoder.JSONDecodeError'>
+"Mancoridis, Spiros" "Drexel University" <class 'json.decoder.JSONDecodeError'>
+"Osmanlioglu, Yusuf" "Drexel University" <class 'json.decoder.JSONDecodeError'>
+"Pirmann, Tammy" "Drexel University" <class 'json.decoder.JSONDecodeError'>
+"Popyack, Jeffrey" "Drexel University" <class 'json.decoder.JSONDecodeError'>
+"Salvage, Jeffrey" "Drexel University" <class 'json.decoder.JSONDecodeError'>
+"Shokoufandeh, Ali" "Drexel University" <class 'json.decoder.JSONDecodeError'>
+"Vista, Dimitra" "Drexel University" <class 'json.decoder.JSONDecodeError'>
+"Remco Chang" "Tufts University" <class 'json.decoder.JSONDecodeError'>
+"J.P. de Ruiter" "Tufts University" <class 'json.decoder.JSONDecodeError'>
+"Soha Hassoun" "Tufts University" <class 'json.decoder.JSONDecodeError'>
+"Raja Sambasivan" "Tufts University" <class 'json.decoder.JSONDecodeError'>
+"Mark Sheldon" "Tufts University" <class 'json.decoder.JSONDecodeError'>
+"Jivko Sinapov" "Tufts University" <class 'json.decoder.JSONDecodeError'>
+"Diane Souvaine" "Tufts University" <class 'json.decoder.JSONDecodeError'>
+"Daniel Votipka" "Tufts University" <class 'json.decoder.JSONDecodeError'>
+"Partha Biswas" "Tufts University" <class 'json.decoder.JSONDecodeError'>
+"Lisa Diorio" "Tufts University" <class 'json.decoder.JSONDecodeError'>
+"Fabrizio Santini" "Tufts University" <class 'json.decoder.JSONDecodeError'>
+"Jitendra Singh" "Tufts University" <class 'json.decoder.JSONDecodeError'>
+"Ethan Danahy" "Tufts University" <class 'json.decoder.JSONDecodeError'>
+"Josephine Wolff" "Tufts University" <class 'json.decoder.JSONDecodeError'>
+"Amy Apon" "Clemson University" <class 'AssertionError'>
+"Alexander Sasha" Rush."" "Cornell University" <class 'AssertionError'>
+"Corey Montella" "Lehigh University" <class 'AssertionError'>
+"Holly Rushmeier." "Yale" <class 'AssertionError'>
+"Vista, Dimitra" "Drexel University" <class 'AssertionError'>
+"Lena Mashayekhy" "University of Delaware" <class 'AssertionError'>
+"Margaret Myers" "University of Texas, Austin" <class 'AssertionError'>
+"Kyumin Lee" "Worcester Polytechnic Institute" <class 'AssertionError'>
+"Aravind Srinivasan" "University of Maryland, College Park" <class 'AssertionError'>
+"Travis Martin" "University of Utah" <class 'AssertionError'>
+"Lily Chang" "Rutgers" <class 'AssertionError'>
+"Tomasz Imielinski" "Rutgers" <class 'json.decoder.JSONDecodeError'>
+"Yongfeng Zhang" "Rutgers" <class 'json.decoder.JSONDecodeError'>
+"Cesar Torres  Assistant Professor" "University of Texas, Arlington" <class 'AssertionError'>
+"Nianwen Bert Xue" "Brandeis University" <class 'AssertionError'>
+"Siegelmann, Hava" "University of Massachusetts, Amherst" <class 'AssertionError'>
+"Sylvia, Frank" "University of Massachusetts, Amherst" <class 'ValueError'>
+"Nianwen Bert Xue" "Brandeis University" <class 'AssertionError'>
+"Murray, Thomas" "University of Massachusetts, Amherst" <class 'AssertionError'>
+"Li, Jundong" "University of Virginia" <class 'AssertionError'>
+"Skadron, Kevin" "University of Virginia" <class 'AssertionError'>
+"Theodore Manikas" "Southern Methodist University" <class 'AssertionError'>
+"Ms. Margaret Heil" "North Carolina State University" <class 'AssertionError'>
+"Ramin Ayanzadeh" "Georgia Institute of Technology" <class 'AssertionError'>
+"Thomas Conte" "Georgia Institute of Technology" <class 'ValueError'>
+"Milos Prvulovic" "Georgia Institute of Technology" <class 'AssertionError'>
+"Tao Ju" "Washington University in St. Louis" <class 'AssertionError'>
+"Ning Zhang" "Washington University in St. Louis" <class 'AssertionError'>
+"Sameer Singh" "University of California, Irvine" <class 'AssertionError'>
+"Kevin Bandura" "West Virginia University" <class 'AssertionError'>
+"Juggy Jagannathan" "West Virginia University" <class 'AssertionError'>
+"Piyush Mehta" "West Virginia University" <class 'json.decoder.JSONDecodeError'>
+"Ning Zhang" "Washington University in St. Louis" <class 'AssertionError'>
+"Robert Phipps" "West Virginia University" <class 'AssertionError'>
+"Sibel Adali" "Rensselaer Polytechnic Institute" <class 'AssertionError'>
+"Wes Turner" "Rensselaer Polytechnic Institute" <class 'AssertionError'>
+"Mohamed F. Mokbel" "University of Minnesota, Twin Cities" <class 'AssertionError'>
+"Zhi-Li Zhang" "University of Minnesota, Twin Cities" <class 'AssertionError'>
+"Shiu-Kai Chin" "Syracuse University" <class 'AssertionError'>
+"Elizabeth M. Belding" "University of California, Santa Barbara" <class 'AssertionError'>
+"Michael Beyeler" "University of California, Santa Barbara" <class 'AssertionError'>
+"Shiyu Chang" "University of California, Santa Barbara" <class 'AssertionError'>
+"Daniel Bernstein" "University of Illinois, Chicago" <class 'AssertionError'>
+"David Bakken" "Washington State University" <class 'json.decoder.JSONDecodeError'>
+"Mustakimur Rahman Khandaker" "University of Georgia" <class 'AssertionError'>
+"Hao Peng" "University of Georgia" <class 'AssertionError'>
+"Benjamin Belzer" "Washington State University" <class 'json.decoder.JSONDecodeError'>
+"Ali Abbas" "University of Southern California" <class 'AssertionError'>
+"Jason O'Kane" "University of South Carolina" <class 'AssertionError'>
+"Ioannis Rekleitis" "University of South Carolina" <class 'AssertionError'>
+"Matt E. Thatcher" "University of South Carolina" <class 'AssertionError'>
+"Yan Tong" "University of South Carolina" <class 'AssertionError'>
+"Homayoun Valafar" "University of South Carolina" <class 'AssertionError'>
+"Carter J. Bays" "University of South Carolina" <class 'AssertionError'>
+"John B. Bowles" "University of South Carolina" <class 'AssertionError'>
+"Duncan Buell" "University of South Carolina" <class 'AssertionError'>
+"Carl K Chang" "Iowa State University" <class 'AssertionError'>
+"Tichakorn (Nok) Wongpiromsarn" "Iowa State University" <class 'AssertionError'>
+"Les Miller" "Iowa State University" <class 'AssertionError'>
+"Carson Andorf" "Iowa State University" <class 'AssertionError'>
+"Hana Khamfroush" "University of Kentucky" <class 'AssertionError'>
+"Brent Seales" "University of Kentucky" <class 'AssertionError'>
+"Hana Khamfroush" "University of Kentucky" <class 'AssertionError'>
+"Tim Oates" "University of Maryland, Baltimore County" <class 'AssertionError'>
+"Verma, Rakesh" "University of Houston" <class 'AssertionError'>
+"Ken Graf" "University of New Hampshire" <class 'AssertionError'>
+"Ryan Farrell" "Brigham Young University" <class 'AssertionError'>
+"Songqing Chen" "George Mason University" <class 'AssertionError'>

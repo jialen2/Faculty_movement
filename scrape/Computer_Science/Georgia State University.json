@@ -1,0 +1,636 @@
+{
+    "Dr. Gursimran Singh Walia": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Assistant Professor of Computer Science",
+                [
+                    "Company Name",
+                    "North Dakota State University"
+                ]
+            ]
+        ]
+    },
+    "Dr. Murali Medidi": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Dr. Hong Zhang": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Armstrong State University"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Georgia Southern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2002 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Statesboro"
+                ]
+            ]
+        ]
+    },
+    "Dr. Felix Hamza-Lup, Ph.D.": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Dr. Ray Hashemi, Ph.D.": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Yamacraw Professor of Computer Science",
+                [
+                    "Company Name",
+                    "Armstrong Atlantic State University"
+                ]
+            ]
+        ]
+    },
+    "Dr. Lixin Li, Ph.D.": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Georgia Southern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Dr. Daniel Liang, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Oklahoma",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1991"
+                ],
+                [
+                    "More Info",
+                    "Researched algorithms and specialized in theoretical computer science."
+                ]
+            ],
+            [
+                "Fudan University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1979 - 1983"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Georgia Southern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Savannah, Georgia Area"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Armstrong Atlantic State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2000 - Dec 2017"
+                ],
+                [
+                    "Location",
+                    "Savannah, Georgia Area"
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Purdue University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1991 - Jun 2000"
+                ],
+                [
+                    "Location",
+                    "Fort Wayne, Indiana Area"
+                ]
+            ]
+        ]
+    },
+    "Dr. Wen-Ran Zhang, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "University of South Carolina",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ]
+            ]
+        ],
+        "Experience": []
+    },
+    "Dr. Andrew Allen, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "Florida International University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Georgia Southern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Statesboro, Georgia, United States"
+                ]
+            ]
+        ]
+    },
+    "Dr. Kai Wang, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Tennessee, Knoxville",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2015"
+                ],
+                [
+                    "More Info",
+                    "Graduated in 2015"
+                ]
+            ],
+            [
+                "University of Tennessee, Knoxville",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Industrial Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Transferred to EECS"
+                ]
+            ],
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "Master"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2008"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Georgia Southern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 - Mar 2022"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Tennessee at Knoxville"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2011 - Apr 2015"
+                ],
+                [
+                    "Location",
+                    "Graph Theory and Computational Biology"
+                ]
+            ]
+        ]
+    },
+    "Dr. Ryan Florin, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "Old Dominion University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2020"
+                ]
+            ],
+            [
+                "Old Dominion University",
+                [
+                    "Degree Name",
+                    "Master of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Ryan Florin, \"A Penalty-Based Approach to Handling Cluster Sizing in Mobile Ad Hoc Networks,\" Master's thesis, Old Dominion University, May 2011."
+                ]
+            ],
+            [
+                "Old Dominion University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2005"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Georgia Southern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Statesboro, Georgia, United States"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "AHM (Advanced Health Media)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2011 - Aug 2021"
+                ]
+            ],
+            [
+                "Graduate Teaching Assistant/Adjunct Faculty",
+                [
+                    "Company Name",
+                    "Old Dominion University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2016 - Dec 2019"
+                ],
+                [
+                    "Location",
+                    "Old Dominion University"
+                ],
+                [
+                    "More Info",
+                    "Teach Introduction to Computer Architecture I"
+                ]
+            ],
+            [
+                "Computer Programmer",
+                [
+                    "Company Name",
+                    "reQuire"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - Jun 2008"
+                ]
+            ]
+        ]
+    },
+    "Dr. Weitian Tong, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Alberta",
+                [
+                    "Degree Name",
+                    "Master"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0/4.0"
+                ]
+            ],
+            [
+                "Zhejiang University",
+                [
+                    "Degree Name",
+                    "Bachelor"
+                ],
+                [
+                    "Field Of Study",
+                    " Applied Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Tenure-track Assistant Professor",
+                [
+                    "Company Name",
+                    "Georgia Southern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Statesboro, GA, 30458"
+                ]
+            ],
+            [
+                "Tenure-track Assistant Professor",
+                [
+                    "Company Name",
+                    "Eastern Michigan University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 - Aug 2021"
+                ],
+                [
+                    "Location",
+                    "Ypsilanti, MI, USA"
+                ]
+            ],
+            [
+                "Tenure-track assistant professor",
+                [
+                    "Company Name",
+                    "Georgia Southern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Jun 2019"
+                ]
+            ]
+        ]
+    },
+    "Dr. Yao Xu, Ph.D.": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Alberta",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computing Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Jan 2015 - Jan 2019"
+                ],
+                [
+                    "More Info",
+                    "Research: Algorithms design and analysis for solving combinatorial optimization problems with various applications."
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Applied Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Aug 2011 - Dec 2012"
+                ],
+                [
+                    "More Info",
+                    "Concentration in Actuarial Science"
+                ]
+            ],
+            [
+                "Zhejiang Gongshang University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Information and Computing Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 2007 - Jun 2011"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Georgia Southern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2021 - Mar 2022"
+                ]
+            ],
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "Kettering University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 - Jan 2021"
+                ],
+                [
+                    "Location",
+                    "Flint, Michigan, United States"
+                ]
+            ],
+            [
+                "Research And Teaching Assistant",
+                [
+                    "Company Name",
+                    "University of Alberta"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2015 - Aug 2018"
+                ],
+                [
+                    "Location",
+                    "Edmonton, AB, Canada"
+                ]
+            ]
+        ]
+    },
+    "Christopher Williams": {
+        "status": "success",
+        "Education": [
+            [
+                "Illinois State University",
+                [
+                    "Degree Name",
+                    "1997 - 2004"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Residence Hall Director",
+                [
+                    "Company Name",
+                    "Georgia State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2007 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Dr. Constantinos Papaconstantinou, Ph.D.": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    }
+}

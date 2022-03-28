@@ -54,8 +54,8 @@ def find(university, department):
                 return r, url
     return res_data, res_url
 
-university = 'Emory University'
-department = 'Computer Science'
-data, url = find(university, department)
-for person in data:
-    print(person["Name"])
+# university = 'Emory University'
+# department = 'Computer Science'
+# data, url = find(university, department)
+# for person in data:
+#     print(person["Name"])

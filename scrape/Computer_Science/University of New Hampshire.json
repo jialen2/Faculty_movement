@@ -1,0 +1,1216 @@
+{
+    "Momotaz Begum": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Waterloo",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " ECE (Mobile Robotics)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2009"
+                ]
+            ],
+            [
+                "Memorial University of Newfoundland",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " ECE (Mobile Robotics)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2005"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of New Hampshire"
+                ]
+            ],
+            [
+                "Research Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Massachusetts Lowell"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2013 - Jul 2016"
+                ],
+                [
+                    "Location",
+                    "MA, USA"
+                ],
+                [
+                    "More Info",
+                    "Trust in human-robot interaction, Assistive robots for people with disabilities"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Toronto Rehabilitation Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Jun 2013"
+                ],
+                [
+                    "Location",
+                    "*  Human-Robot Interaction (HRI) and Assistive Robotics: HRI design for assistive robots to help older adults with dementia in their activities of daily living"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Socially Intelligent Machine Lab, Georgia Inst. of Tech"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2010 - Aug 2011"
+                ],
+                [
+                    "Location",
+                    "Research on contingency detection and turn-taking pattern during social human-robot interaction"
+                ]
+            ],
+            [
+                "JSPS Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "ATR Computational Neuroscience Laboratory, Kyoto, Japan"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2010 - Sep 2010"
+                ],
+                [
+                    "Location",
+                    "Cognition-driven Dexterous Manipulation for robotic systems"
+                ]
+            ]
+        ]
+    },
+    "David Benedetto": {
+        "status": "success",
+        "Education": [
+            [
+                "Tufts University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Education"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2018 - 2022"
+                ],
+                [
+                    "More Info",
+                    "STEM Education PhD student with focus on computation and making."
+                ]
+            ],
+            [
+                "University of New Hampshire",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2015"
+                ],
+                [
+                    "More Info",
+                    "Interdisciplinary research including bioinformatics and data visualization.  Specialized coursework in software engineering process and project management."
+                ]
+            ],
+            [
+                "University of New Hampshire",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2006"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Track &amp; Field"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "University of New Hampshire"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Durham, NH"
+                ],
+                [
+                    "More Info",
+                    "Currently teaching / advising: STS - Society &amp; the Internet; CS - Python with Analytics; CS &amp; IT Senior Capstone."
+                ]
+            ],
+            [
+                "Phd Researcher Assistant",
+                [
+                    "Company Name",
+                    "Tufts University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Aug 2019"
+                ],
+                [
+                    "Location",
+                    "Medford, MA"
+                ],
+                [
+                    "More Info",
+                    "Pursuing my PhD in STEM Education, with a focus on computation and making."
+                ]
+            ],
+            [
+                "STEM Coordinator",
+                [
+                    "Company Name",
+                    "NH Department of Education"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 - Aug 2018"
+                ],
+                [
+                    "Location",
+                    "Concord, NH"
+                ],
+                [
+                    "More Info",
+                    "Coordinate efforts to modernize and integrate Science, Technology, Engineering, and Math education in NH."
+                ]
+            ],
+            [
+                "Computer Science Instructor",
+                [
+                    "Company Name",
+                    "Pinkerton Academy"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Jun 2016"
+                ],
+                [
+                    "Location",
+                    "Derry, NH"
+                ],
+                [
+                    "More Info",
+                    "Design curriculum and instruct computer science at secondary level.  Topics include:  development and impacts of ICT's; research and presentation skills; data analysis with Excel; intro to programming with Python; intro to web development with HTML, CSS, and JavaScript; data structures and algorithms with C++; OO design-development with Java; modern app development with JQuery, AJAX, and Node.js."
+                ]
+            ],
+            [
+                "Math Teacher",
+                [
+                    "Company Name",
+                    "Belmont High School"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2010 - Jun 2013"
+                ],
+                [
+                    "Location",
+                    "Belmont, NH"
+                ],
+                [
+                    "More Info",
+                    "Instructed math 9-12: Pre-Algebra through Statistics.  Coached Track &amp; Field."
+                ]
+            ]
+        ]
+    },
+    "Aleksey Charapko": {
+        "status": "success",
+        "Education": [
+            [
+                "University at Buffalo",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2020"
+                ]
+            ],
+            [
+                "University of North Florida",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2015"
+                ]
+            ],
+            [
+                "University of North Florida",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2015"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of New Hampshire"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2020 - Mar 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 - Aug 2020"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University at Buffalo"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 - Jun 2020"
+                ]
+            ],
+            [
+                "Web Developer",
+                [
+                    "Company Name",
+                    "Elyk Innovation, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2012 - Jul 2015"
+                ],
+                [
+                    "Location",
+                    "Jacksonville, Florida Area"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of North Florida"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2012 - May 2015"
+                ]
+            ]
+        ]
+    },
+    "Michel Charpentier": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of New Hampshire"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 1999 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Betsy Coleman": {
+        "status": "success",
+        "Education": [
+            [
+                "UNH Peter T. Paul College of Business and Economics",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Management of Technology (MOT)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2013"
+                ],
+                [
+                    "More Info",
+                    "\"The MS-MOT is a specialized Master degree in business aimed at engineers, scientists, researchers, and other technical professionals. The degree was designed to provide students from technical backgrounds with the knowledge and skills to manage the interfaces between technology, strategy and business processes, and the development and commercialization of emerging technologies.\""
+                ]
+            ],
+            [
+                "University of New Hampshire",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Lecturer",
+                [
+                    "Company Name",
+                    "University of New Hampshire"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Mar 2022"
+                ]
+            ],
+            [
+                "Information Technologist",
+                [
+                    "Company Name",
+                    "University of New Hampshire"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Jun 2016"
+                ]
+            ],
+            [
+                "Web Developer",
+                [
+                    "Company Name",
+                    "Plymouth State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2009 - Jun 2013"
+                ]
+            ],
+            [
+                "IT Manager / Project Manager",
+                [
+                    "Company Name",
+                    "Newfound Consulting Services Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2003 - Jun 2013"
+                ]
+            ],
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "Azores Corp"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2006 - Jun 2009"
+                ]
+            ]
+        ]
+    },
+    "Laura Dietz": {
+        "status": "success",
+        "Education": [
+            [
+                "Goethe University",
+                [
+                    "Degree Name",
+                    "Diplom"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 2002"
+                ]
+            ],
+            [
+                "University of Massachusetts Amherst"
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of New Hampshire"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Durham, New Hampshire, U.S.A."
+                ],
+                [
+                    "More Info",
+                    "Research on:"
+                ]
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "University of Mannheim"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2015 - Aug 2016"
+                ],
+                [
+                    "Location",
+                    "Mannheim Area, Germany"
+                ],
+                [
+                    "More Info",
+                    "Research on:"
+                ]
+            ],
+            [
+                "Co-Founder",
+                [
+                    "Company Name",
+                    "Pioneer Valley Open Science"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2013 - Feb 2015"
+                ],
+                [
+                    "Location",
+                    "Amherst, Massachusetts"
+                ]
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "University of Massachusetts Amherst"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2010 - Feb 2015"
+                ],
+                [
+                    "Location",
+                    "Amherst, Massachusetts"
+                ],
+                [
+                    "More Info",
+                    "Research on:"
+                ]
+            ],
+            [
+                "PhD student",
+                [
+                    "Company Name",
+                    "Max Planck Institute for Informatics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2007 - Oct 2010"
+                ]
+            ]
+        ]
+    },
+    "A. Michael Gildersleeve": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Alejandro Hausner": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Daniel Webster College"
+                ]
+            ],
+            [
+                "Senior Lecturer",
+                [
+                    "Company Name",
+                    "Department of Computer Science at the University of New Hampshire"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Durham, NH"
+                ]
+            ]
+        ]
+    },
+    "Michael Kulik": {
+        "status": "success",
+        "Education": [
+            [
+                "University of New Hampshire",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Linux Club"
+                ]
+            ],
+            [
+                "University of New Hampshire",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2009"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Software Developer",
+                [
+                    "Company Name",
+                    "Hydratec, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2010 - Aug 2014"
+                ]
+            ]
+        ]
+    },
+    "Matthew Magnusson": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Arvind Narayan": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Marek Petrik": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Advisor: Shlomo Zilberstein"
+                ]
+            ],
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "M.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2008"
+                ]
+            ],
+            [
+                "Univerzita Komenského v Bratislave",
+                [
+                    "Degree Name",
+                    "B.Sc. (Mgr)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science (Informatics)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2005"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of New Hampshire"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Durham, NH"
+                ],
+                [
+                    "More Info",
+                    "Research and Teaching"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "IBM"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2010 - Aug 2016"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Massachusetts Amherst"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2005 - Jun 2010"
+                ],
+                [
+                    "Location",
+                    "Machine Learning and Optimization"
+                ]
+            ],
+            [
+                "Software Developer",
+                [
+                    "Company Name",
+                    "Whitestein Technologies"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2003 - Aug 2005"
+                ],
+                [
+                    "Location",
+                    "Logistics optimization"
+                ]
+            ],
+            [
+                "Software Developer",
+                [
+                    "Company Name",
+                    "OneTwoTech"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2001 - Jun 2003"
+                ],
+                [
+                    "Location",
+                    "Software development"
+                ]
+            ]
+        ]
+    },
+    "Matthew Plumlee": {
+        "status": "success",
+        "Education": [
+            [
+                "University of New Hampshire",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 2004"
+                ],
+                [
+                    "More Info",
+                    "Started in theoretical models of parallel computation, moved on to 3D Human Factors. Dissertation involved heavy implementation, experimental, and theoretic work: \"Linking Focus and Context in 3D Multiscale Environments.\""
+                ]
+            ],
+            [
+                "University of New Hampshire",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1995"
+                ],
+                [
+                    "More Info",
+                    "Honors project: 3D visualizer of vector fields and traces of differential equations."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "University of New Hampshire"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2016 - Mar 2022"
+                ]
+            ],
+            [
+                "Software Engineering Manager",
+                [
+                    "Company Name",
+                    "Radianse"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2014 - Jan 2016"
+                ],
+                [
+                    "Location",
+                    "Rochester, New Hampshire"
+                ],
+                [
+                    "More Info",
+                    "Managing a team of 6-8 developers in the maintenance and enhancement of a location tracking system comprised of .NET services and web applications for hospitals and correctional facilities. * Have led debugging and performance improvements that increased the capacity of the flagship system by roughly two orders of magnitude while improving responsiveness"
+                ]
+            ],
+            [
+                "Lecturer/Research Consultant",
+                [
+                    "Company Name",
+                    "University of New Hampshire"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2007 - May 2014"
+                ],
+                [
+                    "Location",
+                    "•\tProgramming Assistance Center Director, Department of Computer Science"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of New Hampshire"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2000 - May 2006"
+                ]
+            ],
+            [
+                "Programmer",
+                [
+                    "Company Name",
+                    "Intellitech"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1997 - Jun 1999"
+                ],
+                [
+                    "Location",
+                    "Developed parsing, scripting, and user interface components of a software application that supports scan-based electronic test processes. C/C++, lex/yacc. Responsible for management of part-time student programmers."
+                ]
+            ]
+        ]
+    },
+    "Wheeler Ruml": {
+        "status": "success",
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 2002"
+                ]
+            ],
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "AB"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1993"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of New Hampshire"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2007 - Mar 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Palo Alto Research Center (PARC)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2002 - Jun 2007"
+                ]
+            ],
+            [
+                "graduate student",
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1994 - Jun 2002"
+                ]
+            ]
+        ]
+    },
+    "Scott Valcourt": {
+        "status": "success",
+        "Education": [
+            [
+                "University of New Hampshire",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Engineering: Systems Design with Cognate in College Teaching"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2017"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: IEEE - Senior Member; IEEE-SA - Senior Member; IEEE-CS - Senior Member; IEEE-AESS - Senior Member; ACM - Member; Computer Science Teachers Association - Member; Project Management Institute - Member;"
+                ]
+            ],
+            [
+                "University of New Hampshire",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 1999"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Chair, ACM Chapter (2 years)"
+                ]
+            ],
+            [
+                "Saint Anselm College",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science with Mathematics Emphasis"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1988 - 1992"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Computer Society President (2 years),"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Teaching Professor",
+                [
+                    "Company Name",
+                    "Northeastern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2020 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Portland, Maine, United States"
+                ],
+                [
+                    "More Info",
+                    "The Roux Institute at Northeastern University is a learning and research satellite campus in Portland, ME focused on advancing technology and life sciences in Maine, for Maine, by Maine students, partners, and faculty.  I serve as a graduate faculty member of the Khoury College of Computer Sciences teaching courses and learning modules in computer science to advance educational and research opportunities in Maine.  Research areas of focus include cyberinfrastructure, broadband expansion, telehealth, computer science education (K-20), cybersecurity, AR/VR/XR, high performance computing (HPC).  I am always seeking opportunities to apply computer science principles to questions that could advance the state of the art and help companies and people grow in their understanding."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of New Hampshire"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2004 - Mar 2022"
+                ]
+            ],
+            [
+                "Member, Board of Advisers",
+                [
+                    "Company Name",
+                    "RoomioTV"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2010 - Apr 2019"
+                ],
+                [
+                    "Location",
+                    "Provide technical guidance and support to the software development team of RoomioTV, a start-up company developing the next generation of in-room entertainment and services for the hospitality industry."
+                ]
+            ],
+            [
+                "Testing &amp; Interoperability WG Vice Chair",
+                [
+                    "Company Name",
+                    "DSL Forum"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1999 - Jun 2003"
+                ],
+                [
+                    "Location",
+                    "Managed the development of Working Group specifications generated by several company representatives to the Forum; coordinated testing events that verified the proper definition of the specifications; organized the demonstration of DSL technologies for workshops and trade show events across the world."
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Argonne National Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 1992 - May 1992"
+                ],
+                [
+                    "Location",
+                    "Built a graphic visualization routine to access archived experimental breeder reactor run data for analysis by the Fuels &amp;amp; Engineering (FE) group at Argonne."
+                ]
+            ]
+        ]
+    },
+    "Elizabeth Varki": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Dongpeng Xu": {
+        "status": "success",
+        "Education": [
+            [
+                "Penn State University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer and Information Systems Security/Information Assurance"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2018"
+                ]
+            ],
+            [
+                "University of Science and Technology of China",
+                [
+                    "Degree Name",
+                    "Master of Engineering - MEng"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Software Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2013"
+                ]
+            ],
+            [
+                "Jilin University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Fashion/Apparel Design"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2009"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of New Hampshire"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "United States"
+                ]
+            ]
+        ]
+    }
+}

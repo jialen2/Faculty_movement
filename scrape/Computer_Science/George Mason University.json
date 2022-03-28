@@ -1,0 +1,2435 @@
+{
+    "Jan Allbeck": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 2009"
+                ]
+            ],
+            [
+                "Bloomsburg University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "BS and BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1995"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2009 - Mar 2022"
+                ]
+            ],
+            [
+                "Associate Director of Center for Human Modeling and Simulation",
+                [
+                    "Company Name",
+                    "University of Pennsylvania"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2001 - Jul 2009"
+                ],
+                [
+                    "Location",
+                    "Management of HMS research projects including proposals, reports, software design and deliverables, and management of team staff on projects.  Work with HMS Director, Dr. Norman Badler, as well as independently to supervise both individual and group projects consisting of both graduate and undergraduate students. Projects include funded research as well as independent studies, senior projects, and summer internships."
+                ]
+            ]
+        ]
+    },
+    "Paul Ammann": {
+        "status": "success",
+        "Education": [
+            [
+                "Cornell University",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2016 - 2017"
+                ]
+            ],
+            [
+                "University of Virginia",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Bachelor of Arts (BA), Chemistry, Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2013"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Software Engineer",
+                [
+                    "Company Name",
+                    "Benchling"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Seattle, Washington, United States"
+                ]
+            ],
+            [
+                "Sr Software Engineer",
+                [
+                    "Company Name",
+                    "Autodesk"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 - Aug 2021"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ],
+                [
+                    "More Info",
+                    "Sr Software Engineer at Plangrid, Acquired by Autodesk in 2019"
+                ]
+            ],
+            [
+                "Full Stack Engineer",
+                [
+                    "Company Name",
+                    "Dealpath"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2015 - Jul 2016"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ],
+                [
+                    "More Info",
+                    "Full stack development for commercial real estate management platform. Worked directly on feature development of Ruby application (ActiveRecord ORM, Sinatra server) with angular.js front-end."
+                ]
+            ],
+            [
+                "Full Stack / iOS engineer",
+                [
+                    "Company Name",
+                    "Ascend Fitness LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2013 - Oct 2015"
+                ],
+                [
+                    "Location",
+                    "Charlottesville, Virginia Area"
+                ],
+                [
+                    "More Info",
+                    "Built mobile and web applications that allow trainers and physical therapists to remotely train clients with pre-made workout sessions. Full stack development involved node.js back-end, angular.js web app, and iOS/Android mobile application."
+                ]
+            ],
+            [
+                "Full Stack / iOS engineer",
+                [
+                    "Company Name",
+                    "Latch"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2013 - Aug 2014"
+                ],
+                [
+                    "Location",
+                    "Washington D.C. Metro Area"
+                ],
+                [
+                    "More Info",
+                    "Co-founded an Internet of Things company focused on creating solutions for the construction industry as well as building access control"
+                ]
+            ]
+        ]
+    },
+    "Antonios Anastasopoulos": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Notre Dame",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2019"
+                ]
+            ],
+            [
+                "National Technical University of Athens",
+                [
+                    "Degree Name",
+                    "Electrical and Computer Engineering"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2013"
+                ],
+                [
+                    "More Info",
+                    "Arsakeio Tositseio High School"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2020 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Fairfax, Virginia, United States"
+                ],
+                [
+                    "More Info",
+                    "https://cs.gmu.edu/~antonis/"
+                ]
+            ],
+            [
+                "Research Associate",
+                [
+                    "Company Name",
+                    "Carnegie Mellon University - School of Computer Science - Language Technologies Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2019 - Aug 2020"
+                ],
+                [
+                    "Location",
+                    "Pittsburgh"
+                ]
+            ],
+            [
+                "Computer Science PhD",
+                [
+                    "Company Name",
+                    "University of Notre Dame"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Feb 2019"
+                ],
+                [
+                    "Location",
+                    "http://www3.nd.edu/~aanastas/"
+                ]
+            ],
+            [
+                "Software Engineer Internship",
+                [
+                    "Company Name",
+                    "Google"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2017 - Aug 2017"
+                ],
+                [
+                    "Location",
+                    "New York"
+                ]
+            ],
+            [
+                "Web and Database Developer",
+                [
+                    "Company Name",
+                    "Research Project"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2013 - May 2014"
+                ],
+                [
+                    "Location",
+                    "Athens"
+                ],
+                [
+                    "More Info",
+                    "Project: ‘Documentation and analysis of an endangered language: aspects of the grammar of Griko’."
+                ]
+            ]
+        ]
+    },
+    "Kevin Andrea": {
+        "status": "success",
+        "Education": [
+            [
+                "George Mason University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2020"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Graduate Research Assistant (2015-2016)"
+                ]
+            ],
+            [
+                "George Mason University",
+                [
+                    "Degree Name",
+                    "Master's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2014"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Graduate Research Assistant, Systems Laboratory;"
+                ]
+            ],
+            [
+                "George Mason University",
+                [
+                    "Degree Name",
+                    "Bachelor's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Autonomous Robotics Laboratory, Peer Advisor, Teaching Assistant"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - Mar 2022"
+                ]
+            ],
+            [
+                "Sergeant",
+                [
+                    "Company Name",
+                    "Virginia Army National Guard"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2005 - May 2011"
+                ]
+            ],
+            [
+                "Sergeant",
+                [
+                    "Company Name",
+                    "United States Marine Corps"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1996 - Aug 2001"
+                ]
+            ]
+        ]
+    },
+    "Giuseppe Ateniese": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Ivan Avramovic": {
+        "status": "success",
+        "Education": [
+            [
+                "George Mason University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Dec 2020"
+                ],
+                [
+                    "More Info",
+                    "Researching the dissertation topic, \"Combinatorial Algorithms in Sorting, Broadcasting, and Information Dissemination,\" a theoretical subject which involves analysis of randomized sorting algorithms and perpetual gossip schemes."
+                ]
+            ],
+            [
+                "George Mason University",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Grade: 4.0"
+                ],
+                [
+                    "More Info",
+                    "Focuses on Artificial Intelligence (including pattern recognition and robotic systems), Systems &amp; Networking (including concurrent systems), Computer Graphics, and Theory."
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Activities and societies: Association for Computer Machinery (ACM); Math contests and training."
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2018 - Mar 2022"
+                ]
+            ],
+            [
+                "Programmer Analyst",
+                [
+                    "Company Name",
+                    "Henry M Jackson Foundation"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2009 - Jun 2010"
+                ],
+                [
+                    "Location",
+                    "Fairfax, VA"
+                ],
+                [
+                    "More Info",
+                    "Developed 3D haptic-enabled applications to assist with the evaluation of patients with traumatic head injuries."
+                ]
+            ],
+            [
+                "Engineer/Programmer",
+                [
+                    "Company Name",
+                    "SAIC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1997 - Jun 1998"
+                ],
+                [
+                    "Location",
+                    "McLean, VA"
+                ],
+                [
+                    "More Info",
+                    "Assisted in the development of Java-based logistic simulation tools with military applications."
+                ]
+            ]
+        ]
+    },
+    "Hakan Aydın": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Foteini Baldimtsi": {
+        "status": "success",
+        "Education": [
+            [
+                "Brown University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science, Cryptography"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2014"
+                ]
+            ],
+            [
+                "Brown University",
+                [
+                    "Degree Name",
+                    "M.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2011"
+                ],
+                [
+                    "More Info",
+                    "University of Macedonia"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2016 - Mar 2022"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "Boston University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2014 - May 2016"
+                ]
+            ],
+            [
+                "PhD Candidate",
+                [
+                    "Company Name",
+                    "Brown University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2009 - May 2014"
+                ]
+            ],
+            [
+                "Reseach Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2013 - Dec 2013"
+                ],
+                [
+                    "Location",
+                    "Redmond, WA, USA"
+                ]
+            ],
+            [
+                "Summer Intern",
+                [
+                    "Company Name",
+                    "IBM"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Aug 2012"
+                ],
+                [
+                    "Location",
+                    "Zurich, Switzerland"
+                ]
+            ]
+        ]
+    },
+    "Daniel Barbará": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Alex Brodsky": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Department of Computer Science, George Mason Univeristy"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1993 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Department of Computer Science"
+                ],
+                [
+                    "More Info",
+                    "Publications: http://scholar.google.com/citations?hl=en&amp;user=AsyAUTIAAAAJ&amp;sortby=pubdate&amp;view_op=list_works&amp;pagesize=100"
+                ]
+            ],
+            [
+                "Founder, CTO",
+                [
+                    "Company Name",
+                    "Adaptive Decisions, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2004 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Rockville MD"
+                ],
+                [
+                    "More Info",
+                    "Decision Support, Guidance and Optimization solutions"
+                ]
+            ],
+            [
+                "Inventor of Technology, Founder",
+                [
+                    "Company Name",
+                    "AdaptiveTrade, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1999 - Jun 2004"
+                ],
+                [
+                    "Location",
+                    "led R&amp;D of Adaptive Enterprise Optimization (AEO) Server and Studio, and a number of AEO-based solutions, including AEO Strategic Sourcing, which is commercially deployed and used by Fortune 500 companies, and AEO Gas Pipeline Optimizer, used by El-Paso Energy, the largest gas pipeline operator in North America, both leading to significant cost savings."
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "IBM T.J. Watson Research Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1991 - Jun 1993"
+                ]
+            ],
+            [
+                "R&amp;D Officer",
+                [
+                    "Company Name",
+                    "C4I Corps, IDF (Israel Defense Forces), Active Service"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1983 - Jun 1987"
+                ]
+            ]
+        ]
+    },
+    "Jim X. Chen": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Central Florida",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Graphics and Simulation"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1995"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "May 1995 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Full Professor of Computer Science"
+                ]
+            ],
+            [
+                "Visual Systems Scientist",
+                [
+                    "Company Name",
+                    "Institute for Simulation &amp; Training"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 1989 - Jul 1995"
+                ]
+            ]
+        ]
+    },
+    "Yue Cheng": {
+        "status": "success",
+        "Education": [
+            [
+                "Virginia Tech",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2017"
+                ],
+                [
+                    "More Info",
+                    "My Ph.D. research targets higher efficiency and better flexibility of modern storage systems, driven by the complexities of modern computing and data-intensive systems, and the need for more efficient and flexible approaches to manage such complexities."
+                ]
+            ],
+            [
+                "Beijing University of Posts and Telecommunications",
+                [
+                    "Degree Name",
+                    "BEng"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2009"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Fairfax, VA"
+                ]
+            ],
+            [
+                "Ph.D. candidate",
+                [
+                    "Company Name",
+                    "Virginia Tech"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 - Jun 2017"
+                ],
+                [
+                    "Location",
+                    "Blacksburg, VA"
+                ],
+                [
+                    "More Info",
+                    "Distributed Systems &amp; Storage Laboratory"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "EMC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 - Dec 2015"
+                ],
+                [
+                    "Location",
+                    "Princeton, NJ"
+                ],
+                [
+                    "More Info",
+                    "Optimal flash caching."
+                ]
+            ],
+            [
+                "Summer Research Intern",
+                [
+                    "Company Name",
+                    "IBM Almaden Research Center"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2014 - Aug 2014"
+                ],
+                [
+                    "Location",
+                    "San Jose"
+                ],
+                [
+                    "More Info",
+                    "Storage Systems Group:"
+                ]
+            ],
+            [
+                "Summer Research Intern",
+                [
+                    "Company Name",
+                    "IBM Almaden Research Center"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2013 - Aug 2013"
+                ],
+                [
+                    "Location",
+                    "San Jose"
+                ],
+                [
+                    "More Info",
+                    "Storage Systems Group:"
+                ]
+            ]
+        ]
+    },
+    "Sanmay Das": {
+        "status": "success",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2006"
+                ]
+            ],
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "A.B."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2001"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Computer Science",
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2020 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Fairfax, Virginia, United States"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Washington University in St. Louis"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Aug 2020"
+                ]
+            ],
+            [
+                "Associate Professor of Computer Science",
+                [
+                    "Company Name",
+                    "Virginia Tech"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Aug 2013"
+                ],
+                [
+                    "Location",
+                    "Blacksburg, VA"
+                ],
+                [
+                    "More Info",
+                    "Research, teaching, and service!"
+                ]
+            ],
+            [
+                "Assistant Professor of Computer Science",
+                [
+                    "Company Name",
+                    "Rensselaer Polytechnic Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2007 - Aug 2012"
+                ],
+                [
+                    "Location",
+                    "Research, teaching, and service!"
+                ]
+            ],
+            [
+                "Postdoctoral Scholar",
+                [
+                    "Company Name",
+                    "University of California, San Diego"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2006 - Jun 2007"
+                ]
+            ]
+        ]
+    },
+    "Ping Deng": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Socrates Dimitriadis": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Furniture / Interior designer / furniture manufacturer",
+                [
+                    "Company Name",
+                    "My own company"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Riyadh, Saudi Arabia"
+                ]
+            ],
+            [
+                "furniture designer/quality control",
+                [
+                    "Company Name",
+                    "Al Abdulkader furniture Company"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1999 - Jun 2019"
+                ]
+            ],
+            [
+                "Head of furniture Deepartment",
+                [
+                    "Company Name",
+                    "Riwaq of the Kingdom"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 1996 - Aug 1998"
+                ]
+            ],
+            [
+                "My Own Furniture Co",
+                [
+                    "Company Name",
+                    "S Dimitriadis."
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1975 - Jun 1996"
+                ]
+            ]
+        ]
+    },
+    "Carlotta Domeniconi": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Riverside",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2002"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "George Mason University"
+                ]
+            ]
+        ]
+    },
+    "Zoran Durić": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Yotam Gingold": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Ana Loreto Gonzalez": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Fairfax, Virginia, United States"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "Högskolan i Skövde"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2016 - Aug 2018"
+                ],
+                [
+                    "Location",
+                    "Västra Götaland County, Sweden"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Center for Research and Advanced Studies of the National Polytechnic Institute (CINVESTAV-LTI)"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2013 - Aug 2016"
+                ]
+            ],
+            [
+                "Lecturer in Information Technology",
+                [
+                    "Company Name",
+                    "Autonomous University of Tamaulipas (UAT), Faculty of Business and Management of Tampico (FCAT)"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2001 - Dec 2007"
+                ],
+                [
+                    "Location",
+                    "Tampico Area, Mexico"
+                ]
+            ]
+        ]
+    },
+    "Dov Gordon": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Maryland",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Fairfax, Virginia"
+                ]
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "Applied Communication Sciences / Vencore Labs"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 - Jun 2015"
+                ]
+            ],
+            [
+                "Post-doctural researcher in cryptography",
+                [
+                    "Company Name",
+                    "Columbia University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2010 - Jun 2012"
+                ],
+                [
+                    "Location",
+                    "I have received the Computing Innovations Fellowship in order to continue doing research in cryptography."
+                ]
+            ]
+        ]
+    },
+    "Bo Han": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Maryland",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2012"
+                ],
+                [
+                    "More Info",
+                    "City University of Hong Kong"
+                ]
+            ],
+            [
+                "Tsinghua University",
+                [
+                    "Degree Name",
+                    "Bachelor's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2000"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2020 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Fairfax, Virginia, United States"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "AT&amp;T Labs Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Aug 2020"
+                ]
+            ]
+        ]
+    },
+    "Brian Hrolenok": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Michael Jarret Baume": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Delaware",
+                [
+                    "Degree Name",
+                    "BChe"
+                ],
+                [
+                    "Field Of Study",
+                    " Chemical Engineering"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Manager of Engineering",
+                [
+                    "Company Name",
+                    "Williams"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2012 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Greater Pittsburgh Area"
+                ]
+            ],
+            [
+                "Area Operations Manager",
+                [
+                    "Company Name",
+                    "Sunoco"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1998 - Feb 2012"
+                ],
+                [
+                    "Location",
+                    "Marcus Hook"
+                ]
+            ]
+        ]
+    },
+    "Brittany Johnson-Matthews": {
+        "status": "success",
+        "Education": [
+            [
+                "North Carolina State University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science/Software Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2017"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Women in Computer Science (WiCS), Minority Engineering Graduate Student Association (MEGSA), Students &amp; Technology in Academia, Research, &amp; Service (STARS), National Society of Black Engineers (NSBE)"
+                ]
+            ],
+            [
+                "College of Charleston",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Pep Band, Association for Computing Machinery (ACM), South Carolina Alliance for Minority Participation (SCAMP), National Society of Collegiate Scholars (NSCS) College of Charleston Chapter."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2020 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Fairfax, Virginia, United States"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of Massachusetts Amherst"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Aug 2020"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "North Carolina State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 - Aug 2017"
+                ],
+                [
+                    "Location",
+                    "Raleigh, North Carolina"
+                ],
+                [
+                    "More Info",
+                    "During my time as a Research Assistant, I have been working with Dr. Emerson Murphy-Hill and Sarah Heckman in the Developer Liberation Front at NC State (https://sites.google.com/site/developerliberationfront/) on finding ways to improve program analysis tools."
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 - Aug 2015"
+                ],
+                [
+                    "Location",
+                    "Redmond, WA"
+                ]
+            ],
+            [
+                "Software Developer Intern",
+                [
+                    "Company Name",
+                    "Truven Health Analytics"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2012 - Aug 2012"
+                ],
+                [
+                    "Location",
+                    "Raleigh-Durham, North Carolina Area"
+                ]
+            ]
+        ]
+    },
+    "Shahnaz Kamberi": {
+        "status": "success",
+        "Education": [
+            [
+                "Colorado Technical University",
+                [
+                    "Degree Name",
+                    "Doctor of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science concentration Emerging Media"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2015"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0 GPA"
+                ]
+            ],
+            [
+                "Bournemouth University",
+                [
+                    "Degree Name",
+                    "Master of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Animation"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2006"
+                ],
+                [
+                    "More Info",
+                    "Graduated with Merit"
+                ]
+            ],
+            [
+                "George Mason University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Applied Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2005"
+                ],
+                [
+                    "More Info",
+                    "Graduated with a 3.45 GPA"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor of Computer Science",
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Responsibilities include:"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Northern Virginia Community College"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Jul 2020"
+                ]
+            ],
+            [
+                "Associate Director CS/IT",
+                [
+                    "Company Name",
+                    "Stratford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Aug 2017"
+                ],
+                [
+                    "Location",
+                    "Woodbridge, Virginia"
+                ],
+                [
+                    "More Info",
+                    "-Responsible for the success and proper management of the Computer Science/Information Technology academic program."
+                ]
+            ],
+            [
+                "Summer Program Faculty",
+                [
+                    "Company Name",
+                    "Mason Game and Technology Academy"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 - Apr 2017"
+                ],
+                [
+                    "Location",
+                    "Fairfax, VA"
+                ],
+                [
+                    "More Info",
+                    "Mason Game &amp; Technology Academy (MGTA) integrates all of the STEM core competencies in a challenging, fun, and engaging way.  This program combines both the sciences and the arts, with creative &amp; critical thinking and problem solving skills."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "DeVry University &amp; Chamberlain College of Nursing"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2008 - Jul 2016"
+                ]
+            ]
+        ]
+    },
+    "Evgenios Kornaropoulos": {
+        "status": "success",
+        "Education": [
+            [
+                "Technische Universiteit Delft",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Biomedical/Medical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Grade: Very good"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Postdoctoral Researcher at Lund University, Department of Diagnostic Radiology, Lund, Sweden",
+                [
+                    "Company Name",
+                    "Lund University"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2019 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Lund, Sweden"
+                ]
+            ],
+            [
+                "Associate Researcher (Postdoctoral)",
+                [
+                    "Company Name",
+                    "University of Cambridge"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2017 - Nov 2019"
+                ],
+                [
+                    "Location",
+                    "Cambridge, United Kingdom"
+                ],
+                [
+                    "More Info",
+                    "Design and build of an imaging pipeline towards the automatic processing and analysis of Traumatic Brain Injury (TBI) patients and the extraction of imaging biomarkers that could characterize the severity of the trauma. Big data analysis and sophisticated machine learning techniques were deployed in this endeavor."
+                ]
+            ],
+            [
+                "PhD in Applied Mathematics",
+                [
+                    "Company Name",
+                    "Ecole Centrale Paris"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2013 - Jun 2017"
+                ],
+                [
+                    "Location",
+                    "Paris Area, France"
+                ],
+                [
+                    "More Info",
+                    "Whole-body Diffusion-Weighted MRI image analysis of lymphoma patients towards the extraction of imaging biomarkers and the characterization of the progress of the disease."
+                ]
+            ],
+            [
+                "Image Analist",
+                [
+                    "Company Name",
+                    "The Ohio State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2012 - Jun 2013"
+                ],
+                [
+                    "Location",
+                    "Columbus, Ohio Area"
+                ]
+            ],
+            [
+                "Software developer (internship)",
+                [
+                    "Company Name",
+                    "ANT - Advanced Neuro Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2010 - Aug 2010"
+                ],
+                [
+                    "Location",
+                    "Berlin Area, Germany"
+                ]
+            ]
+        ]
+    },
+    "Jana Košecká": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Wing Lam": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015"
+                ]
+            ],
+            [
+                "University of Washington",
+                [
+                    "Degree Name",
+                    "Honors Bachelors"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2013"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Illinois at Urbana-Champaign"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "My research interests are in software engineering, focusing on software testing and program analysis."
+                ]
+            ],
+            [
+                "Mobile Software Engineer",
+                [
+                    "Company Name",
+                    "WhitePages"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 - Jul 2015"
+                ],
+                [
+                    "Location",
+                    "Seattle, Washington"
+                ],
+                [
+                    "More Info",
+                    "Software developer for Whitepages'​ mobile applications team."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of Washington"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2012 - Jun 2014"
+                ]
+            ],
+            [
+                "Google Software Engineering Intern",
+                [
+                    "Company Name",
+                    "Google"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Sep 2013"
+                ],
+                [
+                    "Location",
+                    "Mountain View, California"
+                ],
+                [
+                    "More Info",
+                    "Main focus of mine was to improve developer's Advertising On Mobile (AdMob) experience and to improve Android's latest IDE, Android Studio. I achieved this by developing a plugin, templates and custom lint rules to ease integration of AdMob into an Android application and implemented several features for Android Studio through Android's latest build automation tool, Gradle."
+                ]
+            ],
+            [
+                "Tester/Web Admin for MiniJokage",
+                [
+                    "Company Name",
+                    "MiniJokage"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 - Sep 2013"
+                ],
+                [
+                    "Location",
+                    "Was/is a member of a three person team for an iPhone application"
+                ]
+            ]
+        ]
+    },
+    "Thomas LaToza": {
+        "status": "success",
+        "Education": [
+            [
+                "Carnegie Mellon University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Software Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2012"
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2004"
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Psychology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2004"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Mar 2022"
+                ]
+            ],
+            [
+                "Assistant Project Scientist",
+                [
+                    "Company Name",
+                    "University of California, Irvine"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2012 - Aug 2015"
+                ]
+            ],
+            [
+                "Ph.D. Student",
+                [
+                    "Company Name",
+                    "Carnegie Mellon University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2004 - Feb 2012"
+                ]
+            ],
+            [
+                "SDE Summer Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2002 - Jun 2004"
+                ]
+            ]
+        ]
+    },
+    "Fei Li": {
+        "status": "success",
+        "Education": [
+            [
+                "Columbia University in the City of New York",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2008"
+                ]
+            ],
+            [
+                "Columbia University in the City of New York",
+                [
+                    "Degree Name",
+                    "Master of Philosophy (M.Phil.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2007"
+                ]
+            ],
+            [
+                "Columbia University in the City of New York",
+                [
+                    "Degree Name",
+                    "Master of Science (M.Sc.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2002"
+                ],
+                [
+                    "More Info",
+                    "Show all 5 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2007 - Mar 2022"
+                ]
+            ],
+            [
+                "Relevancy Analyst",
+                [
+                    "Company Name",
+                    "Ask.com"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2006 - Jul 2007"
+                ],
+                [
+                    "Location",
+                    "Edison, New Jersey"
+                ]
+            ],
+            [
+                "Intern",
+                [
+                    "Company Name",
+                    "Bell Laboratories"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2005 - Aug 2005"
+                ],
+                [
+                    "Location",
+                    "Murray Hill, New Jersey"
+                ]
+            ],
+            [
+                "Intern",
+                [
+                    "Company Name",
+                    "IBM"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2002 - Aug 2002"
+                ],
+                [
+                    "Location",
+                    "Hawthorne, New York"
+                ]
+            ],
+            [
+                "Intern",
+                [
+                    "Company Name",
+                    "Panasonic"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2001 - Aug 2001"
+                ],
+                [
+                    "Location",
+                    "Princeton, New Jersey"
+                ]
+            ]
+        ]
+    },
+    "Jyh-Ming Lien": {
+        "status": "success",
+        "Education": [
+            [
+                "Texas A&amp;M University",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2006"
+                ]
+            ],
+            [
+                "National Chengchi University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1999"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2007 - Mar 2022"
+                ]
+            ],
+            [
+                "Postdoc",
+                [
+                    "Company Name",
+                    "UC Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2006 - Jun 2007"
+                ],
+                [
+                    "Location",
+                    "Berkeley, CA"
+                ]
+            ]
+        ]
+    },
+    "Jessica Lin": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Riverside",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2005"
+                ]
+            ],
+            [
+                "University of California, Riverside",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2002"
+                ]
+            ],
+            [
+                "University of California, Riverside",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1999"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2005 - Mar 2022"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2002 - Jun 2005"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "AT&amp;T Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2004 - Sep 2004"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2003 - Sep 2003"
+                ]
+            ]
+        ]
+    },
+    "Mingrui Liu": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Iowa",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2016 - 2020"
+                ]
+            ],
+            [
+                "Shanghai Jiao Tong University",
+                [
+                    "Degree Name",
+                    "Mathematics"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Fairfax, Virginia, United States"
+                ],
+                [
+                    "More Info",
+                    "I work on research problems in machine learning, optimization and deep learning."
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Hariri Institute for Computing, Boston University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2020 - Aug 2021"
+                ],
+                [
+                    "Location",
+                    "Massachusetts, United States"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "IBM"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2019 - Aug 2019"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Alibaba Group"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2018 - Aug 2018"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ]
+            ]
+        ]
+    },
+    "Bo Liu": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Massachusetts Amherst",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2015"
+                ]
+            ],
+            [
+                "Stevens Institute of Technology",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2010"
+                ]
+            ],
+            [
+                "University of Science and Technology of China",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2008"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor, Auburn university",
+                [
+                    "Company Name",
+                    "Auburn University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Auburn, Alabama Area"
+                ]
+            ],
+            [
+                "Computer Science",
+                [
+                    "Company Name",
+                    "University of Massachusetts Amherst"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 - May 2015"
+                ],
+                [
+                    "Location",
+                    "PhD"
+                ]
+            ],
+            [
+                "Machine Learning Research Intern",
+                [
+                    "Company Name",
+                    "Amazon"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Aug 2013"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ],
+                [
+                    "More Info",
+                    "I worked as a machine learning scientist intern on building and improving the enterprise level machine learning platform: Elastic Machine Learning (EML)"
+                ]
+            ],
+            [
+                "Applied Research Engineer Intern",
+                [
+                    "Company Name",
+                    "eBay"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2011 - Sep 2011"
+                ],
+                [
+                    "Location",
+                    "San Jose, CA"
+                ],
+                [
+                    "More Info",
+                    "I work in Factor Team in eBay Search, mainly focusing on dimensionality reduction and factor construction in text mining"
+                ]
+            ],
+            [
+                "Computer Engineering",
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2008 - Apr 2010"
+                ],
+                [
+                    "Location",
+                    "M.S."
+                ]
+            ]
+        ]
+    }
+}

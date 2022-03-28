@@ -12,11 +12,27 @@ import subprocess
 from googlesearch import search
 import atexit
 pid = os.getpid()
+current_directory = os.path.dirname(os.path.realpath(__file__))
 def handler(signum, frame):
     exit_handler()
     os.kill(os.getpid(), signal.SIGTERM)
 signal.signal(signal.SIGINT, handler)
 dataset_directory = os.getcwd() + "/../scrape/Computer_Science"
+
+done_analyzed_files = []
+done_analyzed_profs = []
+def extracted_all_prof_names():
+    profs = []
+    for fileName in os.listdir(dataset_directory): 
+        if fileName == "rescraped_data.json":
+            continue
+        with open(os.path.join(dataset_directory, fileName), 'r') as f:
+            data = json.load(f)
+            for prof in data:
+                profs.append(prof)
+    return profs
+profs = extracted_all_prof_names()
+
 def read_faculty_data_from_file_to_map(file_path):
     map = {}
     with open(file_path) as input:
@@ -54,6 +70,7 @@ normalized_name = {}
 
 # Count the total number of movement record
 num_movement = 0
+
 def exit_handler():
     with open("./result/normal/edu_to_work.csv", "w") as f:
         f.write("last_edu,first_work,weight\n")
@@ -94,6 +111,13 @@ def add_to_dict(head_node, tail_node, dict_to_add):
     num_movement += 1
     return dict_to_add
 
+def convertMonthStrToInt(monthStr):
+    with open(current_directory+"/../Month_Info") as input:
+        for line in input:
+            infos = line.split(",")
+            if monthStr == infos[0]:
+                return int(infos[1])
+
 # write all edges in a dict to the file given
 def write_edge_to_file(given_dict, f):
     for head_node in given_dict:
@@ -125,28 +149,30 @@ with open("school_list.csv", "r") as input:
 # to count how many professor are there in the records
 count_prof = 0
 
-done_scraping_files = []
-
-with open("done_scraping_files.txt", "r") as input:
+with open("done_analyzed_files.txt", "r") as input:
     for line in input:
-        done_scraping_files.append(line.replace("\n", ""))
+        done_analyzed_files.append(line.replace("\n", ""))
 
+with open("done_analyzed_profs.txt", "r") as input:
+    for line in input:
+        done_analyzed_profs.append(line.replace("\n", ""))
 for filename in os.listdir(dataset_directory):      
-    if not filename[-5:] == ".json" or filename in done_scraping_files:
+    if not filename[-5:] == ".json" or filename in done_analyzed_files or filename != "rescraped_data.json":
         continue
     with open(os.path.join(dataset_directory, filename), 'r') as f:
         school_name = parse_school_name(filename.split(".")[0])
-        print(school_name)
         data = json.load(f)
         for prof in data:
             try:
+                if prof in profs:
+                    continue
                 # indicate whether the current profesor has an experience record related to the current school.
-                related = 0
+                related = 1
                 experience_list = []
                 # Get all working experience of the curr prof
                 for experience in data[prof]["Experience"]:
                     curr_company = ""
-                    start_time = sys.maxsize
+                    start_time = (sys.maxsize, sys.maxsize)
                     for i in range(len(experience)):
                         curr_prop = experience[i]
                         # if the current company is not on the list, skip
@@ -156,16 +182,17 @@ for filename in os.listdir(dataset_directory):
                                 break
                         # Find the earliest start time of an experience
                         if isinstance(curr_prop, list) and curr_prop[0] == "Dates Employed":
-                            times = split_dash(curr_prop[1])
-                            start_time = min(start_time, int(times[0].strip().split(" ")[-1]))
-                    if curr_company == school_name:
-                        related = 1
+                            times = split_dash(curr_prop[1])[0].strip().split(" ")
+                            year = int(times[1])
+                            month = convertMonthStrToInt(times[0])
+                            start_time = (year, month)
+                    # if curr_company == school_name:
+                    #     related = 1
                     # if curr company is invalid or no valid start_time provided, skip
-                    if curr_company != "" and start_time != sys.maxsize:
+                    if curr_company != "" and start_time != (sys.maxsize, sys.maxsize):
                         info = (start_time, curr_company)
                         if info not in experience_list:
                             experience_list.append(info)
-
                 # Get all education experience of the curr prof
                 if related and len(experience_list) != 0:
                     count_prof += 1
@@ -227,12 +254,16 @@ for filename in os.listdir(dataset_directory):
                         # add_to_dict(next_company_name, curr_company_name, general)
                     # else:
                     #     print("missing education record: ", prof, "in", school_name)
+                done_analyzed_profs.append(prof)
+                with open("done_analyzed_profs.txt", "w") as output:
+                    for prof in done_analyzed_profs:
+                        output.write(prof + "\n")
             except:
                 continue  
     print(edu_to_work)
-    done_scraping_files.append(filename)
-    with open("done_scraping_files.txt", "w") as output:
-        for file in done_scraping_files:
+    done_analyzed_files.append(filename)
+    with open("done_analyzed_files.txt", "w") as output:
+        for file in done_analyzed_files:
             output.write(file + "\n")
 
 

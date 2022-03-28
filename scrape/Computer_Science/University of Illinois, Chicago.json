@@ -2363,5 +2363,96 @@
                 ]
             ]
         ]
+    },
+    "Daniel Bernstein": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Bachelor of Applied Science (B.A.Sc.)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2016"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Manager - eCommerce Strategy and Promotions",
+                [
+                    "Company Name",
+                    "MilliporeSigma"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2022 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Chicago, Illinois, United States"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Arity"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2020 - Jan 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Allstate"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2017 - Jun 2020"
+                ]
+            ],
+            [
+                "Marketing Associate",
+                [
+                    "Company Name",
+                    "ParqEx"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Jul 2017"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ],
+                [
+                    "More Info",
+                    "ParqEx is a rapidly growing tech company (private parking marketplace) that connects people who have parking with people who need parking. Through our mobile app or website spot owners can easily list their underutilized spots, and drivers who need parking can find and rent those spots for short-term or long-term use."
+                ]
+            ],
+            [
+                "Marketing and Development Intern",
+                [
+                    "Company Name",
+                    "Philadelphia Flyers"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2016 - May 2016"
+                ],
+                [
+                    "Location",
+                    "Greater Philadelphia Area"
+                ],
+                [
+                    "More Info",
+                    "- Create and assist with proofing of all marketing collaterals – print, TV, radio, outdoor, etc."
+                ]
+            ]
+        ]
     }
 }

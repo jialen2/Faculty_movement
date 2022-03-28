@@ -185,38 +185,1549 @@
         ]
     },
     "Michael Cotterell": {
-        "status": "fail",
-        "Education": [],
-        "Experience": []
+        "status": "success",
+        "Education": [
+            [
+                "The University of Georgia",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2017"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0 (Major)"
+                ]
+            ],
+            [
+                "The University of Georgia",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Association for Computing Machinery"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "The University of Georgia"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Mar 2022"
+                ]
+            ],
+            [
+                "Intern",
+                [
+                    "Company Name",
+                    "National Renewable Energy Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2012 - Aug 2012"
+                ],
+                [
+                    "Location",
+                    "Golden, CO"
+                ],
+                [
+                    "More Info",
+                    "Researched applications for Energy Systems Integration and Ontologies for Energy Informatics."
+                ]
+            ],
+            [
+                "Shift Supervisor",
+                [
+                    "Company Name",
+                    "Jason's Deli"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2011 - Jan 2012"
+                ],
+                [
+                    "Location",
+                    "Supervise employees. Set par levels, monitor food product quality and safety. Check out employees at the end of the shift to ensure completion of their daily responsibilities. Orient and train new employees. Uphold and train Core Values."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Jason's Deli"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2006 - Dec 2009"
+                ]
+            ],
+            [
+                "Web Designer",
+                [
+                    "Company Name",
+                    "Anglican Parishes Association"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2005 - May 2007"
+                ],
+                [
+                    "Location",
+                    "Setup and maintained an E-Commerce solution."
+                ]
+            ]
+        ]
     },
     "Prashant Doshi": {
-        "status": "fail",
-        "Education": [],
-        "Experience": []
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Chicago",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2005"
+                ],
+                [
+                    "More Info",
+                    "PhD dissertation title, \"Optimal Sequential Planning in Partially Observable Multiagent Settings”,"
+                ]
+            ],
+            [
+                "Drexel University",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2001"
+                ],
+                [
+                    "More Info",
+                    "Thesis title, \"Effective Methods for Building Probabilistic Models from Large Noisy Data Sets\""
+                ]
+            ],
+            [
+                "Veermata Jijabai Technological Institute (VJTI)",
+                [
+                    "Degree Name",
+                    "Bachelor's of Engineering"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1999"
+                ],
+                [
+                    "More Info",
+                    "Grade: Graduated with First Class Honors"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of Georgia - Franklin College of Arts and Sciences"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2005 - Mar 2022"
+                ]
+            ],
+            [
+                "Director",
+                [
+                    "Company Name",
+                    "THINC Lab @ UGA"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2010 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Athens, Georgia Area"
+                ]
+            ],
+            [
+                "Founder &amp; President",
+                [
+                    "Company Name",
+                    "InversAI, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Athens, GA."
+                ],
+                [
+                    "More Info",
+                    "Startup in stealth mode developing next-generation (third-wave) AI technology for collaborative robots."
+                ]
+            ],
+            [
+                "Founding Director",
+                [
+                    "Company Name",
+                    "UGA Faculty of Robotics"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Athens, Georgia, United States"
+                ],
+                [
+                    "More Info",
+                    "The Faculty of Robotics at the University of Georgia aims to significantly advance the fundamental science and engineering involved in robotics, facilitate diverse robotic applications with profound societal impact, and enhance the University’s prominence in the discipline of robotics by serving as a singular hub for research in robotics that brings together interested University faculty and students from a variety of disciplines."
+                ]
+            ],
+            [
+                "Research Consultant",
+                [
+                    "Company Name",
+                    "University of Hamburg"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2017 - Dec 2019"
+                ],
+                [
+                    "Location",
+                    "Collaborating with a team of social and cognitive neuroscientists on studying the computational modeling of  interactive beliefs that are essential to success in cooperative tasks."
+                ]
+            ]
+        ]
     },
     "Shelby H. Funk": {
-        "status": "fail",
-        "Education": [],
-        "Experience": []
+        "status": "success",
+        "Education": [
+            [
+                "University of North Carolina at Chapel Hill",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " PhD, Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2004"
+                ]
+            ],
+            [
+                "University of North Carolina at Chapel Hill",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2000"
+                ]
+            ],
+            [
+                "University of Maryland",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1989"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of Georgia"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2004 - Mar 2022"
+                ]
+            ],
+            [
+                "Graduate Student, Department of Computer Science",
+                [
+                    "Company Name",
+                    "University of North Carolina at Chapel Hill"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2000 - Jun 2004"
+                ]
+            ],
+            [
+                "Graduate Student, Mathematics Department",
+                [
+                    "Company Name",
+                    "University of North Carolina"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1996 - Jun 2000"
+                ]
+            ]
+        ]
     },
     "Le Guan": {
-        "status": "fail",
-        "Education": [],
-        "Experience": []
+        "status": "success",
+        "Education": [
+            [
+                "University of Chinese Academy of Sciences",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Security"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2015"
+                ]
+            ],
+            [
+                "University of Science and Technology of China",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Security"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2009"
+                ],
+                [
+                    "More Info",
+                    "Grade: 05218"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "The University of Georgia"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2018 - Mar 2022"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Pennsylvania State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2015 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "State College, Pennsylvania Area"
+                ]
+            ]
+        ]
     },
     "Mario Guimaraes": {
-        "status": "fail",
-        "Education": [],
-        "Experience": []
+        "status": "success",
+        "Education": [
+            [
+                "Pontifícia Universidade Católica do Rio de Janeiro",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ],
+            [
+                "University of Maryland Global Campus",
+                [
+                    "Degree Name",
+                    "NSF Sponsored Post-Doctorate Certificate"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Assurance"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Grade: A (4.0)"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor and Chair of Computer Science - Saint Martin's University",
+                [
+                    "Company Name",
+                    "Saint Martin's University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Lacey, WA"
+                ]
+            ]
+        ]
     },
     "Bill Hollingsworth": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Cambridge",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2008"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Gates Cambridge Scholar,"
+                ]
+            ],
+            [
+                "University of Cambridge",
+                [
+                    "Degree Name",
+                    "Master of Philosophy (M.Phil.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Linguistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2003"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Gates Cambridge Scholar,"
+                ]
+            ],
+            [
+                "The University of Georgia",
+                [
+                    "Degree Name",
+                    "M.A."
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 1999"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "CEO",
+                [
+                    "Company Name",
+                    "Skimcast"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2016 - Mar 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of Georgia"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Maria Hybinette": {
+        "status": "success",
+        "Education": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 2000"
+                ]
+            ],
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1994"
+                ]
+            ],
+            [
+                "Emory University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1991"
+                ],
+                [
+                    "More Info",
+                    "Show all 5 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of Georgia"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2002 - Mar 2022"
+                ]
+            ],
+            [
+                "Research Scientist  II",
+                [
+                    "Company Name",
+                    "Georgia Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1998 - Jun 2001"
+                ]
+            ],
+            [
+                "Staff Simulation &amp; Modeling Engineer",
+                [
+                    "Company Name",
+                    "MITRE"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1997 - Sep 1997"
+                ],
+                [
+                    "Location",
+                    "Simulation Research &amp; Development"
+                ]
+            ],
+            [
+                "Research Scientist I",
+                [
+                    "Company Name",
+                    "Georgia Tech Research Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1995 - Jun 1997"
+                ]
+            ]
+        ]
+    },
+    "Manijeh Keshtgari": {
+        "status": "success",
+        "Education": [
+            [
+                "Sharif University of Technology",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2004"
+                ]
+            ],
+            [
+                "Colorado State University",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1993"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "University of Georgia"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Athens, Georgia Area"
+                ],
+                [
+                    "More Info",
+                    "Courses Taught : Computer Architecture, Computer Networks, Data Structure in Bioinformatics (Graduate level), Discrete Math"
+                ]
+            ],
+            [
+                "Faculty Member",
+                [
+                    "Company Name",
+                    "Shiraz University and Shiraz University of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1993 - Jun 2016"
+                ],
+                [
+                    "Location",
+                    "Iran"
+                ]
+            ]
+        ]
+    },
+    "In Kee Kim": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Virginia",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2018"
+                ]
+            ],
+            [
+                "Inha University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science (Major: Distributed Systems and Grid Computing)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2007"
+                ]
+            ],
+            [
+                "Inha University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2001"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: * Programmer for A4Systems"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "The University of Georgia"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Athens, Georgia Area"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "IBM"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2016 - Aug 2016"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ],
+                [
+                    "More Info",
+                    "Research Intern for IBM T.J. Watson Research Center -- Worked for a research project on data center management. This project aims at accurately identifying idle (comatose or inactive or potentially unused) VM in private cloud data centers and improving utilization/cost efficiency of data centers. The research outcomes are presented at ACM/IFIP/USENIX Middleware Conference (Industry Track) 2016 and IC2E (International Conference on Cloud Engineering) 2017."
+                ]
+            ],
+            [
+                "Senior Research Engineer",
+                [
+                    "Company Name",
+                    "Ericsson-LG(에릭슨엘지)"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 - May 2012"
+                ],
+                [
+                    "Location",
+                    "IP-PBX SW Developmemt. Especially, I am a specialist of High Available Cluster for IP-PBX, Cluster Middleware SW Development, Linux System Administrator, and OAM functionality."
+                ]
+            ],
+            [
+                "SW Developer",
+                [
+                    "Company Name",
+                    "Pandora TV"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2001 - Aug 2004"
+                ],
+                [
+                    "Location",
+                    "* Web Application Developmemt based on APM (Apache, PHP, MySql)"
+                ]
+            ]
+        ]
+    },
+    "Krzysztof J. Kochut": {
         "status": "fail",
         "Education": [],
         "Experience": []
     },
-    "Maria Hybinette": {
-        "status": "fail",
-        "Education": [],
+    "Salvatore Lamarca": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Scranton",
+                [
+                    "Degree Name",
+                    "Finance"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2019"
+                ]
+            ],
+            [
+                "Fordham Preparatory School",
+                [
+                    "Degree Name",
+                    "High School"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2015"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "J.P. Morgan"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Jaewoo Lee": {
+        "status": "success",
+        "Education": [
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2014"
+                ]
+            ],
+            [
+                "Yonsei University",
+                [
+                    "Degree Name",
+                    "Master of Engineering (MEng)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2008"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Database Laboratory"
+                ]
+            ],
+            [
+                "Yonsei University",
+                [
+                    "Degree Name",
+                    "Bachelor of Engineering (BEng)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "The University of Georgia"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Athens, Georgia Area"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "Penn State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Jul 2016"
+                ],
+                [
+                    "Location",
+                    "State College, Pennsylvania Area"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "Purdue University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2009 - Aug 2014"
+                ],
+                [
+                    "Location",
+                    "West Lafayette"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "NEC Laboratories America, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2013 - Jan 2014"
+                ],
+                [
+                    "Location",
+                    "Princeton, NJ"
+                ]
+            ],
+            [
+                "Programmer",
+                [
+                    "Company Name",
+                    "Rosen Center for Advanced Computing at Purdue"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2010 - May 2011"
+                ],
+                [
+                    "Location",
+                    "West Lafayette"
+                ]
+            ]
+        ]
+    },
+    "Kyu Hyung Lee": {
+        "status": "success",
+        "Education": [
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "2008 - 2014"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of Georgia - Franklin College of Arts and Sciences"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Sheng Li": {
+        "status": "success",
+        "Education": [
+            [
+                "Northeastern University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2017"
+                ]
+            ],
+            [
+                "Nanjing University of Posts and Telecommunications",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Security"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2012"
+                ]
+            ],
+            [
+                "Nanjing University of Posts and Telecommunications",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2010"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor of Computer Science",
+                [
+                    "Company Name",
+                    "University of Georgia - Franklin College of Arts and Sciences"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Athens, Georgia Area"
+                ]
+            ],
+            [
+                "Data Scientist",
+                [
+                    "Company Name",
+                    "Adobe"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 - Jul 2018"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ],
+                [
+                    "More Info",
+                    "Working on deep learning, transfer learning, multi-view learning, question answering system, causal inference, recommender system, and online advertising."
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "Northeastern University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - May 2017"
+                ],
+                [
+                    "Location",
+                    "Greater Boston Area"
+                ],
+                [
+                    "More Info",
+                    "(1) Design robust machine learning and data mining algorithms, including unsupervised and semi-supervised learning, robust subspace learning, dictionary learning, multi-view learning, outlier detection, deep collaborative filtering, time-series analysis, manifold learning, video understanding, etc."
+                ]
+            ],
+            [
+                "Data Scientist Intern",
+                [
+                    "Company Name",
+                    "Adobe"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2015 - Jul 2015"
+                ],
+                [
+                    "Location",
+                    "San Jose"
+                ],
+                [
+                    "More Info",
+                    "Designed a nearest-neighbor matching (NNM) method based on random projections for estimating the treatment effects in digital marketing campaigns (Published on IJCAI 2016)."
+                ]
+            ],
+            [
+                "Data Scientist Intern",
+                [
+                    "Company Name",
+                    "Adobe"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2014 - Aug 2014"
+                ],
+                [
+                    "Location",
+                    "San Jose"
+                ],
+                [
+                    "More Info",
+                    "Designed a dynamic collective matrix factorization approach for user behavior prediction (Published on SIGIR 2015)."
+                ]
+            ]
+        ]
+    },
+    "Yiheng Liang": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Washington Bothell",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2016 - 2018"
+                ]
+            ]
+        ],
         "Experience": []
+    },
+    "Ninghao Liu": {
+        "status": "success",
+        "Education": [
+            [
+                "Texas A&amp;M University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2016 - 2021"
+                ]
+            ],
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2015"
+                ]
+            ],
+            [
+                "South China University of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2014"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "The University of Georgia"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2021 - Mar 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Texas A&amp;M University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2016 - May 2021"
+                ]
+            ],
+            [
+                "Machine Learning Engineer Intern",
+                [
+                    "Company Name",
+                    "LinkedIn"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2020 - Aug 2020"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Samsung Electronics America"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 - Aug 2019"
+                ]
+            ],
+            [
+                "Visiting Student",
+                [
+                    "Company Name",
+                    "Alibaba Group"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2018 - Aug 2018"
+                ]
+            ]
+        ]
+    },
+    "Tianming Liu": {
+        "status": "success",
+        "Education": [
+            [
+                "Shanghai Jiao Tong University"
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Georgia"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2015 - Mar 2022"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Weill Cornell Medical College"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2007 - Jul 2008"
+                ]
+            ],
+            [
+                "Instructor",
+                [
+                    "Company Name",
+                    "Harvard Medical School"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2005 - Jun 2007"
+                ],
+                [
+                    "Location",
+                    "Boston"
+                ]
+            ],
+            [
+                "Postdoc",
+                [
+                    "Company Name",
+                    "University of Pennsylvania"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2002 - Jun 2004"
+                ]
+            ]
+        ]
+    },
+    "Sachin Meena": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Missouri-Columbia",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2016"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Delhi",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2002"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "University of Georgia - Franklin College of Arts and Sciences"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Athens, Georgia Area"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Central Missouri"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Jul 2017"
+                ]
+            ]
+        ]
+    },
+    "Chenglin Miao": {
+        "status": "success",
+        "Education": [
+            [
+                "University at Buffalo",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2020"
+                ]
+            ],
+            [
+                "University of Science and Technology of China",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2014"
+                ]
+            ],
+            [
+                "Hefei University of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Security"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2011"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "The University of Georgia"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2020 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Athens, Georgia, United States"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University at Buffalo (UB)"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - May 2020"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Science and Technology of China"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 - Jul 2014"
+                ]
+            ]
+        ]
+    },
+    "John A. Miller": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of Georgia",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Speech Communication"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Activities and societies: Pi Kappa Alpha"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Regional Marketing Director",
+                [
+                    "Company Name",
+                    "Hegemon Group International"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2013 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Lakeland, Florida Area"
+                ]
+            ]
+        ]
     }
 }

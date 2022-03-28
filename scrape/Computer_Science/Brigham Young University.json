@@ -1,0 +1,2928 @@
+{
+    "Chris Archibald": {
+        "status": "success",
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2011"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Provo, Utah Area"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Mississippi State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Mar 2022"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "University of Alberta"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 - Aug 2013"
+                ]
+            ]
+        ]
+    },
+    "Cory Barker": {
+        "status": "success",
+        "Education": [
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1994"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Software Engineer",
+                [
+                    "Company Name",
+                    "Lucid"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2020 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Gordon Bean": {
+        "status": "success",
+        "Education": [
+            [
+                "UC San Diego",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Bioinformatics and Systems Biology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2014"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Bioinformatics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2008"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: BYU Bioinformatics Research Group"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Provo, Utah, United States"
+                ],
+                [
+                    "More Info",
+                    "I teach Computer Science courses and am available for software engineering and bioinformatic consulting."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Illumina"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2014 - Nov 2021"
+                ]
+            ],
+            [
+                "Bioinformatics and Systems Biology Graduate Student",
+                [
+                    "Company Name",
+                    "UCSD"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2008 - Aug 2014"
+                ],
+                [
+                    "Location",
+                    "Greater San Diego Area"
+                ],
+                [
+                    "More Info",
+                    "My research focussed on developing and improving quantification and analysis algorithms for high-throughput genetic interaction mapping experiments in Saccharomyces cerevisiae. I developed both experimental assays as well as software packages that have pushed the limits of genetic screening technology."
+                ]
+            ],
+            [
+                "Research",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2008 - Aug 2008"
+                ],
+                [
+                    "Location",
+                    "Working with Dr. Mark Clement, I developed phylogeny construction and DNA motif-finding algorithms."
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "University of Maryland Baltimore County"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2007 - Jul 2007"
+                ],
+                [
+                    "Location",
+                    "Working with Dr. Anindya Roy and a small group of fellow interns, we tested the hypothesis that the False Discovery Rate could be more accurately estimated using a mixture model. I key element of my contribution was the computational framework for testing our hypothesis."
+                ]
+            ]
+        ]
+    },
+    "Mark Clement": {
+        "status": "success",
+        "Education": [
+            [
+                "Oregon State University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1994"
+                ]
+            ],
+            [
+                "Oregon State University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1994"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "1981 - 1994"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2012 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Provo, Utah"
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "BYU Computer Science"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1994 - Mar 2022"
+                ]
+            ],
+            [
+                "Software Engineer",
+                [
+                    "Company Name",
+                    "Sanyo/Icon"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1985 - Jun 1990"
+                ]
+            ]
+        ]
+    },
+    "Jacob Crandall": {
+        "status": "success",
+        "Education": [
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "2006 - 2010"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Graduate Student Biochemistry",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2005 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Casey Deccio": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Davis",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2010"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2004"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: BYU Cougar Marching Band"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2002"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: BYU Cougar Marching Band"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor of Computer Science",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2016 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Provo, Utah"
+                ]
+            ],
+            [
+                "Senior Research Scientist",
+                [
+                    "Company Name",
+                    "VERISIGN"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2014 - Oct 2016"
+                ]
+            ],
+            [
+                "Principal Member of Technical Staff",
+                [
+                    "Company Name",
+                    "Sandia National Laboratories"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2004 - Jan 2014"
+                ]
+            ],
+            [
+                "Research Fellow",
+                [
+                    "Company Name",
+                    "ICANN"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2013 - Dec 2013"
+                ]
+            ]
+        ]
+    },
+    "Brett Decker": {
+        "status": "success",
+        "Education": [
+            [
+                "Brown University",
+                [
+                    "Degree Name",
+                    "Master of Science (ScM)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2015"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Eldorado High School"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Mar 2022"
+                ]
+            ],
+            [
+                "Software Engineer",
+                [
+                    "Company Name",
+                    "Libum"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2022 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Remote"
+                ]
+            ],
+            [
+                "Independent Contractor",
+                [
+                    "Company Name",
+                    "Sandia National Laboratories"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2020 - Nov 2021"
+                ],
+                [
+                    "Location",
+                    "Remote"
+                ],
+                [
+                    "More Info",
+                    "- Systems and software engineering support for secure embedded software systems and PC applications"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Sandia National Laboratories"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - Aug 2019"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 - Dec 2012"
+                ]
+            ]
+        ]
+    },
+    "Parris Egbert": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 - 1992"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Brigham Young University, Computer Science Dept."
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1992 - Mar 2022"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "BYU Computer Science"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1992 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Nancy Fulda": {
+        "status": "success",
+        "Education": [
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science, emphasis in Artificial Intelligence and Machine Learning"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 2004"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Graduation with University Honors"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Principal Investigator",
+                [
+                    "Company Name",
+                    "BYU DRAGN Labs"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Provo, Utah, United States"
+                ],
+                [
+                    "More Info",
+                    "Deep Representations and Architectures for Generative systems and Natural language understanding (DRAGN) Labs is a collection of research laboratories in the Computer Science Department at Brigham Young University. We specialize in conversational artificial intelligence, deep learning, knowledge representation, language processing, and related tasks. Our research team is led by Dr. Nancy Fulda."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2015 - Mar 2022"
+                ]
+            ],
+            [
+                "Graduate Researcher - cognitive systems and automated decision-making",
+                [
+                    "Company Name",
+                    "Perception Control and Cognition Lab"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Sep 2019"
+                ],
+                [
+                    "Location",
+                    "Provo, UT"
+                ]
+            ],
+            [
+                "Programming and Web Design",
+                [
+                    "Company Name",
+                    "Freelance Programming and Web Development"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2004 - Jun 2014"
+                ]
+            ],
+            [
+                "Science Fiction and Fantasy Author",
+                [
+                    "Company Name",
+                    "Science Fiction Author"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2002 - Jun 2014"
+                ],
+                [
+                    "Location",
+                    "Hugo and Nebula-nominated short story author.  Phobos Award winner.  Jim Baen Memorial Award winner.  AML Award winner."
+                ]
+            ]
+        ]
+    },
+    "Kimball Germane": {
+        "status": "success",
+        "Education": [
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Economics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2017 - Dec 2022"
+                ],
+                [
+                    "More Info",
+                    "Grade: Senior"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "The Heritage Foundation"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2021 - Dec 2021"
+                ]
+            ],
+            [
+                "Campus Sales Representative",
+                [
+                    "Company Name",
+                    "BYU Store"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 - Aug 2021"
+                ]
+            ]
+        ]
+    },
+    "Christophe Giraud-Carrier": {
+        "status": "success",
+        "Education": [
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1994"
+                ]
+            ],
+            [
+                "INSA Lyon - Institut National des Sciences Appliquées de Lyon",
+                [
+                    "Degree Name",
+                    "1984 - 1986"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor, Computer Science",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2004 - Mar 2022"
+                ]
+            ],
+            [
+                "Senior Manager",
+                [
+                    "Company Name",
+                    "ELCA Informatique SA"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2001 - Jun 2004"
+                ]
+            ],
+            [
+                "Senior Lecturer",
+                [
+                    "Company Name",
+                    "University of Bristol"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1994 - Jun 2001"
+                ]
+            ]
+        ]
+    },
+    "Michael A. Goodrich": {
+        "status": "success",
+        "Education": [
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1996"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Doctoral Research: Control Theory"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Activities and societies: Thesis Area: Digital Signal Processing"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Activities and societies: Area: Computer Engineering"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1998 - Mar 2022"
+                ]
+            ],
+            [
+                "Postdoctoral Research Assistant",
+                [
+                    "Company Name",
+                    "Nissan Cambridge Basic Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1996 - Aug 1998"
+                ],
+                [
+                    "Location",
+                    "Basic research sponsored by Nissan in human factors of intelligent vehicle systems.  Focuses on intelligent cruise control systems and driver decision-making.  Had the privilege of working with MIT and Harvard professors who guided my research."
+                ]
+            ]
+        ]
+    },
+    "David Grimsman": {
+        "status": "success",
+        "Education": [
+            [
+                "UC Santa Barbara",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2016 - 2020"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2016"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Bachelor's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor, Computer Science Department",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Provo, Utah, United States"
+                ]
+            ],
+            [
+                "Director Of Product Development",
+                [
+                    "Company Name",
+                    "Achilles Heel Technologies"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2018 - Jun 2021"
+                ],
+                [
+                    "Location",
+                    "Orem, Utah, United States"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of California, Santa Barbara"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2016 - Jun 2021"
+                ],
+                [
+                    "Location",
+                    "Santa Barbara, California Area"
+                ]
+            ],
+            [
+                "Analytics and Algorithm Design",
+                [
+                    "Company Name",
+                    "Applied Invention"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Jul 2020"
+                ],
+                [
+                    "Location",
+                    "Provo, Utah Area"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2014 - Aug 2016"
+                ],
+                [
+                    "Location",
+                    "Provo, Utah Area"
+                ],
+                [
+                    "More Info",
+                    "Researched and helped to publish on several different topics, including: cyberphysical security, optimization, linear systems, and scheduling/control."
+                ]
+            ]
+        ]
+    },
+    "Seth Holladay": {
+        "status": "success",
+        "Education": [
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Graphics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2013"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Vision"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2007"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science, Animation"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2004"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2009 - Mar 2022"
+                ]
+            ],
+            [
+                "Technical Artist",
+                [
+                    "Company Name",
+                    "Pixar"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2005 - Feb 2009"
+                ],
+                [
+                    "Location",
+                    "Rendering and compositing work on Cars.  Variety of shot work special effects on Pixar films including Ratatouille, Wall-E, and Up."
+                ]
+            ]
+        ]
+    },
+    "Porter Jenkins": {
+        "status": "success",
+        "Education": [
+            [
+                "Penn State University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2016 - 2020"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Statistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014"
+                ],
+                [
+                    "More Info",
+                    "Olentangy Liberty"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor Of Computer Science",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Provo, Utah, United States"
+                ]
+            ],
+            [
+                "PhD Candidate - Machine Learning, Data Mining",
+                [
+                    "Company Name",
+                    "Penn State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Dec 2020"
+                ],
+                [
+                    "Location",
+                    "State College, Pennsylvania"
+                ]
+            ],
+            [
+                "Pinterest Labs Research Intern",
+                [
+                    "Company Name",
+                    "Pinterest"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2019 - Aug 2019"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ]
+            ],
+            [
+                "Machine Learning Engineer",
+                [
+                    "Company Name",
+                    "Domo, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "May 2018 - Aug 2018"
+                ],
+                [
+                    "Location",
+                    "American Fork, Utah"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Visible Equity"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2011 - Jul 2016"
+                ]
+            ]
+        ]
+    },
+    "Michael Jones": {
+        "status": "success",
+        "Education": [
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Undergrad"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2021 - 2027"
+                ]
+            ]
+        ],
+        "Experience": []
+    },
+    "Tony Martinez": {
+        "status": "success",
+        "Education": [
+            [
+                "Southern New Hampshire University",
+                [
+                    "Degree Name",
+                    "Bachelor of Technology - BTech"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Technology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Grade: 3.5"
+                ],
+                [
+                    "More Info",
+                    "New Horizons Houston"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Information Technology Support Manager",
+                [
+                    "Company Name",
+                    "SoftBank Robotics America"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Houston, Texas, United States"
+                ]
+            ],
+            [
+                "Information Systems/Operations Manager",
+                [
+                    "Company Name",
+                    "W.W.Rowland Trucking Co., Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2020 - Oct 2021"
+                ],
+                [
+                    "Location",
+                    "Houston, Texas, United States"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "McDermott International Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2014 - Nov 2019"
+                ]
+            ],
+            [
+                "It Support Analyst",
+                [
+                    "Company Name",
+                    "Kinder Morgan"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2014 - Nov 2014"
+                ],
+                [
+                    "Location",
+                    "·\tSupport and managing AD server accounts"
+                ],
+                [
+                    "More Info",
+                    "Kinder Morgan - A Different Kind of Energy Company"
+                ]
+            ],
+            [
+                "IT Support Administrator",
+                [
+                    "Company Name",
+                    "Daily Business Review"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - Mar 2014"
+                ],
+                [
+                    "Location",
+                    "Systems Administrator carrying out all maintenance and support for clients in Miami-Dade, Broward and Palm Beach offices. In charge of creating and managing accounts as well as trouble shooting programs such as Citrix, Atex, Peoplesoft, MS Office, Adobe CS of any versions, Fox Pro, Fatwire, and multiple FTP programs to name a few."
+                ]
+            ]
+        ]
+    },
+    "Eric Mercer": {
+        "status": "success",
+        "Education": [
+            [
+                "BYU Law School",
+                [
+                    "Degree Name",
+                    "JD"
+                ],
+                [
+                    "Field Of Study",
+                    " Law"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1983 - 1986"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lawyer",
+                [
+                    "Company Name",
+                    "The Law Offices of Eric Mercer"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2008 - Feb 2015"
+                ],
+                [
+                    "Location",
+                    "Focusing on Domestic Relations and Small Business Related Matters."
+                ]
+            ]
+        ]
+    },
+    "Bryan Morse": {
+        "status": "success",
+        "Education": [
+            [
+                "University of North Carolina at Chapel Hill",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1994"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1990"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1987"
+                ],
+                [
+                    "More Info",
+                    "Magna Cum Laude"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1994 - Mar 2022"
+                ]
+            ],
+            [
+                "Expert Witness",
+                [
+                    "Company Name",
+                    "Crimson Vista, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2016 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Expert witness services specializing in digital media (graphics, visualization, image processing, computer vision) and computer technologies in general."
+                ]
+            ],
+            [
+                "Expert Witness",
+                [
+                    "Company Name",
+                    "Ironwood Experts, LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2014 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Expert witness services specializing in digital media (graphics, visualization, image processing, computer vision) and computer technologies in general."
+                ]
+            ]
+        ]
+    },
+    "Dennis Ng": {
+        "status": "success",
+        "Education": [
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Master of Arts (M.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Statistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2005"
+                ]
+            ],
+            [
+                "Harvard University",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Applied Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2005"
+                ],
+                [
+                    "More Info",
+                    "Applied Mathematics degree with a concentration focus on Economics."
+                ]
+            ],
+            [
+                "Boston Latin School",
+                [
+                    "Degree Name",
+                    "1995 - 2001"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Class of 2001 Salutatorian"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Goldman Sachs"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2009 - Mar 2022"
+                ]
+            ],
+            [
+                "Summer Analyst",
+                [
+                    "Company Name",
+                    "Cantillon Capital Management LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2004 - Aug 2004"
+                ]
+            ],
+            [
+                "Financial Software Programmer",
+                [
+                    "Company Name",
+                    "Eze Castle Software"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2003 - Aug 2003"
+                ],
+                [
+                    "Location",
+                    "Boston"
+                ]
+            ],
+            [
+                "Asian Market District Intern",
+                [
+                    "Company Name",
+                    "HSBC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2002 - Aug 2002"
+                ],
+                [
+                    "Location",
+                    "New York"
+                ]
+            ],
+            [
+                "Macromedia Flash &amp; C++ After-school Program DIrector",
+                [
+                    "Company Name",
+                    "Boston Latin School"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2000 - Apr 2002"
+                ],
+                [
+                    "Location",
+                    "Boston"
+                ]
+            ]
+        ]
+    },
+    "Xinru Page": {
+        "status": "success",
+        "Education": [
+            [
+                "UC Irvine",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    " Information and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2013"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science, Human-Computer Interaction"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2003"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Delta Delta Delta, Redshift A cappella"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2001"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Counterpoint A cappella, Delta Delta Delta, TA/Section Leader for various intro programming courses, SUDAC"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Provo, Utah, United States"
+                ]
+            ],
+            [
+                "Assistant Professor of Computer Information Systems",
+                [
+                    "Company Name",
+                    "Bentley University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 - Jul 2020"
+                ]
+            ],
+            [
+                "Researcher",
+                [
+                    "Company Name",
+                    "University of California, Irvine"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2008 - Jun 2015"
+                ],
+                [
+                    "Location",
+                    "Privacy, Location-based Social Media, Human Computer Interaction, Computer Supported Collaborative Work, Informatics"
+                ]
+            ],
+            [
+                "Research Associate",
+                [
+                    "Company Name",
+                    "The Walt Disney Company"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2010 - Jun 2011"
+                ],
+                [
+                    "Location",
+                    "Research green transportation incentives and technology, including location-based services"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "NextPage"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2003 - Sep 2008"
+                ]
+            ]
+        ]
+    },
+    "Stephen Richardson": {
+        "status": "success",
+        "Education": [
+            [
+                "The City University of New York",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1997"
+                ],
+                [
+                    "More Info",
+                    "Emphasis on Computational Linguistics.  Dissertation: Determining Similarity and Inferring Relations in a Lexical Knowledge Base."
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Master of Arts (MA)"
+                ],
+                [
+                    "Field Of Study",
+                    " Linguistics (minor in Computer Science)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1977 - 1980"
+                ],
+                [
+                    "More Info",
+                    "Thesis: A High-Level Transfer Language for the BYU-TSI Interactive Translation System"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " University Studies (Computer Science, Linguistics, Portuguese)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1971 - 1977"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor Of Computer Science",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Provo, Utah, United States"
+                ],
+                [
+                    "More Info",
+                    "My research and teaching focus on MT and related NLP technologies."
+                ]
+            ],
+            [
+                "President",
+                [
+                    "Company Name",
+                    "ASSOCIATION FOR MACHINE TRANSLATION IN THE AMERICAS INC"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Click on the link below to go to the AMTA web site."
+                ],
+                [
+                    "More Info",
+                    "AMTA · Home"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "The Church of Jesus Christ of Latter-day Saints"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2011 - Oct 2021"
+                ]
+            ],
+            [
+                "President",
+                [
+                    "Company Name",
+                    "International Association for Machine Translation (IAMT)"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Aug 2021"
+                ],
+                [
+                    "Location",
+                    "The International Association for Machine Translation aims to bring together users, developers, researchers, sponsors, and other individuals or institutional or corporate entities interested in machine translation for the purpose of studying, evaluating, and understanding the science of machine translation and educating the public on important scientific techniques and principles of machine translation.  It is responsible to organize and hold a biannual MT Summit conference in odd years, the next one being in Seattle in 2021."
+                ]
+            ],
+            [
+                "Vice President",
+                [
+                    "Company Name",
+                    "Association for Machine Translation in the Americas (AMTA)"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2016 - Nov 2018"
+                ]
+            ]
+        ]
+    },
+    "Ken Rodham": {
+        "status": "success",
+        "Education": [
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " MS, PhD, Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 - 1995"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2001 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Paul Roper": {
+        "status": "success",
+        "Education": [
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "1982 - 1984"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Ogden High School"
+                ],
+                [
+                    "More Info",
+                    "1977 - 1980"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "IT Manager, Infrastructure and Operations",
+                [
+                    "Company Name",
+                    "Nationwide"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2008 - Oct 2020"
+                ],
+                [
+                    "Location",
+                    "Scottsdale, Arizona, United States"
+                ],
+                [
+                    "More Info",
+                    "Led an onsite and remote support team of 21 computer technicians providing world-class support for clients of the insurance and financial services company, surpassing a 98% Service-Level Agreement (SLA) resolution status on incident tickets."
+                ]
+            ],
+            [
+                "Lead Analyst, Desktop Support",
+                [
+                    "Company Name",
+                    "Nationwide Mutual Insurance Company"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2004 - Mar 2008"
+                ],
+                [
+                    "Location",
+                    "-Lead the desktop support team to achieve world class support status."
+                ]
+            ],
+            [
+                "Sr. Desktop Support Analyst",
+                [
+                    "Company Name",
+                    "Nationwide Mutual Insurance Company"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2001 - Oct 2004"
+                ],
+                [
+                    "Location",
+                    "-Responsible for the remediation of incident tickets assigned to the OnSite team, and completion within the assigned SLA"
+                ]
+            ]
+        ]
+    },
+    "Kent Seamons": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1995"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Bachelor's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1980 - 1986"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2000 - Mar 2022"
+                ]
+            ],
+            [
+                "Senior/Associate Member of Technical Staff",
+                [
+                    "Company Name",
+                    "IBM Transarc Lab"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1995 - Jun 2000"
+                ],
+                [
+                    "Location",
+                    "Greater Pittsburgh Area"
+                ]
+            ],
+            [
+                "ARPA Fellow",
+                [
+                    "Company Name",
+                    "University of Illinois at Urbana-Champaign"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1993 - Jun 1995"
+                ],
+                [
+                    "Location",
+                    "Urbana-Champaign, Illinois Area"
+                ]
+            ],
+            [
+                "Member of Technical Staff",
+                [
+                    "Company Name",
+                    "Information Dimensions"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1986 - Jun 1995"
+                ],
+                [
+                    "Location",
+                    "Columbus, Ohio Area"
+                ]
+            ]
+        ]
+    },
+    "Kevin Seppi": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of Texas at Austin",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Operation Research"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 - 1990"
+                ]
+            ],
+            [
+                "Santa Clara University",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 - 1986"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1977 - 1983"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2015 - Mar 2022"
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ]
+            ]
+        ]
+    },
+    "Jonathan Sillito": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of British Columbia",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Provo, Utah Area"
+                ]
+            ],
+            [
+                "Software Development Manager",
+                [
+                    "Company Name",
+                    "Amazon"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 - Jul 2018"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ]
+            ],
+            [
+                "Assistant and then Associate Professor",
+                [
+                    "Company Name",
+                    "University of Calgary"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2006 - Jun 2014"
+                ]
+            ],
+            [
+                "PhD Student",
+                [
+                    "Company Name",
+                    "University of British Columbia"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2001 - Jun 2006"
+                ]
+            ],
+            [
+                "Graduate Intern",
+                [
+                    "Company Name",
+                    "Intel Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2005 - Oct 2005"
+                ],
+                [
+                    "Location",
+                    "I worked for Eleanor Wynn and John Miner looking at the development processes used in various parts of Intel."
+                ]
+            ]
+        ]
+    },
+    "Quinn Snell": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ]
+            ]
+        ]
+    },
+    "Tom Stephens": {
+        "status": "success",
+        "Education": [
+            [
+                "New Mexico State University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Astronomy"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2003"
+                ]
+            ],
+            [
+                "University of North Texas",
+                [
+                    "Degree Name",
+                    "Master of Library &amp; Information Science - MLIS"
+                ],
+                [
+                    "Field Of Study",
+                    " Library Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2016"
+                ]
+            ],
+            [
+                "New Mexico State University",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Astronomy"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 1999"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Software Engineer IV",
+                [
+                    "Company Name",
+                    "INNOVIM"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2017 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Spanish Fork, UT (telecommute to NASA Goddard)"
+                ]
+            ],
+            [
+                "Owner/Senior Editor",
+                [
+                    "Company Name",
+                    "Frontier Explorer Magazine"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Mar 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Wyle Laboratories"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2006 - Mar 2022"
+                ]
+            ],
+            [
+                "Physical and Mathematical Science Librarian",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 - Aug 2017"
+                ],
+                [
+                    "Location",
+                    "Provo, Utah"
+                ],
+                [
+                    "More Info",
+                    "Subject area librarian covering Physics, Astronomy, Mathematics, Math Education, Statistics, Computer Science, Computer Animation, and Information Technology."
+                ]
+            ],
+            [
+                "Information Systems Development Manager",
+                [
+                    "Company Name",
+                    "USRA"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2009 - Jan 2010"
+                ],
+                [
+                    "Location",
+                    "Manage development of software systems for NASA's Stratospheric Observatory For Infra-red Astronomy (SOFIA) Science Center.  SOFIA is a 2.5m IR telescope mounted in the body of a 747 that flies out of NASA's Dryden Research Center near Palmdale, CA."
+                ]
+            ]
+        ]
+    },
+    "Craig Van Dyke": {
+        "status": "success",
+        "Education": [
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "BFA"
+                ],
+                [
+                    "Field Of Study",
+                    " animation"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2004"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Professional Lemming"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2020 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Provo, Utah, United States"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Netflix"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2018 - Mar 2022"
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "Chapman University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2018 - Aug 2020"
+                ],
+                [
+                    "Location",
+                    "Teaching Visual Film making to the amazing students at Chapman University."
+                ]
+            ],
+            [
+                "3d Story Artist",
+                [
+                    "Company Name",
+                    "Disneytoon Studios"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2017 - Aug 2020"
+                ],
+                [
+                    "Location",
+                    "Story Boarding, Previs, Layout"
+                ]
+            ],
+            [
+                "CG supervisor",
+                [
+                    "Company Name",
+                    "THE MISSION VFX"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2015 - Feb 2017"
+                ],
+                [
+                    "Location",
+                    "Venice, CA"
+                ]
+            ]
+        ]
+    },
+    "Dan Ventura": {
+        "status": "success",
+        "Education": [
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2018"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2013"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Bioinformatics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.8"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor of Computer Science",
+                [
+                    "Company Name",
+                    "Idaho State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Pocatello, Idaho"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 - Mar 2022"
+                ]
+            ],
+            [
+                "Bioinformatics Research Intern",
+                [
+                    "Company Name",
+                    "Ancestry"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2014 - Dec 2014"
+                ],
+                [
+                    "Location",
+                    "Provo, Utah"
+                ],
+                [
+                    "More Info",
+                    "- Pedigree and genotype data correlation analyses"
+                ]
+            ],
+            [
+                "English Instructor/Private Tutor",
+                [
+                    "Company Name",
+                    "The New British Centre"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2009 - Aug 2009"
+                ],
+                [
+                    "Location",
+                    "Rome, Italy"
+                ],
+                [
+                    "More Info",
+                    "- Received extensive training in rules of English grammar"
+                ]
+            ],
+            [
+                "Forensic Toxicology Intern",
+                [
+                    "Company Name",
+                    "Policlinico Le Scotte"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2006 - Jun 2006"
+                ],
+                [
+                    "Location",
+                    "Siena, Italy"
+                ],
+                [
+                    "More Info",
+                    "- Advised by Dr. Fabio Centini"
+                ]
+            ]
+        ]
+    },
+    "Sean Warnick": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Jerod Wilkerson": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Arizona",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    " Management Information Systems"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2008"
+                ],
+                [
+                    "More Info",
+                    "Minor: Computer Science"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "MAcc (Master's)"
+                ],
+                [
+                    "Field Of Study",
+                    " Accounting (Information Systems Emphasis)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 1994"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Accounting (Information Systems Emphasis)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1994"
+                ],
+                [
+                    "More Info",
+                    "Received Bachelor's and Master's degrees on the same day through a dual degree program."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor of Computer Science",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Provo, Utah Area"
+                ]
+            ],
+            [
+                "Director of Software Engineering",
+                [
+                    "Company Name",
+                    "Rakuten Marketing"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2017 - Jul 2018"
+                ],
+                [
+                    "Location",
+                    "Greater Salt Lake City Area"
+                ]
+            ],
+            [
+                "Senior Development Manager",
+                [
+                    "Company Name",
+                    "Workfront"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2014 - May 2017"
+                ],
+                [
+                    "Location",
+                    "Lehi, Utah"
+                ],
+                [
+                    "More Info",
+                    "Managed a team of 23 software developers in the QA organization. The team is responsible for writing automated tests and test tools to ensure the quality of Workfront's software products. The team is distributed geographically, with members in Utah, Minnesota, and Yerevan, Armenia. Team members are integrated into agile software development teams and perform their work as a member of an agile team."
+                ]
+            ],
+            [
+                "Assistant Professor of Management Information Systems",
+                [
+                    "Company Name",
+                    "Penn State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2008 - Jun 2014"
+                ],
+                [
+                    "Location",
+                    "Taught systems analysis and system design and development courses."
+                ]
+            ],
+            [
+                "Independent Trainer / Consultant",
+                [
+                    "Company Name",
+                    "Various Companies"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2007 - Jul 2008"
+                ],
+                [
+                    "Location",
+                    "Taught professional training classes on Java, web development, and object-oriented analysis and design through various training brokers and training companies for clients all over the United States."
+                ]
+            ]
+        ]
+    },
+    "David Wingate": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2007"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Masters"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 2002 - Sep 2004"
+                ]
+            ],
+            [
+                "Brigham Young University",
+                [
+                    "Degree Name",
+                    "Bachelors"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 1995 - Aug 2002"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Provo, Utah Area"
+                ],
+                [
+                    "More Info",
+                    "I do research in machine learning, with an emphasis on deep learning, language models, and soft robots."
+                ]
+            ],
+            [
+                "Chief Technology Officer",
+                [
+                    "Company Name",
+                    "LoomVue"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2020 - May 2021"
+                ],
+                [
+                    "Location",
+                    "Provo, Utah, United States"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Analog Devices"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Aug 2015"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Massachusetts Institute of Technology (MIT)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2008 - May 2012"
+                ]
+            ],
+            [
+                "Research Fellow",
+                [
+                    "Company Name",
+                    "University of Michigan"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2004 - Dec 2007"
+                ]
+            ]
+        ]
+    },
+    "Daniel Zappala": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Southern California",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1997"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: USC Institute"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1990"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2004 - Mar 2022"
+                ]
+            ],
+            [
+                "City Council Member",
+                [
+                    "Company Name",
+                    "City of Cedar Hills"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Cedar Hills, Utah"
+                ],
+                [
+                    "More Info",
+                    "improving communication and technology, board member for Lone Peak Public Safety District"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Oregon"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1997 - Jun 2004"
+                ],
+                [
+                    "Location",
+                    "Research and teaching in the area of computer networks."
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Southern California"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1990 - Aug 1997"
+                ],
+                [
+                    "Location",
+                    "Student of Deborah Estrin. Conducted research on multicast routing and Quality of Service support for the Internet. Part of the RSVP project."
+                ]
+            ]
+        ]
+    }
+}

@@ -36,6 +36,13 @@ from get_html import parse_html_string, get_links_on_google
 #   faculty2: {'education': [...], 'experience': [...]},
 #   ...
 # }
+def readLinkedInAccountFromFile(filePath):
+    accounts = []
+    with open(filePath, "r") as input:
+        for line in input:
+            accounts.append(line.replace("\n", "").strip())
+    return accounts
+    
 def writeAccountNumToFile():
     with open("account_num.txt", "w") as output:
         for key in account_num.keys():
@@ -52,11 +59,11 @@ def setupWebDriver(chromedriver_path):
         driver.quit()
         time.sleep(30)
     option = webdriver.ChromeOptions()
-    # option.add_argument(' — incognito')
-    # option.add_argument('--no - sandbox')
-    # option.add_argument('--window - size = 1420, 1080')
-    # option.add_argument('--headless')
-    # option.add_argument('--disable - gpu')
+    option.add_argument(' — incognito')
+    option.add_argument('--no - sandbox')
+    option.add_argument('--window - size = 1420, 1080')
+    option.add_argument('--headless')
+    option.add_argument('--disable - gpu')
 
     # option.add_argument('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45')
     option.add_argument('Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664S.45 Safari/537.36')
@@ -67,7 +74,7 @@ def login(linkedin_email, linkedin_password):
     # with open("helper/login_page.html", "w") as output:
     #     output.write(BeautifulSoup(driver.page_source, 'html.parser').prettify())
     # exit()
-    time.sleep(1)
+    time.sleep(2)
     inputElement = driver.find_element_by_id('session_key')
     for i in linkedin_email:
         inputElement.send_keys(i)
@@ -84,24 +91,26 @@ def login(linkedin_email, linkedin_password):
 SwitchAccuntThrehold = 20
 
 # List of useable linked Account for scraping.
-linkedInAccounts = ["sanguo908@outlook.com"]
+linkedInAccountFilePath = current_directory + "/../../linkedin_account.txt"
+linkedInAccounts = readLinkedInAccountFromFile(linkedInAccountFilePath)
 
 def long_sleep_if_needed(countNumScrape):
-    a = 1
-    # if countNumScrape % 23 == 0:
-    #     print("###############long sleep#################")
-    #     time.sleep(random.randint(120, 150))
+    if countNumScrape % 26 == 0:
+        print("###############long sleep#################")
+        time.sleep(random.randint(120, 150))
 def readAccountNum():
     with open("account_num.txt", "r") as input:
         for line in input:
             account, num = line.split(",")
             account_num[account] = int(num)
+    return account_num
 
 def deleteLineAfterScraping(filePath, lineToDelete):
+    lineToDelete = lineToDelete.replace("\n", "")
     allLine = []
     with open(filePath, "r") as input:
         for line in input:
-            if line != lineToDelete:
+            if line.replace("\n", "") != lineToDelete:
                 allLine.append(line)
     index = 0
     with open(filePath, "w") as output:
@@ -124,8 +133,6 @@ def scrape_data_from_linkedin(faculty_file_path, major, chromedriver_path):
     linkedInAccountIndex = -1
     university_list = os.listdir(faculty_file_path)
     for university in university_list:
-        if university != "University of Illinois, Chicago":
-            continue
         filePath = faculty_file_path+"/"+university
         faculty_list = []
         if filePath.split("/")[-1] == ".DS_Store":
@@ -137,12 +144,13 @@ def scrape_data_from_linkedin(faculty_file_path, major, chromedriver_path):
         for faculty_name in faculty_list:
             originalLine = faculty_name
             faculty_name = faculty_name.replace("\n","").strip()
-            if countNumScrape % SwitchAccuntThrehold == 0:
+            # If already signed in and have only one account available, skip switching account.
+            if countNumScrape % SwitchAccuntThrehold == 0 and (currAccount == "" or len(linkedInAccounts) > 1):
                 linkedInAccountIndex = (linkedInAccountIndex+1) % len(linkedInAccounts)
                 currAccount = linkedInAccounts[linkedInAccountIndex]
                 setupWebDriver(chromedriver_path)
-                login(linkedInAccounts[linkedInAccountIndex], "319133abcd")
-                print("Switched Account to: ", linkedInAccounts[linkedInAccountIndex])
+                login(currAccount, "319133abcd")
+                print("Switched Account to: ", currAccount)
             countNumScrape += 1
             try:
                 get_background_on_linkedin(university, faculty_name, store_file_path)
@@ -209,7 +217,6 @@ def get_background_on_linkedin(university, faculty_name, store_file_path):
         print('cannot find linkedin page for {}'.format(faculty_name))
         return
     driver.get(url)
-    time.sleep(1000000)
     time.sleep(2)
     # print(BeautifulSoup(html_string, 'html.parser').prettify())
     html = parse_html_string(str(driver.page_source))
@@ -228,7 +235,7 @@ def get_background_on_linkedin(university, faculty_name, store_file_path):
             output.write(BeautifulSoup(driver.page_source, 'html.parser').prettify())
         assert False
     write_to_file("success")
-    time.sleep(random.randint(30, 45))
+    time.sleep(random.randint(45, 60))
 
 
 # # example

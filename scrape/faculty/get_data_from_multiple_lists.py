@@ -727,9 +727,9 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
 
 
 # example
-a = view_html_structure('https://www.cs.emory.edu/people/', 'urllib')
-for i in a:
-    print(i)
+# a = view_html_structure('https://www.cs.emory.edu/people/', 'urllib')
+# for i in a:
+#     print(i)
 
 # a = view_html_structure('https://www.eecs.mit.edu/role/faculty/?fwp_role=faculty&fwp_research=robotics', 'selenium')
 # for i in a:
