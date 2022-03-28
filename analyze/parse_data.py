@@ -21,17 +21,6 @@ dataset_directory = os.getcwd() + "/../scrape/Computer_Science"
 
 done_analyzed_files = []
 done_analyzed_profs = []
-def extracted_all_prof_names():
-    profs = []
-    for fileName in os.listdir(dataset_directory): 
-        if fileName == "rescraped_data.json":
-            continue
-        with open(os.path.join(dataset_directory, fileName), 'r') as f:
-            data = json.load(f)
-            for prof in data:
-                profs.append(prof)
-    return profs
-profs = extracted_all_prof_names()
 
 def read_faculty_data_from_file_to_map(file_path):
     map = {}
@@ -157,14 +146,14 @@ with open("done_analyzed_profs.txt", "r") as input:
     for line in input:
         done_analyzed_profs.append(line.replace("\n", ""))
 for filename in os.listdir(dataset_directory):      
-    if not filename[-5:] == ".json" or filename in done_analyzed_files or filename != "rescraped_data.json":
+    if not filename[-5:] == ".json" or filename in done_analyzed_files:
         continue
     with open(os.path.join(dataset_directory, filename), 'r') as f:
         school_name = parse_school_name(filename.split(".")[0])
         data = json.load(f)
         for prof in data:
             try:
-                if prof in profs:
+                if prof in done_analyzed_profs:
                     continue
                 # indicate whether the current profesor has an experience record related to the current school.
                 related = 1
