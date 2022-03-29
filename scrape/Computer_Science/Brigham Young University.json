@@ -2924,5 +2924,114 @@
                 ]
             ]
         ]
+    },
+    "Ryan Farrell": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Maryland",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2009"
+                ]
+            ],
+            [
+                "University of Maryland",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2006"
+                ]
+            ],
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 2001"
+                ],
+                [
+                    "More Info",
+                    "Show all 5 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Brigham Young University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Mar 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "ICSI, UC Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2011 - Nov 2013"
+                ]
+            ],
+            [
+                "Research Consultant",
+                [
+                    "Company Name",
+                    "Lawrence Livermore National Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2011 - May 2013"
+                ]
+            ],
+            [
+                "Research Assistant (PhD Candidate)",
+                [
+                    "Company Name",
+                    "University of Maryland, College Park"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2004 - May 2011"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "StreamSage, Inc"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2008 - Nov 2010"
+                ]
+            ]
+        ]
     }
 }

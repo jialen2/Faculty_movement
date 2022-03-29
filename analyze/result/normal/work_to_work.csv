@@ -261,6 +261,7 @@ Harvard University,Virginia Tech,1
 Harvard University,Washington University in St. Louis,1
 Harvard University,"University of California, Irvine",1
 Harvard University,Rensselaer Polytechnic Institute,1
+Harvard University,University of Texas at Austin,1
 SRM Institute of Science and Technology,University of Rochester,1
 SRM Institute of Science and Technology,University of Texas at Austin,2
 SRM Institute of Science and Technology,University of Illinois Urbana-Champaign,2
@@ -755,6 +756,7 @@ University of Texas at Austin,Technical University of Munich,1
 University of Texas at Austin,"University of Maryland, College Park",1
 University of Texas at Austin,"University of California, Irvine",1
 University of Texas at Austin,"University of California, Santa Barbara",1
+University of Texas at Austin,KTH Royal Institute of Technology,1
 University of Ottawa,Stony Brook University,1
 University of Ottawa,Arizona State University,1
 University of Massachusetts Amherst,University of Michigan,1
@@ -1715,6 +1717,7 @@ Oregon State University,University of Illinois Urbana-Champaign,1
 Oregon State University,University of Texas at Arlington,1
 Oregon State University,Mount Holyoke College,1
 Oregon State University,"University of California, Irvine",1
+Oregon State University,University of Houston,2
 Eindhoven University of Technology,Carnegie Mellon University,1
 Eindhoven University of Technology,Teikyo University,1
 Chapman University,Macquarie University,1
@@ -2058,6 +2061,8 @@ Wright State University,University of Central Florida,1
 Post University,University of Illinois Urbana-Champaign,1
 University of Houston,King Fahd University of Petroleum and Minerals,1
 University of Houston,University of Houston–Clear Lake,1
+University of Houston,University of Texas Health Science Center at Houston,1
+University of Houston,University of Houston,1
 King Fahd University of Petroleum and Minerals,College of William & Mary,1
 Baylor University,University of North Carolina at Greensboro,1
 University of North Carolina at Greensboro,North Carolina State University,1
@@ -2248,6 +2253,7 @@ Leiden University,"University of Maryland, College Park",1
 Michigan Technological University,University of Pittsburgh,1
 Michigan Technological University,Cornell University,1
 Michigan Technological University,Northwest Missouri State University,1
+Michigan Technological University,Oregon State University,1
 Cairo University,University of Pittsburgh,1
 Tafila Technical University,New Mexico Institute of Mining and Technology,1
 New Mexico Institute of Mining and Technology,Auburn University,1
@@ -2433,3 +2439,5 @@ Binghamton University,Syracuse University,1
 Grambling State University,Syracuse University,1
 University of Glasgow,SRM Institute of Science and Technology,1
 TU Wien,"University of California, Santa Barbara",1
+Guangxi University,Oregon State University,1
+University of Texas Health Science Center at Houston,University of Houston,2

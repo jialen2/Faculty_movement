@@ -21,5 +21,5123 @@
         "status": "fail",
         "Education": [],
         "Experience": []
+    },
+    "Francis Bellocchio": {
+        "status": "success",
+        "Education": [
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "Bachelor of Applied Science (B.A.Sc.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer and Information Sciences"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2018"
+                ],
+                [
+                    "More Info",
+                    "Computer and Information Sciences including databases, data structures and algorithms. Syntax Python, SQL, Java, C#, CSS, HTML, Javascript, PHP, BootStrap and JQuery"
+                ]
+            ],
+            [
+                "The Art Institutes",
+                [
+                    "Degree Name",
+                    "Associates Degree Specialized Technology"
+                ],
+                [
+                    "Field Of Study",
+                    " Multimedia"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 1999"
+                ],
+                [
+                    "More Info",
+                    "AIPH was a great school, like any school you get out of it what you put into it. I put in many many hours, You could find me in the video editing labs, the photo labs, or off creating sounds using Pro Tools. I did graduate with honors."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior LMS Developer",
+                [
+                    "Company Name",
+                    "Southern New Hampshire University"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Remote"
+                ]
+            ],
+            [
+                "Adjunct Instructor",
+                [
+                    "Company Name",
+                    "Temple University College of Science and Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, Pennsylvania, United States"
+                ]
+            ],
+            [
+                "Senior Software Developer",
+                [
+                    "Company Name",
+                    "Temple University - Lewis Katz School of Medicine"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Greater Philadelphia Area"
+                ]
+            ],
+            [
+                "Programmer and Business Analyst",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2018 - Aug 2019"
+                ],
+                [
+                    "Location",
+                    "Greater Philadelphia Area"
+                ],
+                [
+                    "More Info",
+                    "•\tDeveloped and Supported Noncredit.temple.edu"
+                ]
+            ],
+            [
+                "Full Stack Developer",
+                [
+                    "Company Name",
+                    "Temple University - Information Technology Capstone Project – (Aid4Medicaid)"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - May 2018"
+                ],
+                [
+                    "Location",
+                    "Greater Philadelphia Area"
+                ],
+                [
+                    "More Info",
+                    "•\tCompleted the analysis phase of the project by interviewing the customer, understanding and documenting their business requirements and system goals"
+                ]
+            ]
+        ]
+    },
+    "Abha Belorkar": {
+        "status": "success",
+        "Education": [
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Data Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Aug 2019 - May 2021"
+                ],
+                [
+                    "More Info",
+                    "Just received my Master of Science from Temple University"
+                ]
+            ],
+            [
+                "Faculty of Technical Sciences, University of Novi Sad",
+                [
+                    "Degree Name",
+                    "Master of Engineering - MEng"
+                ],
+                [
+                    "Field Of Study",
+                    " Artificial Intelligence"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2017 - 2019"
+                ]
+            ],
+            [
+                "Faculty of Technical Sciences, University of Novi Sad",
+                [
+                    "Degree Name",
+                    "Bachelor's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2017"
+                ],
+                [
+                    "More Info",
+                    "Show all 7 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Dec 2021"
+                ]
+            ],
+            [
+                "NLP Research Intern",
+                [
+                    "Company Name",
+                    "Siemens Healthineers"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2021 - Sep 2021"
+                ],
+                [
+                    "Location",
+                    "Malvern, Pennsylvania, United States"
+                ],
+                [
+                    "More Info",
+                    "• Worked on the clinical decision support system “AI‑Pathway Companion” that helps physicians standardize and accelerate clinical decisions through AI."
+                ]
+            ],
+            [
+                "Graduate Student Researcher",
+                [
+                    "Company Name",
+                    "Faculty of Technical Sciences, University of Novi Sad"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2017 - Jul 2019"
+                ],
+                [
+                    "Location",
+                    "Novi Sad, Serbia"
+                ],
+                [
+                    "More Info",
+                    "• Research for the graduate program in the field of Machine Learning, Artificial Intelligence, Graph Mining."
+                ]
+            ],
+            [
+                "Data Science Intern",
+                [
+                    "Company Name",
+                    "SmartCat.io"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2019 - May 2019"
+                ],
+                [
+                    "Location",
+                    "Novi Sad, Serbia"
+                ],
+                [
+                    "More Info",
+                    "• Research for Master's thesis on the topic \"Sentiment Analysis of Drug Reviews\"."
+                ]
+            ],
+            [
+                "Software Engineer",
+                [
+                    "Company Name",
+                    "Vega IT Sourcing"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Oct 2017"
+                ],
+                [
+                    "Location",
+                    "Novosadskog sajma 2"
+                ],
+                [
+                    "More Info",
+                    "• Developing websites for clients based on their requirements."
+                ]
+            ]
+        ]
+    },
+    "David Benson": {
+        "status": "success",
+        "Education": [
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "Master of Education - MEd"
+                ],
+                [
+                    "Field Of Study",
+                    " Educational Administration"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Aug 2009 - Jun 2011"
+                ]
+            ],
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "Bachelor of Music"
+                ],
+                [
+                    "Field Of Study",
+                    " Music Education"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Aug 2003 - Jun 2008"
+                ]
+            ],
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "Bachelor of Music"
+                ],
+                [
+                    "Field Of Study",
+                    " Percussion Performance"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Aug 2003 - Jun 2008"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Tech Lead: Application Development",
+                [
+                    "Company Name",
+                    "Philadelphia District Attorney's Office"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, Pennsylvania, United States"
+                ],
+                [
+                    "More Info",
+                    "Application development lead for the Philadelphia District Attorney's Office."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 - Dec 2021"
+                ]
+            ]
+        ]
+    },
+    "Christopher Biehl": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Siwei Cao": {
+        "status": "success",
+        "Education": [
+            [
+                "The Ohio State University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Materials Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2013"
+                ]
+            ],
+            [
+                "Miami University",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2008"
+                ]
+            ],
+            [
+                "Beijing Jiaotong University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Laser and Optical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Adjunct Professor",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Greater Philadelphia Area"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "The Ohio State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2008 - Aug 2013"
+                ],
+                [
+                    "Location",
+                    "Columbus, Ohio Area"
+                ],
+                [
+                    "More Info",
+                    "Determination and Characterization of Phase Diagrams at Intermediate Temperatures"
+                ]
+            ],
+            [
+                "Graduate Research and Teaching Assistant",
+                [
+                    "Company Name",
+                    "Miami University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2006 - Aug 2008"
+                ],
+                [
+                    "Location",
+                    "Oxford, OH"
+                ],
+                [
+                    "More Info",
+                    "Fabrication of a photonic cystal based three channel wavelength division demultiplexer device"
+                ]
+            ]
+        ]
+    },
+    "Christopher Carey": {
+        "status": "success",
+        "Education": [
+            [
+                "Widener University",
+                [
+                    "Degree Name",
+                    "Doctor of Education (Ed.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Higher Education/Higher Education Administration"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2016"
+                ]
+            ],
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "Master of Education (M.Ed.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Higher Education/Higher Education Administration"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2008"
+                ]
+            ],
+            [
+                "Saint Joseph's University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Sociology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2004"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2008 - Mar 2022"
+                ]
+            ],
+            [
+                "Claims Case Manager",
+                [
+                    "Company Name",
+                    "Liberty Mutual Insurance"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2004 - Sep 2006"
+                ],
+                [
+                    "Location",
+                    "Handled workers compensation claims."
+                ]
+            ]
+        ]
+    },
+    "Edward Crotty": {
+        "status": "success",
+        "Education": [
+            [
+                "Villanova University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Astronomy, Math, Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1964 - 1968"
+                ]
+            ],
+            [
+                "University of Pennsylvania"
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Temple University"
+                ]
+            ],
+            [
+                "Assoc. Director of the Undergrad Program",
+                [
+                    "Company Name",
+                    "U of Pennsylvania"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2002 - Jun 2009"
+                ]
+            ]
+        ]
+    },
+    "David Dobor": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "Master of Science in Engineering"
+                ],
+                [
+                    "Field Of Study",
+                    " Systems Engineering"
+                ]
+            ],
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer and Information Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Research in Computer Vision, Artificial Neural Networks."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Researcher",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2012 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Eduard Dragut": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Illinois Chicago",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010"
+                ]
+            ],
+            [
+                "University of Iowa",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2003"
+                ]
+            ],
+            [
+                "University of Bucharest"
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 - Mar 2022"
+                ]
+            ],
+            [
+                "Postdoc",
+                [
+                    "Company Name",
+                    "Purdue University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2010 - Jul 2013"
+                ],
+                [
+                    "Location",
+                    "Purdue University"
+                ]
+            ],
+            [
+                "Ph.D. student",
+                [
+                    "Company Name",
+                    "University of Illinois at Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - Jun 2010"
+                ]
+            ],
+            [
+                "programmer",
+                [
+                    "Company Name",
+                    "IPACRI"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1998 - Jun 2000"
+                ]
+            ]
+        ]
+    },
+    "Nicholas Fabrizio": {
+        "status": "success",
+        "Education": [
+            [
+                "Penn State University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2016 - 2020"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Alpha Tau Omega"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Lockheed Martin"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2018 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "John Fiore": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "MSE"
+                ],
+                [
+                    "Field Of Study",
+                    " Telecommunications Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2007"
+                ]
+            ],
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2000"
+                ]
+            ],
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "MM"
+                ],
+                [
+                    "Field Of Study",
+                    " Piano Performance"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 2000"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2000 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, PA"
+                ]
+            ]
+        ]
+    },
+    "Derek Fisher": {
+        "status": "success",
+        "Education": [
+            [
+                "Boston University",
+                [
+                    "Degree Name",
+                    "Master's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " CIS Concentration in Computer Security"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Vice President of Application Security",
+                [
+                    "Company Name",
+                    "Envestnet, Inc"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2020 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Berwyn, PA"
+                ],
+                [
+                    "More Info",
+                    "During my current role, I execute the following activities,"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2018 - Mar 2022"
+                ]
+            ],
+            [
+                "Engineering Director - Identity &amp; Access Management",
+                [
+                    "Company Name",
+                    "Vanguard"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2018 - Jan 2020"
+                ],
+                [
+                    "Location",
+                    "Malvern, PA"
+                ],
+                [
+                    "More Info",
+                    "During this role, I executed the following activities,"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Cerner Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2014 - Nov 2018"
+                ]
+            ],
+            [
+                "Software Engineer III",
+                [
+                    "Company Name",
+                    "Siemens Healthcare"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2011 - Feb 2015"
+                ],
+                [
+                    "Location",
+                    "Malvern, PA"
+                ],
+                [
+                    "More Info",
+                    "In my role as a team/technical lead I was responsible for managing priorities and distributing work for a team of developers, analyst and testers. In this leadership role I have driven new procedures and policies while working closely with other groups outside of my own. My team consisted of many members outside of the United States including a team of developers, testers and analyst in Romania as well as a team of testers in India."
+                ]
+            ]
+        ]
+    },
+    "Leigh Flagg": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of Tulsa",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2004"
+                ]
+            ],
+            [
+                "New York University",
+                [
+                    "Degree Name",
+                    "Bachelor of Fine Arts (BFA)"
+                ],
+                [
+                    "Field Of Study",
+                    " Cinematography and Film/Video Production"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1992"
+                ],
+                [
+                    "More Info",
+                    "HH Dow High School"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Teaching Professor of Computer and Information Sciences",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Greater Philadelphia Area"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Sentar Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2004 - Sep 2018"
+                ]
+            ],
+            [
+                "Research Consultant",
+                [
+                    "Company Name",
+                    "The University of Tulsa"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2011 - Dec 2011"
+                ],
+                [
+                    "Location",
+                    "Huntsville, Alabama Area"
+                ],
+                [
+                    "More Info",
+                    "Dr. Flagg worked as a consultant with Dr. Rose Gamble and the Software Engineering and Architecture Team (SEAT) at the University of Tulsa, Tulsa, OK to develop misuse detection rules for web services tampered with during Man in the Middle (MITM) attacks, to identify attack trees for associated web service attacks, and to review and contribute to customer technology presentations. This work is being performed for the Air Force Research Laboratory (AFRL) in Rome, NY."
+                ]
+            ],
+            [
+                "Assistant Director, Software Engineering and Architecture Team (SEAT)",
+                [
+                    "Company Name",
+                    "The University of Tulsa"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2002 - May 2004"
+                ],
+                [
+                    "Location",
+                    "Dr. Flagg spearheaded research efforts working with Dr. Gamble, Director of the Software Engineering and Architecture Team. She lead students in both research endeavors and course work as well as guided the research efforts of the group. She provided key inputs on grant proposals, developed several distributed, heterogeneous integrated systems, formulated valuable theory, and published several conference and journal papers. Additionally, Dr. Flagg lead a team which designed and developed a chat room monitoring system for use in evidence gathering and preservation of internet predator interactions’ with law enforcement officers. This software was tested by the Tulsa Police Department. Dr. Flagg published the finding of that project with the team in the 2001 IEEE Workshop on Information Assurance and Security. She was also a primary technical contributor on SEAT's Collidescope software design and development;"
+                ]
+            ]
+        ]
+    },
+    "Frank Friedman": {
+        "status": "success",
+        "Education": [
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "MS and PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1970 - 1974"
+                ]
+            ],
+            [
+                "Antioch College",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1960 - 1965"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Adjunct Professor Emeritus, Computer and Information Sciences",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1974 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Main Campus, Philadelphia PA"
+                ],
+                [
+                    "More Info",
+                    "Retired December 31,2012 as Professor"
+                ]
+            ],
+            [
+                "Volunteer",
+                [
+                    "Company Name",
+                    "ACM"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1981 - Jun 2006"
+                ]
+            ]
+        ]
+    },
+    "Hongchang Gao": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Mary Giraldo": {
+        "status": "success",
+        "Education": [
+            [
+                "Conard High School",
+                [
+                    "Degree Name",
+                    "High School Diploma"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Patient Administrative Assistant",
+                [
+                    "Company Name",
+                    "Hartford Hospital"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Hartford, Connecticut Area"
+                ]
+            ],
+            [
+                "Office Manager",
+                [
+                    "Company Name",
+                    "Faith Asset Management"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2016 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Hartford, Connecticut Area"
+                ]
+            ],
+            [
+                "Member Services II",
+                [
+                    "Company Name",
+                    "First New England Federal Credit Union"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2013 - Jul 2016"
+                ],
+                [
+                    "Location",
+                    "Hartford, Connecticut Area"
+                ]
+            ]
+        ]
+    },
+    "Xubin He": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Rhode Island",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2002"
+                ]
+            ],
+            [
+                "Huazhong University of Science and Technology",
+                [
+                    "Degree Name",
+                    "BS/MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1997"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Mar 2022"
+                ]
+            ],
+            [
+                "Associate Professor/Professor",
+                [
+                    "Company Name",
+                    "Virginia Commonwealth University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2010 - Aug 2016"
+                ]
+            ],
+            [
+                "Assistant/Associate Professor",
+                [
+                    "Company Name",
+                    "Tennessee Tech"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2002 - Jun 2010"
+                ]
+            ]
+        ]
+    },
+    "Carmilia Henry": {
+        "status": "success",
+        "Education": [
+            [
+                "Villanova University",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Business Administration, eCommerce, Finance, Accounting, Marketing, and Supply Chain Management"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2003"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Executive Leadership"
+                ]
+            ],
+            [
+                "University of Southern California",
+                [
+                    "Degree Name",
+                    "Electrical Engineering / Computer Science /BioMed"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Activities and societies: SWE"
+                ],
+                [
+                    "More Info",
+                    "NSBE"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Adjunct Faculty Instructor",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2020 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, Pennsylvania, United States"
+                ],
+                [
+                    "More Info",
+                    "Global Chief Risk Management Executive|Compliance|Data Privacy|Regulatory|Audit|Business Operations|Educator|IT|Cyber Security 💡Creative Solutions &amp; Problem Solver!"
+                ]
+            ],
+            [
+                "Chief Risk Officer and Managing Director Executive",
+                [
+                    "Company Name",
+                    "TWC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2017 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Pennslyvania"
+                ],
+                [
+                    "More Info",
+                    "•\tImplement information security and regulatory guidelines to enhance business and operational procedures."
+                ]
+            ],
+            [
+                "BDPA Chapter President, Delegate",
+                [
+                    "Company Name",
+                    "BDPA"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2011 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Delaware"
+                ],
+                [
+                    "More Info",
+                    "http://bdpa-de.org/"
+                ]
+            ],
+            [
+                "Data Privacy &amp; Protection, Senior Risk Management Consultant",
+                [
+                    "Company Name",
+                    "Judge Consulting Group; QVC"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2019 - Jan 2020"
+                ],
+                [
+                    "Location",
+                    "United States"
+                ],
+                [
+                    "More Info",
+                    "Perform Vendor &amp; Third-Party Risk Assessments reviews including policies, standards, data privacy control effectiveness and business viability. (Consultant Assignment)"
+                ]
+            ],
+            [
+                "Sr ERM Consultant",
+                [
+                    "Company Name",
+                    "CE-SOLUTIONS"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2017 - Jun 2019"
+                ],
+                [
+                    "Location",
+                    "Kennett Square, PA"
+                ],
+                [
+                    "More Info",
+                    "Senior Enterprise Risk Management Consultant"
+                ]
+            ]
+        ]
+    },
+    "Anthony Hughes": {
+        "status": "success",
+        "Education": [
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "Professional Science Masters"
+                ],
+                [
+                    "Field Of Study",
+                    " Geographic Information Systems"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2017 - 2019"
+                ]
+            ],
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts - BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Political Science and Government"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2015"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "GIS Data Engineer",
+                [
+                    "Company Name",
+                    "American Aerospace Technologies, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 - Mar 2022"
+                ]
+            ],
+            [
+                "Data Consultant",
+                [
+                    "Company Name",
+                    "Tech Impact"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2019 - Jun 2020"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, PA"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "Remote Sensing &amp; Sustainability Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2019 - Sep 2019"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, PA"
+                ],
+                [
+                    "More Info",
+                    "•\tUtilizes R and Python Programming Languages for automating workflow of land change models"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Temple University College of Liberal Arts"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2018 - Sep 2019"
+                ]
+            ],
+            [
+                "Ordinance Administrator",
+                [
+                    "Company Name",
+                    "Municipal Resource Recovery Systems LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 - Aug 2017"
+                ],
+                [
+                    "Location",
+                    "Media, PA"
+                ],
+                [
+                    "More Info",
+                    "•\tPerformed inter-departmental tasks including data merges, public data collection and archiving, and the administrative duties between LLC and Delaware County Courthouse"
+                ]
+            ]
+        ]
+    },
+    "Joseph Jupin": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "President",
+                [
+                    "Company Name",
+                    "The Mortgage Institute"
+                ]
+            ]
+        ]
+    },
+    "Ryan Kadri": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Christopher Kane": {
+        "status": "success",
+        "Education": [
+            [
+                "Widener University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Sport and Fitness Administration/Management"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 1999"
+                ]
+            ],
+            [
+                "Delaware County Community College",
+                [
+                    "Degree Name",
+                    "Liberal Arts and Sciences/Liberal Studies"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1997"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Swarthmore College"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 - Mar 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "La Salle University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2007 - Jul 2019"
+                ]
+            ],
+            [
+                "Business Manager, Athletics",
+                [
+                    "Company Name",
+                    "Drexel University"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 1999 - Jan 2007"
+                ],
+                [
+                    "Location",
+                    "Day-to-day operations of 16-sport Division I athletics program. Department bookkeeping. Team travel. Ticket office operations."
+                ]
+            ]
+        ]
+    },
+    "Krishna Kant": {
+        "status": "success",
+        "Education": [
+            [
+                "The University of Texas at Dallas",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1977 - 1981"
+                ]
+            ],
+            [
+                "Indian Institute of Science (IISc)",
+                [
+                    "Degree Name",
+                    "Master of Engineering (M.Eng.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical, Electronics and Communications Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1975 - 1977"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Kanpur",
+                [
+                    "Degree Name",
+                    "Bachelor of Technology (B.Tech.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Electronics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1970 - 1975"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Full Professor",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2014 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Greater Philadelphia Area"
+                ],
+                [
+                    "More Info",
+                    "IEEE Fellow"
+                ]
+            ],
+            [
+                "Research Professor",
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2010 - Dec 2013"
+                ],
+                [
+                    "Location",
+                    "Fairfax, VA"
+                ],
+                [
+                    "More Info",
+                    "Research in Secure Cloud Computing"
+                ]
+            ],
+            [
+                "Program Director",
+                [
+                    "Company Name",
+                    "NSF"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2008 - Sep 2013"
+                ],
+                [
+                    "Location",
+                    "Manage academic research funding"
+                ]
+            ],
+            [
+                "Senior Engineer",
+                [
+                    "Company Name",
+                    "Intel"
+                ],
+                [
+                    "Dates Employed",
+                    "May 1997 - Apr 2008"
+                ],
+                [
+                    "Location",
+                    "Research and development in server architecture"
+                ]
+            ],
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "Telcordia Technologies"
+                ],
+                [
+                    "Dates Employed",
+                    "May 1991 - May 1997"
+                ],
+                [
+                    "Location",
+                    "Red Bank, NJ"
+                ],
+                [
+                    "More Info",
+                    "Research in Telecommunications systems and Technologies"
+                ]
+            ]
+        ]
+    },
+    "Vana Khurana": {
+        "status": "success",
+        "Education": [
+            [
+                "West Chester University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2001"
+                ],
+                [
+                    "More Info",
+                    "M.S. Computer Science"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Delhi"
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Vanguard"
+                ],
+                [
+                    "Dates Employed",
+                    "May 1996 - Mar 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Cloud Security Alliance"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2016 - Mar 2022"
+                ]
+            ],
+            [
+                "Adjunct Faculty",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Greater Philadelphia Area"
+                ],
+                [
+                    "More Info",
+                    "College of Science and Technology."
+                ]
+            ],
+            [
+                "Sr Programmer Analyst",
+                [
+                    "Company Name",
+                    "Siemens"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1993 - May 1996"
+                ],
+                [
+                    "Location",
+                    "Object Oriented programming in C++. TCP, Named Pipe, Databases."
+                ]
+            ]
+        ]
+    },
+    "Dominique Kliger": {
+        "status": "success",
+        "Education": [
+            [
+                "HERS Institute",
+                [
+                    "Degree Name",
+                    "Class of 2004 Participant"
+                ],
+                [
+                    "Field Of Study",
+                    " Leadership"
+                ]
+            ],
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Communication Technology, Higher Education Administration, Human Resource Management"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Activities and societies: Leadership Academy, Teaching and Technology Roundtable, Veterans Task Force"
+                ]
+            ],
+            [
+                "Universidade Presbiteriana Mackenzie"
+            ]
+        ],
+        "Experience": [
+            [
+                "Adult Organizational Development, Adjunct Faculty",
+                [
+                    "Company Name",
+                    "Temple University College of Education and Human Development"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2018 - Mar 2022"
+                ]
+            ],
+            [
+                "Director of Online Graduate Program at the College of Science and Technology",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "College Of Science and Technology | Temple University"
+                ],
+                [
+                    "More Info",
+                    "At CST, top science and technology students work side-by-side with world-class researchers in the lab, in the field and in the classroom."
+                ]
+            ],
+            [
+                "Human Resources Management Adjunct Faculty",
+                [
+                    "Company Name",
+                    "Fox School of Business at Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "While teaching various courses related to communication, ethics, and leadership skills, I guide students through real life stories about organizational diverse settings, introduce them to meaningful literature in the areas covered in the courses, and coach them through data collection and research at small, mid-size, and large organizational settings."
+                ]
+            ],
+            [
+                "First  PAGCG Online Chapter Leader",
+                [
+                    "Company Name",
+                    "Great Careers Groups &amp; BENG"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Pennsylvania Area"
+                ],
+                [
+                    "More Info",
+                    "This brand new chapter is the first one at the Reading Area."
+                ]
+            ],
+            [
+                "Vice President",
+                [
+                    "Company Name",
+                    "PA Distance Learning Association - PADLA"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "http://www.padla.org"
+                ],
+                [
+                    "More Info",
+                    "PADLA fosters a current discourse about technology between educational institutions and the private sector. I invite you to join an upcoming PADLA event."
+                ]
+            ]
+        ]
+    },
+    "James Korsh": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Sudhir Kumar": {
+        "status": "success",
+        "Education": [
+            [
+                "Birla Institute of Technology and Science, Pilani",
+                [
+                    "Degree Name",
+                    "BEngg. MSc."
+                ],
+                [
+                    "Field Of Study",
+                    " EEE, Biology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1985 - 1990"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor and Director",
+                [
+                    "Company Name",
+                    "Temple University (Institute for Genomics and Evolutionary Medicine)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Greater Philadelphia Area"
+                ]
+            ],
+            [
+                "Center Director",
+                [
+                    "Company Name",
+                    "ASU Biodesign Institute (EFG and CEMI)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2002 - May 2014"
+                ]
+            ],
+            [
+                "Professor and Director",
+                [
+                    "Company Name",
+                    "Arizona State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1998 - May 2014"
+                ],
+                [
+                    "Location",
+                    "Tempe, Arizona"
+                ]
+            ],
+            [
+                "Student and Postdoc",
+                [
+                    "Company Name",
+                    "Penn State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1990 - Jun 1998"
+                ]
+            ]
+        ]
+    },
+    "Eugene Kwatny": {
+        "status": "success",
+        "Education": [
+            [
+                "Drexel University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Biomedical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 1966 - Jun 1971"
+                ]
+            ],
+            [
+                "Drexel University",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Biomedical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 1966 - Jun 1968"
+                ],
+                [
+                    "More Info",
+                    "Drexel Institute of Technology"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1979 - Mar 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Moss Rehab"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1971 - Sep 1979"
+                ]
+            ],
+            [
+                "Assistant Professor, Rehabilitation Medicine",
+                [
+                    "Company Name",
+                    "Temple University - Lewis Katz School of Medicine"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1971 - Jun 1979"
+                ]
+            ]
+        ]
+    },
+    "Sally Kyvernitis": {
+        "status": "success",
+        "Education": [
+            [
+                "Indiana University Bloomington",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978 - 1980"
+                ]
+            ],
+            [
+                "Duke University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1975 - 1978"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: cello player in the orchestra and in a string quartet, water skiing, volleyball"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Teach undergraduate Computer Science courses."
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "DeVry University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2004 - Jun 2007"
+                ],
+                [
+                    "Location",
+                    "Taught courses in web design (dreamweaver, html, style sheets, php, mysql), web application development (C#, Visual Studio .NET, NetBeans, Java, JSP, Tomcat), object oriented programming, and senior project (students implement a software project with deliverables in all phases of the software life cycle)."
+                ]
+            ],
+            [
+                "Project Manager",
+                [
+                    "Company Name",
+                    "University of Pennsylvania"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2003 - Jun 2004"
+                ],
+                [
+                    "Location",
+                    "Coordinated the efforts of vendors, Upenn employees, and contractors to implement a web application that tracks the review of all human and lab animal research at the University."
+                ]
+            ],
+            [
+                "IT Consultant",
+                [
+                    "Company Name",
+                    "Merck"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2001 - Dec 2002"
+                ],
+                [
+                    "Location",
+                    "•  Created HTML prototype for a web web site to support long range facilities planning."
+                ]
+            ],
+            [
+                "Principal Consultant",
+                [
+                    "Company Name",
+                    "Walklett Group"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 1998 - Dec 2002"
+                ],
+                [
+                    "Location",
+                    "Consulted at Wawa, Dupont, Pitcairn Financial Services, Vanguard Financial Service, and Merck Pharmaceutical (see entries below for more details)."
+                ]
+            ]
+        ]
+    },
+    "Paul Lafollette": {
+        "status": "success",
+        "Education": [
+            [
+                "Duke University"
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Temple University"
+                ]
+            ]
+        ]
+    },
+    "Longin Jan Latecki": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Temple University – CIS"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2001 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Raymond Lauff": {
+        "status": "success",
+        "Education": [
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "Business Administration"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1983 - 1986"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Temple University Computer Services"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1986 - Mar 2022"
+                ]
+            ],
+            [
+                "Systems Programmer",
+                [
+                    "Company Name",
+                    "SCT"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1986 - Nov 1988"
+                ],
+                [
+                    "Location",
+                    "Systems programmer for Control Data Cyber systems and IBM 4381 mainframes."
+                ]
+            ]
+        ]
+    },
+    "Dominic Letarte": {
+        "status": "success",
+        "Education": [
+            [
+                "HEC Montréal",
+                [
+                    "Degree Name",
+                    "Master of Business Administration (MBA)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2016 - Jun 2017"
+                ]
+            ],
+            [
+                "Polytechnique Montréal",
+                [
+                    "Degree Name",
+                    "Ph. D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science (Informatique)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Automated Extraction of Software Model for Model Checking and Model-Driven Testing"
+                ]
+            ],
+            [
+                "Polytechnique Montréal",
+                [
+                    "Degree Name",
+                    "M.Sc"
+                ],
+                [
+                    "Field Of Study",
+                    " Informatique (Computer Science)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2006"
+                ],
+                [
+                    "More Info",
+                    "Identification of techniques for evaluating natural language grammar"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor Of Instruction, Computer Science",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Région de Greater Philadelphie, États-Unis"
+                ]
+            ],
+            [
+                "Software Developer, Team Lead",
+                [
+                    "Company Name",
+                    "Ericsson"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2012 - Apr 2016"
+                ],
+                [
+                    "Location",
+                    "Montreal, Canada Area"
+                ],
+                [
+                    "More Info",
+                    "Project Technical Coordination (2015-2016)"
+                ]
+            ],
+            [
+                "Visiting Ph.D Researcher",
+                [
+                    "Company Name",
+                    "IBM"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2008 - Dec 2010"
+                ],
+                [
+                    "Location",
+                    "Toronto, Canada Area"
+                ],
+                [
+                    "More Info",
+                    "IBM Toronto Software Lab, PhD Visiting Student at IBM Centre for Advanced Studies (CAS). \" Meta-Heuristic Based Tests of DB2 Optimizer\""
+                ]
+            ],
+            [
+                "Software Developer",
+                [
+                    "Company Name",
+                    "Biogénix"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2007 - May 2008"
+                ],
+                [
+                    "Location",
+                    "Montreal, Canada Area"
+                ]
+            ],
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "École Polytechnique de Montréal"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2004 - May 2008"
+                ],
+                [
+                    "Location",
+                    "Montreal, Canada Area"
+                ],
+                [
+                    "More Info",
+                    "Cours:"
+                ]
+            ]
+        ]
+    },
+    "Xiuqi Li": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Sociology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2020 - 2025"
+                ]
+            ],
+            [
+                "Shandong University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Sociology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Aug 2016 - Jun 2020"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.99/4"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Researcher",
+                [
+                    "Company Name",
+                    "Michigan State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 - Oct 2019"
+                ],
+                [
+                    "Location",
+                    "East Lansing, Michigan, United States"
+                ],
+                [
+                    "More Info",
+                    "Who We Are | Teachers in Social Media"
+                ]
+            ]
+        ]
+    },
+    "Stephen MacNeil": {
+        "status": "success",
+        "Education": [
+            [
+                "University of North Carolina at Charlotte",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2018"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.97"
+                ]
+            ],
+            [
+                "University of North Carolina at Charlotte",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2016"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.94"
+                ]
+            ],
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "Bachelor of Engineering - BE"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Sigma Pi Fraternity President and Scholarship Chair"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, Pennsylvania, United States"
+                ]
+            ],
+            [
+                "Member, Young Designers Circle",
+                [
+                    "Company Name",
+                    "World Design Organization"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2020 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Young Designers Circle is an initiative to harness the creativity and ambition of the generation of designers under-40 across multiple disciplines. The programme aims to strengthen the role of design leadership today, by planting seeds that will lead to large impact tomorrow. The program features designers from across the world (including Singapore, Mexico, France, China, India, Turkey, and the US)"
+                ],
+                [
+                    "More Info",
+                    "Equity in Design Panel at Tunisia Design Week"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "UCSD Design Lab"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 - Aug 2021"
+                ],
+                [
+                    "Location",
+                    "I am focused on developing methods to engage communities in the design process through the implementation of socio-technical systems and community events such as design-a-thons."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "UNC Charlotte"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2012 - May 2019"
+                ]
+            ],
+            [
+                "Graduate Researcher",
+                [
+                    "Company Name",
+                    "The University of Tokyo"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2016 - Aug 2016"
+                ],
+                [
+                    "Location",
+                    "Tokyo, Japan"
+                ],
+                [
+                    "More Info",
+                    "I was a visiting researcher hosted by Koji Yatani."
+                ]
+            ]
+        ]
+    },
+    "Rose Mcginnis": {
+        "status": "success",
+        "Education": [
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "MBA"
+                ],
+                [
+                    "Field Of Study",
+                    " Business Administration"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 - 1991"
+                ]
+            ],
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "BBA"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978 - 1982"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2004 - Mar 2022"
+                ]
+            ],
+            [
+                "Client Relationship Manager",
+                [
+                    "Company Name",
+                    "Aria Systems"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2006 - Jun 2007"
+                ],
+                [
+                    "Location",
+                    "*\tCollaborated with clients and internal development teams to build the foundation for Aria’s first Client Relationship Management function that improved organizational performance"
+                ]
+            ],
+            [
+                "Product Manager/Solutions Architect",
+                [
+                    "Company Name",
+                    "DoubleStar"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2000 - Jun 2004"
+                ],
+                [
+                    "Location",
+                    "DoubleStar is a technology solutions company providing HR-related business intelligence solutions, data warehouse offerings and consulting services."
+                ]
+            ],
+            [
+                "Vice President, Worldwide Recruiting Operations",
+                [
+                    "Company Name",
+                    "Unisys"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1999 - Jun 2000"
+                ],
+                [
+                    "Location",
+                    "Blue Bell Pa"
+                ],
+                [
+                    "More Info",
+                    "Responsible for the management of the recruiting function of a $9 billion software/hardware and consulting services corporation"
+                ]
+            ],
+            [
+                "General Manager Corporate Recruiting",
+                [
+                    "Company Name",
+                    "SUNGARD SCT"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1996 - Jun 1999"
+                ],
+                [
+                    "Location",
+                    "Responsible for the management of the recruiting function of a $400 million dollar software and information services corporation."
+                ]
+            ]
+        ]
+    },
+    "Karl Morris": {
+        "status": "success",
+        "Education": [
+            [
+                "Saint Joseph's University",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Physics and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Creator of Urban Gaming Academy"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Software Developer",
+                [
+                    "Company Name",
+                    "IT Synergistics, LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Remote"
+                ]
+            ],
+            [
+                "Software Developer - SDET",
+                [
+                    "Company Name",
+                    "Comcast"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2020 - Sep 2021"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, Pennsylvania"
+                ]
+            ],
+            [
+                "SEI Wealth Platform Developer",
+                [
+                    "Company Name",
+                    "SEI"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2017 - Jan 2020"
+                ],
+                [
+                    "Location",
+                    "Oaks, PA"
+                ]
+            ],
+            [
+                "Software Developer",
+                [
+                    "Company Name",
+                    "Vanguard"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Jan 2017"
+                ],
+                [
+                    "Location",
+                    "Malvern, Pennsylvania"
+                ]
+            ],
+            [
+                "SEI Wealth Platform Intern",
+                [
+                    "Company Name",
+                    "SEI"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 - Aug 2016"
+                ],
+                [
+                    "Location",
+                    "Oaks, Pennsylvania"
+                ]
+            ]
+        ]
+    },
+    "Joanne Nichols": {
+        "status": "success",
+        "Education": [
+            [
+                "Temple University"
+            ]
+        ],
+        "Experience": [
+            [
+                "adjunct faculty",
+                [
+                    "Company Name",
+                    "Temple University"
+                ]
+            ]
+        ]
+    },
+    "Zoran Obradovic": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Manager sector",
+                [
+                    "Company Name",
+                    "Electric Power Industry of Serbia"
+                ]
+            ],
+            [
+                "Director",
+                [
+                    "Company Name",
+                    "TE/TO Novi Sad"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2007 - Jun 2009"
+                ]
+            ]
+        ]
+    },
+    "Christopher Pascucci": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Claudia Pine-Simon": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Faculty",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1986 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Athanasia Polychronopoulou": {
+        "status": "success",
+        "Education": [
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Data Mining and Machine Learning"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2016"
+                ]
+            ],
+            [
+                "Ethnikon kai Kapodistriakon Panepistimion Athinon",
+                [
+                    "Degree Name",
+                    "Master of Science (MSc)"
+                ],
+                [
+                    "Field Of Study",
+                    " Nuclear and Elementary Particle Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2008"
+                ],
+                [
+                    "More Info",
+                    "Grade: 9.1 / 10"
+                ]
+            ],
+            [
+                "Ethnikon kai Kapodistriakon Panepistimion Athinon",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2005"
+                ],
+                [
+                    "More Info",
+                    "Diploma Thesis: Study of the intrinsic response of a Position Sensitive Photomultiplier Tube used in γ-cameras"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2012 - Mar 2022"
+                ]
+            ],
+            [
+                "Business Intelligence Engineer",
+                [
+                    "Company Name",
+                    "Mednet International"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2008 - Feb 2011"
+                ],
+                [
+                    "Location",
+                    "Athens, Greece"
+                ],
+                [
+                    "More Info",
+                    "o Design and implementation of custom data warehouse solutions, utilization of data"
+                ]
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "Thomas Jefferson National Accelerator Facility"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2008 - Jul 2008"
+                ],
+                [
+                    "Location",
+                    "Hall A/ Polarized 3He Target Lab,"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of Athens"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2004 - Jun 2008"
+                ]
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "National Academy of Science of Ukraine"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2007 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Kharkov, Ukraine"
+                ],
+                [
+                    "More Info",
+                    "Institute for Scintillation Materials"
+                ]
+            ]
+        ]
+    },
+    "Jeffrey Ramspacher": {
+        "status": "success",
+        "Education": [
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "Master's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2019"
+                ]
+            ],
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2015"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lead Software Engineer",
+                [
+                    "Company Name",
+                    "Elsevier"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, Pennsylvania, United States"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 - Mar 2022"
+                ]
+            ],
+            [
+                "Software Developer",
+                [
+                    "Company Name",
+                    "Philadelphia Game Lab"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Jun 2015"
+                ],
+                [
+                    "Location",
+                    "- Architected platform software in PHP and Node.js on AWS designed for real-time multiplayer processing that interfaced with other innovation-focused projects in VR, audio, and more traditional gaming spaces."
+                ]
+            ]
+        ]
+    },
+    "Kyle Romain": {
+        "status": "success",
+        "Education": [
+            [
+                "Lebanon Valley College",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Digital Communications"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Grade: cum laude"
+                ]
+            ],
+            [
+                "Daniel Boone Area High School",
+                [
+                    "Degree Name",
+                    "High School Diploma"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "UX Research Lead",
+                [
+                    "Company Name",
+                    "Gopuff"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2020 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, Pennsylvania, United States"
+                ],
+                [
+                    "More Info",
+                    "Gopuff is the go-to solution for immediate everyday needs. We deliver thousands of everyday essentials, such as cleaning and home products, over-the-counter medications, baby products, food, drinks and in some markets, alcohol and fresh prepared food, in just minutes from our local micro-fulfillment centers."
+                ]
+            ],
+            [
+                "Adjunct Instructor - User Experience Design",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, PA"
+                ],
+                [
+                    "More Info",
+                    "- Developing a new course which focuses on teaching end-to-end UX through the iterative user experience design process"
+                ]
+            ],
+            [
+                "Senior Design Researcher",
+                [
+                    "Company Name",
+                    "Capgemini Invent"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2018 - Jun 2020"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, PA"
+                ],
+                [
+                    "More Info",
+                    "- Determining and facilitating appropriate research methodologies based on client needs including usability testing, user interviews, stakeholder interviews, surveys, workshops, heuristic analyses, and more."
+                ]
+            ],
+            [
+                "AVID Program Occupational Advisory Committee Chairman",
+                [
+                    "Company Name",
+                    "Northeast High School"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2013 - May 2020"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, PA"
+                ],
+                [
+                    "More Info",
+                    "-Keeping programs updated on latest industry trends, technology and safety procedures."
+                ]
+            ],
+            [
+                "Senior User Experience Designer/Researcher",
+                [
+                    "Company Name",
+                    "SevOne Inc"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2014 - Oct 2018"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, PA"
+                ],
+                [
+                    "More Info",
+                    "SevOne provides the world's fastest, most scalable network, IT, and infrastructure management, monitoring, and reporting platform, delivered as an all-in-one solution, to help users detect, troubleshoot and avoid performance events before they impact the business."
+                ]
+            ]
+        ]
+    },
+    "Andrew Rosado": {
+        "status": "success",
+        "Education": [
+            [
+                "Saint Joseph's University",
+                [
+                    "Degree Name",
+                    "Master's of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Instructional Technology and Design"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Grade: Graduate"
+                ]
+            ],
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Greek and Roman Classics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Esencia Latina Latin Dance Troupe - President (2010)"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Virtual Chief Information Officer",
+                [
+                    "Company Name",
+                    "CompuData Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2018 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, Pennsylvania"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Computer Information Science Department, Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2012 - Mar 2022"
+                ]
+            ],
+            [
+                "Director Of Technology",
+                [
+                    "Company Name",
+                    "Esperanza Academy Charter School"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 - Jan 2018"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, Pennsylvania"
+                ],
+                [
+                    "More Info",
+                    "•\tDeveloped the strategic technology plan for all 4 Esperanza schools that accounted for system architecture, data analysis, educational technology, professional development, and compliance regulation."
+                ]
+            ],
+            [
+                "Technology Coordinator",
+                [
+                    "Company Name",
+                    "Esperanza Cyber Charter School"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Jun 2016"
+                ],
+                [
+                    "Location",
+                    "4261 north 5th street ;2nd floor; philadelphia, pa 19140"
+                ],
+                [
+                    "More Info",
+                    "•\tAn integral member of the executive team of a start-up cyber charter school program that serves low income, urban communities across the state of Pennsylvania."
+                ]
+            ]
+        ]
+    },
+    "Andrew Rosen": {
+        "status": "success",
+        "Education": [
+            [
+                "Georgia State University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2016"
+                ]
+            ],
+            [
+                "Georgia State University",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2014"
+                ]
+            ],
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.0"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor of Instruction in Computer Science",
+                [
+                    "Company Name",
+                    "Temple University"
+                ]
+            ],
+            [
+                "Associate Professor of Instruction in Computer Science",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, Pennsylvania, United States"
+                ],
+                [
+                    "More Info",
+                    "I teach Intro to Computer Science and Data Structures.   I occasionally do research in Computer Science Education and the use of Computer Science and Music.  I also write music for fun."
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "Georgia State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2011 - Jun 2016"
+                ],
+                [
+                    "Location",
+                    "Greater Atlanta Area"
+                ],
+                [
+                    "More Info",
+                    "cv"
+                ]
+            ]
+        ]
+    },
+    "Sophia Salvatore": {
+        "status": "success",
+        "Education": [
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2013"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2014 - Mar 2022"
+                ]
+            ],
+            [
+                "Receptionist",
+                [
+                    "Company Name",
+                    "Chungdam Spa &amp; Fitness"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2010 - Jul 2011"
+                ]
+            ],
+            [
+                "Secretary/File Clerk",
+                [
+                    "Company Name",
+                    "David C. Harrison, Attorney"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2006 - Jun 2010"
+                ],
+                [
+                    "Location",
+                    "Maintained client's files and wrote correspondence to clients"
+                ]
+            ]
+        ]
+    },
+    "Xinghua Mindy Shi": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Chicago",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " MS, Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2008"
+                ]
+            ],
+            [
+                "Beijing Institute of Technology",
+                [
+                    "Degree Name",
+                    "Master of Engineering (M.Eng.)"
+                ],
+                [
+                    "Field Of Study",
+                    " B.Eng., Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 2001"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Greater Philadelphia Area"
+                ],
+                [
+                    "More Info",
+                    "My research areas include bioinformatics, machine learning, complex network analysis, data privacy and security, and emerging computing technologies."
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "UNC Charlotte"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - Jul 2019"
+                ],
+                [
+                    "Location",
+                    "My research is focused on integrating large-scale \"-omics\" datasets to study how genetic architecture affects biological processes and complex phenotypes at the systems level. Specifically, we are developing computational approaches/pipelines to integrate and analyze large-scale (epi)genomic, expression and interaction data sets to identify markers associated with complex diseases. We are also interested in complex network analysis and mathematical modeling of biological systems."
+                ]
+            ],
+            [
+                "Postdoctoral Research Fellow/Research Fellow",
+                [
+                    "Company Name",
+                    "Brigham and Women's Hospital and Harvard Medical School"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2009 - Dec 2012"
+                ],
+                [
+                    "Location",
+                    "My research is focused on developing algorithms and tools for the discovery and characterization of genetic variants (including copy number variations)  in healthy (e.g. 1000 Genomes Project) and diseased populations (e.g. cancer). Specifically, I am working on applying machine learning, network analysis, high performance computing and other computational approaches to study how genetic variation affects phenotypes and biomedical processes at the systems level."
+                ]
+            ],
+            [
+                "Visiting Research Fellow",
+                [
+                    "Company Name",
+                    "Broad Institute of MIT and Harvard"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2009 - Dec 2012"
+                ]
+            ],
+            [
+                "Genetics T32 Fellow",
+                [
+                    "Company Name",
+                    "Harvard Medical School"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2010 - Jun 2012"
+                ]
+            ]
+        ]
+    },
+    "Yuan Justin Shi": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Parallel Processing"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 - 1984"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: ACM, IEEE"
+                ]
+            ],
+            [
+                "University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Software Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1980 - 1982"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: ACM,IEEE"
+                ]
+            ],
+            [
+                "Shanghai Jiao Tong University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1974 - 1979"
+                ],
+                [
+                    "More Info",
+                    "Team member of DJS130 Microcomputer"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1991 - Mar 2022"
+                ]
+            ],
+            [
+                "CSO",
+                [
+                    "Company Name",
+                    "PCTi (Parallel Computers Technology Inc.)"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 1997 - Dec 2016"
+                ],
+                [
+                    "Location",
+                    "Provide R and D direction for highly available high performance transactional and computational systems using multiple independent special purpose or commodity computers"
+                ]
+            ],
+            [
+                "Post Doc",
+                [
+                    "Company Name",
+                    "University of Pennsylvania"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 1985 - Jun 1985"
+                ],
+                [
+                    "Location",
+                    "Research and development for ONR projects"
+                ]
+            ]
+        ]
+    },
+    "Laurie Shteir": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Instructional Specialist",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "May 1975 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Richard Souvenir": {
+        "status": "success",
+        "Education": [
+            [
+                "Washington University in St. Louis",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2006"
+                ]
+            ],
+            [
+                "Washington University in St. Louis",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Biology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2001"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Mar 2022"
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of North Carolina at Charlotte"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2006 - Aug 2016"
+                ]
+            ]
+        ]
+    },
+    "Robert Spielberger": {
+        "status": "success",
+        "Education": [
+            [
+                "Drexel University's LeBow College of Business",
+                [
+                    "Degree Name",
+                    "MBA"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Systems"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1985 - 1989"
+                ]
+            ],
+            [
+                "Saint Joseph's University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978 - 1982"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Software Quality Test Lead",
+                [
+                    "Company Name",
+                    "Humana"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2021 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Planning, managing and improving testing for a new personalized healthcare service."
+                ],
+                [
+                    "More Info",
+                    "Author by Humana"
+                ]
+            ],
+            [
+                "Adjunct Instructor",
+                [
+                    "Company Name",
+                    "Temple University College of Science and Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, PA"
+                ],
+                [
+                    "More Info",
+                    "Teach testing concepts and techniques in an agile context to undergraduate and graduate students through lectures, agile activities, and labs. Topics include Agile, DevOps, user stories and acceptance criteria, black box test design, test automation, and unit, website, mobile, API, security and performance testing."
+                ]
+            ],
+            [
+                "Senior Test Lead/Strategist (Contract)",
+                [
+                    "Company Name",
+                    "AmerisourceBergen"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 - Oct 2020"
+                ],
+                [
+                    "Location",
+                    "Chesterbrook, PA"
+                ],
+                [
+                    "More Info",
+                    "Planned, managed, and reported status of integration testing for large business transformation program that deployed new Salesforce CRM, Call Center and SAP ERP solution."
+                ]
+            ],
+            [
+                "Senior Project Manager",
+                [
+                    "Company Name",
+                    "Signant Health (formerly CRF Health)"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2018 - Jun 2019"
+                ],
+                [
+                    "Location",
+                    "Plymouth Meeting, Pennsylvania"
+                ],
+                [
+                    "More Info",
+                    "Managed the delivery of electronic clinical outcomes assessment solutions for pharmaceutical clients. Was jack-of-all-trades project manager, including project planner, business analyst, tester, logistics coordinator, trainer, and client account manager, for new deliveries and maintenance projects."
+                ]
+            ],
+            [
+                "Senior Project Manager",
+                [
+                    "Company Name",
+                    "CoreDial, LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2017 - Apr 2018"
+                ],
+                [
+                    "Location",
+                    "Blue Bell, PA"
+                ],
+                [
+                    "More Info",
+                    "Managed projects for Chief Revenue Officer and Sales, Marketing, Partner Success and Training teams. Led agile Go-To-Market (GTM) projects for Web-based and mobile products on company’s Unified Communications-as-a-Service (UCaaS) platform. Conducted cross-functional enterprise project status meetings weekly."
+                ]
+            ]
+        ]
+    },
+    "Sheri Stahler": {
+        "status": "success",
+        "Education": [
+            [
+                "The Johns Hopkins University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ],
+            [
+                "University of Maryland",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Business Education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "AVP, Computer Services",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2002 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Temple University"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1988 - Jun 2002"
+                ]
+            ]
+        ]
+    },
+    "Chiu Tan": {
+        "status": "success",
+        "Education": [
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer and Information Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2016 - May 2022"
+                ]
+            ],
+            [
+                "Saint Joseph's University",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2015"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Graduate Assistance."
+                ]
+            ],
+            [
+                "Al-Imam Muhammad Ibn Saud Islamic University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer and Information Systems"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Second Class Honor Degree"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Ph.D. Candidate",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "USA Philadelphia PA"
+                ]
+            ],
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "Al Yamamah University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2016 - Sep 2016"
+                ],
+                [
+                    "Location",
+                    "Saudi Arabia, Riyadh"
+                ]
+            ],
+            [
+                "Teacher Assistant",
+                [
+                    "Company Name",
+                    "Saint Joseph's University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2015 - May 2015"
+                ],
+                [
+                    "Location",
+                    "Philadelphia"
+                ]
+            ],
+            [
+                "Service Administrator",
+                [
+                    "Company Name",
+                    "Saint Joseph's University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - May 2013"
+                ],
+                [
+                    "Location",
+                    "Philadelphia"
+                ]
+            ],
+            [
+                "Database Developer",
+                [
+                    "Company Name",
+                    "Technical and Vocational Training Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2010 - Aug 2010"
+                ],
+                [
+                    "Location",
+                    "Saudi Arabia"
+                ]
+            ]
+        ]
+    },
+    "Slobodan Vucetic": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Charles Wang": {
+        "status": "success",
+        "Education": [
+            [
+                "Wayne State University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 - 1991"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Teaching graduate and undergraduate courses in Department of Computer and Information Science"
+                ]
+            ],
+            [
+                "Director of Corporate Technology Group",
+                [
+                    "Company Name",
+                    "Harman International"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2008 - Oct 2013"
+                ],
+                [
+                    "Location",
+                    "Managing Corporate Technology Group in Shanghai, China"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Thomson Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2001 - Aug 2008"
+                ]
+            ],
+            [
+                "Manager of Systems Engineering",
+                [
+                    "Company Name",
+                    "WorldGate"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1998 - Jun 2001"
+                ],
+                [
+                    "Location",
+                    "Web on TV over HFC cable networks."
+                ]
+            ],
+            [
+                "Senior Staff Engineer",
+                [
+                    "Company Name",
+                    "General Instrument"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1995 - Jun 1997"
+                ],
+                [
+                    "Location",
+                    "ATM network based settop box software development."
+                ]
+            ]
+        ]
+    },
+    "Jamie Payton": {
+        "status": "success",
+        "Education": [
+            [
+                "Washington University in St. Louis",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Computer and Information Science",
+                [
+                    "Company Name",
+                    "Temple University College of Science and Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2021 - Mar 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Mar 2022"
+                ]
+            ],
+            [
+                "Director",
+                [
+                    "Company Name",
+                    "STARS Computing Corps Alliance for Broadening Participation in Computing"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Mar 2022"
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of North Carolina at Charlotte"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2006 - Jul 2016"
+                ]
+            ]
+        ]
+    },
+    "Pei Wang": {
+        "status": "success",
+        "Education": [
+            [
+                "Indiana University Bloomington",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Cognitive Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Sep 1991 - Dec 1995"
+                ],
+                [
+                    "More Info",
+                    "Thesis Title: Non-Axiomatic Reasoning System --- Exploring the Essence of Intelligence."
+                ]
+            ],
+            [
+                "Peking University",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1983 - 1986"
+                ]
+            ],
+            [
+                "Peking University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1979 - 1983"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor (Teaching)",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2008 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Teaching and research"
+                ]
+            ],
+            [
+                "Director of Research",
+                [
+                    "Company Name",
+                    "Webmind Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2000 - Apr 2001"
+                ],
+                [
+                    "Location",
+                    "Work on various issues in artificial intelligence and cognitive science in a start-up company."
+                ]
+            ],
+            [
+                "Senior Technical Staff",
+                [
+                    "Company Name",
+                    "ExpLore Reasoning Systems"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1998 - Mar 2022"
+                ]
+            ]
+        ]
+    },
+    "Anduo Wang": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "2007 - 2012"
+                ]
+            ],
+            [
+                "Tsinghua University"
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "UIUC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Jun 2015"
+                ]
+            ]
+        ]
+    },
+    "Yan Wang": {
+        "status": "success",
+        "Education": [
+            [
+                "Stevens Institute of Technology",
+                [
+                    "Degree Name",
+                    "PhD candidate"
+                ],
+                [
+                    "Field Of Study",
+                    " Pervasive and Mobile Computing and Wireless Security and Privacy"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2015"
+                ]
+            ],
+            [
+                "Rutgers University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " ECE"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Wireless Information and Networking Laboratory (WINLAB)"
+                ]
+            ],
+            [
+                "Tongji University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Technology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2001"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: National Undergraduate Electronic Design Contest"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Mar 2022"
+                ]
+            ],
+            [
+                "Assitant Professor",
+                [
+                    "Company Name",
+                    "Binghamton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 - Aug 2019"
+                ],
+                [
+                    "Location",
+                    "Binghamton, NY"
+                ],
+                [
+                    "More Info",
+                    "Conducting research in Mobile Computing specializing in Mobile Sensing, Smart healthcare, Smartphone Privacy and Security, Internet of Things (IoT), and Wireless Networks."
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2010 - Aug 2015"
+                ],
+                [
+                    "Location",
+                    "Hoboken, NJ"
+                ],
+                [
+                    "More Info",
+                    "Current researches include pervasive computing (indoor localization, device-free passive localization, and Location Based Services), mobile computing (vehicular applications, human queue process monitoring), wireless security and privacy. For example,"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Rutgers University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2008 - Jun 2010"
+                ]
+            ],
+            [
+                "Technical Supervisor",
+                [
+                    "Company Name",
+                    "China Unicom"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2001 - Aug 2008"
+                ],
+                [
+                    "Location",
+                    "Shanghai, China"
+                ],
+                [
+                    "More Info",
+                    "+Responsible for giving high level technical supports to the maintenance of transmission equipments; traffic quality control; backbone transmission networks optimization;"
+                ]
+            ]
+        ]
+    },
+    "Yu Wang": {
+        "status": "success",
+        "Education": [
+            [
+                "Illinois Institute of Technology",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2004"
+                ]
+            ],
+            [
+                "Tsinghua University",
+                [
+                    "Degree Name",
+                    "B.Eng. and M. Eng."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 2000"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 - Mar 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of North Carolina at Charlotte"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2004 - Jun 2019"
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "Tsinghua University"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2011 - May 2011"
+                ]
+            ]
+        ]
+    },
+    "Yin Wenpeng": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "Postdoc"
+                ],
+                [
+                    "Field Of Study",
+                    " Natural Language Processing"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2017"
+                ]
+            ],
+            [
+                "Ludwig-Maximilians-Universität München",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2017"
+                ]
+            ],
+            [
+                "Peking University",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Retrieval, Data Mining, Natural Language Processing, Machine Learning"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2013"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2022 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, Pennsylvania, United States"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Salesforce Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Dec 2021"
+                ]
+            ],
+            [
+                "Internship",
+                [
+                    "Company Name",
+                    "IBM Watson"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2016 - May 2016"
+                ],
+                [
+                    "Location",
+                    "Yorktown Heights"
+                ],
+                [
+                    "More Info",
+                    "leverage deep neural networks for question answering based on knowledge graph"
+                ]
+            ]
+        ]
+    },
+    "Carl Williams": {
+        "status": "success",
+        "Education": [
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "Bachelor of Engineering (B.Eng.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Electronics Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1963 - 1968"
+                ],
+                [
+                    "More Info",
+                    "Johnson Control"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Public Adjuster",
+                [
+                    "Company Name",
+                    "Metro Public Adjustment, Inc."
+                ]
+            ],
+            [
+                "Dep. Director Const. &amp; Operations",
+                [
+                    "Company Name",
+                    "Cheyney University of Pa."
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1994 - Jul 2014"
+                ],
+                [
+                    "Location",
+                    "Cheyney, Pa. State System"
+                ],
+                [
+                    "More Info",
+                    "Oprations, Energy Management and Construction Planning. Included are selective demolitions, New Science Center, New Waste Water Plant and $36,000,000 of Renovations. Completed major Energy Services Contract. Managed 12 million budget, 25 million construction and a staff of 32 skilled, semi skilled, and unskilled work staff."
+                ]
+            ],
+            [
+                "Manager Spec. Sys. Division",
+                [
+                    "Company Name",
+                    "Williard Inc"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1986 - Sep 1990"
+                ],
+                [
+                    "Location",
+                    "Jenkintown, Pennsylvania/New Castle De."
+                ],
+                [
+                    "More Info",
+                    "Controls and Automation Systems Sales at Phila Museum, Smith Kline Pharma, University of Penn, Insurance Co. of North America,  Univ. of Del."
+                ]
+            ],
+            [
+                "Construction &amp; Service Engineer",
+                [
+                    "Company Name",
+                    "Johnson Controls"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 1979 - Aug 1986"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, Pennsylvania"
+                ]
+            ]
+        ]
+    },
+    "Jie Wu": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Laura H. Carnell Professor",
+                [
+                    "Company Name",
+                    "Temple University, Department of CIS"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2009 - Mar 2022"
+                ]
+            ],
+            [
+                "Associate Vice Provost",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2016 - Jun 2017"
+                ]
+            ],
+            [
+                "Department Chair",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2009 - Jul 2015"
+                ]
+            ],
+            [
+                "Distinguished Professor",
+                [
+                    "Company Name",
+                    "Florida Atlantic University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1989 - Jun 2009"
+                ]
+            ],
+            [
+                "Program Director",
+                [
+                    "Company Name",
+                    "National Science Foundation"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2007 - Jan 2009"
+                ]
+            ]
+        ]
+    },
+    "Daniel Yee": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Los Angeles",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2002"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: President Delta Terrace Students' Association"
+                ]
+            ],
+            [
+                "Northeast Normal University",
+                [
+                    "Degree Name",
+                    "Certificate"
+                ],
+                [
+                    "Field Of Study",
+                    " Chinese"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2005"
+                ]
+            ],
+            [
+                "Udacity",
+                [
+                    "Degree Name",
+                    "Mobile Web Specialist Nanodegree"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2018 - 2018"
+                ],
+                [
+                    "More Info",
+                    "Udacity MWS Nanodegree Program Certificate"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2013 - Mar 2022"
+                ]
+            ],
+            [
+                "High School Math and Science Teacher",
+                [
+                    "Company Name",
+                    "Xining International Academy"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Jul 2013"
+                ],
+                [
+                    "Location",
+                    "Xining, Qinghai, China"
+                ],
+                [
+                    "More Info",
+                    "• Head of the Middle and High School Science Department."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of California, Los Angeles"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - Jun 2012"
+                ]
+            ],
+            [
+                "Senior Web Developer",
+                [
+                    "Company Name",
+                    "Evergreen Baptist Church, Los Angeles"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - Jun 2012"
+                ],
+                [
+                    "Location",
+                    "Rosemead, California"
+                ],
+                [
+                    "More Info",
+                    "• Maintained and developed organizational website, including capital campaigns and fund raisers."
+                ]
+            ],
+            [
+                "Teacher",
+                [
+                    "Company Name",
+                    "ELIC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2003 - Jun 2005"
+                ],
+                [
+                    "Location",
+                    "• Taught college-level oral English and studied Chinese."
+                ]
+            ]
+        ]
+    },
+    "Robert Zahorchak": {
+        "status": "success",
+        "Education": [
+            [
+                "Saint Joseph's University",
+                [
+                    "Degree Name",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 1998"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Vanguard"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 - Mar 2022"
+                ]
+            ],
+            [
+                "Adjunct Instructor",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2016 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, Pa"
+                ],
+                [
+                    "More Info",
+                    "Instructor for Information Science and Technology course Information Systems Implementation."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Temple University Continuing Education Systems"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2014 - Aug 2016"
+                ]
+            ],
+            [
+                "IT Intern",
+                [
+                    "Company Name",
+                    "Vanguard"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2015 - Aug 2015"
+                ],
+                [
+                    "Location",
+                    "Malvern, Pennsylvania"
+                ],
+                [
+                    "More Info",
+                    "Net centric development on the Personal Advisor Service."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "GameStop"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 - May 2013"
+                ]
+            ]
+        ]
+    },
+    "Kai Zhang": {
+        "status": "success",
+        "Education": [
+            [
+                "The Hong Kong University of Science and Technology",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Comp"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2008"
+                ],
+                [
+                    "More Info",
+                    "Graduate School, The Chinese Academy of School Sciences"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Greater Philadelphia Area"
+                ]
+            ],
+            [
+                "Researcher",
+                [
+                    "Company Name",
+                    "NEC Laboratories America, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2013 - Jul 2017"
+                ]
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "Siemens Corporation, Corporate Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2011 - Mar 2013"
+                ]
+            ],
+            [
+                "Postdoc Researcher",
+                [
+                    "Company Name",
+                    "Lawrence Berkeley National Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2008 - Dec 2010"
+                ]
+            ]
+        ]
     }
 }

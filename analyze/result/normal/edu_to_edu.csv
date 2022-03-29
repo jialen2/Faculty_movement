@@ -325,6 +325,7 @@ Peking University,Massachusetts Institute of Technology,1
 Peking University,Pennsylvania State University,1
 Peking University,"University of Maryland, College Park",1
 Peking University,California Institute of Technology,1
+Peking University,University of Southern California,1
 Carnegie Mellon University,Stanford University,3
 Carnegie Mellon University,University of Illinois Urbana-Champaign,1
 Carnegie Mellon University,Rice University,2
@@ -679,6 +680,7 @@ Yale University,University of Colorado Boulder,1
 Lehigh University,"University of Maryland, College Park",1
 Lehigh University,Fuqua School of Business,1
 Northeastern University,Pennsylvania State University,1
+Northeastern University,University of Pennsylvania,1
 University of Cincinnati,University of Miami,1
 University of Cincinnati,University of Massachusetts Amherst,1
 University of Cincinnati,University of Cincinnati,1
@@ -1149,6 +1151,7 @@ National and Kapodistrian University of Athens,Northwestern University,1
 National and Kapodistrian University of Athens,University of Massachusetts Amherst,2
 National and Kapodistrian University of Athens,City University of New York,1
 National and Kapodistrian University of Athens,École Polytechnique Fédérale de Lausanne,1
+National and Kapodistrian University of Athens,Northeastern University,1
 Rose–Hulman Institute of Technology,University of Notre Dame,1
 Rose–Hulman Institute of Technology,University of Illinois Urbana-Champaign,1
 Rose–Hulman Institute of Technology,Indiana University Bloomington,1
@@ -1233,6 +1236,7 @@ New Mexico State University,University of Cambridge,1
 New Mexico State University,New Mexico State University,1
 University of Isfahan,Tarbiat Modares University,1
 Tarbiat Modares University,KU Leuven,1
+Tarbiat Modares University,Michigan Technological University,1
 Australian National University,Dartmouth College,1
 Australian National University,Stanford University,1
 Louisiana Tech University,Western Illinois University,1
@@ -1474,6 +1478,7 @@ University of Nottingham,University of Cambridge,1
 University of Stuttgart,University of Edinburgh,1
 University of Stuttgart,Georgia Tech,1
 Xiamen University,University of Pittsburgh,1
+Xiamen University,Peking University,1
 University of Pittsburgh,"University of California, Los Angeles",1
 University of Pittsburgh,Technical University of Košice,1
 Humboldt University of Berlin,University of Pennsylvania,1
@@ -1824,3 +1829,4 @@ Süleyman Demirel University,Syracuse University College of Engineering and Comp
 Syracuse University College of Engineering and Computer Science,Syracuse University College of Engineering and Computer Science,1
 Carleton University,Carleton University,1
 University of Glasgow,Princeton University,1
+Michigan Technological University,Oregon State University,1

@@ -645,6 +645,7 @@ Harvard University,Washington University in St. Louis,1
 Harvard University,Johns Hopkins University,1
 Harvard University,"University of California, Irvine",1
 Harvard University,Rensselaer Polytechnic Institute,1
+Harvard University,University of Texas at Austin,1
 SRM Institute of Science and Technology,University of Rochester,1
 SRM Institute of Science and Technology,University of Texas at Austin,2
 SRM Institute of Science and Technology,Massachusetts Institute of Technology,2
@@ -1111,6 +1112,7 @@ Northeastern University,University of Texas at Arlington,1
 Northeastern University,University of Connecticut,1
 Northeastern University,Rensselaer Polytechnic Institute,1
 Northeastern University,Florida International University,1
+Northeastern University,University of Pennsylvania,1
 Old Dominion University,Rutgers University,1
 Old Dominion University,Stony Brook University,1
 Old Dominion University,University of Virginia,1
@@ -1427,6 +1429,7 @@ University of Texas at Austin,Oregon Health & Science University,1
 University of Texas at Austin,Technical University of Munich,1
 University of Texas at Austin,"University of California, Irvine",1
 University of Texas at Austin,"University of California, Santa Barbara",1
+University of Texas at Austin,KTH Royal Institute of Technology,1
 University of Ottawa,Stony Brook University,1
 University of Ottawa,Princeton University,1
 University of Ottawa,University of Ottawa,1
@@ -1622,6 +1625,7 @@ Peking University,Fudan University,1
 Peking University,"University of Maryland, College Park",1
 Peking University,California Institute of Technology,1
 Peking University,Stony Brook University,1
+Peking University,University of Southern California,1
 University of Illinois Urbana-Champaign,"University of California, Santa Barbara",1
 University of Illinois Urbana-Champaign,Georgia Tech,3
 University of Illinois Urbana-Champaign,Carnegie Mellon University,4
@@ -2266,6 +2270,7 @@ Oregon State University,Oregon State University,2
 Oregon State University,University of Texas at Arlington,1
 Oregon State University,Mount Holyoke College,1
 Oregon State University,"University of California, Irvine",1
+Oregon State University,University of Houston,2
 University of Washington,University of Washington,18
 University of Washington,University of Iowa,3
 University of Washington,Stanford University,3
@@ -3472,6 +3477,7 @@ National and Kapodistrian University of Athens,University of Texas at Austin,1
 National and Kapodistrian University of Athens,University of Massachusetts Amherst,2
 National and Kapodistrian University of Athens,City University of New York,1
 National and Kapodistrian University of Athens,École Polytechnique Fédérale de Lausanne,1
+National and Kapodistrian University of Athens,Northeastern University,1
 "California State Polytechnic University, Pomona",Monmouth University,1
 "California State Polytechnic University, Pomona",Howard University,3
 Monmouth University,Seton Hall University,1
@@ -3630,6 +3636,7 @@ Brescia University,Technical University of Kaiserslautern,1
 Brescia University,Carnegie Mellon University,1
 University of Isfahan,Tarbiat Modares University,1
 Tarbiat Modares University,KU Leuven,1
+Tarbiat Modares University,Michigan Technological University,1
 Australian National University,Dartmouth College,1
 Australian National University,Stanford University,1
 Louisiana Tech University,Western Illinois University,1
@@ -4037,6 +4044,7 @@ University of Stuttgart,University of Edinburgh,2
 University of Stuttgart,University of Pennsylvania,1
 University of Stuttgart,Georgia Tech,1
 Xiamen University,University of Pittsburgh,1
+Xiamen University,Peking University,1
 Humboldt University of Berlin,University of Pennsylvania,1
 University of Calicut,IIT Madras,1
 Texas Tech University,Pennsylvania State University,1
@@ -4071,6 +4079,10 @@ University of Houston,Massachusetts Institute of Technology,1
 University of Houston,King Fahd University of Petroleum and Minerals,1
 University of Houston,Lehigh University,1
 University of Houston,University of Houston–Clear Lake,1
+University of Houston,University of Southern California,1
+University of Houston,University of Texas Health Science Center at Houston,1
+University of Houston,University of Texas at Austin,1
+University of Houston,University of Houston,1
 King Fahd University of Petroleum and Minerals,College of William & Mary,1
 Union University,University of Minnesota,1
 University of South Carolina,Cornell University,1
@@ -4389,6 +4401,7 @@ Leiden University,"University of Maryland, College Park",1
 Michigan Technological University,University of Pittsburgh,1
 Michigan Technological University,Cornell University,2
 Michigan Technological University,Northwest Missouri State University,1
+Michigan Technological University,Oregon State University,3
 "St. Stephen's College, Delhi",University of Massachusetts Amherst,1
 Tafila Technical University,Bridgewater State University,1
 Tafila Technical University,New Mexico Institute of Mining and Technology,1
@@ -4716,3 +4729,6 @@ Grambling State University,Syracuse University,1
 University of Glasgow,Princeton University,2
 University of Glasgow,SRM Institute of Science and Technology,1
 TU Wien,"University of California, Santa Barbara",1
+Guangxi University,Oregon State University,1
+University of Texas Health Science Center at Houston,University of Houston,2
+University of Texas Health Science Center at Houston,University of Pennsylvania,1

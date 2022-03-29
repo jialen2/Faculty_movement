@@ -19,7 +19,7 @@ def handler(signum, frame):
 signal.signal(signal.SIGINT, handler)
 dataset_directory = os.getcwd() + "/../scrape/Computer_Science"
 
-done_analyzed_files = []
+# done_analyzed_files = []
 done_analyzed_profs = []
 
 def read_faculty_data_from_file_to_map(file_path):
@@ -138,15 +138,11 @@ with open("school_list.csv", "r") as input:
 # to count how many professor are there in the records
 count_prof = 0
 
-with open("done_analyzed_files.txt", "r") as input:
-    for line in input:
-        done_analyzed_files.append(line.replace("\n", ""))
-
 with open("done_analyzed_profs.txt", "r") as input:
     for line in input:
         done_analyzed_profs.append(line.replace("\n", ""))
 for filename in os.listdir(dataset_directory):      
-    if not filename[-5:] == ".json" or filename in done_analyzed_files:
+    if not filename[-5:] == ".json":
         continue
     with open(os.path.join(dataset_directory, filename), 'r') as f:
         school_name = parse_school_name(filename.split(".")[0])
@@ -250,10 +246,10 @@ for filename in os.listdir(dataset_directory):
             except:
                 continue  
     print(edu_to_work)
-    done_analyzed_files.append(filename)
-    with open("done_analyzed_files.txt", "w") as output:
-        for file in done_analyzed_files:
-            output.write(file + "\n")
+    # done_analyzed_files.append(filename)
+    # with open("done_analyzed_files.txt", "w") as output:
+    #     for file in done_analyzed_files:
+    #         output.write(file + "\n")
 
 
 # print("num_prof:", count_prof)

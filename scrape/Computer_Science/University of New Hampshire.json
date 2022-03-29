@@ -1212,5 +1212,97 @@
                 ]
             ]
         ]
+    },
+    "Ken Graf": {
+        "status": "success",
+        "Education": [
+            [
+                "UNH Peter T. Paul College of Business and Economics"
+            ],
+            [
+                "Brandeis University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Software Engineering"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Computer Security Lecturer and Research",
+                [
+                    "Company Name",
+                    "University of New Hampshire"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2010 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Coordinator for 2018 Northeast Collegiate Cyber Defense Competition: https://neccdc2018.org"
+                ]
+            ],
+            [
+                "CTO",
+                [
+                    "Company Name",
+                    "Security Crossing"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2001 - Mar 2022"
+                ],
+                [
+                    "Location",
+                    "Secure applications through effective design"
+                ]
+            ],
+            [
+                "Enterprise Architect",
+                [
+                    "Company Name",
+                    "Liberty Mutual"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2011 - Jul 2017"
+                ],
+                [
+                    "Location",
+                    "Focused on cloud (AWS|Azure|Google|OpenStack) identity and application security"
+                ]
+            ],
+            [
+                "Enterprise Architect",
+                [
+                    "Company Name",
+                    "Intel"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2006 - Jun 2010"
+                ],
+                [
+                    "Location",
+                    "Security Product Design &amp;amp; Management"
+                ]
+            ],
+            [
+                "Security Lead",
+                [
+                    "Company Name",
+                    "Watchfire"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2003 - Jun 2006"
+                ]
+            ]
+        ]
     }
 }
