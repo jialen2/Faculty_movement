@@ -1,0 +1,408 @@
+[
+    {
+        "Name": "Arindam Banerjee",
+        "Phone number": "612-625-0041",
+        "Email": "baner029@umn.edu",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Daniel Boley",
+        "Phone number": "612-625-3887",
+        "Email": "boley@umn.edu",
+        "Position": "Professor, Director of Graduate Studies for Data Science",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Stevie Chancellor",
+        "Phone number": "Missing",
+        "Email": "Missing",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": " Abhishek Chandra",
+        "Phone number": "612-626-1283",
+        "Email": "chandra@umn.edu",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "David Hung-Chang Du",
+        "Phone number": "612-625-2560",
+        "Email": "du@umn.edu",
+        "Position": "Qwest Chair Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Kuen-Bang Hou Favonia",
+        "Phone number": "612-626-5867",
+        "Email": "kbh@umn.edu",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Mattia Fazzini",
+        "Phone number": "612-625-4365",
+        "Email": "mfazzini@umn.edu",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Maria Gini",
+        "Phone number": "612-625-5582",
+        "Email": "gini@umn.edu",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Stephen Guy",
+        "Phone number": "612-625-3368",
+        "Email": "sjguy@umn.edu",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Tian He",
+        "Phone number": "612-626-1281",
+        "Email": "tianhe@umn.edu",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Mats Heimdahl",
+        "Phone number": "612-625-2068",
+        "Email": "heimdahl@umn.edu",
+        "Position": "Professor, Department Head",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Nicholas Hopper",
+        "Phone number": "612-626-1284",
+        "Email": "hoppernj@umn.edu",
+        "Position": "Professor, Director of Undergraduate Studies",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Victoria Interrante",
+        "Phone number": "612-625-3543",
+        "Email": "interran@umn.edu",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Volkan Isler",
+        "Phone number": "612-625-1067",
+        "Email": "isler@umn.edu",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Ravi Janardan",
+        "Phone number": "612-625-7338",
+        "Email": "janardan@umn.edu",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "George Karypis",
+        "Phone number": "612-626-7524",
+        "Email": "karypis@umn.edu",
+        "Position": "Distinguished McKnight University Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Daniel F. Keefe",
+        "Phone number": "612-626-7508",
+        "Email": "dfk@umn.edu",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Dan Knights",
+        "Phone number": "612-626-7502",
+        "Email": "dknights@umn.edu",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Joseph Konstan",
+        "Phone number": "612-625-1831",
+        "Email": "konstan@umn.edu",
+        "Position": "Distinguished McKnight University Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Rui Kuang",
+        "Phone number": "612-624-7820",
+        "Email": "kuang@umn.edu",
+        "Position": "Associate Professor, Director of Graduate Studies",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Vipin Kumar",
+        "Phone number": "612-624-8023",
+        "Email": "kumar001@umn.edu",
+        "Position": "Regents Professor, William Norris Land Grant Chair in Large-Scale Computing",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Kangjie Lu",
+        "Phone number": "612-301-2197",
+        "Email": "kjlu@umn.edu",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Stephen McCamant",
+        "Phone number": "612-626-7526",
+        "Email": "smccaman@umn.edu",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Mohamed F. Mokbel",
+        "Phone number": "612-626-3025",
+        "Email": "mokbel@umn.edu",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Chad L. Myers",
+        "Phone number": "612-624-8306",
+        "Email": "chadm@umn.edu",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Gopalan Nadathur",
+        "Phone number": "612-626-1354",
+        "Email": "ngopalan@umn.edu",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Nikolaos Papanikolopoulos",
+        "Phone number": "612-625-0163",
+        "Email": "papan001@umn.edu",
+        "Position": "McKnight Presidential Endowed Professor, Distinguished McKnight University Professor, Minnesota Robotics Institute Director",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Hyun Soo Park",
+        "Phone number": "612-301-1745",
+        "Email": "hspark@umn.edu",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Feng Qian",
+        "Phone number": "612-625-7035",
+        "Email": "fengqian@umn.edu",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Evan Suma Rosenberg",
+        "Phone number": "612-301-2560",
+        "Email": "suma@umn.edu",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Yousef Saad",
+        "Phone number": "612-624-7804",
+        "Email": "saad@umn.edu",
+        "Position": "Professor, William Norris Land Grant Chair in Large-Scale Computing",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Junaed Sattar",
+        "Phone number": "612-626-7235",
+        "Email": "jsattar@umn.edu",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Paul R. Schrater",
+        "Phone number": "612-626-8638",
+        "Email": "schrater@umn.edu",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Shashi Shekhar",
+        "Phone number": "612-624-8307",
+        "Email": "shekhar@umn.edu",
+        "Position": "Distinguished McKnight University Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Jaideep Srivastava",
+        "Phone number": "612-625-4012",
+        "Email": "srivasta@umn.edu",
+        "Position": "Professor, Data Science Director of Undergraduate Studies",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Ju Sun",
+        "Phone number": "612-621-2729",
+        "Email": "jusun@umn.edu",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Loren Terveen",
+        "Phone number": "612-624-8310",
+        "Email": "terveen@umn.edu",
+        "Position": "Distinguished McKnight University Professor, Associate Department Head",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Anand Tripathi",
+        "Phone number": "612-625-9515",
+        "Email": "tripathi@umn.edu",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Eric Van Wyk",
+        "Phone number": "612-625-0329",
+        "Email": "evw@umn.edu",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Jon Weissman",
+        "Phone number": "612-626-0044",
+        "Email": "weiss039@umn.edu",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Svetlana Yarosh",
+        "Phone number": "612-624-7372",
+        "Email": "lana@umn.edu",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Pen-Chung Yew",
+        "Phone number": "612-625-7387",
+        "Email": "yew@umn.edu",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Antonia Zhai",
+        "Phone number": "612-626-1285",
+        "Email": "zhai@umn.edu",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Zhi-Li Zhang",
+        "Phone number": "612-625-8568",
+        "Email": "zhang089@umn.edu",
+        "Position": "Distinguished McKnight University Professor, Qwest Land Grant Chair in Telecommunications",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Catherine Qi Zhao",
+        "Phone number": "612-301-2115",
+        "Email": "qzhao@umn.edu",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Phillip Barry",
+        "Phone number": "612-626-2233",
+        "Email": "barry@umn.edu",
+        "Position": "Senior Lecturer, Associate Department Head of Instruction",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Dan Challou",
+        "Phone number": "612-625-8207",
+        "Email": "chal0006@umn.edu",
+        "Position": "Lecturer",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Chris Dovolis",
+        "Phone number": "612-625-7512",
+        "Email": "dovol002@umn.edu",
+        "Position": "Teaching Specialist",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Kate Jensen",
+        "Phone number": "612-626-8024",
+        "Email": "katej@umn.edu",
+        "Position": "Teaching Specialist",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Christopher Kauffman",
+        "Phone number": "612-626-9351",
+        "Email": "kauffman@umn.edu",
+        "Position": "Lecturer",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Daniel Kluver",
+        "Phone number": "612-626-3949",
+        "Email": "kluve018@umn.edu",
+        "Position": "Lecturer",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "James Moen",
+        "Phone number": "612-625-7909",
+        "Email": "moen0017@umn.edu",
+        "Position": "Lecturer",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "James Parker",
+        "Phone number": "612-626-0045",
+        "Email": "park0580@umn.edu",
+        "Position": "Teaching Specialist",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Carl Sturtivant",
+        "Phone number": "612-625-2384",
+        "Email": "carl@umn.edu",
+        "Position": "Lecturer",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Nathan Taylor",
+        "Phone number": "612-625-0330",
+        "Email": "taylo740@umn.edu",
+        "Position": "Teaching Specialist",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Shana Watters",
+        "Phone number": "612-626-9381",
+        "Email": "watt0087@umn.edu",
+        "Position": "Lecturer",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Kevin Wendt",
+        "Phone number": "612-624-5130",
+        "Email": "wendt@umn.edu",
+        "Position": "Teaching Specialist",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Timothy Wrenn",
+        "Phone number": "612-625-9088",
+        "Email": "wrenn001@umn.edu",
+        "Position": "Teaching Specialist",
+        "Research Interest": "Missing"
+    }
+]

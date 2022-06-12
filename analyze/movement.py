@@ -33,7 +33,7 @@ def page_rank(g, type):
         if type != "general":
             weight = d.get(type,0)
         else:
-            weight = d.get("edu_to_edu",0) + d.get("edu_to_work",0) + d.get("work_to_work",0)
+            weight = d.get("edu_to_edu",0) + d.get("work_from_edu",0) + d.get("work_to_work",0)
         if not weight:
             reduced_graph.remove_edge(u,v)
         else:
@@ -44,18 +44,18 @@ def page_rank(g, type):
 
 def create_graph():
     G = nx.DiGraph()
-    for name in ["edu_to_edu", "work_to_work", "edu_to_work"]:
+    for name in ["edu_to_edu", "work_to_work", "work_from_edu"]:
         add_edges_from_csv(G, name)
     return G
 
 def run_page_rank(G):
-    for name in ["general", "edu_to_edu", "work_to_work", "edu_to_work"]:
+    for name in ["general", "edu_to_edu", "work_to_work", "work_from_edu"]:
         pr_result = page_rank(G, name)
         with open(file_path+"/result/normal/page_rank_result/networkx/"+name, "w+") as output:
             output.seek(0)
             for item in pr_result:
                 p = "{:3f}".format(item[1]*100)
-                output.write(item[0]+","+str(p)+"\n")
+                output.write('"'+item[0]+'"'+","+str(p)+"\n")
 
 def community_detection(G, max_community):
     graph = G.copy()
@@ -77,7 +77,7 @@ def community_detection(G, max_community):
 def main():
     G = create_graph()
     run_page_rank(G)
-    community_detection(G,51)
+    community_detection(G,120)
 
 main()
 

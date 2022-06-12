@@ -1,0 +1,3959 @@
+{
+    "Martin Abadi": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Distinguished Scientist",
+                [
+                    "Company Name",
+                    "Google"
+                ]
+            ]
+        ]
+    },
+    "Shiva Abbaszadeh": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Waterloo",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2014"
+                ],
+                [
+                    "More Info",
+                    "PhD"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Santa Cruz, California"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Illinois at Urbana-Champaign"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2017 - Jun 2019"
+                ],
+                [
+                    "Location",
+                    "216 Talbot Laboratory, MC-234 104 South Wright Street Urbana, IL 61801"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2014 - Dec 2016"
+                ]
+            ],
+            [
+                "Senior Electrical Engineer",
+                [
+                    "Company Name",
+                    "Thermo Fisher Scientific"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2015 - Jul 2016"
+                ],
+                [
+                    "Location",
+                    "Sunnyvale"
+                ],
+                [
+                    "More Info",
+                    "-Investigated and improved the readout electronic of a conductivity detector module."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of Waterloo"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2009 - Apr 2014"
+                ]
+            ]
+        ]
+    },
+    "Mark Akeson": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, San Francisco",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Bioinformatics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2020 - 2025"
+                ]
+            ],
+            [
+                "University of California, Santa Cruz",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Major: Bioinformatics, Minor: Statistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Oct 2014 - Mar 2020"
+                ],
+                [
+                    "More Info",
+                    "Graduated with highest honors in major"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Graduate Student Researcher",
+                [
+                    "Company Name",
+                    "University of California, San Francisco"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2020 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "PI: Dr. Marina Sirota"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 - Mar 2020"
+                ]
+            ],
+            [
+                "Summer Researcher",
+                [
+                    "Company Name",
+                    "University of California, Los Angeles"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2018 - Aug 2018"
+                ],
+                [
+                    "Location",
+                    "PI: Dr. Xianghong Jasmine Zhou"
+                ]
+            ]
+        ]
+    },
+    "Dr. Nathan Daniel Altice": {
+        "status": "success",
+        "Education": [
+            [
+                "Virginia Commonwealth University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Media, Art, and Text"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2012"
+                ]
+            ],
+            [
+                "University of Richmond",
+                [
+                    "Degree Name",
+                    "Master of Liberal Arts"
+                ],
+                [
+                    "Field Of Study",
+                    " Aesthetics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2005"
+                ]
+            ],
+            [
+                "University of Virginia",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Sociology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2001"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Teaching Professor",
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Apr 2022"
+                ]
+            ],
+            [
+                "Research Programmer",
+                [
+                    "Company Name",
+                    "Digital Scholarship Lab"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 - Sep 2015"
+                ],
+                [
+                    "Location",
+                    "Richmond, Virginia Area"
+                ],
+                [
+                    "More Info",
+                    "Refactoring the History Engine (http://historyengine.richmond.edu). Bootstrap and LESS integration, HTML, CSS, PHP, and JavaScript."
+                ]
+            ],
+            [
+                "Instructor",
+                [
+                    "Company Name",
+                    "Virginia Commonwealth University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Jul 2015"
+                ],
+                [
+                    "Location",
+                    "Instructor for Intro to Computer Techniques, Videogames and Procedural Media, Game Design Studio, Sound Communications I + II, and Web Design for Media Artists."
+                ]
+            ],
+            [
+                "Tocqueville Web Developer",
+                [
+                    "Company Name",
+                    "Digital Scholarship Lab"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 - Dec 2012"
+                ]
+            ]
+        ]
+    },
+    "Peter Alvaro": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science (Philosophy Minor)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2015"
+                ],
+                [
+                    "More Info",
+                    "NSF Fellow"
+                ]
+            ],
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Master Of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2010"
+                ]
+            ],
+            [
+                "Middlebury College",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " English Literature, Philosophy"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 1997"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Phi Beta Kappa"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 - Apr 2022"
+                ]
+            ],
+            [
+                "Consultant - Site Reliability Engineering",
+                [
+                    "Company Name",
+                    "eBay"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 - Aug 2018"
+                ],
+                [
+                    "Location",
+                    "San Jose, Calfornia"
+                ],
+                [
+                    "More Info",
+                    "research and mentoring"
+                ]
+            ],
+            [
+                "Consultant - Site Reliability Engineering",
+                [
+                    "Company Name",
+                    "Uber"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Sep 2016"
+                ],
+                [
+                    "Location",
+                    "San Francisco"
+                ],
+                [
+                    "More Info",
+                    "Research related to LDFI"
+                ]
+            ],
+            [
+                "Consultant - Edge Platform",
+                [
+                    "Company Name",
+                    "Netflix"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 - Sep 2015"
+                ],
+                [
+                    "Location",
+                    "Los Gatos, CA"
+                ],
+                [
+                    "More Info",
+                    "Designing and implementing Lineage-driven Fault Injection (published in SIGMOD'15) at production scale."
+                ]
+            ],
+            [
+                "Graduate Student Researcher",
+                [
+                    "Company Name",
+                    "UC Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2008 - Jun 2015"
+                ],
+                [
+                    "Location",
+                    "Distributed systems, databases, programming languages."
+                ],
+                [
+                    "More Info",
+                    "Blazes: coordination analysis for distributed programs"
+                ]
+            ]
+        ]
+    },
+    "Owen Arden": {
+        "status": "success",
+        "Education": [
+            [
+                "Cornell University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2016"
+                ]
+            ],
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2003"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Santa Cruz, CA"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Harvard University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Cambridge, MA"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "Cornell University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2009 - Aug 2016"
+                ]
+            ],
+            [
+                "Security Analyst",
+                [
+                    "Company Name",
+                    "Independent Security Evaluators"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2008 - Aug 2009"
+                ],
+                [
+                    "Location",
+                    "Baltimore, Maryland Area"
+                ]
+            ],
+            [
+                "Global Network Vulnerability Analyst",
+                [
+                    "Company Name",
+                    "National Security Agency"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1999 - Aug 2008"
+                ],
+                [
+                    "Location",
+                    "Fort Meade, MD"
+                ]
+            ]
+        ]
+    },
+    "Delbert Dean Bailey": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Scott Beamer": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Thesis: Understanding and Improving Graph Algorithm Performance"
+                ]
+            ],
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2009"
+                ],
+                [
+                    "More Info",
+                    "Thesis: Designing Multisocket Systems with Silicon Photonics"
+                ]
+            ],
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2007"
+                ],
+                [
+                    "More Info",
+                    "Minor in Mathematics"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Computer Science &amp; Engineering"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Berkeley Lab"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2016 - Aug 2018"
+                ],
+                [
+                    "Location",
+                    "Computer Architecture Group"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of California, Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2007 - Aug 2016"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Nokia"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2010 - Aug 2010"
+                ],
+                [
+                    "Location",
+                    "Researched mobile energy modeling, mobile energy management, and architectural implications of phase-change memory."
+                ]
+            ],
+            [
+                "Intern",
+                [
+                    "Company Name",
+                    "Google"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2008 - Aug 2008"
+                ],
+                [
+                    "Location",
+                    "Researched and implemented a distributed network analysis system to hunt for botnets."
+                ]
+            ]
+        ]
+    },
+    "Phillip Berman": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Biology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Jack Baskin Distinguished Professor",
+                [
+                    "Company Name",
+                    "Baskin School of Engineering, University of California Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Santa Cruz, CA"
+                ]
+            ],
+            [
+                "Professor, Dept. Chair",
+                [
+                    "Company Name",
+                    "University of California  Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2006 - Jun 2016"
+                ]
+            ],
+            [
+                "Co-founder and CSO",
+                [
+                    "Company Name",
+                    "GSID"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2003 - Jun 2006"
+                ]
+            ],
+            [
+                "Co-founder and Sr. Vice President R&amp;D",
+                [
+                    "Company Name",
+                    "VaxGen"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1997 - Jun 2003"
+                ]
+            ],
+            [
+                "Staff Scientist",
+                [
+                    "Company Name",
+                    "Genentech"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1982 - Jun 1997"
+                ]
+            ]
+        ]
+    },
+    "David Bernick": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Santa Cruz",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Biomolecular Engineering and Bioinformatics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2010"
+                ]
+            ],
+            [
+                "University of California, Santa Cruz",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Biomolecular Engineering, Bioinformatics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2010"
+                ]
+            ],
+            [
+                "University of California, Santa Cruz",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Biomolecular Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2009"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "UC Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2011 - Apr 2022"
+                ]
+            ],
+            [
+                "PostDoctoral Researcher",
+                [
+                    "Company Name",
+                    "UCSC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2010 - Sep 2011"
+                ]
+            ],
+            [
+                "Bioinformatics Researcher / Grad Student",
+                [
+                    "Company Name",
+                    "UC Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2003 - Jun 2010"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Hewlett-Packard"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1982 - Jun 2005"
+                ]
+            ],
+            [
+                "Manager",
+                [
+                    "Company Name",
+                    "Tandem"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1982 - Jun 2005"
+                ]
+            ]
+        ]
+    },
+    "Nina T. Bhatti": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Bachelor's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Double Major: Computer Science, Pure Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1980 - 1985"
+                ]
+            ],
+            [
+                "University of Arizona",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1988 - 1996"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Graduate Minor: Marketing, Emphasis in Primary Market Research"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Director Of Engineering",
+                [
+                    "Company Name",
+                    "Google"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Sunnyvale, California, United States"
+                ]
+            ],
+            [
+                "CEO &amp; Founder",
+                [
+                    "Company Name",
+                    "Kokko Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2014 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ],
+                [
+                    "More Info",
+                    "Kokko founded in 2014 by a team of color imaging experts with the mission to bring accurate color matching applications to consumers—enabling greater consumer confidence in online shopping."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "HP"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2010 - Dec 2012"
+                ]
+            ],
+            [
+                "Principal Scientist, HP Labs",
+                [
+                    "Company Name",
+                    "HP"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - Jun 2010"
+                ],
+                [
+                    "Location",
+                    "Palo Alto, CA"
+                ],
+                [
+                    "More Info",
+                    "Pioneered HP Labs co-innovation program with Fortune 50 customers. Focused on next generation mobile applications based on camera phone interactions, RFID, and context aware services. Recruited and led customer-facing innovation teams. Key invention, Color Match -- mobile cosmetics advisor which generated great interest from key HP customers and received."
+                ]
+            ],
+            [
+                "Department Scientist, Mobile and Media Systems Lab",
+                [
+                    "Company Name",
+                    "HP"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2002 - Jun 2004"
+                ],
+                [
+                    "Location",
+                    "Palo Alto, CA"
+                ],
+                [
+                    "More Info",
+                    "Research and developed technologies for video conferencing, media servers, and end-to-end performance of networking applications. Collaborated with imaging systems researchers building novel camera and computer vision systems. Published papers and patents on measuring performance of imaging system performance."
+                ]
+            ]
+        ]
+    },
+    "Scott Brandt": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Alexandre Brandwajn": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "UC Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1985 - Apr 2022"
+                ]
+            ]
+        ]
+    },
+    "Angela N. Brooks": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Molecular and Cell Biology with a Designated Emphasis in Computational and Genomic Biology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Advisor: Steven Brenner"
+                ]
+            ],
+            [
+                "UC San Diego",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Biology with a Specialization in Bioinformatics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2005"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 - Apr 2022"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Broad Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 - Jun 2015"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "Dana-Farber Cancer Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 - Jun 2015"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "UC Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2005 - Aug 2011"
+                ]
+            ]
+        ]
+    },
+    "Sara Abrahamsson": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, San Francisco",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Bioengineering and Biomedical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2011"
+                ]
+            ],
+            [
+                "KTH Royal Institute of Technology",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Engineering Physics"
+                ]
+            ],
+            [
+                "The Rockefeller University",
+                [
+                    "Degree Name",
+                    "Postdoc"
+                ],
+                [
+                    "Field Of Study",
+                    " Functional Neuronal Imaging"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2017 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Santa Cruz, California"
+                ]
+            ],
+            [
+                "Postdoctoral Research Associate",
+                [
+                    "Company Name",
+                    "Rockefeller University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Rockefeller University, New York, NY"
+                ]
+            ],
+            [
+                "Nicholson Exchange Fellow",
+                [
+                    "Company Name",
+                    "SciLifeLab"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2016 - Jan 2017"
+                ],
+                [
+                    "Location",
+                    "Stockholm, Sweden"
+                ]
+            ],
+            [
+                "Teaching Faculty, Neurobiology Summer Course 2016",
+                [
+                    "Company Name",
+                    "Marine Biological Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Aug 2016"
+                ],
+                [
+                    "Location",
+                    "Woods Hole, MA"
+                ],
+                [
+                    "More Info",
+                    "Faculty in the imaging section of the MBL Neurobiology course lecturing on optics, image formation and biological imaging and mentoring students in a mini research project on 3D functional neuronal imaging. The course is one of the advanced, graduate-level courses offered every summer at the MBL for eight (8) weeks and was founded in 1970."
+                ]
+            ],
+            [
+                "Teaching Faculty, Neurobiology Summer Course 2017",
+                [
+                    "Company Name",
+                    "Marine Biological Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 - Aug 2015"
+                ],
+                [
+                    "Location",
+                    "Woods Hole, MA"
+                ],
+                [
+                    "More Info",
+                    "Faculty in the imaging section of the MBL Neurobiology course lecturing on optics, image formation and biological imaging and mentoring students in a mini research project on 3D functional neuronal imaging. The course is one of the advanced, graduate-level courses offered every summer at the MBL for eight (8) weeks and was founded in 1970."
+                ]
+            ]
+        ]
+    },
+    "Nicholas Brummell": {
+        "status": "success",
+        "Education": [
+            [
+                "Imperial College London",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Applied Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 - 1988"
+                ]
+            ],
+            [
+                "Imperial College London",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.Sc.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1984"
+                ],
+                [
+                    "More Info",
+                    "Grade: 1st class honours"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "UC Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2007 - Apr 2022"
+                ]
+            ]
+        ]
+    },
+    "Alvaro A. Cardenas": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Maryland",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006"
+                ]
+            ],
+            [
+                "University of Maryland",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002"
+                ]
+            ],
+            [
+                "Universidad de Los Andes",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering, Minor in Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2019 - Apr 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of Texas at Dallas"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - Jan 2019"
+                ]
+            ],
+            [
+                "Research Staff",
+                [
+                    "Company Name",
+                    "Fujitsu Laboratories of America"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2009 - Dec 2012"
+                ]
+            ],
+            [
+                "Postdoc",
+                [
+                    "Company Name",
+                    "University of California, Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2006 - Oct 2009"
+                ]
+            ],
+            [
+                "Intern",
+                [
+                    "Company Name",
+                    "INRIA"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2003 - Sep 2003"
+                ]
+            ]
+        ]
+    },
+    "Elin Carstensdottir": {
+        "status": "success",
+        "Education": [
+            [
+                "Northeastern University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2019"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 - Apr 2022"
+                ]
+            ]
+        ]
+    },
+    "Pak K. Chan": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Santa Cruz",
+                [
+                    "Degree Name",
+                    "Bachelor of Arts (B.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Politics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2012"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Translation Volunteer",
+                [
+                    "Company Name",
+                    "Institute on Aging"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Dec 2012"
+                ],
+                [
+                    "Location",
+                    "San Francisco"
+                ]
+            ],
+            [
+                "District 7 Canvasser",
+                [
+                    "Company Name",
+                    "Golden State Leadership Fund"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2012 - Nov 2012"
+                ],
+                [
+                    "Location",
+                    "San Francisco"
+                ],
+                [
+                    "More Info",
+                    "-Conducted daily survey and visited over 100 households per work day in the most competitive election district in San Francisco"
+                ]
+            ],
+            [
+                "Outreach Intern",
+                [
+                    "Company Name",
+                    "Take Back the Tap UCSC"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2012 - Jun 2012"
+                ],
+                [
+                    "Location",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "More Info",
+                    "-Successfully outreached to the fellow students body the harmfulness of drinking from single-used bottled water"
+                ]
+            ],
+            [
+                "Data Entry Volunteer",
+                [
+                    "Company Name",
+                    "Community Action Board- The Shelter Project"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2011 - Jun 2012"
+                ],
+                [
+                    "Location",
+                    "501 Soquel Ave Suite E, Santa Cruz, CA 95062"
+                ],
+                [
+                    "More Info",
+                    "-Evaluated potential clients for program enrollment and transferred them to the appropriate programs in timely manner"
+                ]
+            ],
+            [
+                "Administrative Assistant",
+                [
+                    "Company Name",
+                    "Chinatown Beacon Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2005 - Aug 2006"
+                ],
+                [
+                    "Location",
+                    "San Francisco"
+                ],
+                [
+                    "More Info",
+                    "-Demonstrated the ability to handle paperworks in great attention to detail and accuracy"
+                ]
+            ]
+        ]
+    },
+    "Austin Chen": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Santa Cruz",
+                [
+                    "Degree Name",
+                    "Undergraduate"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2020 - 2024"
+                ]
+            ],
+            [
+                "Taipei American School",
+                [
+                    "Degree Name",
+                    "High School Diploma"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Aug 2013 - May 2020"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Save the Children Club, World Scholars Cup, World of Enrichment Initiative (WEI)"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Intern",
+                [
+                    "Company Name",
+                    "Warner Music Group"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2019 - Aug 2019"
+                ],
+                [
+                    "Location",
+                    "Taipei City, Taiwan"
+                ],
+                [
+                    "More Info",
+                    "I worked as an intern at Warner Music Group in Taiwan and helped arrange and organize meetings as well as music events and concerts. I also helped with Warner Music's media profile on Spotify, KK Box and more music streaming sites."
+                ]
+            ]
+        ]
+    },
+    "Yihsu Chen": {
+        "status": "success",
+        "Education": [
+            [
+                "The Johns Hopkins University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Energy Economics and Policy"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2006"
+                ]
+            ],
+            [
+                "Harvard T.H. Chan School of Public Health",
+                [
+                    "Degree Name",
+                    "The Johns Hopkins University"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 1999"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Technology Management in Sustainability",
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2019 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Santa Cruz, California, United States"
+                ],
+                [
+                    "More Info",
+                    "Professor Chen's main research focuses on studying the impact of public policies on energy, water resources, and transportation sectors. His research takes interdisciplinary approaches: quantitative models built upon economic principles and solved with operations research techniques"
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of California"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 - Jul 2019"
+                ],
+                [
+                    "Location",
+                    "Research in economics and policy in energy, transportation and water resources."
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "UC Merced"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 - Jun 2015"
+                ],
+                [
+                    "Location",
+                    "Santa Cruz, California, USA"
+                ]
+            ]
+        ]
+    },
+    "Robert L. Coffman": {
+        "status": "success",
+        "Education": [
+            [
+                "California State University - East Bay",
+                [
+                    "Degree Name",
+                    "Project Management Professional"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Robert recently completed the CSUEB PMP Certification Program. Now studying to take PMP Certification Exam."
+                ]
+            ],
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Bachelor of Architecture"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1970"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Volunteer-Marketing Committee",
+                [
+                    "Company Name",
+                    "Experience Unlimited"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2011 - Apr 2022"
+                ]
+            ],
+            [
+                "Construction Project Manager",
+                [
+                    "Company Name",
+                    "."
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2011 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "12 years experience managing commercial construction projects from start to completion. *Self-starter who manages the entire team, architect, general contractor, IT, all vendors, from design, entitlements, to completion. *Highly skilled in PM methodology."
+                ]
+            ],
+            [
+                "Construction Project Manager",
+                [
+                    "Company Name",
+                    "Jones Lang LaSalle"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 1999 - Jan 2011"
+                ],
+                [
+                    "Location",
+                    "San Francisco"
+                ],
+                [
+                    "More Info",
+                    "12 years experience with Jones Lang LaSalle, a global real estate firm"
+                ]
+            ],
+            [
+                "Principal Architect – R. L. Coffman, Architect",
+                [
+                    "Company Name",
+                    "R. L. Coffman, Architect"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 1987 - Jan 1999"
+                ],
+                [
+                    "Location",
+                    "Ran my own architectural firm for 12 years, designing and overseeing construction of commercial and residential projects.*I successfully placed one client's property on the National Register of Historic Buildings. This client realized significant tax breaks for his development of the property."
+                ]
+            ]
+        ]
+    },
+    "Seshadhri Comandur": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Technical Lead",
+                [
+                    "Company Name",
+                    "HCL Technologies Ltd"
+                ]
+            ]
+        ]
+    },
+    "Russell Corbett-Detig": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Keith Corzine": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Renwick Curry": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Project Director SOLES Research Initiative",
+                [
+                    "Company Name",
+                    "UC Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2010 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Coordinates and conducts research aimed at understanding how high schools organize themselves: (1) to engage Latinx youth in academically challenging work and (2) to support these youth to attend and thrive in college and their communities of origin."
+                ]
+            ],
+            [
+                "Director of Project IMPACT",
+                [
+                    "Company Name",
+                    "UC Berkeley Graduate School of Education"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2003 - Jun 2010"
+                ]
+            ],
+            [
+                "Research Associate &amp; Doctoral Candidate",
+                [
+                    "Company Name",
+                    "UCB School of Education"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1998 - Jun 2003"
+                ]
+            ]
+        ]
+    },
+    "James Davis": {
+        "status": "success",
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 2002"
+                ]
+            ],
+            [
+                "University of California, Davis",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1989 - 1993"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "UC Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2005 - Apr 2022"
+                ]
+            ],
+            [
+                "Technical Advisor",
+                [
+                    "Company Name",
+                    "VSee Labs"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2003 - Apr 2022"
+                ]
+            ],
+            [
+                "Co-Founder/CTO",
+                [
+                    "Company Name",
+                    "Bellus3D"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 - Jun 2017"
+                ]
+            ],
+            [
+                "Senior Research Scientist",
+                [
+                    "Company Name",
+                    "Honda Research Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2002 - Jun 2004"
+                ]
+            ]
+        ]
+    },
+    "Luca de Alfaro": {
+        "status": "success",
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1997"
+                ]
+            ],
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "1998 - 2001"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1997"
+                ],
+                [
+                    "More Info",
+                    "Show all 7 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2001 - Apr 2022"
+                ]
+            ],
+            [
+                "Founder",
+                [
+                    "Company Name",
+                    "CrowdGrader"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Mountain View, CA"
+                ],
+                [
+                    "More Info",
+                    "I am the founder of CrowdGrader, and I am the main designer of its software architecture, serving structure, and reputation / grading algorithms."
+                ]
+            ],
+            [
+                "Co-Founder, Chief Scientist",
+                [
+                    "Company Name",
+                    "Camio"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2011 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "I am working at the smartness behind Camio: the image processing and machine learning that are behind its ability to create smart summaries of what is happening.  I am also the chief developer of the image/video processing pipeline.  I was also the original developer of the Camio Android app."
+                ]
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "Google"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2008 - Jun 2011"
+                ],
+                [
+                    "Location",
+                    "My major work at Google involved a mix of topics: reputation systems, machine learning, social interaction analysis, and more.  Specific projects include:"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "UC Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1998 - Jun 2001"
+                ],
+                [
+                    "Location",
+                    "Department of Electrical Engineering and Computer Sciences"
+                ]
+            ]
+        ]
+    },
+    "David Deamer": {
+        "status": "success",
+        "Education": [
+            [
+                "The Ohio State University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Physiological Chemistry"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1961 - 1965"
+                ]
+            ],
+            [
+                "Duke University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Chemistry"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1957 - 1961"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Research Professor",
+                [
+                    "Company Name",
+                    "UC Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1994 - Apr 2022"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "UC Davis"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1967 - Jun 1994"
+                ]
+            ]
+        ]
+    },
+    "Ioannis Demertzis": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Postdoc"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2020"
+                ],
+                [
+                    "More Info",
+                    "EECS Dept., RISE LAB"
+                ]
+            ],
+            [
+                "University of Maryland",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2020"
+                ],
+                [
+                    "More Info",
+                    "Advisor: Prof. Charalambos (Babis) Papamanthou"
+                ]
+            ],
+            [
+                "Technical University of Crete / Πολυτεχνείο Κρήτης",
+                [
+                    "Degree Name",
+                    "Master of Science (MSc)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electronic &amp; Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2015"
+                ],
+                [
+                    "More Info",
+                    "Grade: 10.0/10.0"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 - Apr 2022"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Maryland College Park"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 - Aug 2020"
+                ],
+                [
+                    "Location",
+                    "Conducting research on cloud security and applied cryptography."
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2019 - Aug 2019"
+                ],
+                [
+                    "Location",
+                    "Redmond"
+                ],
+                [
+                    "More Info",
+                    "Conducting research on oblivious rams with Dr. Melissa Chase and Dr. Esha Ghosh."
+                ]
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "The Hong Kong University of Science and Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2018 - Dec 2018"
+                ],
+                [
+                    "Location",
+                    "Hong Kong"
+                ],
+                [
+                    "More Info",
+                    "Conducting research on oblivious algorithms for encrypted databases with Prof. Dimitrios Papadopoulos."
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Symantec"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2018 - Aug 2018"
+                ],
+                [
+                    "Location",
+                    "Mountain View"
+                ],
+                [
+                    "More Info",
+                    "Conducting research on protecting searchable encryption against leakage-abuse attacks with Dr. Saurabh Shintre."
+                ]
+            ]
+        ]
+    },
+    "Subhas Desa": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "David Draper": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Ph.D., Statistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1975 - 1981"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: University orchestra (flute)"
+                ]
+            ],
+            [
+                "University of North Carolina at Chapel Hill",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1971 - 1974"
+                ],
+                [
+                    "More Info",
+                    "Grade: Summa Cum Laude"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Advisor",
+                [
+                    "Company Name",
+                    "AdvisoryCloud"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "https://www.advisorycloud.com/profile/David-Draper-1834542028"
+                ],
+                [
+                    "More Info",
+                    "I’m Available As An Advisor On AdvisoryCloud™ - David Draper"
+                ]
+            ],
+            [
+                "Professor of Statistics",
+                [
+                    "Company Name",
+                    "UC Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2001 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Department of Applied Mathematics and Statistics"
+                ],
+                [
+                    "More Info",
+                    "From 2001 through 2007 I was the founding Chair of the Department of Applied Mathematics and Statistics (AMS) within the Baskin School of Engineering (BSoE) at the University of California, Santa Cruz (UCSC); currently I'm a full Professor of Statistics in AMS. I'm the author or co-author of about 150 contributions to the open academic literature in statistical methods and applications; at present I supervise 7 Ph.D. students and an M.S. student. In 2007 I won a campus-wide Excellence in Teaching award."
+                ]
+            ],
+            [
+                "CEO",
+                [
+                    "Company Name",
+                    "Uncertainty Quantification LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2001 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Santa Cruz, California"
+                ],
+                [
+                    "More Info",
+                    "I've been a private statistical consultant since 1979; my work focuses on helping people solve difficult problems involving uncertainty quantification (statistical inference and prediction) and decision under uncertainty (statistical decision-making). In the intervening 35 years I've worked on well over 100 paid projects for dozens of clients, including topics in the fields of medicine, health policy, environmental risk assessment and eCommerce, with private project reports, publications in the open literature and legal consulting/testimony the usual outcomes."
+                ]
+            ],
+            [
+                "Senior Principal Research Scientist",
+                [
+                    "Company Name",
+                    "Amazon"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 - Aug 2015"
+                ],
+                [
+                    "Location",
+                    "Seattle, WA"
+                ],
+                [
+                    "More Info",
+                    "I offered statistical consulting advice in a short-term project on forecasting the future demand for 30 million Amazon products simultaneously. This involved developing (a) Bayesian hierarchical dynamic linear (state-space) models and other forecasting techniques, and using Bayesian model averaging to combine their predictions,  (b) creating new metrics for measuring the performance of these models, and (c) using Bayesian decision theory to make optimal inventory planning choices."
+                ]
+            ],
+            [
+                "Senior Director of the Center of Excellence in Statistical Research, eBay Research Labs",
+                [
+                    "Company Name",
+                    "eBay"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 - Feb 2015"
+                ],
+                [
+                    "Location",
+                    "San Jose, CA"
+                ],
+                [
+                    "More Info",
+                    "I was brought into eBay Research Labs to develop a significant presence for statistical research within the eBay research environment, to complement existing strengths in econometrics and machine learning. Other statisticians in my group and I worked on improved A/B testing, optimal design and analysis of large-scale observational studies, and anomaly detection via massively parallel time series modeling, to quickly identify unusual changes in business-relevant quantitative indicators so that root-cause analysis can begin."
+                ]
+            ]
+        ]
+    },
+    "Sandra Lyn Dreisbach": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Santa Cruz",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Philosophy"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2012"
+                ]
+            ],
+            [
+                "San Jose State University",
+                [
+                    "Degree Name",
+                    "M.A."
+                ],
+                [
+                    "Field Of Study",
+                    " Philosophy"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2001"
+                ],
+                [
+                    "More Info",
+                    "Pinewood"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "Dr. Sandra Dreisbach"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "13444 Big Basin Hwy, Boulder Creek CA 95006"
+                ]
+            ],
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "University of California Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Philosophy"
+                ]
+            ],
+            [
+                "Managing Partner and Co-founder",
+                [
+                    "Company Name",
+                    "Ethical Resolve"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 - Oct 2015"
+                ],
+                [
+                    "Location",
+                    "Home"
+                ],
+                [
+                    "More Info",
+                    "We help your organization identify critical ethics decision points. Our expertise in consensus building and ethical decision making facilitates efficient, forward-looking consensus on issues important to your future. We provide academic quality..."
+                ]
+            ],
+            [
+                "Teaching Associate",
+                [
+                    "Company Name",
+                    "University of California at Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2004 - Dec 2010"
+                ],
+                [
+                    "Location",
+                    "Philosophy"
+                ]
+            ],
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "San Jose State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - Jun 2007"
+                ],
+                [
+                    "Location",
+                    "Philosophy"
+                ]
+            ]
+        ]
+    },
+    "Rebecca M. DuBois": {
+        "status": "success",
+        "Education": [
+            [
+                "Ashford University",
+                [
+                    "Degree Name",
+                    "2013 - 2015"
+                ]
+            ]
+        ],
+        "Experience": []
+    },
+    "Max Dunne": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Santa Cruz",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2014"
+                ]
+            ],
+            [
+                "University of California, Santa Cruz",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering, Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2010"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2015 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Santa Cruz, California, United States"
+                ],
+                [
+                    "More Info",
+                    "Teaching Classes in the CSE and ECE departments"
+                ]
+            ],
+            [
+                "Masters Student",
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 - Jun 2014"
+                ]
+            ]
+        ]
+    },
+    "Oskar Elek": {
+        "status": "success",
+        "Education": [
+            [
+                "Charles University",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Software systems -&gt; Computer Graphics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2011"
+                ]
+            ],
+            [
+                "Charles University",
+                [
+                    "Degree Name",
+                    "Bachelor of Engineering - BE"
+                ],
+                [
+                    "Field Of Study",
+                    " Programming"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2008"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Postdoctoral Scientist",
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2019 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Research in visual modeling and interdisciplinary applications of Computer Science."
+                ]
+            ],
+            [
+                "Scientific Researcher",
+                [
+                    "Company Name",
+                    "Charles University in Prague"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 - Sep 2018"
+                ],
+                [
+                    "Location",
+                    "Researching algorithms for physically based appearance fabrication using additive 3D printing. Employing methods from physically-based rendering, numerical optimization, color science, optical systems. Publishing at international venues."
+                ]
+            ],
+            [
+                "Doctoral Researcher",
+                [
+                    "Company Name",
+                    "Max Planck Institute for Informatics"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2011 - May 2015"
+                ],
+                [
+                    "Location",
+                    "Saarbrücken Area, Germany"
+                ],
+                [
+                    "More Info",
+                    "Researching algorithms for interactive simulation of visual phenomena: development of GPU-based pipelines, model design, physically based rendering. Publishing results at international venues."
+                ]
+            ],
+            [
+                "Quality Assurance",
+                [
+                    "Company Name",
+                    "Bohemia Interactive Simulations"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2010 - Aug 2011"
+                ],
+                [
+                    "Location",
+                    "Doing quality assurance of the main company product - Virtual Battle Space (VBS2) simulation. That includes various kinds of blackbox testing - betatesting, validation and regression testing."
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Universität des Saarlandes"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2010 - Sep 2010"
+                ],
+                [
+                    "Location",
+                    "Developing a visual prediction prototype software for steel manufacturing industry."
+                ]
+            ]
+        ]
+    },
+    "Gabriel Hugh Elkaim": {
+        "status": "success",
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "1993 - 2001"
+                ]
+            ],
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "Aerospace Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1985 - 1990"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of California"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2003 - Apr 2022"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "UC Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2003 - Jul 2009"
+                ]
+            ]
+        ]
+    },
+    "Tela Favaloro": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Santa Cruz",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2014"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: •\tLoCal-RE Renewable Energy Program in Denmark; seminars at Danish universities and field research at various renewable energy installation sites"
+                ]
+            ],
+            [
+                "University of California, Santa Cruz",
+                [
+                    "Degree Name",
+                    "Bachelor of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Physics, Astrophysics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2005"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Study Abroad Program 2005: University of Auckland, New Zealand"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Staff Research Associate II",
+                [
+                    "Company Name",
+                    "Center for Sustainable Energy and Power Systems"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "More Info",
+                    "Research into renewable energy education and implementation in underrepresented communities"
+                ]
+            ],
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "Consultant; Device Characterization"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2015 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ]
+            ],
+            [
+                "Visiting Research Scholar",
+                [
+                    "Company Name",
+                    "Birck Nanotechnology Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2013 - Aug 2014"
+                ],
+                [
+                    "Location",
+                    "Purdue University"
+                ],
+                [
+                    "More Info",
+                    "Developed new techniques and experimental apparatus for the metrology and high temperature characterization of micro- and nano-scale electronic devices."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "UC Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 - Mar 2013"
+                ]
+            ]
+        ]
+    },
+    "Joel Ferguson": {
+        "status": "success",
+        "Education": [
+            [
+                "Carnegie Mellon University",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1983 - 1987"
+                ],
+                [
+                    "More Info",
+                    "Worked with Professor John P. Shen in developing test strategies for VLSI CMOS circuits focusing on the physical design and manufacturing process of the circuits to be tested."
+                ]
+            ],
+            [
+                "Carnegie Mellon University",
+                [
+                    "Degree Name",
+                    "MSEE"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1982"
+                ],
+                [
+                    "More Info",
+                    "MS Thesis developed a method to test hardware multipliers with very short test sets."
+                ]
+            ],
+            [
+                "University of North Carolina at Charlotte",
+                [
+                    "Degree Name",
+                    "B.S.E."
+                ],
+                [
+                    "Field Of Study",
+                    " Engineering Design and Analysis"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1974 - 1978"
+                ],
+                [
+                    "More Info",
+                    "Engineering Analysis and Design was UNCC's equivalent to an electrical engineering degree in the early period of the College of Engineering.  Later the state allowed UNCC to rename it to the more traditional name: Electrical Engineering."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1987 - Apr 2022"
+                ]
+            ],
+            [
+                "Electrical Engineer",
+                [
+                    "Company Name",
+                    "Elox Division of Colt Industries, Davidson, NC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1980 - Jun 1981"
+                ],
+                [
+                    "Location",
+                    "Wrote software to control operation of machine tools."
+                ]
+            ],
+            [
+                "Electronics Engineer",
+                [
+                    "Company Name",
+                    "Lundy Electronics, Charlotte, NC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1979 - Jun 1980"
+                ],
+                [
+                    "Location",
+                    "Codesign of microcontroller hardware and software for OCR equipment for the banking industry."
+                ]
+            ]
+        ]
+    },
+    "Dr. Leonard A. Ferrari": {
+        "status": "success",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "B.S. EE"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Northeaster University, Boston MA"
+                ],
+                [
+                    "More Info",
+                    "M.S. ECE"
+                ]
+            ],
+            [
+                "UC Irvine",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " ECE"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Research Professor (Emeritus)",
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2016 - Apr 2022"
+                ]
+            ],
+            [
+                "Professor, ECE &amp; Provost",
+                [
+                    "Company Name",
+                    "Naval Postgraduate School"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2003 - Feb 2016"
+                ],
+                [
+                    "Location",
+                    "Monterey, California"
+                ]
+            ],
+            [
+                "Professor ECE, Vice Provost Special initiatives",
+                [
+                    "Company Name",
+                    "Virginia Tech"
+                ],
+                [
+                    "Dates Employed",
+                    "May 1995 - May 2003"
+                ],
+                [
+                    "Location",
+                    "Blacksburg, VA"
+                ]
+            ],
+            [
+                "Professor, ECE, Associate Dean, Engineering",
+                [
+                    "Company Name",
+                    "U.C. Irvine"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1980 - May 1995"
+                ],
+                [
+                    "Location",
+                    "Irvine, CA"
+                ]
+            ]
+        ]
+    },
+    "Sheldon (Shel) Finkelstein": {
+        "status": "success",
+        "Education": [
+            [
+                "New York University",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science/Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1969 - 1975"
+                ],
+                [
+                    "More Info",
+                    "Completed all requirements for PhD except thesis at Courant Institute, NYU."
+                ]
+            ],
+            [
+                "Brooklyn College",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics/Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1965 - 1969"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2015 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Santa Cruz, California"
+                ],
+                [
+                    "More Info",
+                    "Teaching undergrad and grad courses, mainly in data management/database, as well as continuing research and consulting"
+                ]
+            ],
+            [
+                "Vice President and Fellow, Applied Research",
+                [
+                    "Company Name",
+                    "SAP Labs"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2006 - Jun 2014"
+                ],
+                [
+                    "Location",
+                    "Palo Alto, CA"
+                ]
+            ],
+            [
+                "Technical Director",
+                [
+                    "Company Name",
+                    "Sun Microsystems"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1996 - Jun 2006"
+                ],
+                [
+                    "Location",
+                    "Cupertino, Menlo Park and Santa Clara, CA"
+                ]
+            ],
+            [
+                "Chief Technology Officer",
+                [
+                    "Company Name",
+                    "ADB/Matisse"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1995 - Jun 1996"
+                ],
+                [
+                    "Location",
+                    "Redwood Shores, CA"
+                ]
+            ],
+            [
+                "Senior Software Developer",
+                [
+                    "Company Name",
+                    "Illustra Information"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1994 - Jun 1995"
+                ],
+                [
+                    "Location",
+                    "Oakland, CA"
+                ]
+            ]
+        ]
+    },
+    "Cormac Flanagan": {
+        "status": "success",
+        "Education": [
+            [
+                "Rice University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1997"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Vice President,  Graduate Student Association"
+                ]
+            ],
+            [
+                "University College Dublin",
+                [
+                    "Degree Name",
+                    "BSC"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1986 - 1990"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of California"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2003 - Apr 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2003 - Apr 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "DEC/Compaq/HP"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1997 - Jun 2003"
+                ]
+            ]
+        ]
+    },
+    "Jeffrey Flanigan": {
+        "status": "success",
+        "Education": [
+            [
+                "Temple University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2005"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.97"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Principal Software Engineer - Outlook Mobile",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2016 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "San Francisco, CA"
+                ],
+                [
+                    "More Info",
+                    "Member of Outlook Mobile engineering team, building services and features for the cloud backend which provides generalized email API access to client devices."
+                ]
+            ],
+            [
+                "Director, Platform Engineering",
+                [
+                    "Company Name",
+                    "Zimbra"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 - Sep 2015"
+                ],
+                [
+                    "Location",
+                    "San Mateo, CA"
+                ],
+                [
+                    "More Info",
+                    "Director of Zimbra Collaboration Platform engineering team, providing leadership and guidance for international team of developers building Java server application and associated clients. Responsible for end-to-end ownership of server platform and management of 10+ engineers."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "VMware"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2010 - Jul 2013"
+                ]
+            ],
+            [
+                "Senior Software Engineer",
+                [
+                    "Company Name",
+                    "Voxware"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - Jun 2010"
+                ],
+                [
+                    "Location",
+                    "Hamilton, NJ"
+                ],
+                [
+                    "More Info",
+                    "Java/J2EE software architect responsible for design and implementation of client server voice recognition software using guiding principles of aspect oriented programming and general simplicity. Instrumental in all phases of SDLC from requirements gathering to support and maintenance. Owner of all source control and build processes, implementing continuous integration and standardization to achieve development agility required to deliver and maintain mission critical software to the logistics industry."
+                ]
+            ],
+            [
+                "Desktop Support Technician",
+                [
+                    "Company Name",
+                    "Temple University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2003 - May 2005"
+                ],
+                [
+                    "Location",
+                    "Philadelphia, PA"
+                ],
+                [
+                    "More Info",
+                    "Major responsibilities include Active Directory account, printer and file sharing services; GPO configuration for controlling student access to lab desktops; VBscript and .bat creation for printer and login scripting; Sassafras KeyServer administration to maximize utilization of purchased license seats; Hardware and software installation and troubleshooting on desktops, laptops, and servers."
+                ]
+            ]
+        ]
+    },
+    "Angus G. Forbes": {
+        "status": "success",
+        "Education": [
+            [
+                "UC Santa Barbara",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Media Arts &amp; Technology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014"
+                ]
+            ],
+            [
+                "UC Santa Barbara",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014"
+                ]
+            ],
+            [
+                "New College of Florida",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " British and American Literature"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz - Jack Baskin School of Engineering"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2017 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Santa Cruz, California"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Illinois at Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Chicago, IL"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "The University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Jun 2014"
+                ],
+                [
+                    "Location",
+                    "Tucson, Arizona Area"
+                ]
+            ],
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "UC Santa Barbara"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2009 - Jun 2012"
+                ]
+            ],
+            [
+                "Interface Designer &amp; Software Developer",
+                [
+                    "Company Name",
+                    "National Geospatial Digital Archive"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - Jun 2006"
+                ]
+            ]
+        ]
+    },
+    "Camilla Forsberg": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Santa Cruz",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Molecular, Cell, and Developmental Biology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2016 - 2021"
+                ]
+            ],
+            [
+                "San Francisco State University",
+                [
+                    "Degree Name",
+                    "Master's of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Cell/Cellular and Molecular Biology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2016"
+                ]
+            ],
+            [
+                "University of Hawaii at Manoa",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Microbiology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2013"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "PhD Candidate in the Camilla Forsberg Laboratory",
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2017 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Santa Cruz, California"
+                ]
+            ],
+            [
+                "California Institute of Regenerative Medicine Fellow",
+                [
+                    "Company Name",
+                    "University of California, San Francisco"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2015 - Aug 2016"
+                ],
+                [
+                    "Location",
+                    "San Francisco, California"
+                ],
+                [
+                    "More Info",
+                    "With colleagues and collaborators in the Marcucio and Bahney Labs, I examined the cellular and molecular processes that occur during bone regeneration after traumatic injury."
+                ]
+            ],
+            [
+                "Summer Undergraduate Research Program Scholar",
+                [
+                    "Company Name",
+                    "Albert Einstein College of Medicine"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Aug 2013"
+                ],
+                [
+                    "Location",
+                    "New York, New York"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of Hawaii at Manoa"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2009 - Jun 2013"
+                ]
+            ],
+            [
+                "Summer Research Training Program Student Intern",
+                [
+                    "Company Name",
+                    "University of California, San Francisco"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Aug 2012"
+                ],
+                [
+                    "Location",
+                    "San Francisco, California"
+                ]
+            ]
+        ]
+    },
+    "Daniel Fremont": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Logic and the Methodology of Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2019"
+                ]
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics and Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2013"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Graduate Student Researcher",
+                [
+                    "Company Name",
+                    "UC Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2013 - Apr 2022"
+                ]
+            ]
+        ]
+    },
+    "Benjamin Friedlander": {
+        "status": "success",
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Statistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1973 - 1976"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1973 - 1976"
+                ]
+            ],
+            [
+                "Technion - Israel Institute of Technology",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1968 - 1972"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor Emeritus",
+                [
+                    "Company Name",
+                    "UC Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1999 - Apr 2022"
+                ]
+            ],
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "Lockheed Martin"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2011 - Dec 2016"
+                ]
+            ],
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "Northrop Grumman Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Dec 2013"
+                ]
+            ],
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "PureWave Networks"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2008 - Dec 2008"
+                ]
+            ],
+            [
+                "Expert Witness",
+                [
+                    "Company Name",
+                    "Workman Nydegger"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2005 - Dec 2007"
+                ],
+                [
+                    "Location",
+                    "Expert witness reports and testimony in the area of signal processing"
+                ]
+            ]
+        ]
+    },
+    "Daniel Friedman": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Santa Cruz",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1968 - 1973"
+                ]
+            ],
+            [
+                "Reed College",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BSc)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1964 - 1969"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lab Director",
+                [
+                    "Company Name",
+                    "LEEPS at UCSC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1986 - Apr 2022"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "UCSC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1985 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Professor of Economics"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "UC Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1985 - Apr 2022"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "UCSC Economics Department"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1985 - Apr 2022"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "UCLA"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1980 - Jun 1985"
+                ]
+            ]
+        ]
+    },
+    "Pascale Garaud": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Cambridge",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Astrophysics, Applied Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2001"
+                ]
+            ],
+            [
+                "University of Strasbourg",
+                [
+                    "Degree Name",
+                    "Maitrise"
+                ],
+                [
+                    "Field Of Study",
+                    " Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1996"
+                ]
+            ],
+            [
+                "University of Strasbourg",
+                [
+                    "Degree Name",
+                    "Licence"
+                ],
+                [
+                    "Field Of Study",
+                    " Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1996"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Editor",
+                [
+                    "Company Name",
+                    "Geophysical and Astrophysical Fluid Dynamics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2021 - Apr 2022"
+                ]
+            ],
+            [
+                "Editorial Board Member",
+                [
+                    "Company Name",
+                    "Physical Review Fluids"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2019 - Apr 2022"
+                ]
+            ],
+            [
+                "Founding Director",
+                [
+                    "Company Name",
+                    "Kavli Summer Program in Astrophysics"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 - Apr 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of California, Santa Cruz"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2004 - Apr 2022"
+                ]
+            ],
+            [
+                "Postdoc",
+                [
+                    "Company Name",
+                    "University of Cambridge"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2000 - Jun 2004"
+                ],
+                [
+                    "Location",
+                    "New Hall Junior Research Fellow"
+                ]
+            ]
+        ]
+    }
+}

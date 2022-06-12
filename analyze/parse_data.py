@@ -5,8 +5,6 @@ import signal
 from posixpath import split
 import sys, csv
 import os
-from time import sleep
-from turtle import done
 from bs4 import BeautifulSoup
 import subprocess
 from googlesearch import search
@@ -42,15 +40,15 @@ def read_faculty_data_from_file_to_map(file_path):
     return map
             
 def read_faculty_data_from_file():
-    edu_to_work = read_faculty_data_from_file_to_map("./result/normal/edu_to_work.csv")
+    work_from_edu = read_faculty_data_from_file_to_map("./result/normal/work_from_edu.csv")
     edu_to_edu = read_faculty_data_from_file_to_map("./result/normal/edu_to_edu.csv")
     work_to_work = read_faculty_data_from_file_to_map("./result/normal/work_to_work.csv")
     general = read_faculty_data_from_file_to_map("./result/normal/general.csv")
-    return edu_to_edu, edu_to_work, work_to_work, general
+    return edu_to_edu, work_from_edu, work_to_work, general
 
 
 
-edu_to_edu, edu_to_work, work_to_work, general = read_faculty_data_from_file()
+edu_to_edu, work_from_edu, work_to_work, general = read_faculty_data_from_file()
 
     
 
@@ -61,9 +59,9 @@ normalized_name = {}
 num_movement = 0
 
 def exit_handler():
-    with open("./result/normal/edu_to_work.csv", "w") as f:
+    with open("./result/normal/work_from_edu.csv", "w") as f:
         f.write("last_edu,first_work,weight\n")
-        write_edge_to_file(edu_to_work, f)
+        write_edge_to_file(work_from_edu, f)
         
     with open("./result/normal/edu_to_edu.csv", "w") as f:
         f.write("last_edu,next_edu,weight\n")
@@ -218,13 +216,13 @@ for filename in os.listdir(dataset_directory):
                         # add_to_dict(next_edu_name, curr_edu_name, edu_to_edu)
                         # add_to_dict(next_edu_name, curr_edu_name, general)
 
-                    # Generate the edu_to_work dict
+                    # Generate the work_from_edu dict
                     if len(edu_list) != 0:
                         last_edu_name = edu_list[-1][1]
                         first_company = experience_list[0][1]
                         # Since we value more on a university's ability to provide professors for another university, we revert the
-                        # edu_to_work edge direction, to suit the need when analyzing using Page Rank algorithm.
-                        add_to_dict(first_company, last_edu_name, edu_to_work)
+                        # work_from_edu edge direction, to suit the need when analyzing using Page Rank algorithm.
+                        add_to_dict(first_company, last_edu_name, work_from_edu)
                         add_to_dict(first_company, last_edu_name, general)
 
                     # Generate the work_to_work dict
@@ -245,7 +243,8 @@ for filename in os.listdir(dataset_directory):
                         output.write(prof + "\n")
             except:
                 continue  
-    print(edu_to_work)
+    print(work_from_edu)
+  
     # done_analyzed_files.append(filename)
     # with open("done_analyzed_files.txt", "w") as output:
     #     for file in done_analyzed_files:
@@ -255,9 +254,9 @@ for filename in os.listdir(dataset_directory):
 # print("num_prof:", count_prof)
 # print("num_movement:", num_movement)
 
-with open("./result/normal/edu_to_work.csv", "w") as f:
-    f.write("last_edu,first_work,weight\n")
-    write_edge_to_file(edu_to_work, f)
+with open("./result/normal/work_from_edu.csv", "w") as f:
+    f.write("first_work,last_edu,weight\n")
+    write_edge_to_file(work_from_edu, f)
     
 with open("./result/normal/edu_to_edu.csv", "w") as f:
     f.write("last_edu,next_edu,weight\n")

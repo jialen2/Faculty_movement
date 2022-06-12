@@ -605,6 +605,8 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                             a = a[:-1]
                         # print(j + ': ' + a)
                         d[j] = a
+                        if j == "Eugene Agichtein":
+                            print("==========================")
                         total_match += 1
                     else:
                         # print(j + ': missing')
@@ -676,7 +678,9 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
             # print('Warning----------Total Miss:', total_miss, '  Num: ', total_num)
             # print()
             return {}
-
+        print("++++++++++++++")
+        print(len(result))
+        print(result[0])
         for r in result:
             if 'Name' in r.keys() and r['Name'] != 'Missing':
                 tmp_name = r['Name']
@@ -699,6 +703,7 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
             continue
 
     noise = []
+    print(final_result[0])
     for i in ['Name', 'Position', 'Research Interest', 'Email', 'Phone number']:
         m = {}
         t = 0.01

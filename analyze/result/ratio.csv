@@ -1,268 +1,790 @@
-school,ratio,indegree,outdegree
-Hebrew University of Jerusalem,2.00,1,2
-Park University,2.00,1,2
-Leipzig University,2.00,1,2
-University of British Columbia,1.50,2,3
-University of Arizona,1.50,4,6
-North Carolina A&T State University,1.25,4,5
-University of North Carolina at Chapel Hill,1.00,3,3
-University of California, San Diego,1.00,6,6
-Pepperdine University,1.00,2,2
-Azerbaijan State Oil and Industry University,1.00,1,1
-Ohio State University,1.00,1,1
-University of Minnesota,1.00,2,2
-Northeastern University,1.00,4,4
-KU Leuven,1.00,1,1
-Sorbonne University,1.00,1,1
-Northwestern Health Sciences University,1.00,1,1
-University of Cambridge,1.00,4,4
-Ohio University,1.00,1,1
-University of California, Davis,1.00,1,1
-London School of Economics,1.00,1,1
-Weizmann Institute of Science,1.00,3,3
-Saarland University,1.00,1,1
-Far Eastern University,1.00,1,1
-University of Orléans,1.00,1,1
-University of Maryland, College Park,1.00,14,14
-Paris Diderot University,1.00,1,1
-Liberal arts college,1.00,1,1
-Georgia Tech,1.00,19,19
-Washington University in St. Louis,1.00,7,7
-University of Wisconsin–Milwaukee,1.00,1,1
-Chinese University of Hong Kong,1.00,2,2
-University of California, Riverside,1.00,1,1
-Indiana University Bloomington,1.00,1,1
-Tufts University,1.00,3,3
-Coastal Carolina University,1.00,1,1
-University of Southern California,1.00,8,8
-Santa Clara University,1.00,2,2
-Boston University,1.00,4,4
-University of Science and Technology of China,1.00,1,1
-New York University,1.00,8,8
-University of Southern Denmark,1.00,1,1
-University of Sussex,1.00,1,1
-George Mason University,1.00,1,1
-Qassim University,1.00,1,1
-Reichman University,1.00,5,5
-University of Edinburgh,1.00,5,5
-Vassar College,1.00,1,1
-York College of Pennsylvania,1.00,1,1
-University of California, Santa Barbara,1.00,3,3
-Lehigh University,1.00,2,2
-Simon Fraser University,1.00,1,1
-Kwantlen Polytechnic University,1.00,1,1
-Zhejiang University of Technology,1.00,1,1
-Tongji University,1.00,1,1
-Wesleyan University,1.00,1,1
-University of Michigan,1.00,7,7
-McGill University,1.00,3,3
-University of Toronto,1.00,6,6
-Olin College,1.00,1,1
-Soka University of America,1.00,1,1
-University of Pittsburgh,1.00,4,4
-Flinders University,1.00,1,1
-Clemson University,1.00,1,1
-Middle East Technical University,1.00,2,2
-Johannes Kepler University Linz,1.00,2,2
-Arcadia University,1.00,2,2
-Thompson Rivers University,1.00,1,1
-University of Notre Dame,1.00,2,2
-Brescia University,1.00,1,1
-University of Deusto,1.00,1,1
-School of the Art Institute of Chicago,1.00,1,1
-KTH Royal Institute of Technology,1.00,2,2
-University of Colorado Boulder,1.00,2,2
-ICT University,1.00,1,1
-Ruhr University Bochum,1.00,1,1
-University of San Francisco,1.00,2,2
-Thomas Jefferson University,1.00,0,1
-American University of Science and Technology,1.00,1,1
-University of Oxford,1.00,2,2
-École normale supérieure (Paris),1.00,1,1
-University of Delaware,1.00,2,2
-Denison University,1.00,1,1
-Bethany University,1.00,1,1
-SRM Institute of Science and Technology,1.00,2,2
-Troy University,1.00,1,1
-University of Sydney,1.00,1,1
-Hachinohe Gakuin University,1.00,1,1
-Clarkson University,1.00,1,1
-Wellesley College,1.00,1,1
-Palo Alto University,1.00,2,2
-Technical University of Munich,1.00,1,1
-Pennsylvania State University,1.00,2,2
-National and Kapodistrian University of Athens,1.00,1,1
-George Washington University,1.00,3,3
-National University of Singapore,1.00,1,1
-Virginia Tech,1.00,2,2
-IIT Delhi,1.00,1,1
-Washburn University,1.00,1,1
-Worcester Polytechnic Institute,1.00,3,3
-Teachers College, Columbia University,1.00,1,1
-Stevens Institute of Technology,1.00,2,2
-University of Massachusetts Amherst,1.00,2,2
-Howard University,1.00,1,1
-Winthrop University,1.00,1,1
-University of California, Santa Cruz,1.00,2,2
-University of Oregon,1.00,1,1
-University of Rochester,1.00,3,3
-Technical University of Madrid,1.00,1,1
-Missouri University of Science and Technology,1.00,1,1
-Rensselaer Polytechnic Institute,1.00,1,1
-Kyushu University,1.00,1,1
-University of Florida,1.00,1,1
-École des ponts ParisTech,1.00,2,2
-Johnson University,1.00,1,1
-University of Waterloo,1.00,2,2
-Gardner–Webb University,1.00,1,1
-Walden University,1.00,1,1
-Institute of Space Technology,1.00,1,1
-Bangladesh University of Engineering and Technology,1.00,1,1
-Rochester Institute of Technology,1.00,1,1
-Nanyang Technological University,1.00,1,1
-Toulouse 1 Capitole University,1.00,1,1
-École normale supérieure de Lyon,1.00,1,1
-University of Iowa,1.00,3,3
-Radboud University Nijmegen,1.00,0,1
-Western University,1.00,1,1
-York University,1.00,1,1
-University of Tennessee,1.00,1,1
-Newberry College,1.00,1,1
-Arizona State University,1.00,5,5
-Tennessee State University,1.00,1,1
-United States Naval Academy,1.00,1,1
-Bethel University (Indiana),1.00,1,1
-Texas Tech University,1.00,2,2
-University at Buffalo,1.00,1,1
-Texas A&M University,1.00,4,4
-University of Moratuwa,1.00,1,1
-Lancaster University,1.00,1,1
-University of Nottingham,1.00,1,1
-Uniformed Services University of the Health Sciences,1.00,1,1
-Louisiana State University,1.00,2,2
-University of Campinas,1.00,1,1
-Harvey Mudd College,1.00,1,1
-New Jersey Institute of Technology,1.00,1,1
-University of Stuttgart,1.00,1,1
-American Public University System,1.00,1,1
-Oklahoma State University–Stillwater,1.00,2,2
-Portland State University,1.00,2,2
-City University of New York,1.00,1,1
-Iowa State University,1.00,1,1
-Uppsala University,1.00,0,1
-Full Sail University,1.00,1,1
-Sapienza University of Rome,1.00,1,1
-University of Padua,1.00,1,1
-Delft University of Technology,1.00,1,1
-Eötvös Loránd University,1.00,1,1
-Bennington College,1.00,1,1
-Chadron State College,1.00,1,1
-Phillips University,1.00,2,2
-La Roche University,1.00,1,1
-Dongguk University,1.00,1,1
-Oregon Health & Science University,1.00,1,1
-Saxion University of Applied Sciences,1.00,1,1
-University of Bonn,1.00,1,1
-Jiwaji University,1.00,1,1
-Michigan State University,1.00,1,1
-Harvard University,0.95,22,21
-University of Wisconsin–Madison,0.92,12,11
-University of Texas at Austin,0.91,11,10
-École Polytechnique Fédérale de Lausanne,0.88,8,7
-University,0.86,7,6
-Rutgers University,0.86,7,6
-Purdue University,0.83,6,5
-Rice University,0.83,6,5
-University of Virginia,0.75,4,3
-University of California, Irvine,0.67,6,4
-Singapore Management University,0.67,3,2
-Wright State University,0.67,3,2
-Capital University,0.67,3,2
-Technion – Israel Institute of Technology,0.67,3,2
-University College London,0.67,3,2
-University of California, Berkeley,0.63,118,74
-University of the Amazon,0.62,8,5
-Princeton University,0.58,45,26
-Massachusetts Institute of Technology,0.57,138,78
-Stanford University,0.54,116,63
-Carnegie Mellon University,0.52,84,44
-University of Bologna,0.50,2,1
-IIT Kanpur,0.50,2,1
-Tsinghua University,0.50,2,1
-Zhejiang University,0.50,2,1
-Stony Brook University,0.50,2,1
-University of Cyprus,0.50,2,1
-University of Utah,0.50,2,1
-Chatham University,0.50,2,1
-Syracuse University,0.50,2,1
-Open University,0.50,2,1
-Newcastle University,0.50,2,1
-North Carolina State University,0.50,2,1
-Temple University,0.50,2,1
-Georgetown University,0.50,2,1
-Indian Institute of Science,0.50,2,1
-University of California, Los Angeles,0.49,39,19
-Brown University,0.47,55,26
-Columbia University,0.45,49,22
-Dartmouth College,0.43,23,10
-Yale University,0.42,26,11
-University of Washington,0.40,48,19
-University of Pennsylvania,0.38,78,30
-Duke University,0.37,52,19
-University of Illinois Urbana-Champaign,0.33,106,35
-Cornell University,0.32,68,22
-California Institute of Technology,0.32,31,10
-University of Chicago,0.29,35,10
-Northwestern University,0.22,49,11
-Johns Hopkins University,0.21,29,6
-Vanderbilt University,0.15,48,7
-,1,1
-Gardner–Webb University,1.00,1,1
-Institute of Space Technology,1.00,1,1
-Murray State University,1.00,1,-1
-Sapienza University of Rome,1.00,1,1
-Technical University of Dortmund,1.00,1,-1
-University of Central Florida,1.00,1,-1
-Amherst College,1.00,1,-1
-Eötvös Loránd University,1.00,1,1
-Bennington College,1.00,1,1
-Illinois Institute of Technology,1.00,1,-1
-University of Colorado Boulder,1.00,2,2
-University of Canterbury,1.00,1,-1
-Gallaudet University,1.00,1,-1
-Jiwaji University,1.00,1,1
-Walden University,1.00,1,1
-Korea University,1.00,1,-1
-Qassim University,1.00,1,1
-Embry–Riddle Aeronautical University,1.00,1,-1
-York College of Pennsylvania,1.00,1,1
-Kwantlen Polytechnic University,1.00,1,1
-Wesleyan University,1.00,1,1
-Peking University,1.00,1,-1
-Clemson University,1.00,1,1
-Tamil Nadu Veterinary and Animal Sciences University,1.00,1,-1
-Stockholm School of Economics,1.00,1,-1
-Free University of Berlin,1.00,1,-1
-IGlobal University,1.00,1,-1
-University of Tennessee at Chattanooga,1.00,1,-1
-Teachers College, Columbia University,1.00,1,1
-Winthrop University,1.00,1,1
-Rochester Institute of Technology,1.00,1,1
-Case Western Reserve University,1.00,1,-1
-Toulouse 1 Capitole University,1.00,1,1
-École normale supérieure de Lyon,1.00,1,1
-Western University,1.00,1,1
-York University,1.00,1,1
-Bethel University (Indiana),1.00,1,1
-University of Campinas,1.00,1,1
-Full Sail University,1.00,1,1
-University of Rhode Island,1.00,1,-1
-Urbana University,1.00,1,-1
-Michigan State University,1.00,1,1
-University of Natural Resources and Life Sciences, Vienna,1.00,1,-1
-North Carolina A&T State University,0.80,4,5
-University of British Columbia,0.67,2,3
-University of Arizona,0.67,4,6
-Hebrew University of Jerusalem,0.50,1,2
-Leipzig University,0.50,1,2
-Park University,0.50,1,2
+school,ranking,indegree,outdegree,in_to_out_ratio
+Massachusetts Institute of Technology,1,179.00,119.00,1.50
+University of California,2,0.00,1.00,0.00
+Stanford University,3,107.00,85.00,1.26
+Carnegie Mellon University,4,90.00,79.00,1.14
+University of Michigan,5,33.00,19.00,1.74
+University of Illinois Urbana-Champaign,6,87.00,70.00,1.24
+University of Texas at Austin,7,45.00,32.00,1.41
+Georgia Tech,8,52.00,40.00,1.30
+Pennsylvania State University,9,24.00,9.00,2.67
+Cornell University,10,50.00,35.00,1.43
+University of Massachusetts Amherst,11,39.00,25.00,1.56
+Columbia University,12,29.00,35.00,0.83
+University of Washington,13,39.00,33.00,1.18
+University of British Columbia,14,7.00,5.00,1.40
+University of Wisconsin–Madison,15,36.00,23.00,1.57
+KU Leuven,16,5.00,3.00,1.67
+Harvard University,17,33.00,32.00,1.03
+McGill University,18,6.00,2.00,3.00
+Delft University of Technology,19,3.00,1.00,3.00
+University of Pennsylvania,20,49.00,52.00,0.94
+University of California,21,0.00,1.00,0.00
+University of North Carolina at Chapel Hill,22,31.00,30.00,1.03
+Newcastle University,23,3.00,1.00,3.00
+Princeton University,24,36.00,33.00,1.09
+North Carolina State University,25,30.00,29.00,1.03
+Stony Brook University,26,28.00,31.00,0.90
+Brown University,27,33.00,31.00,1.06
+Rice University,28,17.00,12.00,1.42
+University of Maryland,29,0.00,0.00,0.00
+Purdue University,30,49.00,46.00,1.07
+University of Minnesota,31,24.00,31.00,0.77
+National Technical University of Athens,32,6.00,2.00,3.00
+University of Southern California,33,39.00,36.00,1.08
+KAIST,34,2.00,1.00,2.00
+University of Notre Dame,35,6.00,5.00,1.20
+Simon Fraser University,36,3.00,2.00,1.50
+University of California,37,0.00,1.00,0.00
+Ohio State University,38,22.00,9.00,2.44
+University of California,39,0.00,1.00,0.00
+University of California,40,0.00,1.00,0.00
+Hebrew University of Jerusalem,41,7.00,4.00,1.75
+Northwestern University,42,17.00,20.00,0.85
+Johns Hopkins University,43,18.00,25.00,0.72
+University of Virginia,44,17.00,10.00,1.70
+Kansas State University,45,6.00,5.00,1.20
+University of Bologna,46,1.00,2.00,0.50
+Florida Atlantic University,47,1.00,1.00,1.00
+Lancaster University,48,1.00,1.00,1.00
+Ben-Gurion University of the Negev,49,1.00,1.00,1.00
+National and Kapodistrian University of Athens,50,1.00,2.00,0.50
+Utrecht University,51,1.00,1.00,1.00
+Flinders University,52,1.00,1.00,1.00
+KTH Royal Institute of Technology,53,2.00,2.00,1.00
+University of Maryland,54,0.00,0.00,0.00
+Portland State University,55,4.00,3.00,1.33
+University of Bari,56,1.00,1.00,1.00
+Savannah College of Art and Design,57,1.00,1.00,1.00
+Rutgers University,58,20.00,18.00,1.11
+Texas A&M University,59,13.00,9.00,1.44
+University of Colorado Boulder,60,25.00,36.00,0.69
+University of Waterloo,61,9.00,3.00,3.00
+California Institute of Technology,62,19.00,23.00,0.83
+Washington University in St. Louis,63,13.00,14.00,0.93
+University of Toronto,64,13.00,7.00,1.86
+University of California,65,0.00,1.00,0.00
+Michigan State University,66,10.00,16.00,0.62
+Yale University,67,14.00,13.00,1.08
+University of Illinois Chicago,68,10.00,18.00,0.56
+École Polytechnique Fédérale de Lausanne,69,8.00,11.00,0.73
+New York University,70,18.00,24.00,0.75
+Syracuse University,71,10.00,9.00,1.11
+University of Utah,72,15.00,16.00,0.94
+ETH Zurich,73,9.00,0.00,9.00
+Brandeis University,74,5.00,5.00,1.00
+Washington State University,75,6.00,9.00,0.67
+University of Oxford,76,5.00,3.00,1.67
+Imperial College London,77,5.00,2.00,2.50
+University of Chicago,78,8.00,14.00,0.57
+University at Buffalo,79,4.00,3.00,1.33
+Vanderbilt University,80,13.00,22.00,0.59
+University College London,81,3.00,2.00,1.50
+University of Florida,82,14.00,17.00,0.82
+University of Rochester,83,9.00,3.00,3.00
+Dartmouth College,84,6.00,15.00,0.40
+University of California,85,0.00,1.00,0.00
+Case Western Reserve University,86,8.00,11.00,0.73
+Arizona State University,87,16.00,19.00,0.84
+Iowa State University,88,10.00,18.00,0.56
+Lehigh University,89,5.00,6.00,0.83
+University of New Mexico,90,6.00,6.00,1.00
+Indian Institute of Science,91,4.00,5.00,0.80
+Weizmann Institute of Science,92,5.00,4.00,1.25
+University of North Carolina at Charlotte,93,6.00,7.00,0.86
+University of Pittsburgh,94,10.00,9.00,1.11
+Harvard Medical School,95,5.00,0.00,5.00
+Duke University,96,12.00,23.00,0.52
+University of Nebraska–Lincoln,97,11.00,20.00,0.55
+Western New England University,98,1.00,0.00,1.00
+Polytechnic University of Turin,99,2.00,2.00,1.00
+Free University of Berlin,100,2.00,0.00,2.00
+University of Missouri,101,2.00,1.00,2.00
+College of William & Mary,102,6.00,1.00,6.00
+University of North Texas,103,4.00,3.00,1.33
+George Washington University,104,5.00,5.00,1.00
+Carroll School of Management,105,1.00,0.00,1.00
+Virginia Tech,106,14.00,12.00,1.17
+Clemson University,107,5.00,5.00,1.00
+Northeastern University,108,4.00,4.00,1.00
+Rutgers University–Newark,109,1.00,0.00,1.00
+Boston University,110,8.00,21.00,0.38
+University of Arizona,111,4.00,3.00,1.33
+National University of Singapore,112,3.00,5.00,0.60
+University of Edinburgh,113,3.00,3.00,1.00
+UCLA Graduate School of Education and Information Studies,114,2.00,0.00,2.00
+University of Louisville,115,2.00,0.00,2.00
+University of Cambridge,116,4.00,5.00,0.80
+Nanyang Technological University,117,5.00,4.00,1.25
+University of Delaware,118,5.00,8.00,0.62
+Howard University,119,2.00,1.00,2.00
+Mississippi State University,120,6.00,6.00,1.00
+University of Basel,121,2.00,0.00,2.00
+Tufts University,122,5.00,7.00,0.71
+Rensselaer Polytechnic Institute,123,9.00,14.00,0.64
+University of California,124,0.00,1.00,0.00
+Technion – Israel Institute of Technology,125,4.00,4.00,1.00
+Colorado School of Mines,126,2.00,1.00,2.00
+Stanford University School of Medicine,127,2.00,0.00,2.00
+Peking University,128,2.00,1.00,2.00
+University of Georgia,129,2.00,1.00,2.00
+Indiana University Bloomington,130,6.00,4.00,1.50
+American University,131,3.00,2.00,1.50
+Northeastern University School of Law,132,1.00,0.00,1.00
+Stephen Wolfram,133,1.00,0.00,1.00
+Chinese University of Hong Kong,134,1.00,0.00,1.00
+IIT Kharagpur,135,2.00,1.00,2.00
+University of Texas at San Antonio,136,3.00,1.00,3.00
+Rockefeller University,137,1.00,0.00,1.00
+University of Calgary,138,1.00,1.00,1.00
+French Institute for Research in Computer Science and Automation,139,1.00,0.00,1.00
+Polytechnic University of Milan,140,3.00,1.00,3.00
+Galvanize (software company),141,1.00,0.00,1.00
+Colorado State University–Global Campus,142,1.00,0.00,1.00
+George Mason University,143,5.00,10.00,0.50
+Technical University of Kaiserslautern,144,3.00,1.00,3.00
+Emory University,145,1.00,1.00,1.00
+University of Victoria,146,1.00,3.00,0.33
+University of Rhode Island,147,2.00,0.00,2.00
+Michigan Technological University,148,1.00,2.00,0.50
+Freiberg University of Mining and Technology,149,1.00,0.00,1.00
+Grenoble Institute of Technology,150,1.00,0.00,1.00
+IIT Bombay,151,1.00,0.00,1.00
+Stanford Graduate School of Business,152,3.00,0.00,3.00
+Max Planck Institute for Intelligent Systems,153,1.00,0.00,1.00
+Technical University of Košice,154,1.00,0.00,1.00
+Brock University,155,1.00,0.00,1.00
+Harvard–MIT Program in Health Sciences and Technology,156,1.00,0.00,1.00
+U.S. Air Force Test Pilot School,157,1.00,0.00,1.00
+Kellogg School of Management,158,2.00,0.00,2.00
+University at Albany,159,0.00,0.00,0.00
+Shanghai Jiao Tong University,160,2.00,3.00,0.67
+University of Helsinki,161,2.00,0.00,2.00
+University of Alabama,162,2.00,2.00,1.00
+IIT Kanpur,163,1.00,2.00,0.50
+University of Warwick,164,2.00,3.00,0.67
+University of Bonn,165,1.00,2.00,0.50
+Harvard Law School,166,1.00,0.00,1.00
+University of Würzburg,167,1.00,0.00,1.00
+City University of New York,168,3.00,2.00,1.50
+St. John's University (New York City),169,1.00,1.00,1.00
+Adelphi University,170,1.00,0.00,1.00
+Technical University of Dortmund,171,1.00,0.00,1.00
+Eötvös Loránd University,172,1.00,0.00,1.00
+Wesleyan University,173,2.00,0.00,2.00
+Aarhus University,174,1.00,1.00,1.00
+Loyola Marymount University,175,1.00,0.00,1.00
+Moscow State University,176,1.00,0.00,1.00
+Eli Broad College of Business,177,2.00,0.00,2.00
+Max Planck Institute for Informatics,178,1.00,0.00,1.00
+University of Erlangen–Nuremberg,179,1.00,0.00,1.00
+McMaster University,180,1.00,0.00,1.00
+Bar-Ilan University,181,1.00,0.00,1.00
+University of Colorado Denver,182,2.00,1.00,2.00
+University of Technology Sydney,183,1.00,0.00,1.00
+University of North Dakota,184,1.00,0.00,1.00
+University of South Dakota,185,2.00,1.00,2.00
+Emerson College,186,1.00,0.00,1.00
+Missouri University of Science and Technology,187,3.00,2.00,1.50
+Tata Memorial Centre,188,1.00,0.00,1.00
+University of Texas at Arlington,189,11.00,11.00,1.00
+École normale supérieure (Paris),190,1.00,0.00,1.00
+Wuhan University,191,2.00,0.00,2.00
+Johannes Kepler University Linz,192,1.00,1.00,1.00
+Beijing University of Posts and Telecommunications,193,1.00,1.00,1.00
+University of Iowa,194,3.00,4.00,0.75
+Colorado State University,195,10.00,16.00,0.62
+University of Illinois College of Law,196,1.00,0.00,1.00
+University of California,197,0.00,1.00,0.00
+Horace H. Rackham School of Graduate Studies,198,1.00,0.00,1.00
+Cardiff University,199,2.00,0.00,2.00
+Valencia College,200,1.00,0.00,1.00
+University of Oklahoma,201,2.00,1.00,2.00
+Vrije Universiteit Amsterdam,202,1.00,0.00,1.00
+Instituto Superior Técnico,203,1.00,0.00,1.00
+A. James Clark School of Engineering,204,1.00,0.00,1.00
+Drexel University,205,5.00,7.00,0.71
+University of Massachusetts Dartmouth,206,2.00,0.00,2.00
+University of California,207,0.00,1.00,0.00
+Cairo University,208,1.00,1.00,1.00
+Eastern Michigan University,209,1.00,0.00,1.00
+Johns Hopkins School of Medicine,210,1.00,0.00,1.00
+University of Cincinnati,211,4.00,0.00,4.00
+University of Idaho,212,1.00,0.00,1.00
+San Jose State University,213,1.00,1.00,1.00
+Harvard T.H. Chan School of Public Health,214,1.00,0.00,1.00
+Toyota Technological Institute at Chicago,215,1.00,0.00,1.00
+Saarland University,216,1.00,2.00,0.50
+Wharton School of the University of Pennsylvania,217,2.00,0.00,2.00
+Karlsruhe Institute of Technology,218,2.00,0.00,2.00
+Czech Technical University in Prague,219,2.00,1.00,2.00
+Stevens Institute of Technology,220,4.00,4.00,1.00
+Victoria University of Wellington,221,1.00,0.00,1.00
+West Virginia University,222,8.00,12.00,0.67
+Texas Woman's University,223,1.00,0.00,1.00
+University of Tsukuba,224,1.00,0.00,1.00
+Oregon State University,225,5.00,4.00,1.25
+Huazhong University of Science and Technology,226,2.00,0.00,2.00
+Worcester Polytechnic Institute,227,2.00,8.00,0.25
+School of Visual Arts,228,1.00,0.00,1.00
+University of Alberta,229,2.00,5.00,0.40
+University of Tennessee,230,2.00,3.00,0.67
+Northwestern University Pritzker School of Law,231,1.00,0.00,1.00
+Sharif University of Technology,232,1.00,0.00,1.00
+University of Maryland Global Campus,233,0.00,0.00,0.00
+Allegheny College,234,0.00,0.00,0.00
+North Park University,235,0.00,0.00,0.00
+University of St. Thomas (Minnesota),236,0.00,0.00,0.00
+IIT Delhi,237,0.00,1.00,0.00
+Beihang University,238,0.00,2.00,0.00
+University of the Western Cape,239,0.00,0.00,0.00
+Middlebury College,240,0.00,0.00,0.00
+University of Electronic Science and Technology of China,241,0.00,0.00,0.00
+Tulane University,242,1.00,1.00,1.00
+Tongji University,243,0.00,0.00,0.00
+Monterrey Institute of Technology and Higher Education,244,0.00,0.00,0.00
+MIT Sloan School of Management,245,0.00,0.00,0.00
+Zhejiang University,246,0.00,0.00,0.00
+Hong Kong University of Science and Technology,247,2.00,2.00,1.00
+Jagiellonian University,248,0.00,0.00,0.00
+Tsinghua University,249,1.00,3.00,0.33
+United States Navy Strike Fighter Tactics Instructor program,250,0.00,0.00,0.00
+University of Ulm,251,0.00,0.00,0.00
+Chennai Mathematical Institute,252,0.00,0.00,0.00
+Wang Institute of Graduate Studies,253,0.00,0.00,0.00
+IIT Madras,254,1.00,0.00,1.00
+London School of Economics,255,0.00,0.00,0.00
+Olin College,256,0.00,1.00,0.00
+Hofstra University,257,0.00,1.00,0.00
+not found,258,0.00,0.00,0.00
+Jawaharlal Nehru University,259,0.00,0.00,0.00
+Eindhoven University of Technology,260,0.00,2.00,0.00
+Pratt Institute,261,0.00,0.00,0.00
+East China Normal University,262,0.00,0.00,0.00
+Sabancı University,263,0.00,0.00,0.00
+Middle East Technical University,264,0.00,2.00,0.00
+Bilkent University,265,0.00,0.00,0.00
+Waseda University,266,0.00,0.00,0.00
+California State University,267,0.00,0.00,0.00
+University of Wisconsin–Oshkosh,268,0.00,0.00,0.00
+Singapore University of Technology and Design,269,0.00,0.00,0.00
+Beijing Jiaotong University,270,0.00,0.00,0.00
+University of North Carolina at Greensboro,271,0.00,0.00,0.00
+Florida State University,272,3.00,5.00,0.60
+Houghton College,273,0.00,0.00,0.00
+IIT Roorkee,274,0.00,0.00,0.00
+Webster University,275,0.00,1.00,0.00
+Seoul National University,276,2.00,1.00,2.00
+The College at Brockport,277,0.00,0.00,0.00
+Ocean University of China,278,0.00,0.00,0.00
+University of Oregon,279,0.00,2.00,0.00
+Shandong University,280,0.00,0.00,0.00
+University of the Chinese Academy of Sciences,281,0.00,0.00,0.00
+Bangalore Institute of Technology,282,0.00,0.00,0.00
+Beijing Forestry University,283,0.00,0.00,0.00
+Istanbul Technical University,284,0.00,1.00,0.00
+Binghamton University,285,1.00,1.00,1.00
+University of Vermont,286,0.00,1.00,0.00
+Hanyang University,287,0.00,0.00,0.00
+Vistula University,288,0.00,0.00,0.00
+PES University,289,0.00,0.00,0.00
+Colvin Taluqdars' College,290,0.00,0.00,0.00
+University of Padua,291,0.00,1.00,0.00
+National Taiwan University,292,0.00,0.00,0.00
+University of San Francisco,293,0.00,0.00,0.00
+Southeast University,294,0.00,0.00,0.00
+UCLA Anderson School of Management,295,0.00,0.00,0.00
+California Institute of the Arts,296,0.00,0.00,0.00
+Santa Clara University,297,0.00,0.00,0.00
+Florida Institute of Technology,298,0.00,0.00,0.00
+Queens College,299,0.00,0.00,0.00
+Southern Methodist University,300,1.00,4.00,0.25
+University of Miami,301,0.00,2.00,0.00
+University of Central Florida,302,7.00,14.00,0.50
+University of Central Florida College of Business Administration,303,0.00,0.00,0.00
+Hebei Normal University,304,0.00,0.00,0.00
+Sichuan University,305,0.00,0.00,0.00
+Jadavpur University,306,2.00,0.00,2.00
+Campion College,307,0.00,0.00,0.00
+Dalian University of Technology,308,0.00,0.00,0.00
+Osnabrück University,309,0.00,0.00,0.00
+University of Patras,310,1.00,0.00,1.00
+University of Orléans,311,0.00,1.00,0.00
+Aristotle University of Thessaloniki,312,0.00,0.00,0.00
+Evergreen State College,313,0.00,0.00,0.00
+Boğaziçi University,314,0.00,1.00,0.00
+University of Science and Technology of China,315,2.00,1.00,2.00
+University of Kansas,316,5.00,5.00,1.00
+High School Affiliated to Fudan University,317,0.00,0.00,0.00
+Maret School,318,0.00,0.00,0.00
+Illinois Institute of Technology,319,5.00,5.00,1.00
+St. Columba's School,320,0.00,0.00,0.00
+Birla Institute of Technology and Science,321,0.00,0.00,0.00
+Colby College,322,0.00,0.00,0.00
+Macalester College,323,0.00,0.00,0.00
+Sun Yat-sen University,324,1.00,1.00,1.00
+Odense University,325,0.00,0.00,0.00
+University of Southern Denmark,326,0.00,1.00,0.00
+University College Cork,327,0.00,0.00,0.00
+Pomona College,328,0.00,0.00,0.00
+Lexington High School (Massachusetts),329,0.00,0.00,0.00
+Tel Aviv University,330,0.00,1.00,0.00
+The New School,331,0.00,0.00,0.00
+Swarthmore College,332,1.00,0.00,1.00
+Supélec,333,0.00,0.00,0.00
+Nankai University,334,0.00,0.00,0.00
+Institute of Software,335,0.00,0.00,0.00
+Williams College,336,0.00,0.00,0.00
+Technical University of Valencia,337,0.00,0.00,0.00
+National Institute of Technology Calicut,338,0.00,0.00,0.00
+University of Richmond,339,0.00,0.00,0.00
+Southwest Jiaotong University,340,0.00,0.00,0.00
+Chestnut Hill College,341,0.00,0.00,0.00
+University of Texas at Dallas,342,4.00,6.00,0.67
+Earlham College,343,0.00,0.00,0.00
+National Chiao Tung University,344,0.00,0.00,0.00
+Staffordshire University,345,0.00,0.00,0.00
+University of Burgundy,346,0.00,0.00,0.00
+Yeshiva University,347,0.00,0.00,0.00
+Calvin University,348,0.00,0.00,0.00
+Champlain Valley Union High School,349,0.00,0.00,0.00
+Kendriya Vidyalaya Sangathan,350,0.00,0.00,0.00
+University of Mary Washington,351,0.00,0.00,0.00
+Nanjing University of Information Science and Technology,352,0.00,0.00,0.00
+Full Sail University,353,0.00,2.00,0.00
+Regis University,354,0.00,1.00,0.00
+University of Tulsa,355,2.00,1.00,2.00
+Claremont McKenna College,356,0.00,0.00,0.00
+IIT Guwahati,357,0.00,1.00,0.00
+Wake Forest University,358,0.00,0.00,0.00
+Stephen F. Austin High School (Austin,359,0.00,0.00,0.00
+University of Arkansas,360,0.00,1.00,0.00
+Arab Academy for Science,361,0.00,0.00,0.00
+University of Rome Tor Vergata,362,0.00,0.00,0.00
+Concordia University,363,0.00,0.00,0.00
+Oberlin College,364,0.00,1.00,0.00
+University of Warsaw,365,0.00,0.00,0.00
+Delhi University,366,0.00,0.00,0.00
+University of Freiburg,367,1.00,0.00,1.00
+State University of New York at Purchase,368,0.00,0.00,0.00
+University of Wisconsin–Eau Claire,369,0.00,0.00,0.00
+Boston College,370,0.00,0.00,0.00
+Visvesvaraya National Institute of Technology Nagpur,371,0.00,0.00,0.00
+Hanoi University of Science and Technology,372,0.00,0.00,0.00
+Harvey Mudd College,373,0.00,0.00,0.00
+University of Hawaiʻi at Mānoa,374,0.00,0.00,0.00
+South China University of Technology,375,0.00,0.00,0.00
+Northeastern University (China),376,0.00,0.00,0.00
+University of Zagreb,377,0.00,0.00,0.00
+State University of New York,378,0.00,0.00,0.00
+Rani Durgavati Vishwavidyalaya,379,0.00,0.00,0.00
+Guru Ghasidas Vishwavidyalaya,380,0.00,0.00,0.00
+University of Crete,381,0.00,0.00,0.00
+Rose–Hulman Institute of Technology,382,0.00,1.00,0.00
+Smith College,383,0.00,1.00,0.00
+New York Academy of Art,384,0.00,0.00,0.00
+Technical University of Munich,385,1.00,2.00,0.50
+University of Hong Kong,386,0.00,0.00,0.00
+University of Macedonia,387,0.00,0.00,0.00
+University of Manchester,388,0.00,0.00,0.00
+University of Texas at El Paso,389,1.00,1.00,1.00
+University of Oldenburg,390,0.00,0.00,0.00
+Technical University of Berlin,391,0.00,1.00,0.00
+FH Aachen,392,0.00,0.00,0.00
+University of Auckland,393,0.00,0.00,0.00
+Seaholm High School,394,0.00,0.00,0.00
+University of Ioannina,395,0.00,0.00,0.00
+Georgetown University,396,1.00,3.00,0.33
+Duquesne University,397,0.00,1.00,0.00
+Bronx High School of Science,398,0.00,0.00,0.00
+National Institute of Technology Karnataka,399,0.00,0.00,0.00
+University of Adelaide,400,0.00,0.00,0.00
+Watchung Hills Regional High School,401,0.00,0.00,0.00
+United States Air Force Academy,402,0.00,2.00,0.00
+Aalto University,403,1.00,0.00,1.00
+List of universities in Austria,404,0.00,0.00,0.00
+Ghent University,405,0.00,0.00,0.00
+Bursa Technical University,406,0.00,0.00,0.00
+Cooper Union,407,0.00,0.00,0.00
+IIT (BHU) Varanasi,408,0.00,0.00,0.00
+Savitribai Phule Pune University,409,0.00,0.00,0.00
+New Mexico State University,410,1.00,0.00,1.00
+University of Isfahan,411,0.00,0.00,0.00
+Tarbiat Modares University,412,0.00,0.00,0.00
+Australian National University,413,1.00,0.00,1.00
+Louisiana Tech University,414,1.00,0.00,1.00
+Western Illinois University,415,0.00,0.00,0.00
+Fudan University,416,1.00,2.00,0.50
+Nanjing University,417,0.00,1.00,0.00
+EOI Business School,418,0.00,0.00,0.00
+Polytechnic University of Catalonia,419,1.00,0.00,1.00
+University of Deusto,420,0.00,1.00,0.00
+California Polytechnic State University,421,0.00,0.00,0.00
+Saratoga High School (California),422,0.00,0.00,0.00
+Hefei University,423,0.00,0.00,0.00
+University of Cape Town,424,0.00,0.00,0.00
+DePaul University,425,1.00,2.00,0.50
+American University of Beirut,426,0.00,1.00,0.00
+California State University,427,0.00,0.00,0.00
+Saint Joseph's University,428,3.00,1.00,3.00
+Politehnica University of Bucharest,429,0.00,1.00,0.00
+École Polytechnique,430,1.00,1.00,1.00
+École des ponts ParisTech,431,0.00,2.00,0.00
+Technical University of Madrid,432,0.00,1.00,0.00
+Cranfield University,433,0.00,0.00,0.00
+Clarkson University,434,0.00,0.00,0.00
+Ulrich von Hutten,435,0.00,0.00,0.00
+Florida International University,436,2.00,4.00,0.50
+Queen's University,437,0.00,0.00,0.00
+University of Liège,438,0.00,0.00,0.00
+College of Engineering,439,0.00,0.00,0.00
+Slovak University of Technology in Bratislava,440,0.00,0.00,0.00
+University of Tehran,441,1.00,0.00,1.00
+Brigham Young University,442,7.00,12.00,0.58
+Wright State University,443,0.00,1.00,0.00
+Netaji Subhas University of Technology,444,0.00,0.00,0.00
+University of Pretoria,445,0.00,0.00,0.00
+Utah State University,446,0.00,0.00,0.00
+Gjøvik University College,447,0.00,0.00,0.00
+University of Amsterdam,448,1.00,0.00,1.00
+Amador Valley High School,449,0.00,0.00,0.00
+TU Dresden,450,0.00,0.00,0.00
+Chalmers University of Technology,451,1.00,1.00,1.00
+University of Leeds,452,0.00,0.00,0.00
+University of Ljubljana,453,0.00,0.00,0.00
+St. Peter's College,454,0.00,0.00,0.00
+Bauhaus University,455,0.00,0.00,0.00
+Western University,456,0.00,1.00,0.00
+Northeastern State University,457,0.00,0.00,0.00
+Bangladesh University of Engineering and Technology,458,0.00,1.00,0.00
+Sungkyunkwan University,459,0.00,4.00,0.00
+Fu Foundation School of Engineering and Applied Science,460,0.00,0.00,0.00
+University of New South Wales,461,1.00,0.00,1.00
+College of Staten Island,462,0.00,0.00,0.00
+Staples High School,463,0.00,0.00,0.00
+Ridgewood High School (New Jersey),464,0.00,0.00,0.00
+Charles University,465,0.00,0.00,0.00
+Peter the Great St. Petersburg Polytechnic University,466,0.00,0.00,0.00
+Junior college,467,0.00,0.00,0.00
+Veermata Jijabai Technological Institute,468,0.00,0.00,0.00
+Sonoma State University,469,0.00,0.00,0.00
+Indian Institute of Technology (Indian School of Mines),470,0.00,0.00,0.00
+Olympic College,471,0.00,1.00,0.00
+Tianjin University,472,0.00,0.00,0.00
+University of Queensland,473,1.00,1.00,1.00
+University of the Witwatersrand,474,0.00,0.00,0.00
+Central China Normal University,475,0.00,0.00,0.00
+San Joaquin Delta College,476,0.00,0.00,0.00
+Hangzhou Foreign Languages School,477,0.00,0.00,0.00
+Johnson C. Smith University,478,0.00,0.00,0.00
+University of Toledo,479,0.00,0.00,0.00
+University of Belgrade,480,0.00,0.00,0.00
+Albany State University,481,0.00,0.00,0.00
+Auburn University,482,2.00,4.00,0.50
+University of Vienna,483,0.00,0.00,0.00
+University of Tübingen,484,0.00,0.00,0.00
+University of Zurich,485,0.00,0.00,0.00
+University of Regina,486,0.00,0.00,0.00
+Emmaus High School,487,0.00,0.00,0.00
+St. George's University,488,0.00,0.00,0.00
+University of Michigan College of Engineering,489,0.00,0.00,0.00
+Lincoln-Sudbury Regional High School,490,0.00,0.00,0.00
+Belmont High School (Massachusetts),491,0.00,0.00,0.00
+University of Mainz,492,0.00,0.00,0.00
+Punjab Engineering College,493,0.00,0.00,0.00
+Catholic University of Córdoba,494,0.00,0.00,0.00
+Konkuk University,495,0.00,0.00,0.00
+Choate Rosemary Hall,496,0.00,0.00,0.00
+National Institute of Technology,497,0.00,0.00,0.00
+Tennessee Technological University,498,0.00,1.00,0.00
+Budapest University of Technology and Economics,499,0.00,0.00,0.00
+Siena College,500,0.00,0.00,0.00
+Alliance University,501,0.00,0.00,0.00
+Florida A&M University,502,0.00,0.00,0.00
+Moscow Institute of Physics and Technology,503,0.00,0.00,0.00
+University of Ottawa,504,1.00,1.00,1.00
+MIT World Peace University,505,0.00,0.00,0.00
+Government College of Engineering & Textile Technology Serampore,506,0.00,0.00,0.00
+United States Naval Academy,507,0.00,3.00,0.00
+Truman State University,508,0.00,0.00,0.00
+Shattuck-Saint Mary's,509,0.00,0.00,0.00
+Carleton College,510,0.00,0.00,0.00
+Luther College (Iowa),511,0.00,0.00,0.00
+Trinity University (Texas),512,0.00,1.00,0.00
+Birla High School,513,0.00,0.00,0.00
+University of Moratuwa,514,0.00,1.00,0.00
+National University of Computer and Emerging Sciences,515,0.00,1.00,0.00
+Berklee College of Music,516,0.00,1.00,0.00
+University of Sussex,517,0.00,0.00,0.00
+Fordham University,518,0.00,2.00,0.00
+University of Navarra,519,0.00,0.00,0.00
+Aurora University,520,0.00,0.00,0.00
+University of Nottingham,521,0.00,0.00,0.00
+University of Stuttgart,522,0.00,1.00,0.00
+Xiamen University,523,1.00,0.00,1.00
+Humboldt University of Berlin,524,0.00,0.00,0.00
+University of Calicut,525,0.00,0.00,0.00
+Banaras Hindu University,526,0.00,0.00,0.00
+RMIT University,527,0.00,0.00,0.00
+Chaparral High School (Arizona),528,0.00,0.00,0.00
+Haldia Institute of Technology,529,0.00,0.00,0.00
+Grove City College,530,0.00,0.00,0.00
+University of Houston,531,2.00,6.00,0.33
+Union University,532,0.00,0.00,0.00
+University of South Carolina,533,7.00,15.00,0.47
+University of São Paulo,534,0.00,0.00,0.00
+State University of New York at Plattsburgh,535,0.00,0.00,0.00
+DePauw University,536,0.00,0.00,0.00
+Lawrence University,537,0.00,0.00,0.00
+China Medical University,538,0.00,0.00,0.00
+Amirkabir University of Technology,539,0.00,0.00,0.00
+Reed College,540,0.00,1.00,0.00
+Miami University,541,0.00,3.00,0.00
+Bloomsburg University of Pennsylvania,542,0.00,0.00,0.00
+Palo Alto High School,543,0.00,0.00,0.00
+Federal University of Minas Gerais,544,0.00,0.00,0.00
+Ohio Wesleyan University,545,0.00,0.00,0.00
+Ithaca College,546,0.00,0.00,0.00
+University of Sydney,547,0.00,0.00,0.00
+King's College London,548,0.00,0.00,0.00
+Cardinal Newman High School (West Palm Beach,549,0.00,0.00,0.00
+Baltimore Polytechnic Institute,550,0.00,0.00,0.00
+Pritzker School of Medicine,551,0.00,0.00,0.00
+Albert Einstein College of Medicine,552,0.00,0.00,0.00
+University of Hanover,553,0.00,0.00,0.00
+University of Buenos Aires,554,0.00,0.00,0.00
+Ain Shams University,555,0.00,0.00,0.00
+College of Engineering,556,0.00,0.00,0.00
+Minnesota State University,557,0.00,0.00,0.00
+Bemidji State University,558,0.00,0.00,0.00
+University of Tokyo,559,0.00,0.00,0.00
+Jilin University,560,0.00,0.00,0.00
+West Springfield High School (Virginia),561,0.00,0.00,0.00
+Lawrenceville School,562,0.00,0.00,0.00
+Polytechnique Montréal,563,1.00,0.00,1.00
+Beijing University of Technology,564,0.00,0.00,0.00
+West Virginia Wesleyan College,565,0.00,0.00,0.00
+Radboud University Nijmegen,566,1.00,0.00,1.00
+Saint Mary's College of California,567,0.00,0.00,0.00
+Yonsei University,568,0.00,3.00,0.00
+Lake Forest College,569,0.00,1.00,0.00
+Loyola University Chicago,570,0.00,0.00,0.00
+Argosy University,571,0.00,1.00,0.00
+University,572,0.00,16.00,0.00
+University of the Amazon,573,0.00,4.00,0.00
+University of Memphis,574,0.00,2.00,0.00
+Vassar College,575,0.00,0.00,0.00
+Chuo University,576,0.00,1.00,0.00
+Fairfield University,577,0.00,2.00,0.00
+Montana State University,578,0.00,0.00,0.00
+List of state and territorial universities in the United States,579,0.00,0.00,0.00
+International university,580,0.00,4.00,0.00
+Amherst College,581,0.00,0.00,0.00
+Universidad Nacional del Sur,582,0.00,0.00,0.00
+Muskingum University,583,0.00,1.00,0.00
+Alexandru Ioan Cuza University,584,0.00,0.00,0.00
+Bennington College,585,0.00,0.00,0.00
+Northwestern Health Sciences University,586,0.00,0.00,0.00
+School of the Art Institute of Chicago,587,1.00,2.00,0.50
+Monash University,588,0.00,0.00,0.00
+Kennesaw State University,589,0.00,0.00,0.00
+Hokkaido University,590,0.00,0.00,0.00
+Himachal Pradesh University,591,0.00,0.00,0.00
+SRM Institute of Science and Technology,592,0.00,2.00,0.00
+Holy Names University,593,0.00,0.00,0.00
+University of Massachusetts Lowell,594,0.00,1.00,0.00
+Ismail Qemali University of Vlorë,595,0.00,0.00,0.00
+University of Information Science and Technology "St. Paul The Apostle",596,0.00,0.00,0.00
+Rochester Institute of Technology,597,0.00,3.00,0.00
+Jordan University of Science and Technology,598,0.00,2.00,0.00
+Jerash University,599,0.00,0.00,0.00
+Mount Mercy University,600,0.00,0.00,0.00
+William Jewell College,601,0.00,1.00,0.00
+ICT University,602,0.00,0.00,0.00
+Toyota Technological Institute,603,0.00,0.00,0.00
+University of Innsbruck,604,0.00,0.00,0.00
+University of Tennessee at Chattanooga,605,0.00,0.00,0.00
+Open University,606,0.00,0.00,0.00
+North Carolina A&T State University,607,0.00,6.00,0.00
+Ohio University,608,0.00,2.00,0.00
+Institute of technology,609,0.00,0.00,0.00
+Linnaeus University,610,0.00,0.00,0.00
+Chapman University,611,0.00,0.00,0.00
+City University,612,0.00,0.00,0.00
+Lawrence Technological University,613,0.00,1.00,0.00
+University of Otago,614,0.00,0.00,0.00
+ESIEE Paris,615,0.00,0.00,0.00
+University of Advancing Technology,616,0.00,0.00,0.00
+ITMO University,617,0.00,0.00,0.00
+Capital University,618,0.00,0.00,0.00
+Hachinohe Gakuin University,619,0.00,0.00,0.00
+Keio University,620,0.00,1.00,0.00
+List of aerospace engineering schools,621,0.00,0.00,0.00
+Old Dominion University,622,2.00,4.00,0.50
+Marian University (Indiana),623,0.00,0.00,0.00
+University of California,624,0.00,1.00,0.00
+New College of Florida,625,0.00,1.00,0.00
+Free University of Bozen-Bolzano,626,0.00,0.00,0.00
+Daido University,627,0.00,1.00,0.00
+University of Salerno,628,0.00,0.00,0.00
+Freed–Hardeman University,629,0.00,0.00,0.00
+University of Alabama at Birmingham,630,0.00,0.00,0.00
+Thompson Rivers University,631,0.00,0.00,0.00
+University of Missouri–St. Louis,632,0.00,1.00,0.00
+Pohang University of Science and Technology,633,0.00,0.00,0.00
+Mälardalen University College,634,0.00,0.00,0.00
+LAB University of Applied Sciences,635,0.00,0.00,0.00
+University of Connecticut,636,0.00,2.00,0.00
+University of Wyoming,637,1.00,1.00,1.00
+Phillips University,638,0.00,1.00,0.00
+Oregon Health & Science University,639,0.00,0.00,0.00
+Indiana University–Purdue University Indianapolis,640,1.00,0.00,1.00
+Hampshire College,641,0.00,1.00,0.00
+Singapore Management University,642,0.00,3.00,0.00
+Cheyney University of Pennsylvania,643,0.00,1.00,0.00
+New Jersey Institute of Technology,644,0.00,2.00,0.00
+Osaka University,645,0.00,1.00,0.00
+Technische Universität Darmstadt,646,3.00,1.00,3.00
+Northern Arizona University,647,0.00,0.00,0.00
+Ajou University,648,0.00,0.00,0.00
+Lamar University,649,0.00,1.00,0.00
+Colorado Mesa University,650,0.00,1.00,0.00
+Southern New Hampshire University,651,0.00,0.00,0.00
+Southern Illinois University,652,3.00,1.00,3.00
+Yaşar University,653,0.00,0.00,0.00
+LUT University,654,0.00,0.00,0.00
+King Abdullah University of Science and Technology,655,0.00,0.00,0.00
+Fiji National University,656,0.00,0.00,0.00
+University of Cyprus,657,0.00,0.00,0.00
+Chatham University,658,0.00,0.00,0.00
+Oglethorpe University,659,0.00,1.00,0.00
+Wilfrid Laurier University,660,0.00,1.00,0.00
+Marist College,661,0.00,1.00,0.00
+University of Wisconsin–Milwaukee,662,1.00,0.00,1.00
+American Business and Technology University,663,0.00,0.00,0.00
+University of Canterbury,664,0.00,0.00,0.00
+Jiwaji University,665,0.00,0.00,0.00
+Pepperdine University,666,0.00,0.00,0.00
+Sorbonne University,667,0.00,0.00,0.00
+Azerbaijan State Oil and Industry University,668,0.00,1.00,0.00
+Vienna University of Economics and Business,669,1.00,1.00,1.00
+Ryerson University,670,0.00,0.00,0.00
+University of Arkansas at Little Rock,671,0.00,1.00,0.00
+De Montfort University,672,0.00,1.00,0.00
+Palm Beach State College,673,0.00,0.00,0.00
+Oral Roberts University,674,0.00,0.00,0.00
+National University of Health Sciences,675,0.00,1.00,0.00
+Paris Diderot University,676,0.00,1.00,0.00
+University of Bremen,677,0.00,0.00,0.00
+University of Agder,678,0.00,0.00,0.00
+American University of Armenia,679,0.00,0.00,0.00
+Coastal Carolina University,680,0.00,1.00,0.00
+University of Mannheim,681,0.00,1.00,0.00
+Dalhousie University,682,0.00,0.00,0.00
+Murray State University,683,0.00,0.00,0.00
+Sapienza University of Rome,684,1.00,1.00,1.00
+Tusculum University,685,0.00,2.00,0.00
+Surugadai University,686,0.00,0.00,0.00
+New York University Abu Dhabi,687,0.00,0.00,0.00
+Central European University,688,0.00,0.00,0.00
+Korea University,689,0.00,2.00,0.00
+Reichman University,690,0.00,2.00,0.00
+York College of Pennsylvania,691,0.00,0.00,0.00
+Kwantlen Polytechnic University,692,0.00,0.00,0.00
+Zhejiang University of Technology,693,0.00,1.00,0.00
+Wichita State University,694,0.00,1.00,0.00
+Gandhi Institute of Technology and Management,695,0.00,1.00,0.00
+Wayne State University,696,6.00,13.00,0.46
+Pädagogische Hochschule Schwäbisch Gmünd,697,0.00,0.00,0.00
+Grand Valley State University,698,0.00,0.00,0.00
+University of Western Ontario,699,0.00,1.00,0.00
+Muğla University,700,0.00,0.00,0.00
+University of Maine,701,0.00,2.00,0.00
+Teikyo University,702,0.00,0.00,0.00
+Macquarie University,703,0.00,0.00,0.00
+University of Nevada,704,0.00,0.00,0.00
+Bentley University,705,0.00,0.00,0.00
+University of Southampton,706,1.00,1.00,1.00
+Chinese Culture University,707,0.00,0.00,0.00
+University of Alabama in Huntsville,708,0.00,1.00,0.00
+Villanova University,709,2.00,1.00,2.00
+California State Polytechnic University,710,0.00,0.00,0.00
+Monmouth University,711,0.00,0.00,0.00
+Seton Hall University,712,0.00,0.00,0.00
+Université libre de Bruxelles,713,0.00,0.00,0.00
+University of Bern,714,0.00,1.00,0.00
+Marquette University,715,1.00,2.00,0.50
+Medical University of South Carolina,716,0.00,1.00,0.00
+Uniformed Services University of the Health Sciences,717,0.00,1.00,0.00
+University of North Carolina Wilmington,718,0.00,2.00,0.00
+Manhattan College,719,0.00,1.00,0.00
+Georgia State University,720,1.00,2.00,0.50
+Ateneo de Manila University,721,0.00,1.00,0.00
+University of Liverpool,722,0.00,0.00,0.00
+University of the Arts (Philadelphia),723,0.00,0.00,0.00
+Northern Virginia Community College,724,0.00,1.00,0.00
+Austin Community College District,725,0.00,0.00,0.00
+Johnson & Wales University,726,0.00,0.00,0.00
+St. Edward's University,727,0.00,0.00,0.00
+California Baptist University,728,0.00,1.00,0.00
+University of Nevada,729,0.00,0.00,0.00
+University of South Florida,730,1.00,1.00,1.00
+Soka University of America,731,0.00,1.00,0.00
+Brescia University,732,0.00,1.00,0.00
+Northeast Forestry University,733,0.00,0.00,0.00
+Keck Graduate Institute,734,0.00,0.00,0.00
+Teachers College,735,0.00,0.00,0.00
+Tamil Nadu Veterinary and Animal Sciences University,736,0.00,0.00,0.00
+Ruhr University Bochum,737,0.00,1.00,0.00
+National Defense University,738,0.00,2.00,0.00
+University of Genoa,739,1.00,0.00,1.00
+Thomas Jefferson University,740,0.00,0.00,0.00
+Park University,741,0.00,1.00,0.00
+Leipzig University,742,0.00,0.00,0.00
+Private university,743,0.00,1.00,0.00
+Baldwin Wallace University,744,0.00,1.00,0.00
+Bu-Ali Sina University,745,0.00,1.00,0.00
+Westminster College (Pennsylvania),746,0.00,1.00,0.00
+University of Zaragoza,747,0.00,1.00,0.00
+Lindenwood University,748,0.00,2.00,0.00
+Air Force Institute of Technology,749,1.00,1.00,1.00
+Seattle University,750,0.00,1.00,0.00
+Troy University,751,0.00,1.00,0.00
+Wellesley College,752,0.00,1.00,0.00
+Winthrop University,753,0.00,0.00,0.00
+University of Essex,754,1.00,1.00,1.00
+University of Malaya,755,0.00,1.00,0.00
+Fort Valley State University,756,0.00,1.00,0.00
+Claflin University,757,0.00,0.00,0.00
+EAFIT University,758,0.00,0.00,0.00
+Kyushu University,759,0.00,1.00,0.00
+Johnson University,760,0.00,1.00,0.00
+Bridgewater College,761,0.00,1.00,0.00
+University of Toulouse,762,0.00,0.00,0.00
+Palo Alto University,763,0.00,1.00,0.00
+York University,764,0.00,0.00,0.00
+Newberry College,765,0.00,1.00,0.00
+Tennessee State University,766,0.00,1.00,0.00
+Bethel University (Indiana),767,0.00,0.00,0.00
+Louisiana State University,768,3.00,9.00,0.33
+Texas Tech University,769,2.00,3.00,0.67
+Oklahoma State University–Stillwater,770,0.00,2.00,0.00
+Post University,771,0.00,0.00,0.00
+King Fahd University of Petroleum and Minerals,772,0.00,0.00,0.00
+Baylor University,773,0.00,1.00,0.00
+Durham University,774,0.00,3.00,0.00
+Baylor College of Medicine,775,0.00,0.00,0.00
+University College Dublin,776,0.00,1.00,0.00
+Appalachian State University,777,0.00,0.00,0.00
+Fairmont State University,778,1.00,0.00,1.00
+Uppsala University,779,0.00,0.00,0.00
+BRAC University,780,0.00,1.00,0.00
+Friends University,781,0.00,0.00,0.00
+Simón Bolívar University (Venezuela),782,0.00,0.00,0.00
+American Public University System,783,0.00,2.00,0.00
+Trine University,784,0.00,1.00,0.00
+Grand Canyon University,785,1.00,2.00,0.50
+Saxion University of Applied Sciences,786,0.00,1.00,0.00
+Biola University,787,0.00,1.00,0.00
+James Madison University,788,0.00,0.00,0.00
+Temple University,789,9.00,15.00,0.60

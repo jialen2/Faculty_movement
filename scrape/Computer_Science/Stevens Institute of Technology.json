@@ -1,0 +1,2342 @@
+{
+    "Giuseppe Ateniese": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Infermiere",
+                [
+                    "Company Name",
+                    "Self-employed"
+                ]
+            ]
+        ]
+    },
+    "Sandeep Bhatt": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Eduardo Bonelli": {
+        "status": "success",
+        "Education": [
+            [
+                "Universidad Nacional de La Plata",
+                [
+                    "Degree Name",
+                    "Licenciado en Informática"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1991 - 1996"
+                ],
+                [
+                    "More Info",
+                    "Grey Junior School"
+                ]
+            ],
+            [
+                "Paris-Sud University (Paris XI)",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Theoretical Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2001"
+                ],
+                [
+                    "More Info",
+                    "In cotutelle with UBA"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2016 - Apr 2022"
+                ]
+            ],
+            [
+                "Researcher",
+                [
+                    "Company Name",
+                    "CONICET"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - Feb 2018"
+                ]
+            ],
+            [
+                "Docente/Investigador",
+                [
+                    "Company Name",
+                    "Universidad Nacional de Quilmes"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2007 - Jan 2018"
+                ]
+            ],
+            [
+                "Profesor e Investigador",
+                [
+                    "Company Name",
+                    "UNQ/CONICET"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - Jan 2018"
+                ]
+            ],
+            [
+                "Docente",
+                [
+                    "Company Name",
+                    "Universidad de Buenos Aires"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - Mar 2015"
+                ],
+                [
+                    "Location",
+                    "Argentina"
+                ]
+            ]
+        ]
+    },
+    "Brian Borowski": {
+        "status": "success",
+        "Education": [
+            [
+                "Stevens Institute of Technology",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0 GPA"
+                ]
+            ],
+            [
+                "Stevens Institute of Technology",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2004"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0 GPA"
+                ]
+            ],
+            [
+                "Seton Hall University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Major: Computer Science, Minor: Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2001"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0 GPA"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Director of Music and Organist",
+                [
+                    "Company Name",
+                    "St. Bonaventure Church"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 1991 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Paterson, NJ"
+                ],
+                [
+                    "More Info",
+                    "Play the organ for weekend Masses and Holy Days, select music for liturgies, and direct the choir."
+                ]
+            ],
+            [
+                "Lead Software Engineer",
+                [
+                    "Company Name",
+                    "L3Harris Technologies"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2021 - Dec 2021"
+                ],
+                [
+                    "Location",
+                    "Clifton, NJ"
+                ],
+                [
+                    "More Info",
+                    "•\tReverse engineered codebases and depicted their architecture in UML"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Jul 2021"
+                ]
+            ],
+            [
+                "Teacher of Computer Science Technology",
+                [
+                    "Company Name",
+                    "Bergen County Academies"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 - Jul 2014"
+                ],
+                [
+                    "Location",
+                    "Hackensack, NJ"
+                ],
+                [
+                    "More Info",
+                    "•\tTaught AP Computer Science, data structures and algorithms, and courses in Python, Java, C, and Bash to advanced high school students"
+                ]
+            ],
+            [
+                "Technical Specialist",
+                [
+                    "Company Name",
+                    "Thomson Reuters"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2010 - Aug 2011"
+                ],
+                [
+                    "Location",
+                    "New York City"
+                ],
+                [
+                    "More Info",
+                    "• Researched and implemented natural language processing algorithms that index and retrieve related news articles in C++"
+                ]
+            ]
+        ]
+    },
+    "Dominic Duggan": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Information Technology Manager",
+                [
+                    "Company Name",
+                    "WHITTAKER OFFICE SUPPLIES LIMITED"
+                ]
+            ],
+            [
+                "Graphic Web Designer",
+                [
+                    "Company Name",
+                    "Self-employed"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2008 - Apr 2022"
+                ]
+            ]
+        ]
+    },
+    "Tian Han": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Los Angeles",
+                [
+                    "Degree Name",
+                    "Statistics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2018"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.0/4.0"
+                ]
+            ],
+            [
+                "The Hong Kong University of Science and Technology",
+                [
+                    "Degree Name",
+                    "Master of Philosophy (M.Phil.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2013"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.1/4.3"
+                ]
+            ],
+            [
+                "Hefei University of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Applied Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2010"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of California, Los Angeles"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2013 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Greater Los Angeles Area"
+                ],
+                [
+                    "More Info",
+                    "I'm interested in the deep learning and computer vision problems. More precisely, my current research focuses on unsupervised learning of generative models, video analysis, and recommender systems."
+                ]
+            ]
+        ]
+    },
+    "Aaron Klappholz": {
+        "status": "success",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Humanities: Math &amp; Linguistics"
+                ]
+            ],
+            [
+                "University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "MSEE"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer &amp; Information Science"
+                ]
+            ],
+            [
+                "University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer &amp; Information Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Stevens Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1984 - Apr 2022"
+                ]
+            ],
+            [
+                "Tour Taker",
+                [
+                    "Company Name",
+                    "LA Commons"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Jun 2013"
+                ]
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "University of Southern California"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2002 - Jun 2010"
+                ]
+            ]
+        ]
+    },
+    "Samantha Kleinberg": {
+        "status": "success",
+        "Education": [
+            [
+                "New York University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2010"
+                ]
+            ],
+            [
+                "New York University",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Physics, Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2005"
+                ],
+                [
+                    "More Info",
+                    "Hunter College High School"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2012 - Apr 2022"
+                ]
+            ],
+            [
+                "Postdoctoral Research Scientist, NSF/CRA Computing Innovation Fellow",
+                [
+                    "Company Name",
+                    "Columbia University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 - Aug 2012"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Courant Institute of Mathematical Sciences, New York University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2006 - May 2010"
+                ]
+            ],
+            [
+                "CTO",
+                [
+                    "Company Name",
+                    "Journal of Young Investigators"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2003 - Oct 2004"
+                ]
+            ]
+        ]
+    },
+    "Eric Koskinen": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ]
+            ]
+        ]
+    },
+    "Philippos Mordohai": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "David Naumann": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1997 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "I do research on computer security and privacy, as well as software analysis and verification and other topics. I try to keep my online profile circumspect and somewhat random."
+                ]
+            ]
+        ]
+    },
+    "Antonio Nicolosi": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Yue Ning": {
+        "status": "success",
+        "Education": [
+            [
+                "Virginia Tech",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2018"
+                ]
+            ],
+            [
+                "George Mason University",
+                [
+                    "Degree Name",
+                    "Course Study"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2014"
+                ],
+                [
+                    "More Info",
+                    "Graduate University of Chinese Academy of Sciences"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Hoboken NJ"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "Virginia Tech"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 - Jun 2018"
+                ],
+                [
+                    "Location",
+                    "Arlington"
+                ]
+            ],
+            [
+                "Intern Research Scientist",
+                [
+                    "Company Name",
+                    "Yahoo"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2016 - Aug 2016"
+                ],
+                [
+                    "Location",
+                    "Sunnyvale, CA"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "George Mason University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Aug 2013"
+                ]
+            ],
+            [
+                "Teaching Assistant",
+                [
+                    "Company Name",
+                    "Graduate University of Chinese Academy of Sciences"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 - Jun 2011"
+                ],
+                [
+                    "Location",
+                    "Graduate University of Chinese Academy of Sciences"
+                ],
+                [
+                    "More Info",
+                    "Clerical and Instructional"
+                ]
+            ]
+        ]
+    },
+    "Georgios Portokalidis": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Jie Shen": {
+        "status": "success",
+        "Education": [
+            [
+                "Rutgers University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2018"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Machine Learning"
+                ]
+            ],
+            [
+                "Shanghai Jiao Tong University",
+                [
+                    "Degree Name",
+                    "Master of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2014"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Research on computer vision at ApexLab."
+                ]
+            ],
+            [
+                "Shanghai Jiao Tong University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2011"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2018 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Hoboken, USA"
+                ]
+            ]
+        ]
+    },
+    "Nikolaos Triandopoulos": {
+        "status": "success",
+        "Education": [
+            [
+                "Brown University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2007"
+                ],
+                [
+                    "More Info",
+                    "Received Brown University Technological Innovation Award, 2006"
+                ]
+            ],
+            [
+                "Brown University",
+                [
+                    "Degree Name",
+                    "Master of Science (M.Sc.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2000 - 2002"
+                ]
+            ],
+            [
+                "University of Patras",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering &amp; Informatics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1999"
+                ],
+                [
+                    "More Info",
+                    "Diploma with Honors (5-year degree)"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor Of Computer Science",
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2016 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Hoboken"
+                ]
+            ],
+            [
+                "Senior Research Scientist",
+                [
+                    "Company Name",
+                    "Boston University"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2016 - Aug 2016"
+                ],
+                [
+                    "Location",
+                    "Greater Boston Area"
+                ]
+            ],
+            [
+                "Principal Research Scientist",
+                [
+                    "Company Name",
+                    "RSA, The Security Division of EMC"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2010 - Jan 2016"
+                ],
+                [
+                    "Location",
+                    "Cambridge, MA"
+                ],
+                [
+                    "More Info",
+                    "RSA Laboratories"
+                ]
+            ],
+            [
+                "Research Assistant Professor",
+                [
+                    "Company Name",
+                    "Boston University"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2008 - Jul 2010"
+                ],
+                [
+                    "Location",
+                    "Boston MA"
+                ],
+                [
+                    "More Info",
+                    "Computer Science Department and Center for Reliable Information Systems &amp; Cyber Security"
+                ]
+            ],
+            [
+                "Research Assistant Professor",
+                [
+                    "Company Name",
+                    "Aarhus University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 - Nov 2008"
+                ],
+                [
+                    "Location",
+                    "Aarhus, Denmark"
+                ],
+                [
+                    "More Info",
+                    "Computer Science Department"
+                ]
+            ]
+        ]
+    },
+    "Hui Wang": {
+        "status": "success",
+        "Education": [
+            [
+                "Stevens-Henager College",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Health/Health Care Administration/Management"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2019 - 2020"
+                ],
+                [
+                    "More Info",
+                    "Xin Xiang Medicine university"
+                ]
+            ]
+        ],
+        "Experience": []
+    },
+    "Shusen Wang": {
+        "status": "success",
+        "Education": [
+            [
+                "National University of Singapore",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Knowledge Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2018 - 2020"
+                ]
+            ],
+            [
+                "National University of Singapore",
+                [
+                    "Degree Name",
+                    "Graduate Diploma"
+                ],
+                [
+                    "Field Of Study",
+                    " System Analysis"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2013"
+                ]
+            ],
+            [
+                "China Agricultural University",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Technology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Full Stack Engineer",
+                [
+                    "Company Name",
+                    "DBS Bank"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2021 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Singapore, Singapore"
+                ]
+            ],
+            [
+                "Data Engineer",
+                [
+                    "Company Name",
+                    "GIC"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2019 - Nov 2021"
+                ],
+                [
+                    "Location",
+                    "Singapore"
+                ],
+                [
+                    "More Info",
+                    "Enthusiasm on data search using Machine Learning, NLP, Solr and Big Data mining techniques."
+                ]
+            ],
+            [
+                "Full Stack Software Engineer",
+                [
+                    "Company Name",
+                    "Tookitaki"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2018 - Nov 2019"
+                ],
+                [
+                    "Location",
+                    "Singapore"
+                ]
+            ],
+            [
+                "Software Engineer",
+                [
+                    "Company Name",
+                    "Fuji Xerox Singapore Software Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2015 - Feb 2018"
+                ],
+                [
+                    "Location",
+                    "Singapore"
+                ],
+                [
+                    "More Info",
+                    "1. Develop applications in embedded browser on Printers using vanilla JavaScript."
+                ]
+            ],
+            [
+                "Software Engineer",
+                [
+                    "Company Name",
+                    "CrimsonLogic"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2013 - Jan 2015"
+                ],
+                [
+                    "Location",
+                    "Singapore"
+                ],
+                [
+                    "More Info",
+                    "1. Get involved into ¾ SDLC of Frontier(LicenceOne) poject, and take participate into a Content Management System design and implementation by working with BPAs and Test team."
+                ]
+            ]
+        ]
+    },
+    "Xinchao Wang": {
+        "status": "success",
+        "Education": [
+            [
+                "EPFL (École polytechnique fédérale de Lausanne)",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Vision"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2015"
+                ]
+            ],
+            [
+                "The Hong Kong Polytechnic University",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Grade: First Class Honorable Degree"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "National University of Singapore"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2021 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Singapore"
+                ]
+            ],
+            [
+                "Tenure-track Assistant Professor",
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2017 - Aug 2021"
+                ],
+                [
+                    "Location",
+                    "Hoboken New Jersey"
+                ]
+            ],
+            [
+                "Postdoctoral Fellow",
+                [
+                    "Company Name",
+                    "University of Illinois at Urbana-Champaign"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2016 - Oct 2017"
+                ],
+                [
+                    "Location",
+                    "Beckman Institute"
+                ]
+            ],
+            [
+                "Postdoc",
+                [
+                    "Company Name",
+                    "EPFL (École polytechnique fédérale de Lausanne)"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 - Mar 2016"
+                ],
+                [
+                    "Location",
+                    "School of Computer and Communication Science"
+                ]
+            ]
+        ]
+    },
+    "Susanne Wetzel": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Jia Xu": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "construction management",
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Apr 2022"
+                ]
+            ]
+        ]
+    },
+    "Jun Xu": {
+        "status": "success",
+        "Education": [
+            [
+                "Penn State University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Technology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013"
+                ],
+                [
+                    "More Info",
+                    "Grade: Junior"
+                ]
+            ],
+            [
+                "University of Science and Technology of China",
+                [
+                    "Degree Name",
+                    "Bachelor of Applied Science (B.A.Sc.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer and Information Systems Security/Information Assurance"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2013"
+                ],
+                [
+                    "More Info",
+                    "Grade: Graduated"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Hoboken NJ"
+                ]
+            ],
+            [
+                "Ph.D",
+                [
+                    "Company Name",
+                    "Penn State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2013 - May 2018"
+                ],
+                [
+                    "Location",
+                    "PSU University Park"
+                ],
+                [
+                    "More Info",
+                    "Diagnose on process/OS crashes/panics caused by memory corruption;  Mitigations against code reuse attacks via Address Space Permutations; Symbolic execution."
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Samsung Economics Research Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2017 - Aug 2017"
+                ],
+                [
+                    "Location",
+                    "Mountain View, CA"
+                ],
+                [
+                    "More Info",
+                    "Research intern at Samsung Research America. Working on mobile system security."
+                ]
+            ],
+            [
+                "Intern Research Assistant",
+                [
+                    "Company Name",
+                    "FireEye, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "May 2016 - Aug 2016"
+                ],
+                [
+                    "Location",
+                    "Milpitas CA"
+                ],
+                [
+                    "More Info",
+                    "Ransom Malware analysis and protection."
+                ]
+            ],
+            [
+                "Intern Research Assistant",
+                [
+                    "Company Name",
+                    "FireEye, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "May 2015 - Aug 2015"
+                ],
+                [
+                    "Location",
+                    "Milpitas CA"
+                ],
+                [
+                    "More Info",
+                    "Working on Windows malware unpacking and analysis."
+                ]
+            ]
+        ]
+    },
+    "Edward Amoroso": {
+        "status": "success",
+        "Education": [
+            [
+                "Stevens Institute of Technology",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1985 - 1991"
+                ]
+            ],
+            [
+                "Columbia University in the City of New York",
+                [
+                    "Degree Name",
+                    "1999 - 1999"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Activities and societies: Columbia Senior Executive Program"
+                ]
+            ],
+            [
+                "Stevens Institute of Technology",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1983 - 1985"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "TAG Cyber LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2016 - Apr 2022"
+                ]
+            ],
+            [
+                "Research Professor",
+                [
+                    "Company Name",
+                    "New York University"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2017 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ],
+                [
+                    "More Info",
+                    "Research Professor in the NYU Tandon School of Engineering focusing on cyber security education, on-line initiatives, professional training, cyber security research, and industrial support."
+                ]
+            ],
+            [
+                "Adjunct Professor Of Computer Science",
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1989 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Hoboken, New Jersey"
+                ],
+                [
+                    "More Info",
+                    "Adjunct Professor in the Computer Science Department teaching graduate courses in cyber security to MS, PhD, and BS students for the past three decades."
+                ]
+            ],
+            [
+                "Senior Advisor",
+                [
+                    "Company Name",
+                    "The Johns Hopkins University Applied Physics Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2016 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Baltimore, Maryland Area"
+                ],
+                [
+                    "More Info",
+                    "Senior Advisor to the Asymmetric Operations Group at APL/JHU focusing on advanced cyber security, Federal government support, international cyber norms, and research initiatives."
+                ]
+            ],
+            [
+                "Member of the Board of Directors",
+                [
+                    "Company Name",
+                    "M&amp;T Bank"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 - May 2017"
+                ],
+                [
+                    "Location",
+                    "Buffalo/Niagara, New York Area"
+                ]
+            ]
+        ]
+    },
+    "Edward Banduk": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Philip Barresi": {
+        "status": "success",
+        "Education": [
+            [
+                "Stevens Institute of Technology",
+                [
+                    "Degree Name",
+                    "2010 - 2014"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Senior Software Engineer",
+                [
+                    "Company Name",
+                    "AutoFi"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2020 - Apr 2022"
+                ]
+            ],
+            [
+                "Senior Frontend Developer",
+                [
+                    "Company Name",
+                    "NODE40"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2018 - Jun 2020"
+                ],
+                [
+                    "Location",
+                    "At NODE40, we sit at the intersection of industry and government compliance to demystify the treatment of cryptocurrency across its many governing bodies."
+                ]
+            ],
+            [
+                "Adjunct Instructor",
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Jun 2020"
+                ],
+                [
+                    "Location",
+                    "Hoboken, NJ"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Troy Web Consulting"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2016 - May 2018"
+                ]
+            ],
+            [
+                "Front-End Engineer",
+                [
+                    "Company Name",
+                    "FunnelFire"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2012 - Jan 2016"
+                ],
+                [
+                    "Location",
+                    "Hoboken"
+                ]
+            ]
+        ]
+    },
+    "Igor Faynberg": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Pennsylvania",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer and Information Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1990"
+                ],
+                [
+                    "More Info",
+                    "Kharkov University, Ukraine, Department of Mathematics"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "CTO",
+                [
+                    "Company Name",
+                    "Stargazers Consulting LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "East Brunswick, NJ"
+                ]
+            ],
+            [
+                "Adjunct Professor",
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2002 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Hoboken, NJ"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Alcatel-Lucent"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1986 - Sep 2015"
+                ]
+            ],
+            [
+                "Member of Technical Staff",
+                [
+                    "Company Name",
+                    "AT&amp;T Bell Laboratories"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1986 - Jan 1996"
+                ],
+                [
+                    "Location",
+                    "Holmdel, NJ"
+                ]
+            ]
+        ]
+    },
+    "Peter Jurkat": {
+        "status": "success",
+        "Education": [
+            [
+                "Stevens Institute of Technology",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematical Probability"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1972"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professional Faculty",
+                [
+                    "Company Name",
+                    "UNM Anderson Schools of Management, U of New Mexico"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2004 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Instructor of statistics, MIS, and operations management courses from undergraduate to executive MBA programs"
+                ]
+            ]
+        ]
+    },
+    "Samuel Kim": {
+        "status": "success",
+        "Education": [
+            [
+                "Stevens Institute of Technology",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2007"
+                ],
+                [
+                    "More Info",
+                    "Dissertation Title: \"A Relational Operator for Complex OLAP” (focused on simplifying expression and evaluation for complex OLAP queries)."
+                ]
+            ],
+            [
+                "UC Irvine",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2000 - Apr 2022"
+                ]
+            ],
+            [
+                "Associate Director",
+                [
+                    "Company Name",
+                    "Vitech Systems Group"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - Nov 2021"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ],
+                [
+                    "More Info",
+                    "Associate Director: Manage technical solutions for Vitech implementations. Lead a team of  technical consultants to interface with client technology team, Vitech project, product and development teams to plan, design, develop, test and roll-out Vitech’s V3 solutions – a fully browser-based, multi-tier J2EE/Oracle based solutions, designed specifically for the needs of multi-employer, public pension, and group health benefits administration."
+                ]
+            ],
+            [
+                "Director",
+                [
+                    "Company Name",
+                    "Dun &amp; Bradstreet"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1995 - Jun 2005"
+                ],
+                [
+                    "Location",
+                    "• Formulating and implementing strategic and technical solutions for enterprise information environment"
+                ]
+            ],
+            [
+                "Tech Lead/Senior Programmer/Analyst",
+                [
+                    "Company Name",
+                    "Salomon Brothers"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1994 - Jun 1995"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ],
+                [
+                    "More Info",
+                    "Responsibilities included development and enhancement of the Position tracking component of Salomon’s real-time Fixed Income Trade Entry system."
+                ]
+            ],
+            [
+                "Member of Technical Staff",
+                [
+                    "Company Name",
+                    "Bellcore"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1989 - Jun 1994"
+                ],
+                [
+                    "Location",
+                    "Piscataway, NJ"
+                ],
+                [
+                    "More Info",
+                    "• Project Leader for database conversion software used by the Regional Telephone Companies when they undergo an area code change for a geographical area.  Responsibilities included managing and leading a team of developers and QA staff in design, implementation and maintenance of the software, as well as interfacing with internal and external customers for requirements gathering and providing support for the products."
+                ]
+            ]
+        ]
+    },
+    "Reza Peyrovian": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Miami",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics &amp; Computer Science"
+                ]
+            ],
+            [
+                "The University of Kansas",
+                [
+                    "Degree Name",
+                    "Master's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics and Computer Science"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Adjunct Professor",
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ]
+            ],
+            [
+                "LMTS",
+                [
+                    "Company Name",
+                    "AT&amp;T Labs, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "May 1990 - Dec 2013"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Miami"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 1984 - May 1990"
+                ]
+            ]
+        ]
+    },
+    "Moshiur Rahman": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Principal Scientist",
+                [
+                    "Company Name",
+                    "AT&amp;T"
+                ]
+            ]
+        ]
+    },
+    "Jan Schaumann": {
+        "status": "success",
+        "Education": [
+            [
+                "Stevens Institute of Technology",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2005"
+                ]
+            ],
+            [
+                "Stevens Institute of Technology",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2001"
+                ]
+            ],
+            [
+                "The Philipp University of Marburg",
+                [
+                    "Degree Name",
+                    "Studies towards Magister Artium"
+                ],
+                [
+                    "Field Of Study",
+                    " Contemporary German Literature And Media,"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 1998"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Distinguished Paranoid",
+                [
+                    "Company Name",
+                    "Yahoo"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2015 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Principal member and Infrastructure Security Architect of the Yahoo Paranoids, our industry-wide recognized team of information security experts with primary focus on infrastructure architectural design and decisions that impact all of the company's internal systems across all layers of the OSI stack and all data centers and edge locations."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2001 - Apr 2022"
+                ]
+            ],
+            [
+                "Developer",
+                [
+                    "Company Name",
+                    "The NetBSD Foundation"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2001 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Ported pkgsrc to IRIX."
+                ]
+            ],
+            [
+                "Staff Information Security Engineer",
+                [
+                    "Company Name",
+                    "Twitter"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - Mar 2015"
+                ],
+                [
+                    "Location",
+                    "Senior member of the Information Security team, team lead for security operations and infrastructure security. We coordinate incidence response for company-wide security issues such as Heartbleed, Shellshock, POODLE etc; we maintain all of Twitter's SSL/TLS certificates; we perform internal and external security reviews, consult on internal and external facing feature development and infrastructure changes or planning."
+                ],
+                [
+                    "More Info",
+                    "+2"
+                ]
+            ],
+            [
+                "Senior Network Security Engineer",
+                [
+                    "Company Name",
+                    "Etsy"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2012 - Dec 2012"
+                ],
+                [
+                    "Location",
+                    "New York, New York"
+                ],
+                [
+                    "More Info",
+                    "Implemented and deployed Two-Factor Authentication for VPN; wrote tools to alert on suspicious activity; performed regular training and education in various security-related best practices and products; review of infrastructure components with regards to internal as well as external security; lead PCI-DSS audit for 2012"
+                ]
+            ]
+        ]
+    },
+    "Ruth Schwartz": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Senior Teaching Professor",
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ]
+            ],
+            [
+                "Instructor",
+                [
+                    "Company Name",
+                    "ESI International"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2008 - Jun 2009"
+                ]
+            ]
+        ]
+    },
+    "Yevgeniy Super": {
+        "status": "success",
+        "Education": [
+            [
+                "Stevens Institute of Technology",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 1998"
+                ]
+            ],
+            [
+                "Stevens Institute of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 1997"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Team Lead",
+                [
+                    "Company Name",
+                    "Citadel LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2009 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ],
+                [
+                    "More Info",
+                    "Algorithmic Trading Systems, Order Management Systems and Infrastructure"
+                ]
+            ],
+            [
+                "Senior Vice President",
+                [
+                    "Company Name",
+                    "Citi"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2008 - Jul 2009"
+                ]
+            ],
+            [
+                "Principal",
+                [
+                    "Company Name",
+                    "Bank of America"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2003 - Mar 2008"
+                ]
+            ],
+            [
+                "Vice President",
+                [
+                    "Company Name",
+                    "Lehman Brothers"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1998 - Jun 2003"
+                ]
+            ]
+        ]
+    },
+    "Jannine Cucchiara": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Dawn Forino-Garcia": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Jennifer Lebron": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Phoenix",
+                [
+                    "Degree Name",
+                    "Associate of Arts (A.A.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Business Management"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2012"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2017 - Apr 2022"
+                ]
+            ],
+            [
+                "Externship Administrator",
+                [
+                    "Company Name",
+                    "Mayfield College"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2012 - Dec 2013"
+                ],
+                [
+                    "Location",
+                    "Cathedral City, California"
+                ],
+                [
+                    "More Info",
+                    "Supervised externship training in compliance with accreditation, Education Department rules and regulations, company policy, and all related regulations. Facilitated the student transition from class work to externship to graduate in preparation for placement. Maintained contact with local employers to obtain information on externship opportunities, to develop and enhance working relationships, and to facilitate student placement. Tracked extern attendance and ensured that all extern assignments are completed as determined by the program. Assisted with graduation ceremonies."
+                ]
+            ],
+            [
+                "Office Support",
+                [
+                    "Company Name",
+                    "Lloyd Pest Control"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2010 - Aug 2011"
+                ],
+                [
+                    "Location",
+                    "Palm Spring, CA"
+                ],
+                [
+                    "More Info",
+                    "Performed administrative duties such as data entry, organizing and distributing office mail, cash deposits, scheduling, maintaining the office, and ensured customer support."
+                ]
+            ],
+            [
+                "Rehabilitation Aide",
+                [
+                    "Company Name",
+                    "Tender Touch Rehab Services LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2008 - Jun 2009"
+                ],
+                [
+                    "Location",
+                    "Jersey City, New Jersey"
+                ],
+                [
+                    "More Info",
+                    "Worked directly under the supervision of the physical therapists. Duties included filing, data entry, maintenance of the gym equipment, and transporting patients to and from the therapy session."
+                ]
+            ],
+            [
+                "Head Teacher- Infant Room",
+                [
+                    "Company Name",
+                    "Choice Child Developement Daycare Center"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2006 - May 2008"
+                ],
+                [
+                    "Location",
+                    "Bayonne, NJ"
+                ]
+            ]
+        ]
+    },
+    "Dmitrii Loginov": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Systems Administrator",
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2017 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Hoboken, New Jersey"
+                ]
+            ],
+            [
+                "Automation Systems Engineer",
+                [
+                    "Company Name",
+                    "ShoreTel"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 - Jun 2016"
+                ]
+            ],
+            [
+                "Jr. Systems Engineer",
+                [
+                    "Company Name",
+                    "HC Technologies, LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2015 - Nov 2015"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ],
+                [
+                    "More Info",
+                    "- Server deployment (kickstart, spacewalk)"
+                ]
+            ],
+            [
+                "QA inspector",
+                [
+                    "Company Name",
+                    "L'Oréal"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2012 - Oct 2014"
+                ],
+                [
+                    "Location",
+                    "Piscataway, NJ"
+                ],
+                [
+                    "More Info",
+                    "Conducted production inspections through the examination of manufactured goods."
+                ]
+            ],
+            [
+                "Computer Application Course Instructor",
+                [
+                    "Company Name",
+                    "Queens Community House"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2011 - Nov 2011"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ]
+            ]
+        ]
+    },
+    "Enrique Dunn": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Stevens Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Hoboken, NJ"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of North Carolina at Chapel Hill"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2008 - Jul 2016"
+                ]
+            ]
+        ]
+    }
+}

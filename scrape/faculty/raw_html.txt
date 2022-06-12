@@ -1,3761 +1,3096 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<html class="no-js" lang="en">
 <head>
-<meta charset="utf-8"/>
-<meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<meta content="#571963" name="theme-color"/>
-<meta content="faculty, department of computer science, mccormick, northwestern" name="keywords"/>
-<meta content="department" name="sitetype"/>
 <title>
-Faculty | People | Computer Science | Northwestern Engineering
+Academic Departments &amp; Programs
 </title>
-<link href="https://www.mccormick.northwestern.edu/images/structure/favicon.png" rel="icon" type="image/png"/>
-<link href="/css/normalize.css" media="screen" rel="stylesheet"/>
-<link href="/css/jquery/jquery-slick.css" media="screen" rel="stylesheet"/>
-<link href="/css/default.css" media="all" rel="stylesheet"/>
-<link href="/css/layout.css" media="screen" rel="stylesheet"/>
-<link href="/css/layout-print.css" media="print" rel="stylesheet"/>
-<script src="//code.jquery.com/jquery-1.11.0.min.js" type="text/javascript">
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="https://template.emory.edu/assets/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="https://template.emory.edu/assets/css/main.min.css" rel="stylesheet"/>
+<link href="https://template.emory.edu/assets/css/components.min.css" rel="stylesheet"/>
+<link href="https://template.emory.edu/assets/css/subpage.min.css" rel="stylesheet"/>
+<link href="https://template.emory.edu/assets/css/galleria.emory-standard.min.css" rel="stylesheet"/>
+<!--[if lt IE 9 ]>
+<link rel="stylesheet" href="https://template.emory.edu/assets/css/ie8.min.css" />
+<![endif]-->
+<!--[if lt IE 8 ]>
+<link rel="stylesheet" href="https://template.emory.edu/assets/css/ie7.min.css" />
+<![endif]-->
+<link href="../css/catalog.css" rel="stylesheet"/>
+<script src="https://template.emory.edu/assets/js/libraries/modernizr-2.6.2.min.js">
 </script>
-<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js" type="text/javascript">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js">
 </script>
-<script src="/js/jquery/jquery-footable.min.js" type="text/javascript">
-
-
-</script>
-<script src="/js/back-to-top.js" type="text/javascript">
+<script src="../js/catalog.js" type="text/javascript">
 </script>
 </head>
-<body>
-<script>
-
- dataLayer = [{
- 'pageType' : 'faculty, department-division site',
- 'pageProgramType' : 'none',
- 'academicAos' : '',
- 'academicDept':'',
- 'academicProg':'',
- 'academicUnit' : 'mccormick'}];
- 
-</script>
-<!-- Google Tag Manager -->
-<noscript>
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-KX6F23&gtm_auth=wMILQr1-arU9JWeIZPlVAQ&gtm_preview=env-1&gtm_cookies_win=x"
-height="0" width="0" style="display:none;visibility:hidden">
-</iframe>
-</noscript>
-<script>
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl+'&gtm_auth=wMILQr1-arU9JWeIZPlVAQ&gtm_preview=env-1&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KX6F23');
-</script>
-<!-- End Google Tag Manager -->
-<header>
-<div id="northwestern-logo-wrapper-outer">
-<div id="northwestern-logo-wrapper">
-<a href="http://www.northwestern.edu" id="northwestern-logo" target="_blank">
-<img alt="Northwestern University" class="desktop" src="https://www.mccormick.northwestern.edu/images/structure/sprites/northwestern-logo-global-nav.svg"/>
-
-					
-</a>
-<div class="dept-super" id="super-nav">
-<ul>
-<li>
-<a>
-Northwestern Engineering
-</a>
-<span class="dropdown-arrow">
-</span>
-<ul>
-<li>
-<a href="/about/index.html">
-About
-</a>
-</li>
-<li>
-<a href="/academics/index.html">
-Academics
-</a>
-</li>
-<li>
-<a href="/research-faculty/index.html">
-Research &amp; Faculty
-</a>
-</li>
-<li>
-<a href="/offices-services/index.html">
-Offices &amp; Services
-</a>
-</li>
-<hr/>
-<li>
-
- Information for:
- 
-</li>
-<li>
-<a href="/students/index.html">
-Students
-</a>
-</li>
-<li>
-<a href="/faculty-staff-resources/index.html">
-Faculty &amp; Staff
-</a>
-</li>
-<li>
-<a href="/alumni/index.html">
-Alumni
-</a>
-</li>
-<li>
-<a href="https://www.mccormick.northwestern.edu/corporate-engagement/index.html">
-Companies
-</a>
-</li>
-<hr/>
-<li>
-<a href="/news-events/index.html">
-News &amp; Events
-</a>
-</li>
-<li>
-<a href="/contact/index.html">
-Contact &amp; Visit
-</a>
-</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="mid-dept" id="mid-header">
-<div class="header-container mid-header-grid">
-<div>
-<a class="mccormick-header-logo" href="https://www.mccormick.northwestern.edu">
-<img alt="McCormick School of Engineering" class="desktop" src="https://www.mccormick.northwestern.edu/images/structure/engineering-logo.svg"/>
-
-			
-</a>
-<ul class="top-links">
-<li>
-<a href="/computer-science/resources/index.html">
-Internal Resources
-</a>
-</li>
-<li>
-<a href="/computer-science/careers/index.html">
-Careers
-</a>
-</li>
-<li>
-<a href="/computer-science/students/index.html">
-Students
-</a>
-</li>
-<li>
-<a href="/computer-science/diversity/index.html">
-Diversity
-</a>
-</li>
-</ul>
-</div>
-<div class="dept-row">
-<h1>
-<a href="https://www.mccormick.northwestern.edu/computer-science">
-Computer Science
+<body class="classic">
+<div class="wrapper">
+<!-- header tag added via xslt -->
+<header class="container blue mobile-logo" id="header" role="banner">
+<h1 class="container logo-tall-som">
+<img alt="" class="classic" id="logo" src="../images/catalog-banner.png"/>
+<a href="../index.html" id="mobile-logo">
+<img alt="" class="classic" src="../images/mobil_logo.png"/>
 </a>
 </h1>
-<div class="hide-mobile" id="search">
-<div class="search-form group">
-<form _lpchecked="1" action="https://www.mccormick.northwestern.edu/search/" method="get" role="search">
-<label class="hide-label" for="q-desktop">
-Search this site
-</label>
-<input id="q-desktop" name="q" placeholder="Search this site" type="text"/>
-<input name="sitetitle" type="hidden" value="Computer Science"/>
-<input name="as_sitesearch" type="hidden" value="https://www.mccormick.northwestern.edu/computer-science"/>
-<button type="submit">
-<span class="hide-label">
-Search
+<div class="toggles container">
+<a class="toggle-nav" href="#">
+<span class="icon-list">
 </span>
-</button>
-</form>
-</div>
-</div>
-</div>
-</div>
-</div>
-<nav>
-<ul class="main-nav header-container">
-<li>
-<a href="/computer-science/about/index.html">
 <no_tag>
-About
+ Navigation
 </no_tag>
-<span class="dropdown-arrow">
-</span>
 </a>
-<div>
+<a class="toggle-search" href="#" title="Search">
+<span class="icon-search">
+</span>
+<no_tag>
+ Search
+</no_tag>
+</a>
+</div>
+<nav id="emory-wide">
+<a class="skip" href="#main-content">
+Skip to Content
+</a>
+<ul>
+<li class="top">
+<a>
+Schools
+</a>
+<div class="nav-box">
+<div class="col col1">
+<h4>
+Undergraduate
+</h4>
 <ul>
 <li>
-<a href="/computer-science/about/index.html">
-About the Department
+<a href="http://www.college.emory.edu/" target="_blank" title="Emory College">
+Emory College
 </a>
 </li>
 <li>
-<a href="/computer-science/about/message-from-the-chair.html">
-Message from the Chair
+<a href="http://oxford.emory.edu/" target="_blank" title="Oxford College">
+Oxford College
+</a>
+</li>
+<li>
+<a href="http://goizueta.emory.edu/" target="_blank" title="Business School">
+Business School
+</a>
+</li>
+<li>
+<a href="http://www.nursing.emory.edu/" target="_blank" title="School of Nursing">
+School of Nursing
+</a>
+</li>
+</ul>
+<h4>
+Community
+</h4>
+<ul>
+<li>
+<a href="http://www.ece.emory.edu/" target="_blank" title="Emory Continuing Education">
+Emory Continuing Education
+</a>
+</li>
+<li>
+<a href="http://www.emory.edu/home/academics/continuing-education.html" target="_blank" title="Continuing Professional Education">
+Professional Education
+</a>
+</li>
+<li>
+<a href="http://precollege.emory.edu/" target="_blank" title="Pre-College Program">
+Pre-College Program
 </a>
 </li>
 </ul>
 </div>
-</li>
-<li>
-<a href="/computer-science/academics/index.html">
-<no_tag>
-Academics
-</no_tag>
-<span class="dropdown-arrow">
-</span>
-</a>
-<div>
-<ul>
-<li>
-<a href="/computer-science/academics/index.html">
-Academics
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/undergraduate/index.html">
-Undergraduate 
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/graduate/index.html">
+<div class="col col2">
+<h4>
 Graduate
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/courses/index.html">
-Courses
-</a>
-</li>
-</ul>
-<div>
-<span class="quick-link-title">
-Quick Links
-</span>
+</h4>
 <ul>
 <li>
-<a href="/computer-science/students/index.html" target="">
-Student Resources
+<a href="http://goizueta.emory.edu/" target="_blank" title="Business School">
+Business School
 </a>
 </li>
 <li>
-<a href="/computer-science/diversity/index.html" target="">
-Diversity
+<a href="http://www.gs.emory.edu/" target="_blank" title="Graduate School">
+Graduate School
 </a>
 </li>
 <li>
-<a href="/computer-science/diversity/bpc-plan.html" target="">
-Broadening Participation in Computing (BPC) Plan
-</a>
-</li>
-</ul>
-</div>
-</div>
-</li>
-<li>
-<a href="/computer-science/research/index.html">
-<no_tag>
-Research
-</no_tag>
-<span class="dropdown-arrow">
-</span>
-</a>
-<div>
-<ul>
-<li>
-<a href="/computer-science/research/index.html">
-Research Overview
+<a href="http://www.law.emory.edu/" target="_blank" title="School of Law">
+School of Law
 </a>
 </li>
 <li>
-<a href="/computer-science/research/areas/index.html">
-Research Areas
+<a href="http://www.med.emory.edu/" target="_blank" title="School of Medicine">
+School of Medicine
 </a>
 </li>
 <li>
-<a href="/computer-science/research/groups-labs.html">
-Groups &amp; Labs
+<a href="http://www.nursing.emory.edu/" target="_blank" title="School of Nursing">
+School of Nursing
 </a>
 </li>
 <li>
-<a href="/computer-science/research/affiliated-centers-institutes.html">
-Affiliated Centers &amp; Institutes
+<a href="http://www.sph.emory.edu/" target="_blank" title="School of Public Health">
+School of Public Health
 </a>
 </li>
 <li>
-<a href="/computer-science/research/industry-partnerships/index.html">
-Industry Partnerships
-</a>
-</li>
-<li>
-<a href="/computer-science/research/tech-reports/index.html">
-Tech Reports
-</a>
-</li>
-<li>
-<a href="/computer-science/research/machines.html">
-Machines
-</a>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<a href="/computer-science/cs-plus-x/index.html">
-<no_tag>
-CS+X
-</no_tag>
-<span class="dropdown-arrow">
-</span>
-</a>
-<div style="padding-top:0px;">
-<div class="contains-media">
-<div class="media">
-<a class="modal-trigger" href="https://youtu.be/dNo_BVzNb28" target="_blank">
-<img alt="Power of CS Video" src="/computer-science/images/homepage/power-of-cs-callout.jpg"/>
-</a>
-</div>
-<span class="menu-title">
-The Power of CS
-</span>
-<p>
-By bringing the power of computer science to fields such as journalism, education, robotics, and art, Northwestern University computer scientists are exponentially accelerating research and innovation. Watch our video above or learn more at the link below.
-</p>
-<a class="media-cta modal-trigger" href="/computer-science/cs-plus-x/index.html" target="">
-Learn more
-</a>
-</div>
-</div>
-</li>
-<li>
-<a href="/computer-science/people/index.html">
-<no_tag>
-People
-</no_tag>
-<span class="dropdown-arrow">
-</span>
-</a>
-<div>
-<ul>
-<li>
-<a href="/computer-science/people/faculty.html">
-Faculty
-</a>
-</li>
-<li>
-<a href="/computer-science/people/affiliated.html">
-Affiliated Faculty
-</a>
-</li>
-<li>
-<a href="/computer-science/people/faculty-of-instruction.html">
-Faculty of Instruction
-</a>
-</li>
-<li>
-<a href="/computer-science/people/postdoctoral-fellows.html">
-Postdoctoral Fellows
-</a>
-</li>
-<li>
-<a href="/computer-science/people/staff.html">
-Staff
-</a>
-</li>
-<li>
-<a href="/computer-science/people/visiting-scholars.html">
-Visiting Scholars
-</a>
-</li>
-<li>
-<a href="/computer-science/people/phd-students.html">
-PhD Students
-</a>
-</li>
-<li>
-<a href="/computer-science/people/outgoing-phds-postdocs.html">
-Outgoing Ph.D.s and Postdocs 2021-2022
-</a>
-</li>
-<li>
-<a href="/computer-science/people/adjunct-faculty.html">
-Adjunct Faculty
-</a>
-</li>
-</ul>
-<div>
-<span class="quick-link-title">
-Quick Links
-</span>
-<ul>
-<li>
-<a href="/computer-science/diversity/cs-faculty-diversity-committee.html" target="">
-CS Faculty Diversity Committee
+<a href="http://www.candler.emory.edu/" target="_blank" title="School of Theology">
+School of Theology
 </a>
 </li>
 </ul>
 </div>
 </div>
 </li>
-<li>
-<a href="/computer-science/news-events/index.html">
-<no_tag>
-News &amp; Events
-</no_tag>
-<span class="dropdown-arrow">
-</span>
+<li class="top">
+<a>
+Libraries
 </a>
-<div>
+<div class="nav-box">
+<div class="col col1">
+<h4>
+Libraries
+</h4>
 <ul>
 <li>
-<a href="/computer-science/news-events/index.html">
-All News
+<a href="http://web.library.emory.edu/" target="_blank" title="Robert W. Woodruff">
+Robert W. Woodruff
 </a>
 </li>
 <li>
-<a href="/computer-science/news-events/newsletter.html">
-Newsletter
+<a href="http://business.library.emory.edu/" target="_blank" title="Business">
+Business
 </a>
 </li>
 <li>
-<a href="/computer-science/news-events/events/index.php">
-All Public Events
+<a href="http://web.library.emory.edu/about/libraries/other-libraries/chemistry-library/" target="_blank" title="Science Commons">
+Science Commons
 </a>
 </li>
 <li>
-<a href="/computer-science/news-events/seminars-workshops-talks/index.html">
-Seminars, Workshops, &amp; Talks
+<a href="http://health.library.emory.edu/" target="_blank" title="Health Sciences">
+Health Sciences
 </a>
 </li>
 <li>
-<a href="/computer-science/news-events/honors-awards/index.html">
-Honors and Awards
+<a href="http://library.law.emory.edu/" target="_blank" title="Law">
+Law
+</a>
+</li>
+<li>
+<a href="http://marbl.library.emory.edu/" target="_blank" title="MARBL">
+MARBL
+</a>
+</li>
+<li>
+<a href="http://web.library.emory.edu/about/libraries/woodruff-building/music-media-library.html" target="_blank" title="Music and Media">
+Music &amp; Media
+</a>
+</li>
+<li>
+<a href="http://oxford.library.emory.edu/" target="_blank" title="Oxford College">
+Oxford College
+</a>
+</li>
+<li>
+<a href="http://www.pitts.emory.edu/" target="_blank" title="Theology">
+Theology
 </a>
 </li>
 </ul>
 </div>
+<div class="col col2">
+<h4>
+Library Tools
+</h4>
+<ul>
+<li>
+<a href="https://ereserves.library.emory.edu/reserves2/index.php" target="_blank" title="Course Reserves">
+Course Reserves
+</a>
 </li>
 <li>
-<a href="/computer-science/contact/index.html">
-Contact
+<a href="http://web.library.emory.edu/library-materials/databases-ebooks-ejournals/databases/" target="_blank" title="Databases">
+Databases
+</a>
+</li>
+<li>
+<a href="http://digitalscholarship.emory.edu/" target="_blank" title="Emory Center for Digital Scholarship (ECDS)">
+Digital Scholarship (ECDS)
+</a>
+</li>
+<li>
+<a href="http://discovere.emory.edu" target="_blank" title="discoverE">
+discoverE
+</a>
+</li>
+<li>
+<a href="http://ejournals.emory.edu/" target="_blank" title="eJournals">
+eJournals
+</a>
+</li>
+<li>
+<a href="https://etd.library.emory.edu/" target="_blank" title="Electronic Dissertations">
+Electronic Dissertations
+</a>
+</li>
+<li>
+<a href="http://findingaids.library.emory.edu/" target="_blank" title="EmoryFindingAids">
+EmoryFindingAids
+</a>
+</li>
+<li>
+<a href="http://www.library.emory.edu/uhtbin/nph-illiad" target="_blank" title="ILLiad">
+ILLiad
+</a>
+</li>
+<li>
+<a href="https://open.library.emory.edu/" target="_blank" title="OpenEmory">
+OpenEmory
+</a>
+</li>
+<li>
+<a href="http://guides.main.library.emory.edu/" target="_blank" title="Research Guides">
+Research Guides
 </a>
 </li>
 </ul>
-</nav>
-<div class="mobile-bar">
-<div class="" id="mobile-search">
-<div class="search-form group">
-<form _lpchecked="1" action="https://www.mccormick.northwestern.edu/search/index.php" method="get" role="search">
-<label class="hide-label" for="q-mobile">
-Search this site
-</label>
-<input id="q-mobile" name="q" placeholder="Search this site" type="text"/>
-<input name="sitetitle" type="hidden" value="Computer Science"/>
-<input name="as_sitesearch" type="hidden" value="https://www.mccormick.northwestern.edu/computer-science"/>
-<button type="submit">
-<span class="hide-label">
-Search
-</span>
-</button>
-</form>
 </div>
 </div>
-<a id="mobile-nav-link">
-<span class="hide-label">
-Menu
-</span>
-</a>
-</div>
-<div id="main-mobile-nav">
-<ul>
-<li>
-<a href="/computer-science/about/index.html">
-About
-</a>
-<span class="dropdown-arrow">
-<a aria-haspopup="true" href="#" role="button">
-<span>
-Collapse
-</span>
-<no_tag>
-About Submenu
- 
-</no_tag>
-</a>
-</span>
-<ul>
-<li>
-<a href="/computer-science/about/index.html">
-About the Department
-</a>
 </li>
-<li>
-<a href="/computer-science/about/message-from-the-chair.html">
-Message from the Chair
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/computer-science/academics/index.html">
-Academics
-</a>
-<span class="dropdown-arrow">
-<a aria-haspopup="true" href="#" role="button">
-<span>
-Collapse
-</span>
-<no_tag>
-Academics Submenu
- 
-</no_tag>
-</a>
-</span>
-<ul>
-<li>
-<a href="/computer-science/academics/index.html">
-Academics
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/undergraduate/index.html">
-Undergraduate 
-</a>
-<span class="dropdown-arrow">
-<a aria-haspopup="true" href="#" role="button">
-<span>
-Collapse
-</span>
-<no_tag>
-Undergraduate Submenu
- 
-</no_tag>
-</a>
-</span>
-<ul>
-<li>
-<a href="/computer-science/academics/undergraduate/index.html">
-Undergraduate Programs
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/undergraduate/bachelors/index.html">
-Computer Science Major (BS/BA)
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/undergraduate/cs-minor/index.html">
-Computer Science Minor
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/undergraduate/dse-minor/index.html">
-Data Science and Engineering Minor
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/undergraduate/combined-bs-ba-ms-program.html">
-Combined BS (or BA)/MS Degree Program
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/undergraduate/introductory-courses/index.html">
-Intro Courses
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/undergraduate/special-programs.html">
-Special Programs &amp; Opportunities
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/undergraduate/undergraduate-research.html">
-Undergraduate Research
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/undergraduate/groups-organizations.html">
-Student Groups &amp; Organizations
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/undergraduate/forms-documents.html">
-Resources for Current Students
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/undergraduate/senior-thesis.html">
-Senior Thesis
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/computer-science/academics/graduate/index.html">
-Graduate
-</a>
-<span class="dropdown-arrow">
-<a aria-haspopup="true" href="#" role="button">
-<span>
-Collapse
-</span>
-<no_tag>
-Graduate Submenu
- 
-</no_tag>
-</a>
-</span>
-<ul>
-<li>
-<a href="/computer-science/academics/graduate/masters/index.html">
-MS in Computer Science
-</a>
-<span class="dropdown-arrow">
-<a aria-haspopup="true" href="#" role="button">
-<span>
-Collapse
-</span>
-<no_tag>
-MS in Computer Science Submenu
- 
-</no_tag>
-</a>
-</span>
-<ul>
-<li>
-<a href="/computer-science/academics/graduate/masters/index.html">
-MS in Computer Science
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/graduate/masters/curriculum.html">
-Curriculum &amp; Requirements
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/computer-science/academics/graduate/phd/index.html">
-PhD in Computer Science
-</a>
-<span class="dropdown-arrow">
-<a aria-haspopup="true" href="#" role="button">
-<span>
-Collapse
-</span>
-<no_tag>
-PhD in Computer Science Submenu
- 
-</no_tag>
-</a>
-</span>
-<ul>
-<li>
-<a href="/computer-science/academics/graduate/phd/curriculum.html">
-Curriculum &amp; Requirements
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/graduate/phd/index.html">
-PhD in Computer Science
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/computer-science/academics/graduate/admissions/index.html">
-Admissions
-</a>
-<span class="dropdown-arrow">
-<a aria-haspopup="true" href="#" role="button">
-<span>
-Collapse
-</span>
-<no_tag>
-Admissions Submenu
- 
-</no_tag>
-</a>
-</span>
-<ul>
-<li>
-<a href="/computer-science/academics/graduate/admissions/index.html">
-Admissions
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/graduate/admissions/faq.html">
-Admissions FAQ
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/computer-science/academics/graduate/financial-aid.html">
-Financial Aid
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/graduate/groups-organizations.html">
-Student Groups &amp; Organizations
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/graduate/forms-documents.html">
-Forms &amp; Documents
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/graduate/announce-deadlines.html">
-Announcements and Deadlines
-</a>
-</li>
-<li>
-<a href="/computer-science/academics/graduate/index.html">
-Graduate Programs
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/computer-science/academics/courses/index.html">
-Courses
-</a>
-<span class="dropdown-arrow">
-<a aria-haspopup="true" href="#" role="button">
-<span>
-Collapse
-</span>
-<no_tag>
-Courses Submenu
- 
-</no_tag>
-</a>
-</span>
-</li>
-</ul>
-</li>
-<li>
-<a href="/computer-science/research/index.html">
-Research
-</a>
-<span class="dropdown-arrow">
-<a aria-haspopup="true" href="#" role="button">
-<span>
-Collapse
-</span>
-<no_tag>
-Research Submenu
- 
-</no_tag>
-</a>
-</span>
-<ul>
-<li>
-<a href="/computer-science/research/index.html">
-Research Overview
-</a>
-</li>
-<li>
-<a href="/computer-science/research/areas/index.html">
-Research Areas
-</a>
-<span class="dropdown-arrow">
-<a aria-haspopup="true" href="#" role="button">
-<span>
-Collapse
-</span>
-<no_tag>
-Research Areas Submenu
- 
-</no_tag>
-</a>
-</span>
-<ul>
-<li>
-<a href="/computer-science/research/areas/index.html">
-Research Areas
-</a>
-</li>
-<li>
-<a href="/computer-science/research/areas/systems-networking.html">
-Systems and Networking
-</a>
-</li>
-<li>
-<a href="/computer-science/research/areas/security-privacy.html">
-Security and Privacy
-</a>
-</li>
-<li>
-<a href="/computer-science/research/areas/programming-languages.html">
-Programming Languages
-</a>
-</li>
-<li>
-<a href="/computer-science/research/areas/theory.html">
-Theory
-</a>
-</li>
-<li>
-<a href="/computer-science/research/areas/artificial-intelligence.html">
-Artificial Intelligence
-</a>
-</li>
-<li>
-<a href="/computer-science/research/areas/human-computer-interaction.html">
-Human-Computer Interaction
-</a>
-</li>
-<li>
-<a href="/computer-science/research/areas/graphics.html">
-Graphics
-</a>
-</li>
-<li>
-<a href="/computer-science/research/areas/robotics.html">
-Robotics
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/computer-science/research/groups-labs.html">
-Groups &amp; Labs
-</a>
-</li>
-<li>
-<a href="/computer-science/research/affiliated-centers-institutes.html">
-Affiliated Centers &amp; Institutes
-</a>
-</li>
-<li>
-<a href="/computer-science/research/industry-partnerships/index.html">
-Industry Partnerships
-</a>
-<span class="dropdown-arrow">
-<a aria-haspopup="true" href="#" role="button">
-<span>
-Collapse
-</span>
-<no_tag>
-Industry Partnerships Submenu
- 
-</no_tag>
-</a>
-</span>
-<ul>
-<li>
-<a href="/computer-science/research/industry-partnerships/index.html">
-Industry Partnerships
-</a>
-</li>
-<li>
-<a href="/computer-science/research/industry-partnerships/adobe-research-partnership.html">
-Adobe Research Partnership
-</a>
-</li>
-<li>
-<a href="/computer-science/research/industry-partnerships/casmi.html">
-Center for Advancing Safety of Machine Intelligence
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/computer-science/research/tech-reports/index.html">
-Tech Reports
-</a>
-<span class="dropdown-arrow">
-<a aria-haspopup="true" href="#" role="button">
-<span>
-Collapse
-</span>
-<no_tag>
-Tech Reports Submenu
- 
-</no_tag>
-</a>
-</span>
-<ul>
-<li>
-<a href="/computer-science/research/tech-reports/submit-tech-report.html">
-Submit a Tech Report
-</a>
-</li>
-<li>
-<a href="/computer-science/research/tech-reports/index.html">
-Tech Reports 
-</a>
-</li>
-<li>
-<a href="/computer-science/research/tech-reports/post-2000.html">
-Post-2000
-</a>
-</li>
-<li>
-<a href="/computer-science/research/tech-reports/pre-1999.html">
-Pre-1999
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/computer-science/research/machines.html">
-Machines
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/computer-science/cs-plus-x/index.html">
-CS+X
-</a>
-</li>
-<li>
-<a href="/computer-science/people/index.html">
-People
-</a>
-<span class="dropdown-arrow">
-<a aria-haspopup="true" href="#" role="button">
-<span>
-Collapse
-</span>
-<no_tag>
-People Submenu
- 
-</no_tag>
-</a>
-</span>
-<ul>
-<li>
-<a href="/computer-science/people/faculty.html">
-Faculty
-</a>
-</li>
-<li>
-<a href="/computer-science/people/affiliated.html">
-Affiliated Faculty
-</a>
-</li>
-<li>
-<a href="/computer-science/people/faculty-of-instruction.html">
-Faculty of Instruction
-</a>
-</li>
-<li>
-<a href="/computer-science/people/postdoctoral-fellows.html">
-Postdoctoral Fellows
-</a>
-</li>
-<li>
-<a href="/computer-science/people/staff.html">
-Staff
-</a>
-</li>
-<li>
-<a href="/computer-science/people/visiting-scholars.html">
-Visiting Scholars
-</a>
-</li>
-<li>
-<a href="/computer-science/people/phd-students.html">
-PhD Students
-</a>
-</li>
-<li>
-<a href="/computer-science/people/outgoing-phds-postdocs.html">
-Outgoing Ph.D.s and Postdocs 2021-2022
-</a>
-</li>
-<li>
-<a href="/computer-science/people/adjunct-faculty.html">
-Adjunct Faculty
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/computer-science/news-events/index.html">
-News &amp; Events
-</a>
-<span class="dropdown-arrow">
-<a aria-haspopup="true" href="#" role="button">
-<span>
-Collapse
-</span>
-<no_tag>
-News &amp; Events Submenu
- 
-</no_tag>
-</a>
-</span>
-<ul>
-<li>
-<a href="/computer-science/news-events/index.html">
-All News
-</a>
-</li>
-<li>
-<a href="/computer-science/news-events/newsletter.html">
-Newsletter
-</a>
-</li>
-<li>
-<a href="/computer-science/news-events/events/index.html">
-All Public Events
-</a>
-</li>
-<li>
-<a href="/computer-science/news-events/seminars-workshops-talks/index.html">
-Seminars, Workshops, &amp; Talks
-</a>
-<span class="dropdown-arrow">
-<a aria-haspopup="true" href="#" role="button">
-<span>
-Collapse
-</span>
-<no_tag>
-Seminars, Workshops, &amp; Talks Submenu
- 
-</no_tag>
-</a>
-</span>
-<ul>
-<li>
-<a href="/computer-science/news-events/seminars-workshops-talks/index.html">
-Seminars, Workshops, &amp; Talks
-</a>
-</li>
-<li>
-<a href="/computer-science/news-events/seminars-workshops-talks/distinguished-lecture-series.html">
-Distinguished Lecture Series
-</a>
-</li>
-<li>
-<a href="/computer-science/news-events/seminars-workshops-talks/cs-colloquium-series.html">
-CS Colloquium Series
-</a>
-</li>
-<li>
-<a href="/computer-science/news-events/seminars-workshops-talks/csx-events.html">
-CS + X Events
-</a>
-</li>
-<li>
-<a href="/computer-science/news-events/seminars-workshops-talks/tech-talk-series.html">
-Tech Talk Series
-</a>
-</li>
-<li>
-<a href="/computer-science/news-events/seminars-workshops-talks/adobe-workshop-feb-2021.html">
-Second Adobe and Northwestern Computer Science Workshop 2021
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/computer-science/news-events/honors-awards/index.html">
-Honors and Awards
-</a>
-<span class="dropdown-arrow">
-<a aria-haspopup="true" href="#" role="button">
-<span>
-Collapse
-</span>
-<no_tag>
-Honors and Awards Submenu
- 
-</no_tag>
-</a>
-</span>
-<ul>
-<li>
-<a href="/computer-science/news-events/honors-awards/index.html">
-Honors &amp; Awards
-</a>
-</li>
-<li>
-<a href="/computer-science/news-events/honors-awards/external-faculty-awards.html">
-External Faculty Awards
-</a>
-</li>
-<li>
-<a href="/computer-science/news-events/honors-awards/university-awards.html">
-University Awards
-</a>
-</li>
-<li>
-<a href="/computer-science/news-events/honors-awards/department-awards.html">
-Department Awards
-</a>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>
-<a href="/computer-science/contact/index.html">
-Contact
-</a>
-</li>
-<div id="mobile-nav-bottom">
-<ul>
-<li>
-<a href="/computer-science/resources/index.html">
-Internal Resources
-</a>
-<span class="dropdown-arrow">
-<a aria-haspopup="true" href="#" role="button">
-<span>
-Collapse
-</span>
-<no_tag>
-Resources Submenu
- 
-</no_tag>
-</a>
-</span>
-<ul>
-<li>
-<a href="/computer-science/resources/index.html">
-INTERNAL RESOURCES
-</a>
-</li>
-<li>
-<a href="/computer-science/resources/travel-reimbursement-procedures.html">
-Travel
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/computer-science/careers/index.html">
-Careers
-</a>
-</li>
-<li>
-<a href="/computer-science/students/index.html">
-Students
-</a>
-<span class="dropdown-arrow">
-<a aria-haspopup="true" href="#" role="button">
-<span>
-Collapse
-</span>
-<no_tag>
-Student Resources Submenu
- 
-</no_tag>
-</a>
-</span>
-<ul>
-<li>
-<a href="/computer-science/students/index.html">
-Student Resources
-</a>
-</li>
-<li>
-<a href="/computer-science/students/jobs-internships.html">
-Jobs and Internships
-</a>
-</li>
-<li>
-<a href="/computer-science/students/miscellaneous-resources.html">
-Miscellaneous Resources
-</a>
-</li>
-<li>
-<a href="/computer-science/students/national-fellowship-calendar.html">
-National Fellowship Calendar
-</a>
-</li>
-<li>
-<a href="/computer-science/students/reserve-rooms.html">
-Space and Room Reservations
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/computer-science/diversity/index.html">
-Diversity
-</a>
-<span class="dropdown-arrow">
-<a aria-haspopup="true" href="#" role="button">
-<span>
-Collapse
-</span>
-<no_tag>
-Diversity Submenu
- 
-</no_tag>
-</a>
-</span>
-<ul>
-<li>
-<a href="/computer-science/diversity/index.html">
-Diversity
-</a>
-</li>
-<li>
-<a href="/computer-science/diversity/initiatives.html">
-Initiatives
-</a>
-</li>
-<li>
-<a href="/computer-science/diversity/student-groups.html">
-Student Groups
-</a>
-</li>
-<li>
-<a href="/computer-science/diversity/cs-faculty-diversity-committee.html">
-CS Faculty Diversity Committee
-</a>
-</li>
-<li>
-<a href="/computer-science/diversity/resources.html">
+<li class="top">
+<a>
 Resources
 </a>
-</li>
+<div class="nav-box">
+<div class="col col1">
+<h4>
+Resources
+</h4>
+<ul>
 <li>
-<a href="/computer-science/diversity/news-events.html">
-News &amp; Events
+<a href="http://www.emory.edu/" target="_blank" title="Emory University main site">
+Emory University main site
 </a>
 </li>
 <li>
-<a href="/computer-science/diversity/bpc-plan.html">
-Broadening Participation in Computing (BPC) Plan
+<a href="http://www.emory.edu/home/about/administration/index.html" target="_blank" title="Administrative Offices">
+Administrative Offices
 </a>
 </li>
-</ul>
+<li>
+<a href="http://www.emoryhealthcare.org/" target="_blank" title="Emory Healthcare">
+Emory Healthcare
+</a>
 </li>
 <li>
-<a href="https://www.mccormick.northwestern.edu/">
-Northwestern Engineering
+<a href="http://www.emory.edu/home/giving/index.html" target="_blank" title="Give to Emory">
+Give to Emory
+</a>
+</li>
+<li>
+<a href="http://registrar.emory.edu/Students/Calendars/" target="_blank" title="Academic Calendars">
+Academic Calendars
+</a>
+</li>
+<li>
+<a href="http://www.bookstore.emory.edu/" target="_blank" title="Bookstore">
+Bookstore
+</a>
+</li>
+<li>
+<a href="http://map.emory.edu/" target="_blank" title="Campus Maps">
+Campus Maps
+</a>
+</li>
+<li>
+<a href="http://transportation.emory.edu/" target="_blank" title="Shuttles and Parking">
+Shuttles and Parking
+</a>
+</li>
+<li>
+<a href="http://www.emoryathletics.com/" target="_blank" title="Athletics: Emory Eagles">
+Athletics: Emory Eagles
+</a>
+</li>
+<li>
+<a href="http://www.arts.emory.edu/" target="_blank" title="Arts at Emory">
+Arts at Emory
+</a>
+</li>
+<li>
+<a href="http://news.emory.edu/" target="_blank" title="Emory News Center">
+Emory News Center
 </a>
 </li>
 </ul>
 </div>
+<div class="col col2">
+<h4>
+Resources
+</h4>
+<ul>
+<li>
+<a href="http://www.emory.edu/home/emergency/index.html" target="_blank" title="Emergency">
+Emergency
+</a>
+</li>
+<li>
+<a href="http://www.it.emory.edu/" target="_blank" title="Information Technology (IT)">
+Information Technology (IT)
+</a>
+</li>
+<li>
+<a href="http://email.emory.edu/" target="_blank" title="Office 365 Web Access">
+Office 365 Web Access
+</a>
+</li>
+<li>
+<a href="http://it.emory.edu/office365/" target="_blank" title="Office 365">
+Office 365
+</a>
+</li>
+<li>
+<a href="https://classes.emory.edu" target="_blank">
+Canvas
+</a>
+</li>
+<li>
+<a href="https://www.opus.emory.edu" target="_blank" title="OPUS">
+OPUS
+</a>
+</li>
+<li>
+<a href="https://compass-login.emory.edu/" target="_blank" title="PeopleSoft Financials: Compass">
+PeopleSoft Financials: Compass
+</a>
+</li>
+<li>
+<a href="http://www.hr.emory.edu/eu/careers/" target="_blank" title="Careers">
+Careers
+</a>
+</li>
+<li>
+<a href="http://www.hr.emory.edu/eu/" target="_blank" title="Human Resources">
+Human Resources
+</a>
+</li>
+<li>
+<a href="http://news.emory.edu/campus/index.html" target="_blank" title="Emory Report">
+Emory Report
+</a>
+</li>
+<li>
+<a href="https://dwbi.emory.edu/analytics/" target="_blank" title="Emory Business Intelligence">
+Emory Business Intelligence
+</a>
+</li>
 </ul>
 </div>
-<div class="overlay">
 </div>
+</li>
+<li class="top search">
+<div class="nav-box search">
+<form action="http://search.emory.edu/search" id="form-search" method="get" name="searchForm">
+<input name="searchString" type="hidden"/>
+<input name="numgm" type="hidden" value="5"/>
+<input name="client" type="hidden" value="default_frontend"/>
+<input name="output" type="hidden" value="xml_no_dtd"/>
+<input name="proxystylesheet" type="hidden" value="homepage"/>
+<div class="input-append">
+<label>
+<input autocomplete="off" class="input-medium" id="q" maxlength="2048" name="q" placeholder="Search" type="search"/>
+</label>
+<button class="btn" type="submit">
+<strong class="label">
+Search
+</strong>
+<span class="icon-search">
+</span>
+</button>
+</div>
+<fieldset class="search-scope">
+<label class="checked">
+<input checked="checked" id="search-site" name="site" type="radio" value="default_collection"/>
+ This Site
+</label>
+<label>
+<input id="search-emory" name="site" type="radio" value="default_collection"/>
+ All Emory Sites
+</label>
+<label>
+<input id="search-directory" name="site" type="radio" value="directory"/>
+ People
+</label>
+</fieldset>
+</form>
+</div>
+</li>
+</ul>
+</nav>
 </header>
-<div class="modal" id="modal">
-<div class="modal-dialog">
-<div class="modal-content">
-<div class="modal-body">
-</div>
-<a class="link-bttn" href="../cs-plus-x/index.html" target="">
-Explore CS+X
-</a>
-</div>
-</div>
-</div>
-<div class="modal-backdrop" id="modal-backdrop">
-</div>
-<div id="container">
-<div id="left-col">
-<nav class="redesign">
+<nav class="container blue" id="main-nav" role="navigation">
 <ul>
-<li class="active expanded section">
-<a href="index.html">
-People
-</a>
-<ul>
-<li class="index">
-<a href="index.html">
-People
-</a>
-</li>
-<li class="active current">
-<a href="faculty.html">
-Faculty
+<li>
+<a href="../about/index.html">
+About The College
 </a>
 </li>
 <li>
-<a href="affiliated.html">
-Affiliated Faculty
+<a href="../academic/index.html">
+Academics
 </a>
 </li>
 <li>
-<a href="faculty-of-instruction.html">
-Faculty of Instruction
+<a class="active" href="index.php">
+Departments &amp; Programs
 </a>
 </li>
 <li>
-<a href="postdoctoral-fellows.html">
-Postdoctoral Fellows
+<a href="../community/index.html">
+Emory Community
 </a>
 </li>
 <li>
-<a href="staff.html">
-Staff
-</a>
-</li>
-<li>
-<a href="visiting-scholars.html">
-Visiting Scholars
-</a>
-</li>
-<li>
-<a href="phd-students.html">
-PhD Students
-</a>
-</li>
-<li>
-<a href="outgoing-phds-postdocs.html">
-Outgoing Ph.D.s and Postdocs 2021-2022
-</a>
-</li>
-<li>
-<a href="adjunct-faculty.html">
-Adjunct Faculty
+<a href="../archive/index.html">
+Catalog Archive
 </a>
 </li>
 </ul>
+</nav>
+<!-- content - may need subdivs for cols -->
+<!-- section -->
+<div class="container">
+<div id="emergency-alert">
+<script src="https://www.emory.edu/template_shared/emergency_include.js">
+</script>
+</div>
+<div class="row &#10; col1col2">
+<div class="span3" id="context">
+<nav class="gold" id="sub-nav" role="navigation">
+<ul id="section-nav">
+<li class="selected" id="section-index">
+<a href="index.php">
+Departments &amp; Programs
+</a>
+</li>
+<li>
+<a href="concentration.php">
+Majors &amp; Minors
+</a>
+</li>
+<li>
+<a href="faculty.php">
+Our Faculty
+</a>
+</li>
+<li>
+<a href="four-one-programs/index.html">
+4+1 Programs
+</a>
+</li>
+<li>
+<a href="centers.php">
+Centers &amp; Institutes
+</a>
 </li>
 </ul>
 </nav>
 </div>
-<div id="main-content-wrap">
-<div id="main-content" role="main">
-<h1 id="page-title">
-<div>
-<div class="section-bc-segment">
-People
-</div>
-</div>
-<no_tag>
-Faculty
-</no_tag>
-</h1>
-<div id="faculty-directory">
-<div class="faculty cf" id="samir-khuller">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/khuller-samir.html">
-<img alt="Photo of Samir Khuller" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/khuller-samir-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/khuller-samir.html">
-Samir&#160;Khuller
-</a>
-</h3>
-<p>
-Peter and Adrienne Barris Chair of Computer Science
-</p>
-<p>
-Professor of Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:samir.khuller@northwestern.edu">
-Email 
- 
- 
- 
-													Samir&#160;Khuller
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="mohammed-alam">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/alam-mohammed.html">
-<img alt="Photo of Mohammed Alam" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/alam-mohammed-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/alam-mohammed.html">
-Mohammed&#160;Alam
-</a>
-</h3>
-<p>
-Assistant Professor of Instruction
-</p>
-<p>
-Deputy Director of the Master of Science in Artificial Intelligence Program
-</p>
-<p>
-<a class="mail_link" href="mailto:mohammed.alam@northwestern.edu">
-Email 
- 
- 
- 
-													Mohammed&#160;Alam
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="emma-alexander">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/alexander-emma.html">
-<img alt="Photo of Emma Alexander" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/alexander-emma-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/alexander-emma.html">
-Emma&#160;Alexander
-</a>
-</h3>
-<p>
-Assistant Professor of Computer Science (beginning on March 1, 2022)
-</p>
-<p>
-<a class="mail_link" href="mailto:ealexander@northwestern.edu">
-Email 
- 
- 
- 
-													Emma&#160;Alexander
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="nabil-alshurafa">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/ashurafa-nabil.html">
-<img alt="Photo of Nabil Alshurafa" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/affiliated/ashurafa-nabil-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/ashurafa-nabil.html">
-Nabil&#160;Alshurafa
-</a>
-</h3>
-<p>
-Assistant Professor of Preventive Medicine and (by courtesy) Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:nabil@northwestern.edu">
-Email 
- 
- 
- 
-													Nabil&#160;Alshurafa
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="brenna-argall">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/argall-brenna.html">
-<img alt="Photo of Brenna Argall" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/argall-brenna-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/argall-brenna.html">
-Brenna&#160;Argall
-</a>
-</h3>
-<p>
-Associate Professor of Computer Science
-</p>
-<p>
-Associate Professor of Mechanical Engineering
-</p>
-<p>
-Associate Professor of Physical Medicine and Rehabilitation
-</p>
-<p>
-<a class="mail_link" href="mailto:brenna.argall@northwestern.edu">
-Email 
- 
- 
- 
-													Brenna&#160;Argall
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="connor-bain">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/bain-connor.html">
-<img alt="Photo of Connor Bain" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/bain-connor-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/bain-connor.html">
-Connor&#160;Bain
-</a>
-</h3>
-<p>
-Assistant Professor of Instruction
-</p>
-<p>
-<a class="mail_link" href="mailto:connor.bain@northwestern.edu">
-Email 
- 
- 
- 
-													Connor&#160;Bain
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="sruti-bhagavatula">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/bhagavatula-sruti.html">
-<img alt="Photo of Sruti Bhagavatula" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/bhagavatula-sruti-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/bhagavatula-sruti.html">
-Sruti&#160;Bhagavatula
-</a>
-</h3>
-<p>
-Assistant Professor of Instruction
-</p>
-<p>
-<a class="mail_link" href="mailto:srutib@northwestern.edu">
-Email 
- 
- 
- 
-													Sruti&#160;Bhagavatula
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="larry-birnbaum">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/birnbaum-larry.html">
-<img alt="Photo of Larry Birnbaum" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/birnbaum-larry-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/birnbaum-larry.html">
-Larry&#160;Birnbaum
-</a>
-</h3>
-<p>
-Professor of Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:l-birnbaum@northwestern.edu">
-Email 
- 
- 
- 
-													Larry&#160;Birnbaum
-</a>
-</p>
-</div>
-</div>
-<div class="faculty" id="jeremy-birnholtz">
-<div class="faculty-photo">
-<a href="https://design.northwestern.edu/people/profiles/birnholtz-jeremy.html" target="_blank">
-<img alt="Photo of Jeremy Birnholtz" src="../images/jeremy-birnholtz.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://design.northwestern.edu/people/profiles/birnholtz-jeremy.html" target="_blank">
-Jeremy&#160;Birnholtz
-</a>
-</h3>
-<p>
-Associate Professor, Communication Studies and (by courtesy) Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:jeremyb@northwestern.edu">
-Email 
- 
- 
- 
-													Jeremy&#160;Birnholtz
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="fabian-bustamante">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/bustamante-fabian.html">
-<img alt="Photo of Fabian Bustamante" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/bustamante-fabian-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/bustamante-fabian.html">
-Fabian&#160;Bustamante
-</a>
-</h3>
-<p>
-Professor of Computer Science
-</p>
-<p>
-Director of Graduate Admissions
-</p>
-<p>
-<a class="mail_link" href="mailto:fabianb@northwestern.edu">
-Email 
- 
- 
- 
-													Fabian&#160;Bustamante
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="simone-campanoni">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/campanoni-simone.html">
-<img alt="Photo of Simone Campanoni" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/campanoni-simone-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/campanoni-simone.html">
-Simone&#160;Campanoni
-</a>
-</h3>
-<p>
-Assistant Professor of Computer Science and (by courtesy) Electrical and Computer Engineering
-</p>
-<p>
-<a class="mail_link" href="mailto:simone.campanoni@northwestern.edu">
-Email 
- 
- 
- 
-													Simone&#160;Campanoni
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="yan-chen">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-yan.html">
-<img alt="Photo of Yan Chen" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/chen-yan-t1.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-yan.html">
-Yan&#160;Chen
-</a>
-</h3>
-<p>
-Professor of Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:ychen@northwestern.edu">
-Email 
- 
- 
- 
-													Yan&#160;Chen
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="alok-choudhary">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/choudhary-alok.html">
-<img alt="Photo of Alok Choudhary" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/choudhary-alok-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/choudhary-alok.html">
-Alok&#160;Choudhary
-</a>
-</h3>
-<p>
-Henry and Isabelle Dever Professor of Electrical and Computer Engineering and (by courtesy) Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:a-choudhary@northwestern.edu">
-Email 
- 
- 
- 
-													Alok&#160;Choudhary
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="katherine-compton">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/compton-katherine.html">
-<img alt="Photo of Katherine Compton" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/compton-kate-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/compton-katherine.html">
-Katherine&#160;Compton
-</a>
-</h3>
-<p>
-Assistant Professor of Instruction
-</p>
-<p>
-<a class="mail_link" href="mailto:katherine.compton@northwestern.edu">
-Email 
- 
- 
- 
-													Katherine&#160;Compton
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="noshir-contractor">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/contractor-noshir.html">
-<img alt="Photo of Noshir Contractor" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/contractor-noshir-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/contractor-noshir.html">
-Noshir&#160;Contractor
-</a>
-</h3>
-<p>
-Jane &amp; William White Professor of Behavioral Sciences
-</p>
-<p>
-<a class="mail_link" href="mailto:nosh@northwestern.edu">
-Email 
- 
- 
- 
-													Noshir&#160;Contractor
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="oliver-cossairt">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/cossairt-oliver.html">
-<img alt="Photo of Oliver Cossairt" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/cossairt-oliver-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/cossairt-oliver.html">
-Oliver&#160;Cossairt
-</a>
-</h3>
-<p>
-Associate Professor of Computer Science
-</p>
-<p>
-Associate Professor of Electrical and Computer Engineering
-</p>
-<p>
-<a class="mail_link" href="mailto:oliver.cossairt@northwestern.edu">
-Email 
- 
- 
- 
-													Oliver&#160;Cossairt
-</a>
-</p>
-</div>
-</div>
-<div class="faculty" id="jennifer--cutler">
-<div class="faculty-photo">
-<a href="https://www.kellogg.northwestern.edu/faculty/directory/cutler_jennifer.aspx" target="_blank">
-<img alt="Photo of Jennifer Cutler" src="../images/cutler_jennifer.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.kellogg.northwestern.edu/faculty/directory/cutler_jennifer.aspx" target="_blank">
-Jennifer &#160;Cutler
-</a>
-</h3>
-<p>
-Associate Professor of Marketing and (by courtesy) Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:jennifer.cutler@kellogg.northwestern.edu">
-Email 
- 
- 
- 
-													Jennifer &#160;Cutler
-</a>
-</p>
-</div>
-</div>
-<div class="faculty" id="nick-diakopoulos">
-<div class="faculty-photo">
-<a href="https://communication.northwestern.edu/faculty/NicholasDiakopoulos" target="_blank">
-<img alt="Photo of Nick Diakopoulos" src="../images/nick-diakopoulos.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://communication.northwestern.edu/faculty/NicholasDiakopoulos" target="_blank">
-Nick&#160;Diakopoulos
-</a>
-</h3>
-<p>
-Assistant Professor, Communication Studies and (by courtesy) Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:nad@northwestern.edu">
-Email 
- 
- 
- 
-													Nick&#160;Diakopoulos
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="christos-dimoulas">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/dimoulas-christos.html">
-<img alt="Photo of Christos Dimoulas" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/affiliated/dimoulas-christos-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/dimoulas-christos.html">
-Christos&#160;Dimoulas
-</a>
-</h3>
-<p>
-Assistant Professor of Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:christos.dimoulas@northwestern.edu">
-Email 
- 
- 
- 
-													Christos&#160;Dimoulas
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="peter-dinda">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/dinda-peter.html">
-<img alt="Photo of Peter Dinda" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/dinda-peter-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/dinda-peter.html">
-Peter&#160;Dinda
-</a>
-</h3>
-<p>
-Professor of Computer Science and (by courtesy) Electrical and Computer Engineering
-</p>
-<p>
-Director of Graduate Studies
-</p>
-<p>
-<a class="mail_link" href="mailto:pdinda@northwestern.edu">
-Email 
- 
- 
- 
-													Peter&#160;Dinda
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="douglas-downey">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/downey-douglas.html">
-<img alt="Photo of Douglas Downey" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/downey-douglas-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/downey-douglas.html">
-Douglas&#160;Downey
-</a>
-</h3>
-<p>
-Professor of Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:d-downey@northwestern.edu">
-Email 
- 
- 
- 
-													Douglas&#160;Downey
-</a>
-</p>
-</div>
-</div>
-<div class="faculty" id="matthew-easterday">
-<div class="faculty-photo">
-<a href="https://design.northwestern.edu/people/profiles/easterday-matt.html" target="_blank">
-<img alt="Photo of Matthew Easterday" src="../images/easterday-matthew.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://design.northwestern.edu/people/profiles/easterday-matt.html" target="_blank">
-Matthew&#160;Easterday
-</a>
-</h3>
-<p>
-Assistant Professor of Learning Sciences and (by courtesy) Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:easterday@northwestern.edu">
-Email 
- 
- 
- 
-													Matthew&#160;Easterday
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="robby-findler">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/findler-robert.html">
-<img alt="Photo of Robby Findler" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/findler-robert-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/findler-robert.html">
-Robby&#160;Findler
-</a>
-</h3>
-<p>
-Professor of Computer Science
-</p>
-<p>
-Associate Chair
-</p>
-<p>
-<a class="mail_link" href="mailto:robby@eecs.northwestern.edu">
-Email 
- 
- 
- 
-													Robby&#160;Findler
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="ken-forbus">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/forbus-ken.html">
-<img alt="Photo of Ken Forbus" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/forbus-ken-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/forbus-ken.html">
-Ken&#160;Forbus
-</a>
-</h3>
-<p>
-Walter P. Murphy Professor of Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:forbus@northwestern.edu">
-Email 
- 
- 
- 
-													Ken&#160;Forbus
-</a>
-</p>
-</div>
-</div>
-<div class="faculty" id="steven-franconeri">
-<div class="faculty-photo">
-<a href="https://psychology.northwestern.edu/people/faculty/core/profiles/steven-franconeri.html" target="_blank">
-<img alt="Photo of Steven Franconeri" src="../images/franconeri-steve.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://psychology.northwestern.edu/people/faculty/core/profiles/steven-franconeri.html" target="_blank">
-Steven&#160;Franconeri
-</a>
-</h3>
-<p>
-Professor, Psychology and (by courtesy) Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:franconeri@northwestern.edu">
-Email 
- 
- 
- 
-													Steven&#160;Franconeri
-</a>
-</p>
-</div>
-</div>
-<div class="faculty" id="julia--gaudio">
-<div class="faculty-photo">
-<a href="https://sites.northwestern.edu/juliagaudio/" target="_blank">
-<img alt="Photo of Julia Gaudio" src="../images/gaudio-julia.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://sites.northwestern.edu/juliagaudio/" target="_blank">
-Julia &#160;Gaudio
-</a>
-</h3>
-<p>
-Research Assistant Professor in Industrial Engineering and Management Sciences, and (by courtesy) Computer Science. 
-</p>
-<p>
-<a class="mail_link" href="mailto:julia.gaudio@northwestern.edu">
-Email 
- 
- 
- 
-													Julia &#160;Gaudio
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="elizabeth-gerber">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/gerber-elizabeth.html">
-<img alt="Photo of Elizabeth Gerber" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/gerber-elizabeth-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/gerber-elizabeth.html">
-Elizabeth&#160;Gerber
-</a>
-</h3>
-<p>
-Professor of Mechanical Engineering and (by courtesy) Computer Science
-</p>
-<p>
-Professor of Communication Studies
-</p>
-<p>
-Co-Director, Center for Human Computer Interaction + Design
-</p>
-<p>
-<a class="mail_link" href="mailto:egerber@northwestern.edu">
-Email 
- 
- 
- 
-													Elizabeth&#160;Gerber
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="darren-gergle">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/gergle-darren.html">
-<img alt="Photo of Darren Gergle" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/affiliated/gergle-darren-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/gergle-darren.html">
-Darren&#160;Gergle
-</a>
-</h3>
-<p>
-Professor, Communication Studies and (by courtesy) Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:dgergle@northwestern.edu">
-Email 
- 
- 
- 
-													Darren&#160;Gergle
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="branden-ghena">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/ghena-branden.html">
-<img alt="Photo of Branden Ghena" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/ghena-branden-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/ghena-branden.html">
-Branden&#160;Ghena
-</a>
-</h3>
-<p>
-Assistant Professor of Instruction
-</p>
-<p>
-<a class="mail_link" href="mailto:branden@northwestern.edu">
-Email 
- 
- 
- 
-													Branden&#160;Ghena
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="benjamin-golub">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/golub-benjamin.html">
-<img alt="Photo of Benjamin Golub" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/golub-ben-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/golub-benjamin.html">
-Benjamin&#160;Golub
-</a>
-</h3>
-<p>
-Associate Professor of Computer Science 
-</p>
-<p>
-Associate Professor of Economics
-</p>
-</div>
-</div>
-<div class="faculty cf" id="dongning-guo">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/guo-dongning.html">
-<img alt="Photo of Dongning Guo" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/guo-dongning-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/guo-dongning.html">
-Dongning&#160;Guo
-</a>
-</h3>
-<p>
-Professor of Electrical and Computer Engineering and (by courtesy) Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:dguo@northwestern.edu">
-Email 
- 
- 
- 
-													Dongning&#160;Guo
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="kristian-hammond">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hammond-kristian.html">
-<img alt="Photo of Kristian Hammond" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/hammond-kristian-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hammond-kristian.html">
-Kristian&#160;Hammond
-</a>
-</h3>
-<p>
-Professor of Computer Science
-</p>
-<p>
-Bill and Cathy Osborn Professor
-</p>
-<p>
-<a class="mail_link" href="mailto:hammond@cs.northwestern.edu">
-Email 
- 
- 
- 
-													Kristian&#160;Hammond
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="nikos-hardavellas">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hardavellas-nikos.html">
-<img alt="Photo of Nikos Hardavellas" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/hardavellas-nikos-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hardavellas-nikos.html">
-Nikos&#160;Hardavellas
-</a>
-</h3>
-<p>
-Associate Professor of Computer Science
-</p>
-<p>
-Associate Professor of Electrical and Computer Engineering
-</p>
-<p>
-<a class="mail_link" href="mailto:nikos@northwestern.edu">
-Email 
- 
- 
- 
-													Nikos&#160;Hardavellas
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="jason-hartline">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hartline-jason.html">
-<img alt="Photo of Jason Hartline" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/hartline-jason-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hartline-jason.html">
-Jason&#160;Hartline
-</a>
-</h3>
-<p>
-Professor of Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:hartline@northwestern.edu">
-Email 
- 
- 
- 
-													Jason&#160;Hartline
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="brent-hecht">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hecht-brent.html">
-<img alt="Photo of Brent Hecht" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/hecht-brent-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hecht-brent.html">
-Brent&#160;Hecht
-</a>
-</h3>
-<p>
-Associate Professor of Computer Science
-</p>
-<p>
-Associate Professor of Communication Studies
-</p>
-<p>
-<a class="mail_link" href="mailto:bhecht@northwestern.edu">
-Email 
- 
- 
- 
-													Brent&#160;Hecht
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="josiah-hester">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hester-josiah.html">
-<img alt="Photo of Josiah Hester" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/hester-josiah-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hester-josiah.html">
-Josiah&#160;Hester
-</a>
-</h3>
-<p>
-Assistant Professor of Electrical and Computer Engineering
-</p>
-<p>
-Assistant Professor of Computer Science
-</p>
-<p>
-Assistant Professor (by courtesy) of Preventive Medicine at Feinberg School of Medicine
-</p>
-<p>
-Breed Junior Professor of Design
-</p>
-<p>
-<a class="mail_link" href="mailto:josiah.hester@northwestern.edu">
-Email 
- 
- 
- 
-													Josiah&#160;Hester
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="thomas-hinrichs">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/hinrichs-thomas.html">
-<img alt="Photo of Thomas Hinrichs" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/affiliated/hinrichs-thomas-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/hinrichs-thomas.html">
-Thomas&#160;Hinrichs
-</a>
-</h3>
-<p>
-Research Associate Professor 
-</p>
-<p>
-<a class="mail_link" href="mailto:t-hinrichs@northwestern.edu">
-Email 
- 
- 
- 
-													Thomas&#160;Hinrichs
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="michael-horn">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/horn-michael.html">
-<img alt="Photo of Michael Horn" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/horn-michael-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/horn-michael.html">
-Michael&#160;Horn
-</a>
-</h3>
-<p>
-Associate Professor of Computer Science
-</p>
-<p>
-Associate Professor of Education and Social Policy
-</p>
-<p>
-<a class="mail_link" href="mailto:michael-horn@northwestern.edu">
-Email 
- 
- 
- 
-													Michael&#160;Horn
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="ian-horswill">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/horswill-ian.html">
-<img alt="Photo of Ian Horswill" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/horswill-ian-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/horswill-ian.html">
-Ian&#160;Horswill
-</a>
-</h3>
-<p>
-Associate Professor of Computer Science
-</p>
-<p>
-Charles Deering McCormick Professor of Teaching Excellence
-</p>
-<p>
-<a class="mail_link" href="mailto:ian@northwestern.edu">
-Email 
- 
- 
- 
-													Ian&#160;Horswill
-</a>
-</p>
-</div>
-</div>
-<div class="faculty" id="Ágnes--horvát">
-<div class="faculty-photo">
-<a href="https://www.communication.northwestern.edu/faculty/agnes-horvat/" target="_blank">
-<img alt="Photo of Ágnes Horvát" src="../images/horvat_agnes.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.communication.northwestern.edu/faculty/agnes-horvat/" target="_blank">
-Ágnes &#160;Horvát
-</a>
-</h3>
-<p>
-Assistant Professor in Communication Studies and (by courtesy) Computer Science 
-</p>
-<p>
-<a class="mail_link" href="mailto:a-horvat@northwestern.edu">
-Email 
- 
- 
- 
-													Ágnes &#160;Horvát
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="huiling-hu">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hu-huiling.html">
-<img alt="Photo of Huiling Hu" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/hu-huiling-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hu-huiling.html">
-Huiling&#160;Hu
-</a>
-</h3>
-<p>
-Assistant Professor of Instruction
-</p>
-<p>
-<a class="mail_link" href="mailto:huiling.hu@northwestern.edu">
-Email 
- 
- 
- 
-													Huiling&#160;Hu
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="jessica-hullman">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hullman-jessica.html">
-<img alt="Photo of Jessica Hullman" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/hullman-jessica-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hullman-jessica.html">
-Jessica&#160;Hullman
-</a>
-</h3>
-<p>
-Associate Professor of Computer Science
-</p>
-<p>
-Associate Professor of the Medill School of Journalism
-</p>
-<p>
-Ginni Rometty Professor
-</p>
-<p>
-<a class="mail_link" href="mailto:jhullman@northwestern.edu">
-Email 
- 
- 
- 
-													Jessica&#160;Hullman
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="maia-jacobs">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/jacobs-maia.html">
-<img alt="Photo of Maia Jacobs" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/jacobs-maia-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/jacobs-maia.html">
-Maia&#160;Jacobs
-</a>
-</h3>
-<p>
-Assistant Professor of Computer Science
-</p>
-<p>
-Assistant Professor of Preventive Medicine
-</p>
-<p>
-Lisa Wissner-Slivka and Benjamin Slivka Professor of Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:maia.jacobs@northwestern.edu">
-Email 
- 
- 
- 
-													Maia&#160;Jacobs
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="russell-joseph">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/joseph-russ.html">
-<img alt="Photo of Russell Joseph" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/joseph-russ-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/joseph-russ.html">
-Russell&#160;Joseph
-</a>
-</h3>
-<p>
-Associate Professor of Electrical and Computer Engineering
-</p>
-<p>
-Associate Professor of Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:rjoseph@eecs.northwestern.edu">
-Email 
- 
- 
- 
-													Russell&#160;Joseph
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="ming-yang-kao">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kao-yang-ming.html">
-<img alt="Photo of Ming-Yang Kao" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/kao-ming-yang-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kao-yang-ming.html">
-Ming-Yang&#160;Kao
-</a>
-</h3>
-<p>
-Professor of Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:kao@northwestern.edu">
-Email 
- 
- 
- 
-													Ming-Yang&#160;Kao
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="aggelos-katsaggelos">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html">
-<img alt="Photo of Aggelos Katsaggelos" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/katsaggelos-aggelos-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html">
-Aggelos&#160;Katsaggelos
-</a>
-</h3>
-<p>
-Professor of Electrical and Computer Engineering and (by courtesy) Computer Science
-</p>
-<p>
-Joseph Cummings Professor
-</p>
-<p>
-<a class="mail_link" href="mailto:aggk@eecs.northwestern.edu">
-Email 
- 
- 
- 
-													Aggelos&#160;Katsaggelos
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="matthew-kay">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kay-matthew.html">
-<img alt="Photo of Matthew Kay" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/kay-matt-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kay-matthew.html">
-Matthew&#160;Kay
-</a>
-</h3>
-<p>
-Assistant Professor of Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:mjskay@northwestern.edu">
-Email 
- 
- 
- 
-													Matthew&#160;Kay
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="aleksandar-kuzmanovic">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kuzmanovic-aleksandar.html">
-<img alt="Photo of Aleksandar Kuzmanovic" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/kuzmanovic-aleksandar-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kuzmanovic-aleksandar.html">
-Aleksandar&#160;Kuzmanovic
-</a>
-</h3>
-<p>
-Professor of Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:akuzma@cs.northwestern.edu">
-Email 
- 
- 
- 
-													Aleksandar&#160;Kuzmanovic
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="annie-liang">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liang-annie.html">
-<img alt="Photo of Annie Liang" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/annie-liang-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liang-annie.html">
-Annie&#160;Liang
-</a>
-</h3>
-<p>
-Assistant Professor of Computer Science
-</p>
-<p>
-Assistant Professor of Economics
-</p>
-<p>
-Karr Family Professor
-</p>
-</div>
-</div>
-<div class="faculty cf" id="daniel-w.-linna-jr.">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/linna-daniel.html">
-<img alt="Photo of Daniel W. Linna Jr." src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/linna-daniel-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/linna-daniel.html">
-Daniel W.&#160;Linna Jr.
-</a>
-</h3>
-<p>
-Senior Lecturer in the Pritzker School of Law and Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:daniel.linna@law.northwestern.edu">
-Email 
- 
- 
- 
-													Daniel W.&#160;Linna Jr.
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="han-liu">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html">
-<img alt="Photo of Han Liu" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/liu-han-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html">
-Han&#160;Liu
-</a>
-</h3>
-<p>
-Associate Professor of Computer Science
-</p>
-<p>
-Associate Professor of Statistics
-</p>
-<p>
-<a class="mail_link" href="mailto:hanliu@northwestern.edu">
-Email 
- 
- 
- 
-													Han&#160;Liu
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="yuan-luo">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/luo-yuan.html">
-<img alt="Photo of Yuan Luo" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/affiliated/luo-yuan-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/luo-yuan.html">
-Yuan&#160;Luo
-</a>
-</h3>
-<p>
-Assistant Professor, Feinberg School of Medicine and (by courtesy) Industrial Engineering &amp; Management Sciences and Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:yuan.luo@northwestern.edu">
-Email 
- 
- 
- 
-													Yuan&#160;Luo
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="konstantin-makarychev">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/makarychev-konstantin.html">
-<img alt="Photo of Konstantin Makarychev" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/makarychev-konstantin-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/makarychev-konstantin.html">
-Konstantin&#160;Makarychev
-</a>
-</h3>
-<p>
-Professor of Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:konstantin@northwestern.edu">
-Email 
- 
- 
- 
-													Konstantin&#160;Makarychev
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="gokhan-memik">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/memik-gokhan.html">
-<img alt="Photo of Gokhan Memik" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/memik-gokhan-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/memik-gokhan.html">
-Gokhan&#160;Memik
-</a>
-</h3>
-<p>
-Professor of Electrical and Computer Engineering
-</p>
-<p>
-Professor of Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:g-memik@northwestern.edu">
-Email 
- 
- 
- 
-													Gokhan&#160;Memik
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="seda-memik">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/memik-ogrenci-seda.html">
-<img alt="Photo of Seda Memik" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/memik-seda-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/memik-ogrenci-seda.html">
-Seda&#160;Memik
-</a>
-</h3>
-<p>
-Professor of Electrical and Computer Engineering
-</p>
-<p>
-Professor of Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:seda@northwestern.edu">
-Email 
- 
- 
- 
-													Seda&#160;Memik
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="eleanor-o'rourke">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/orourke-eleanor.html">
-<img alt="Photo of Eleanor O'Rourke" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/affiliated/orourke-eleanor-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/orourke-eleanor.html">
-Eleanor&#160;O'Rourke
-</a>
-</h3>
-<p>
-Assistant Professor of Computer Science 
-</p>
-<p>
-Assistant Professor of Education and Social Policy
-</p>
-<p>
-<a class="mail_link" href="mailto:eorourke@northwestern.edu">
-Email 
- 
- 
- 
-													Eleanor&#160;O'Rourke
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="bryan-pardo">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/pardo-bryan.html">
-<img alt="Photo of Bryan Pardo" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/pardo-bryan-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/pardo-bryan.html">
-Bryan&#160;Pardo
-</a>
-</h3>
-<p>
-Professor of Computer Science
-</p>
-<p>
-Professor of Radio, Television and Film
-</p>
-<p>
-<a class="mail_link" href="mailto:pardo@northwestern.edu">
-Email 
- 
- 
- 
-													Bryan&#160;Pardo
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="chris-riesbeck">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/riesbeck-chris.html">
-<img alt="Photo of Chris Riesbeck" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/riesbeck-chris-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/riesbeck-chris.html">
-Chris&#160;Riesbeck
-</a>
-</h3>
-<p>
-Associate Professor of Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:c-riesbeck@northwestern.edu">
-Email 
- 
- 
- 
-													Chris&#160;Riesbeck
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="jennie-rogers">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-jennie.html">
-<img alt="Photo of Jennie Rogers" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/rogers-jennie-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-jennie.html">
-Jennie&#160;Rogers
-</a>
-</h3>
-<p>
-Associate Professor of Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:jennie@northwestern.edu">
-Email 
- 
- 
- 
-													Jennie&#160;Rogers
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="michael-rubenstein">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rubenstein-michael.html">
-<img alt="Photo of Michael Rubenstein" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/affiliated/rubenstein-michael1-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rubenstein-michael.html">
-Michael&#160;Rubenstein
-</a>
-</h3>
-<p>
-Assistant Professor of Computer Science
-</p>
-<p>
-Assistant Professor of Mechanical Engineering
-</p>
-<p>
-<a class="mail_link" href="mailto:rubenstein@northwestern.edu">
-Email 
- 
- 
- 
-													Michael&#160;Rubenstein
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="sara-owsley-sood-">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/sood-owsley-sara.html">
-<img alt="Photo of Sara Owsley Sood " src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/sood-sara-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/sood-owsley-sara.html">
-Sara Owsley&#160;Sood 
-</a>
-</h3>
-<p>
-Professor of Instruction
-</p>
-<p>
-Chookaszian Family Teaching Professor
-</p>
-<p>
-Associate Chair for Undergraduate Education
-</p>
-<p>
-<a class="mail_link" href="mailto:sara.sood@northwestern.edu">
-Email 
- 
- 
- 
-													Sara Owsley&#160;Sood 
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="vincent-st-amour">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/st-amour-vincent.html">
-<img alt="Photo of Vincent St-Amour" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/st-amour-vincent-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/st-amour-vincent.html">
-Vincent&#160;St-Amour
-</a>
-</h3>
-<p>
-Assistant Professor of Instruction
-</p>
-<p>
-<a class="mail_link" href="mailto:stamourv@eecs.northwestern.edu">
-Email 
- 
- 
- 
-													Vincent&#160;St-Amour
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="v.s.-subrahmanian">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/subrahmanian-vs.html">
-<img alt="Photo of V.S. Subrahmanian" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/subrahmanian-vs-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/subrahmanian-vs.html">
-V.S.&#160;Subrahmanian
-</a>
-</h3>
-<p>
-Walter P. Murphy Professor of Computer Science
-</p>
-<p>
-Faculty Fellow at the Northwestern Buffett Institute for Global Affairs 
-</p>
-<p>
-<a class="mail_link" href="mailto:vss@northwestern.edu">
-Email 
- 
- 
- 
-													V.S.&#160;Subrahmanian
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="jack-tumblin">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/tumblin-jack.html">
-<img alt="Photo of Jack Tumblin" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/tumblin-john-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/tumblin-jack.html">
-Jack&#160;Tumblin
-</a>
-</h3>
-<p>
-Associate Professor of Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:j-tumblin@northwestern.edu">
-Email 
- 
- 
- 
-													Jack&#160;Tumblin
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="sarah-van-wart">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/vanwart-sarah.html">
-<img alt="Photo of Sarah Van Wart" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/vanwart-sarah-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/vanwart-sarah.html">
-Sarah&#160;Van Wart
-</a>
-</h3>
-<p>
-Assistant Professor of Instruction
-</p>
-<p>
-<a class="mail_link" href="mailto:sarah.wart@northwestern.edu">
-Email 
- 
- 
- 
-													Sarah&#160;Van Wart
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="aravindan-vijayaraghavan">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/vijayaraghavan-aravindan.html">
-<img alt="Photo of Aravindan Vijayaraghavan" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/affiliated/vijayaraghavan-aravindan-t1.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/vijayaraghavan-aravindan.html">
-Aravindan&#160;Vijayaraghavan
-</a>
-</h3>
-<p>
-Associate Professor of Computer Science and (by courtesy) Industrial Engineering &amp; Management Sciences
-</p>
-<p>
-<a class="mail_link" href="mailto:aravindv@northwestern.edu">
-Email 
- 
- 
- 
-													Aravindan&#160;Vijayaraghavan
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="-john-villasenor">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/villasenor-john.html">
-<img alt="Photo of John Villasenor" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/affiliated/villasenor-john-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/villasenor-john.html">
- John&#160;Villasenor
-</a>
-</h3>
-<p>
-Adjunct Professor
-</p>
-<p>
-<a class="mail_link" href="mailto:john.villasenor@northwestern.edu">
-Email 
- 
- 
- 
-													 John&#160;Villasenor
-</a>
-</p>
-</div>
-</div>
-<div class="faculty" id="rob-voigt">
-<div class="faculty-photo">
-<a href="https://faculty.wcas.northwestern.edu/robvoigt/" target="_blank">
-<img alt="Photo of Rob Voigt" src="../images/voigt_rob.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://faculty.wcas.northwestern.edu/robvoigt/" target="_blank">
-Rob&#160;Voigt
-</a>
-</h3>
-<p>
-Assistant Professor of Linguistics and (by courtesy) Computer Science 
-</p>
-<p>
-<a class="mail_link" href="mailto:robvoigt@northwestern.edu">
-Email 
- 
- 
- 
-													Rob&#160;Voigt
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="xiao-wang">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-xiao.html">
-<img alt="Photo of Xiao Wang" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/wang-xiao-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-xiao.html">
-Xiao&#160;Wang
-</a>
-</h3>
-<p>
-Assistant Professor of Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:wangxiao@northwestern.edu">
-Email 
- 
- 
- 
-													Xiao&#160;Wang
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="zhaoran-wang">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-zhaoran.html">
-<img alt="Photo of Zhaoran Wang" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/wang-zhaoran-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-zhaoran.html">
-Zhaoran&#160;Wang
-</a>
-</h3>
-<p>
-Assistant Professor of Industrial Engineering and Management Sciences and (by courtesy) Computer Science
-</p>
-</div>
-</div>
-<div class="faculty cf" id="uri-wilensky">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wilensky-uri.html">
-<img alt="Photo of Uri Wilensky" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/wilensky-uri-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wilensky-uri.html">
-Uri&#160;Wilensky
-</a>
-</h3>
-<p>
-Professor of Computer Science
-</p>
-<p>
-Professor of Education and Social Policy
-</p>
-<p>
-Lorraine Morton Professor
-</p>
-<p>
-<a class="mail_link" href="mailto:uri@northwestern.edu">
-Email 
- 
- 
- 
-													Uri&#160;Wilensky
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="marcelo-worsley">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/worsley-marcelo.html">
-<img alt="Photo of Marcelo Worsley" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/affiliated/worsley-marcelo-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/worsley-marcelo.html">
-Marcelo&#160;Worsley
-</a>
-</h3>
-<p>
-Assistant Professor of Computer Science
-</p>
-<p>
-Assistant Professor of Education and Social Policy
-</p>
-<p>
-<a class="mail_link" href="mailto:marcelo.worsley@northwestern.edu">
-Email 
- 
- 
- 
-													Marcelo&#160;Worsley
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="ying-wu">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wu-ying.html">
-<img alt="Photo of Ying Wu" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/wu-ying-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wu-ying.html">
-Ying&#160;Wu
-</a>
-</h3>
-<p>
-Professor of Electrical and Computer Engineering and (by courtesy) Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:yingwu@eecs.northwestern.edu">
-Email 
- 
- 
- 
-													Ying&#160;Wu
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="xinyu-xing">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/xing-xinyu.html">
-<img alt="Photo of Xinyu Xing" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/xing-xinyu-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/xing-xinyu.html">
-Xinyu&#160;Xing
-</a>
-</h3>
-<p>
-Associate Professor of Computer Science
-</p>
-</div>
-</div>
-<div class="faculty cf" id="haoqi-zhang">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhang-haoqi.html">
-<img alt="Photo of Haoqi Zhang" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/zhang-haoqi-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhang-haoqi.html">
-Haoqi&#160;Zhang
-</a>
-</h3>
-<p>
-Associate Professor of Computer Science
-</p>
-<p>
-Allen K. and Johnnie Cordell Breed Junior Professor of Design
-</p>
-<p>
-<a class="mail_link" href="mailto:hq@northwestern.edu">
-Email 
- 
- 
- 
-													Haoqi&#160;Zhang
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="hai-zhou">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhou-hai.html">
-<img alt="Photo of Hai Zhou" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/zhou-hai-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhou-hai.html">
-Hai&#160;Zhou
-</a>
-</h3>
-<p>
-Associate Professor of Electrical and Computer Engineering and (by courtesy) Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:haizhou@northwestern.edu">
-Email 
- 
- 
- 
-													Hai&#160;Zhou
-</a>
-</p>
-</div>
-</div>
-<div class="faculty cf" id="qi-zhu">
-<div class="faculty-photo">
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html">
-<img alt="Photo of Qi Zhu" src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/zhu-qi-t.jpg"/>
-</a>
-</div>
-<div class="faculty-info">
-<h3>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html">
-Qi&#160;Zhu
-</a>
-</h3>
-<p>
-Associate Professor of Electrical and Computer Engineering and (by courtesy) Computer Science
-</p>
-<p>
-<a class="mail_link" href="mailto:qzhu@northwestern.edu">
-Email 
- 
- 
- 
-													Qi&#160;Zhu
-</a>
-</p>
-</div>
-</div>
-</div>
-</div>
-<div id="more-in-section">
-<h5>
-More in this section
-</h5>
-<ul class="cf inline-list">
-<li>
-<a href="affiliated.html">
-Affiliated Faculty
-</a>
-</li>
-<li>
-<a href="faculty-of-instruction.html">
-Faculty of Instruction
-</a>
-</li>
-<li>
-<a href="postdoctoral-fellows.html">
-Postdoctoral Fellows
-</a>
-</li>
-<li>
-<a href="staff.html">
-Staff
-</a>
-</li>
-<li>
-<a href="visiting-scholars.html">
-Visiting Scholars
-</a>
-</li>
-<li>
-<a href="phd-students.html">
-PhD Students
-</a>
-</li>
-<li>
-<a href="outgoing-phds-postdocs.html">
-Outgoing Ph.D.s and Postdocs 2021-2022
-</a>
-</li>
-<li>
-<a href="adjunct-faculty.html">
-Adjunct Faculty
-</a>
-</li>
-</ul>
-</div>
-<div id="back-to-top">
-<a href="#top">
-BACK TO TOP
-</a>
-</div>
-</div>
-<div id="right-col" role="complementary">
-<div class="cf" id="right-col-halvsies">
-<div class="right-col-outer-content" id="breadcrumb_info">
-<div class="right-col-inner-content">
-<ul id="breadcrumb">
-<li>
-<a href="https://www.mccormick.northwestern.edu/index.html">
-Engineering Home
-</a>
-</li>
-<li>
+<div class="span9" id="main-content">
+<p class="breadcrumbs">
 <a href="../index.html">
-CS Department
+ Home 
 </a>
-</li>
-<li>
-<a href="index.html">
-People
+<no_tag>
+ &#187; Academic Departments &amp; Programs
+</no_tag>
+</p>
+<h1 id="title-heading">
+Academic Departments &amp; Programs
+</h1>
+<div class="data-entry ">
+<div id="page-loader" class="text-center" style="margin-right:80px;">
+<div class="page-loader-img">
+<img src="https://secure.web.emory.edu/college/shared-includes/img/circle-loading-animation.gif" width="30px"/>
+
+					
+</div>
+<div style="font-size:1.2em;font-familty:monospace;letter-spacing:2px;">
+<p id="page-loader-message">
+Content Loading
+</p>
+</div>
+</div>
+<div id="page-content" class="hidden">
+<!-- Shared Stylesheets -->
+<link href="http://college.emory.edu/shared-includes/css/dataTables/dataTables.bootstrap2to3.css" rel="stylesheet"/>
+<link href="http://college.emory.edu/shared-includes/css/dataTables/dataTables.bootstrap.min.css" rel="stylesheet"/>
+<link href="http://college.emory.edu/shared-includes/css/dataTables/autoFill.bootstrap.min.css" rel="stylesheet"/>
+<link href="http://college.emory.edu/shared-includes/css/dataTables/buttons.bootstrap.min.css" rel="stylesheet"/>
+<link href="http://college.emory.edu/shared-includes/css/dataTables/colReorder.bootstrap.min.css" rel="stylesheet"/>
+<link href="http://college.emory.edu/shared-includes/css/dataTables/editor.bootstrap.min.css" rel="stylesheet"/>
+<link href="http://college.emory.edu/shared-includes/css/dataTables/fixedColumns.bootstrap.min.css" rel="stylesheet"/>
+<link href="http://college.emory.edu/shared-includes/css/dataTables/fixedHeader.bootstrap.min.css" rel="stylesheet"/>
+<link href="http://college.emory.edu/shared-includes/css/dataTables/keyTable.bootstrap.min.css" rel="stylesheet"/>
+<link href="http://college.emory.edu/shared-includes/css/dataTables/rowReorder.bootstrap.min.css" rel="stylesheet"/>
+<link href="http://college.emory.edu/shared-includes/css/dataTables/scroller.bootstrap.min.css" rel="stylesheet"/>
+<link href="http://college.emory.edu/shared-includes/css/dataTables/select.bootstrap.min.css" rel="stylesheet"/>
+<link href="http://college.emory.edu/shared-includes/css/dataTables/dataTables.tableTools.css" rel="stylesheet"/>
+<link href="http://college.emory.edu/shared-includes/css/forms.css" rel="stylesheet"/>
+<link href="http://college.emory.edu/shared-includes/css/fileinput.css" rel="stylesheet"/>
+<link href="http://college.emory.edu/shared-includes/css/multi-select.css" rel="stylesheet"/>
+<link href="http://college.emory.edu/shared-includes/css/jquery-ui.min.css" rel="stylesheet"/>
+<link href="http://college.emory.edu/shared-includes/css/jquery-ui.structure.min.css" rel="stylesheet"/>
+<link href="http://college.emory.edu/shared-includes/css/jquery-ui.theme.css" rel="stylesheet"/>
+<!-- Application Stylesheets -->
+<style>
+<no_tag>
+#main-content >
+</no_tag>
+ h1#title-heading { display:none; }
+</style>
+<div id="department">
+<h1>
+Computer Science Department
+</h1>
+<div class="general-description">
+<p>
+Computer Science is central to all aspects of modern life. CS encompasses intrinsic issues of algorithms, data, and systems, as well as applications to society, health, science, and humanity. The Emory CS department conducts innovative research in these areas and offers bachelors, masters, and doctoral degrees in CS and several interdisciplinary areas. Undergraduate CS majors may pursue either a bachelor of arts or bachelor of science degree. The department also offers a joint BS in Math and Computer Science, as well as minors in CS and in Informatics. Although the BA and BS programs have different objectives, both emphasize the principles of computer science and underlying quantitative foundations. The department is home to a wide range of modern computing equipment and student laboratories, and all undergraduate programs include intensive immersive experiences in computer programming, system building, and contemporary topics in big data and artificial intelligence.
+</p>
+</div>
+<div class="website">
+<dl class="dl-horizontal faculty-list">
+<dt>
+Academic Department Website
+</dt>
+<dd>
+<a href="http://cs.emory.edu" target="_blank">
+<no_tag>
+http://cs.emory.edu
+</no_tag>
+<a>
+</dd>
+</dl>
+</div>
+<section id="concentrations">
+<h2>
+Concentrations
+</h2>
+<dl>
+<dd class="major">
+<a href="concentration.php?YToyOntzOjI6ImlkIjtzOjM6IjU4OSI7czo0OiJ0eXBlIjtzOjU6Ik1ham9yIjt9">
+Major in Computer Science (BA)
 </a>
-</li>
-<li>
+</dd>
+<dd class="major">
+<a href="concentration.php?YToyOntzOjI6ImlkIjtzOjM6IjU5MCI7czo0OiJ0eXBlIjtzOjU6Ik1ham9yIjt9">
+Major in Computer Science (BS)
+</a>
+</dd>
+<dd class="major">
+<a href="concentration.php?YToyOntzOjI6ImlkIjtzOjM6IjYyMCI7czo0OiJ0eXBlIjtzOjU6Ik1ham9yIjt9">
+Major in Mathematics and Computer Science (BS)
+</a>
+</dd>
+<dd class="major">
+<a href="concentration.php?YToyOntzOjI6ImlkIjtzOjQ6IjExMjEiO3M6NDoidHlwZSI7czo1OiJNYWpvciI7fQ==">
+Major in Economics and Computer Science (BA)
+</a>
+</dd>
+<dd class="minor">
+<a href="concentration.php?YToyOntzOjI6ImlkIjtzOjM6IjUyMiI7czo0OiJ0eXBlIjtzOjU6Ik1pbm9yIjt9">
+Minor in Computer Informatics
+</a>
+</dd>
+<dd class="minor">
+<a href="concentration.php?YToyOntzOjI6ImlkIjtzOjM6IjUyMyI7czo0OiJ0eXBlIjtzOjU6Ik1pbm9yIjt9">
+Minor in Computer Science
+</a>
+</dd>
+</dl>
+</section>
+<section id="faculty">
+<h2>
 Faculty
+</h2>
+<dl class="dl-horizontal faculty-list">
+<dt>
+Chair
+</dt>
+<dd>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjM6IjUxNSI7fQ==">
+Vaidy Sunderam
+</a>
+</dd>
+</dl>
+<dl class="dl-horizontal faculty-list">
+<dt>
+Director of Undergraduate Studies
+</dt>
+<dd>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjM6IjcyNyI7fQ==">
+Steven La Fleur
+</a>
+</dd>
+</dl>
+<dl class="dl-horizontal faculty-list">
+<dt>
+Core
+</dt>
+<dd>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjI6IjI0Ijt9">
+Yevgeny Agichtein
+</a>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjM6IjkwMyI7fQ==">
+Dorian Arnold
+</a>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjM6IjExNCI7fQ==">
+Shun Cheung
+</a>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjM6Ijc0NCI7fQ==">
+Jinho Choi
+</a>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjQ6IjEwMTEiO30=">
+Nosayba El-Sayed
+</a>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjM6Ijg2NyI7fQ==">
+Davide Fossati
+</a>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjM6IjIyMyI7fQ==">
+Michelangelo Grigni
+</a>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjM6Ijg4NSI7fQ==">
+Joyce Ho
+</a>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjM6IjcyNyI7fQ==">
+Steven La Fleur
+</a>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjM6IjMyOSI7fQ==">
+Kenneth Mandelberg
+</a>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjM6IjczMyI7fQ==">
+Lars Ruthotto
+</a>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjM6IjUxNSI7fQ==">
+Vaidy Sunderam
+</a>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjM6IjUzNSI7fQ==">
+Alessandro Veneziani
+</a>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjM6Ijc2MCI7fQ==">
+Ymir Vigfusson
+</a>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjQ6IjEyMDgiO30=">
+Emily Wall
+</a>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjM6IjgwMCI7fQ==">
+Avani Wildani
+</a>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjM6IjU3MyI7fQ==">
+Li Xiong
+</a>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjQ6IjExNjAiO30=">
+Ji (Carl) Yang
+</a>
+<a href="faculty.php?YToxOntzOjI6ImlkIjtzOjQ6IjExNjIiO30=">
+Liang Zhao
+</a>
+</dd>
+</dl>
+</section>
+<section id="courses">
+<h2>
+Courses
+</h2>
+<div class="subject-courses">
+<dl class="accordion" id="subject-courses-100">
+<dt>
+<h4>
+Computer Science 100-Level Courses
+</h4>
+</dt>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-100" href="#CS110">
+
+								CS 110: Computer Science Fundamentals
+							
+</a>
+</div>
+<div id="CS110" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						A general introduction to computer science including an overview of hardware systems, programming essentials, algorithm design, data handling, and networking. Not intended for students needing a programming background for further work in computer science.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-100" href="#CS130R">
+
+								CS 130R: Selected Programming Languages
+							
+</a>
+</div>
+<div id="CS130R" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Introductory course in a rotating series of computer languages. Please see current atlas for language offering.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+2
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-100" href="#CS153">
+
+								CS 153: Computing for Bioinformatics
+							
+</a>
+</div>
+<div id="CS153" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						An introduction to tools of computer science that are relevant to bioinformatics, with a focus on fundamental problems with sequence data. Practical topics will include Python programming, data management, and web services. Computational concepts are emphasized with examples from underlying biology.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+SNT
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-100" href="#CS155">
+
+								CS 155: Intro to Business Computing
+							
+</a>
+</div>
+<div id="CS155" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Intro to tools and concepts of computer science most relevant to business (enterprise) computing and e-commerce. An intro to basic programming principles, page layout and visual interface design, client/server computing, simple techniques for accessing databases, and their algorithmic foundations.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-100" href="#CS170">
+
+								CS 170: Intro to Computer Science I
+							
+</a>
+</div>
+<div id="CS170" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						An introduction to Computer Science for students expecting to utilize serious computing in coursework, research, or employment. Emphasis is on computing concepts, programming principles, algorithm development and basic data structures, using the Java programming language and Unix operating system.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+4
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-100" href="#CS171">
+
+								CS 171: Intro.to Computer Science II
+							
+</a>
+</div>
+<div id="CS171" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						A second course in Computer Science, focusing on intermediate programming. Emphasis is on proficiency in the use and implementation of data structures, algorithms for classical programming paradigms, and object oriented design and
+programming with Java.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+CS 170 as a Prerequisite
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-100" href="#CS171Z">
+
+								CS 171Z: Intro to Computer Science II
+							
+</a>
+</div>
+<div id="CS171Z" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						An accelerated version of the second course Computer Science for students with advanced preparation e.g. AP CS-A. Emphasis is on proficiency in the use of implementation of data structures, algorithms for classical programming paradigms, and object oriented design and programming with Java.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-100" href="#CS185">
+
+								CS 185: Topics in Computer Science
+							
+</a>
+</div>
+<div id="CS185" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Rotating topics in computer science. May be repeated for credit when the topic varies. Prerequisites and co-requisites depend on the topic offered.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+1
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-100" href="#CS190">
+
+								CS 190: Fresh Seminar:Computer Science
+							
+</a>
+</div>
+<div id="CS190" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Topics will be anounced each semester when the course is offered.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+FSEM
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+</dl>
+<dl class="accordion" id="subject-courses-200">
+<dt>
+<h4>
+Computer Science 200-Level Courses
+</h4>
+</dt>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-200" href="#CS224">
+
+								CS 224: Foundations of Comp.Science
+							
+</a>
+</div>
+<div id="CS224" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						An introductory course in the theory of Computer Science, focusing on analysis of discrete structures with applications. Emphasis is on developing familiarity with notation, computational acuity and creative problem solving skills.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+CS 170 & MATH 111 as prereq.
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-200" href="#CS253">
+
+								CS 253: Data Structures and Algorithms
+							
+</a>
+</div>
+<div id="CS253" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						A third course in Computer Science, focusing on advanced programming. Emphasis is on mastery in the use and implementation of data structures and algorithms for classical programming paradigms, using the Java programming language and object oriented
+design.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+CS 171 as prerequisite
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-200" href="#CS255">
+
+								CS 255: Comp.Arch./Machine Level Prog.
+							
+</a>
+</div>
+<div id="CS255" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Introductory systems course in Computer Science, with a focus on high level computer architecture and assembler programming. Emphasis is on comprehension of von Neumann computer architecture, information encoding and data representation, and assembler equivalents of high level programming constructs.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+CS 171 as a Prerequisite
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-200" href="#CS285">
+
+								CS 285: Topics in Computer Science
+							
+</a>
+</div>
+<div id="CS285" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Rotating topics in computer science. May be repeated for credit when the topic varies. Pre and co requisites depend on the topic offered.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+1 - 4
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+</dl>
+<dl class="accordion" id="subject-courses-300">
+<dt>
+<h4>
+Computer Science 300-Level Courses
+</h4>
+</dt>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-300" href="#CS325">
+
+								CS 325: Artificial Intelligence
+							
+</a>
+</div>
+<div id="CS325" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Foundations and problems of machine intelligence, application areas, representation of knowledge, constraint processing, AI programming languages, expert systems, design of an intelligent system.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+CS 224 & CS 253 as prereq.
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-300" href="#CS326">
+
+								CS 326: Analysis of Algorithms
+							
+</a>
+</div>
+<div id="CS326" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						This course explores the formal underpinnings of computational complexity, and studies how to mathematically characterize the efficiency and running times of different computer algorithms.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+CS 170/171/224/253 prereq.
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-300" href="#CS329">
+
+								CS 329: Computational Linguistics
+							
+</a>
+</div>
+<div id="CS329" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						This course will focus on the analysis of syntactic and semantic structures, ontologies and taxonomies, distributional semantics and discourse, as well as their applications in computational linguistics. Assignments will include advanced programming implementations.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+CS 171 as a Prerequisite
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+<ul>
+<li>
+LING 329
 </li>
 </ul>
+</dd>
+</dl>
 </div>
 </div>
-<div class="right-col-outer-content" id="contact_info">
-<h5>
-Contact Info
-</h5>
-<div class="right-col-inner-content">
-<h6>
-Undergraduate Programs
-</h6>
-<p>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/sood-owsley-sara.html">
-Sara Sood
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-300" href="#CS334">
+
+								CS 334: Machine Learning
+							
 </a>
-<br/>
- 
-<span>
-Associate Chair for Undergraduate Education
-</span>
-<br/>
+</div>
+<div id="CS334" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
 <no_tag>
- Phone: 
+
+						This course will cover the underpinnings, algorithms, and practices that enable a computer to learn. Emphasis will be on fundamental theory and algorithms in statistical machine learning, and approaches to applying machine learning in a variety of domains.
+						
 </no_tag>
-<span>
-847-491-5708
-</span>
-<br/>
-<a href="mailto:sara.sood@northwestern.edu">
-Email Sara
-</a>
-</p>
-<h6>
-Master's Degree Program
-</h6>
-<p>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/riesbeck-chris.html">
-Chris Riesbeck
-</a>
-<strong>
-<br/>
- 
-</strong>
-<no_tag>
- Associate Professor
-</no_tag>
-<br/>
-<no_tag>
- Phone: 847-491-7279
-</no_tag>
-<br/>
- 
-<a href="mailto:c-riesbeck@northwestern.edu">
-Email Chris
-</a>
-</p>
-<h6>
-PhD Program
-</h6>
-<p>
-<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/dinda-peter.html">
-<no_tag>
-Peter Dinda
-</no_tag>
-<br/>
-</a>
-<no_tag>
-Professor
-</no_tag>
-<br/>
-<no_tag>
- Phone: 847-467-7859
-</no_tag>
-<br/>
- 
-<a href="mailto:%20dgs@cs.northwestern.edu">
-Email Peter
-</a>
-</p>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+CS 224&253&MATH221or275or321
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
 </div>
 </div>
-</div>
-</div>
-</div>
-<footer class="cf" role="contentinfo">
-<div class="header-container cf">
-<a href="http://www.northwestern.edu" id="footer-logo" target="_blank">
-Northwestern Seal
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-300" href="#CS350">
+
+								CS 350: Systems Programming
+							
 </a>
-<div id="footer-links">
-<p class="department-footer-header">
-<span class="dept" style="font-weight: bold; margin-bottom:10px;">
+</div>
+<div id="CS350" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						System programming topics are illustrated by the POSIX API to the Linux operating system. Topics include: file i/o, the TTY driver, window systems, processes, shared memory, message passing, semaphores, signals, and interrupt handlers.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+CS 253 & CS 255 prerequisites
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-300" href="#CS355">
+
+								CS 355: Advanced Computer Architecture
+							
+</a>
+</div>
+<div id="CS355" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						A second course in computer organization and architecture. Emphasis is on combinatorial and sequential circuits, advanced characteristics of CPU and memory, and micro programming. Multiprocessors, GPUs and selected parallel algorithms will be discussed.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+CS 253 & CS 255 prerequisites
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-300" href="#CS370">
+
+								CS 370: Computer Science Practicum
+							
+</a>
+</div>
+<div id="CS370" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						This course introduces basic concepts and techniques of software engineering, and applies these in the context of a semester-long group programming project.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+CS 253 as prerequisite
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-300" href="#CS375R">
+
+								CS 375R: Independ. Software Development
+							
+</a>
+</div>
+<div id="CS375R" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Prerequisite: permission of instructor. Credit, variable. An independent study course devoted to the development of software projects. Cannot be used to meet course requirements for a CS major.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+1 - 3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-300" href="#CS377">
+
+								CS 377: Database Systems
+							
+</a>
+</div>
+<div id="CS377" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Introduction to storage hierarchies, database models, consistency, reliability, and security issues. Query languages and their implementations, efficiency considerations, and compression and encoding techniques.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+CS 253 sz prerequisite
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-300" href="#CS385">
+
+								CS 385: Topics in Computer Science
+							
+</a>
+</div>
+<div id="CS385" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Rotating topics in computer science. May be repeated for credit when the topic varies. Pre and co requisites depend on the topic offered.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+1 - 4
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+</dl>
+<dl class="accordion" id="subject-courses-400">
+<dt>
+<h4>
+Computer Science 400-Level Courses
+</h4>
+</dt>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-400" href="#CS424">
+
+								CS 424: Theory of Computing
+							
+</a>
+</div>
+<div id="CS424" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Theory underlying computing concepts, including regular languages, pushdown automata, Turing machines, decidability of problems, time and space complexity and notions of P vs NP and NP-completeness.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+CS 326 as prerequisite
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-400" href="#CS428">
+
+								CS 428: Programming Languages
+							
+</a>
+</div>
+<div id="CS428" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Explores the theory, design, & implementation of programming languages. Topics include syntax specification, parsing, formal semantics, functional & logic programming, pattern matching, backtracking, higher-order function, lambda calculus, continuation, parameter passing, meta-circular evaluation.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+CS 224 & CS 253 prerequisites
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-400" href="#CS452">
+
+								CS 452: Operating Systems
+							
+</a>
+</div>
+<div id="CS452" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						The structure and organization of computer operating systems. Process, memory, and I/O management; device drivers, exception handling, and interprocess communication. Students write an operating system as a course-long project.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+CS 350 as prerequisite
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-400" href="#CS453">
+
+								CS 453: Computer Security
+							
+</a>
+</div>
+<div id="CS453" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Understanding offense is key to better cyberdefense. We focus on advanced vulnerabilities, exploits and defense technologies. We teach the hacker mindset, ethics as well as C and assembly.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+CS 350 as prerequisite
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-400" href="#CS455">
+
+								CS 455: Intro to Computer Networking
+							
+</a>
+</div>
+<div id="CS455" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Intro to computer networks based on internal structure using the OSI layer model. Topics include: physical layer, data link layer, the network layer (routing algorithms, IP protocol, tunneling), and transport layer (UDP and TCP protocols, NS2 network simulation). Berkeley socket and pthreads APIs.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+CS 350 as prerequisite
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-400" href="#CS456">
+
+								CS 456: Compiler Construction
+							
+</a>
+</div>
+<div id="CS456" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Syntax, semantics and pragmatics of computer programming languages, lexical analysis and parsing, code generation, and optimization. Design and implementation of a semester-long compiler project for a simple imperative language.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+4
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+CS 326 as prerequisite
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-400" href="#CS470">
+
+								CS 470: Data Mining
+							
+</a>
+</div>
+<div id="CS470" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Data mining techniques including data pre-processing, data warehousing and management, dimension reduction, clustering, similarity search, graphical models, spatiotemporal data mining.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+MQR
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+CS 224 & CS 253 prerequisites
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-400" href="#CS480">
+
+								CS 480: Computing Methods in Economics
+							
+</a>
+</div>
+<div id="CS480" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						This course introduces students to the use of advanced computer science techniques for the economic analysis of observational data. It covers multi-processing programming for economic policy simulation, web scraping for sentiment analysis, and network data and social interaction models.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+3
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+ECON 320 & CS 334 prerequisite
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+<ul>
+<li>
+ECON 480
+</li>
+</ul>
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-400" href="#CS485">
+
+								CS 485: Topics in Computer Science
+							
+</a>
+</div>
+<div id="CS485" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						May be repeated for credit when topic varies. Pre/co-requisites vary with topic.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+1 - 4
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-400" href="#CS485W">
+
+								CS 485W: Topics in Computer Science
+							
+</a>
+</div>
+<div id="CS485W" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						May be repeated for credit when topic varies. Pre/co-requisites vary with topic.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+1 - 5
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+WRT
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-400" href="#CS495R">
+
+								CS 495R: Honors
+							
+</a>
+</div>
+<div id="CS495R" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Enrollment limited to departmental majors invited to participate in the Honors Program.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+1 - 4
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-400" href="#CS495RW">
+
+								CS 495RW: Honors
+							
+</a>
+</div>
+<div id="CS495RW" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Enrollment limited to departmental majors invited to participate in the Honors Program.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+1 - 8
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+WRT
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-400" href="#CS497R">
+
+								CS 497R: Directed Research
+							
+</a>
+</div>
+<div id="CS497R" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Students conduct directed or supervised research in support of a faculty member's research project or agenda. Permission of the department and a supervising faculty member is required.Three combined credits of CS 497R, CS 498R and CS 499R may be used to fulfill a maximum of one 400-level elective for Computer Science majors.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+1 - 4
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-400" href="#CS498R">
+
+								CS 498R: Directed Reading
+							
+</a>
+</div>
+<div id="CS498R" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Students study, read, and write on a topic under the direction or supervision of a faculty member. Permission of the department and a supervising faculty member is required. Three combined credits of CS 497R, CS 498R and CS 499R may be used to fulfill a maximum of one 400-level elective for Computer Science majors.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+1 - 4
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+<dd class="accordion-group" >
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#subject-courses-400" href="#CS499R">
+
+								CS 499R: Independent Research
+							
+</a>
+</div>
+<div id="CS499R" class="accordion-body collapse ">
+<div class="accordion-inner">
+<div class="course-description">
+<no_tag>
+
+						Students conduct independent research in support of their own research
+agenda or question with guidance from a faculty member. Permission of the
+department and a supervising faculty member is required. Three combined credits of CS 497R, CS 498R and CS 499R may be used to fulfill a maximum of one 400-level elective for Computer Science majors.
+						
+</no_tag>
+<hr/>
+
+					
+</div>
+<dl class="dl-horizontal general-information">
+<dt>
+Credit Hours
+</dt>
+<dd>
+1 - 4
+</dd>
+<dt>
+GERs
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Requisites
+</dt>
+<dd>
+None
+</dd>
+<dt>
+Cross-Listed
+</dt>
+<dd>
+None
+</dd>
+</dl>
+</div>
+</div>
+</dd>
+</dl>
+</div>
+</section>
+<section id="descriptions">
+</section>
+</div>
+<div id="related" class="span3">
+<div class="calendar component">
+<h2 class="boxed-heading">
+Other Departments
+</h2>
+<div class="boxed-col-inner">
+<dl id="department-sidebar-listing">
+<dd class="">
+<a title="African American Studies" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjE6IjIiO30=">
+African American Studies
+</a>
+</dd>
+<dd class="">
+<a title="African Studies" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjE6IjEiO30=">
+African Studies
+</a>
+</dd>
+<dd class="">
+<a title="American Studies" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjE6IjMiO30=">
+American Studies
+</a>
+</dd>
+<dd class="">
+<a title="Ancient Mediterranean Studies" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjE6IjQiO30=">
+Ancient Mediterranean Studies
+</a>
+</dd>
+<dd class="">
+<a title="Anthropology" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjE6IjUiO30=">
+Anthropology
+</a>
+</dd>
+<dd class="">
+<a title="Art History" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjE6IjYiO30=">
+Art History
+</a>
+</dd>
+<dd class="">
+<a title="Athletics and Recreation" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjE6IjciO30=">
+Athletics and Recreation
+</a>
+</dd>
+<dd class="">
+<a title="Biology" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjE6IjgiO30=">
+Biology
+</a>
+</dd>
+<dd class="">
+<a title="Catholic Studies" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjE6IjkiO30=">
+Catholic Studies
+</a>
+</dd>
+<dd class="">
+<a title="Chemistry" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjEwIjt9">
+Chemistry
+</a>
+</dd>
+<dd class="">
+<a title="Classics" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjExIjt9">
+Classics
+</a>
+</dd>
+<dd class="">
+<a title="Comparative Literature" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjEyIjt9">
+Comparative Literature
+</a>
+</dd>
+<dd class="selected">
+<a title="Computer Science" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjM6IjE4MSI7fQ==">
 Computer Science
-</span>
-<span class="footer-branding-element">
-McCormick School of Engineering,
+</a>
+</dd>
+<dd class="">
+<a title="Creative Writing" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjEzIjt9">
+Creative Writing
+</a>
+</dd>
+<dd class="">
+<a title="Dance" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjE0Ijt9">
+Dance
+</a>
+</dd>
+<dd class="">
+<a title="East Asian Studies" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjE1Ijt9">
+East Asian Studies
+</a>
+</dd>
+<dd class="">
+<a title="Economics" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjE2Ijt9">
+Economics
+</a>
+</dd>
+<dd class="">
+<a title="Emory College Seminars" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjM6IjIyNCI7fQ==">
+Emory College Seminars
+</a>
+</dd>
+<dd class="">
+<a title="English" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjE4Ijt9">
+English
+</a>
+</dd>
+<dd class="">
+<a title="Environmental Sciences" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjE5Ijt9">
+Environmental Sciences
+</a>
+</dd>
+<dd class="">
+<a title="Film and Media " href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjIwIjt9">
+Film and Media 
+</a>
+</dd>
+<dd class="">
+<a title="French and Italian Studies" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjIxIjt9">
+French and Italian Studies
+</a>
+</dd>
+<dd class="">
+<a title="German Studies" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjIyIjt9">
+German Studies
+</a>
+</dd>
+<dd class="">
+<a title="History" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjI1Ijt9">
+History
+</a>
+</dd>
+<dd class="">
+<a title="Human Health" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjI0Ijt9">
+Human Health
+</a>
+</dd>
+<dd class="">
+<a title="Institute of the Liberal Arts" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjI2Ijt9">
+Institute of the Liberal Arts
+</a>
+</dd>
+<dd class="">
+<a title="Italian Studies" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjI4Ijt9">
+Italian Studies
+</a>
+</dd>
+<dd class="">
+<a title="Jewish Studies" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjI5Ijt9">
+Jewish Studies
+</a>
+</dd>
+<dd class="">
+<a title="Latin American and Caribbean Studies" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjMxIjt9">
+Latin American and Caribbean Studies
+</a>
+</dd>
+<dd class="">
+<a title="Linguistics" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjMyIjt9">
+Linguistics
+</a>
+</dd>
+<dd class="">
+<a title="Mathematics" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjMzIjt9">
+Mathematics
+</a>
+</dd>
+<dd class="">
+<a title="Medieval Studies" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjQxIjt9">
+Medieval Studies
+</a>
+</dd>
+<dd class="">
+<a title="Middle Eastern and South Asian Studies " href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjQyIjt9">
+Middle Eastern and South Asian Studies 
+</a>
+</dd>
+<dd class="">
+<a title="Music" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjQzIjt9">
+Music
+</a>
+</dd>
+<dd class="">
+<a title="Neuroscience and Behavioral Biology" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjQ0Ijt9">
+Neuroscience and Behavioral Biology
+</a>
+</dd>
+<dd class="">
+<a title="Philosophy" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjQ1Ijt9">
+Philosophy
+</a>
+</dd>
+<dd class="">
+<a title="Physics" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjQ2Ijt9">
+Physics
+</a>
+</dd>
+<dd class="">
+<a title="Political Science" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjQ3Ijt9">
+Political Science
+</a>
+</dd>
+<dd class="">
+<a title="Psychology" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjQ5Ijt9">
+Psychology
+</a>
+</dd>
+<dd class="">
+<a title="Quantitative Theory and Methods" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjUwIjt9">
+Quantitative Theory and Methods
+</a>
+</dd>
+<dd class="">
+<a title="Religion" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjUxIjt9">
+Religion
+</a>
+</dd>
+<dd class="">
+<a title="Russian and East Asian Languages and Cultures" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjUyIjt9">
+Russian and East Asian Languages and Cultures
+</a>
+</dd>
+<dd class="">
+<a title="Russian and East European Studies" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjUzIjt9">
+Russian and East European Studies
+</a>
+</dd>
+<dd class="">
+<a title="Sociology" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjU0Ijt9">
+Sociology
+</a>
+</dd>
+<dd class="">
+<a title="Spanish and Portuguese" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjU1Ijt9">
+Spanish and Portuguese
+</a>
+</dd>
+<dd class="">
+<a title="Theater and Dance" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjU2Ijt9">
+Theater and Dance
+</a>
+</dd>
+<dd class="">
+<a title="Women's, Gender and Sexuality Studies" href="/department-program/index.php?YToxOntzOjI6ImlkIjtzOjI6IjU4Ijt9">
+Women's, Gender and Sexuality Studies
+</a>
+</dd>
+</dl>
+</div>
+</div>
+</div>
+</div>
+<!-- Shared Files -->
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/functions.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/jquery-ui.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/jquery.validate.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/jquery.form.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/bootstrap-scrollspy.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/bootstrap-formhelpers.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/fileinput.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/jquery-fileupload.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/canvas-to-blob.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/jquery.multi-select.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/dataTables/jquery.dataTables.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/dataTables/dataTables.autoFill.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/dataTables/autoFill.bootstrap.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/dataTables/dataTables.bootstrap.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/dataTables/dataTables.buttons.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/dataTables/buttons.bootstrap.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/dataTables/buttons.print.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/dataTables/buttons.colVis.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/dataTables/dataTables.colReorder.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/dataTables/dataTables.fixedColumns.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/dataTables/dataTables.fixedHeader.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/dataTables/dataTables.keyTable.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/dataTables/dataTables.responsive.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/dataTables/dataTables.rowReorder.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/dataTables/dataTables.scroller.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/dataTables/dataTables.select.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/dataTables/editor.bootstrap.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/tinymce/tinymce.min.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/autosize.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/jquery.base64.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/tableExport.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/spin.js">
+</script>
+<script type="text/javascript" src="http://college.emory.edu/shared-includes/js/js.cookie.js">
+</script>
+<!-- Application Files -->
+<!-- Application Scripts -->
+<script type="text/javascript" id="page-script">
+$(function() {
+			$(".accordion-group").on("show.bs.collapse", function () {
+				$(this).find(".accordion-heading").addClass("active");
+			}).on("hide.bs.collapse", function () {
+				$(this).find(".accordion-heading").removeClass("active");
+			});
+
+			$("#main-content").removeClass("span9").addClass("span6");
+			$(".col1col2").addClass("col1col2col3").removeClass("col1col2");
+			$("#related").insertAfter("#main-content");
+
+			$("p.breadcrumbs").alterBreadcrumbs({ value:"Computer Science Department", mode:"append" });
+		});
+</script>
+<script type="text/javascript" id="loader-script">
+
+					$(function(){
+					 function loadPage(){
+							$("#page-loader").addClass("hidden");
+							$("#page-content").removeClass("hidden");
+							tableRefresh();
+					 };
+						
+					 window.setTimeout( loadPage, 1000 ); // 1 seconds
+					});
+				
+</script>
+</div>
+</div>
+</div>
+</div>
+<!-- end .container -->
+<!-- /container -->
+<footer class="container" id="footer">
+<ul id="footLinks">
+<li>
+<a href="http://www.emory.edu" target="_blank" title="Emory University main website">
+EMORY HOME
+</a>
+</li>
+<li>
+<a href="http://www.emory.edu/home/contact-emory/index.html" target="_blank" title="Contacts">
+CONTACTS
+</a>
+</li>
+<li>
+<a href="http://www.emory.edu/home/emergency/index.html" target="_blank" title="Emergency">
+EMERGENCY
+</a>
+</li>
+<li>
+<a href="http://www.hr.emory.edu/eu/careers/" target="_blank" title="Careers">
+CAREERS
+</a>
+</li>
+<li>
+<a href="http://www.emory.edu/home/giving/index.html" target="_blank" title="Give to Emory">
+GIVE TO EMORY
+</a>
+</li>
+<li>
+<a href="http://communications.emory.edu/tools/web-guide/about.html" target="_blank" title="About Emory's Web">
+ABOUT EMORY'S WEB
+</a>
+</li>
+</ul>
+<p>
+<a href="http://communications.emory.edu/tools/web-guide/copyright-dmca.html" target="_blank" title="Copyright">
+Copyright
+</a>
+<no_tag>
+ &#169; 
+</no_tag>
+<span id="copyright-date">
+2017
 </span>
 <no_tag>
 &#160;
-						
-						
 </no_tag>
-<span class="footer-branding-element">
-Northwestern University
+<a href="http://www.emory.edu/" target="_blank" title="Emory Homepage">
+Emory University
+</a>
+<no_tag>
+ - All Rights Reserved 
+</no_tag>
+<span class="address">
+| 201 Dowman Drive, Atlanta, Georgia 30322 USA 404.727.6123
 </span>
 </p>
-<address style="margin-bottom:0px;">
-<no_tag>
-Mudd Hall
-</no_tag>
-<br/>
-<no_tag>
-2233 Tech Drive, Third Floor, Evanston, IL 60208
-</no_tag>
-</address>
-<p style="margin-bottom:10px;">
-<no_tag>
-Phone: 847-491-3500&#160;&#160;|&#160;&#160;
-</no_tag>
-<a href="mailto:compsci@northwestern.edu">
-Email
-</a>
-</p>
-<p class="contact-info white-single-arrow extra-height">
-<a href="https://www.mccormick.northwestern.edu/computer-science/contact/index.html">
-View all department contact info
-</a>
-</p>
-<ul>
-<li>
-<a href="https://www.mccormick.northwestern.edu/computer-science/academics/undergraduate/index.html">
-Undergraduate
-</a>
-</li>
-<li>
-<a href="https://www.mccormick.northwestern.edu/computer-science/academics/graduate/index.html">
-Graduate
-</a>
-</li>
-<li>
-<a href="https://www.mccormick.northwestern.edu/computer-science/research/index.html">
-Research
-</a>
-</li>
-<li>
-<a href="https://www.mccormick.northwestern.edu/computer-science/people/faculty.html">
-Faculty
-</a>
-</li>
-<li>
-<a href="https://www.mccormick.northwestern.edu/computer-science/cs-plus-x/index.html">
-CS+X
-</a>
-</li>
-<li>
-<a href="https://www.mccormick.northwestern.edu/computer-science/news-events/index.html">
-News &amp; Events
-</a>
-</li>
-<li>
-<a href="https://www.northwestern.edu/accessibility/about/report-an-accessibility-issue.html" target="_blank">
-Report an Accessibility Issue
-</a>
-</li>
-</ul>
-</div>
-<div id="footer-icons">
-<a class="icon-Twitter iconset-footer" href="http://twitter.com/northwesterncs" target="_blank">
-McCormick on Twitter
-</a>
-<a class="icon-Facebook iconset-footer" href="http://facebook.com/northwesterncs" target="_blank">
-McCormick on Facebook
-</a>
-<a class="icon-LinkedIn iconset-footer" href="https://www.linkedin.com/company/mccormick-school-of-engineering/" target="_blank">
-McCormick on LinkedIn
-</a>
-<a class="icon-YouTube iconset-footer" href="https://www.youtube.com/channel/UCX2Xg61G1tDeyzDkBDya7tw" target="_blank">
-McCormick on YouTube
-</a>
-</div>
-</div>
-<div id="footer-copyright">
-<div class="header-container">
-<no_tag>
-
- &#169; 
- 
-					
-					2022 Robert R. McCormick School of Engineering and Applied Science, Northwestern University&#160;&#160; 
- 
-					
-					
-</no_tag>
-<a href="http://www.northwestern.edu/disclaimer.html" target="_blank">
-Disclaimer
-</a>
-</div>
-</div>
 </footer>
-<!--[if lte IE 8]>
-<script src="/js/selectivizr.min.js">
+<!-- footer -->
+
+ 
+</div>
+<!-- /wrapper -->
+<script src="https://template.emory.edu/assets/js/plugins/bootstrap.min.js">
+</script>
+<script src="https://template.emory.edu/assets/js/template/main.min.js">
+</script>
+<!--[if lt IE 9 ]>
+<script src="https://template.emory.edu/assets/js/template/ie8.min.js">
 </script>
 <![endif]-->
-<!--[if lte IE 9]>
-<script src="/js/media.match.min.js">
+<script src="https://template.emory.edu/assets/js/plugins/jquery.namesort.min.js">
 </script>
-<script src="/js/rem.js">
+<script src="https://template.emory.edu/assets/js/template/components.min.js">
 </script>
-<![endif]-->
-<!--[if lte IE 10]>
-<script src="/js/placeholders.js">
+<script src="https://template.emory.edu/assets/js/plugins/jquery.galleria-1.2.8.min.js">
 </script>
-<![endif]-->
-<script src="/js/jquery/jquery.fitvids.js">
-</script>
-<script src="/js/jquery/video-helpers.1.1.js" type="text/javascript">
-</script>
-<script src="/js/breakpoints.js" type="text/javascript">
-</script>
-<script src="/js/modernizr.js" type="text/javascript">
-</script>
-<script src="/js/jquery/jquery-slick-1.3.6.js" type="text/javascript">
+<script src="https://template.emory.edu/assets/js/config/gallery.emory-standard.min.js">
 </script>
 <script type="text/javascript">
 
-
+ 
+ 
  var _gaq = _gaq || [];
- _gaq.push(['_setAccount', 'UA-136182345-3']);
- _gaq.push(['_trackPageview']);
+ //_gaq.push(['emory_sitewide._setAccount', 'UA-43397511-1']);
+ //_gaq.push(['emory_sitewide._trackPageview']);
+ //_gaq.push(['emory_site-wide._trackEvent', 'Event Category', 'Event Action', 'Event Label']);
+ 
+ 
+ 
+</script>
+<script>
 
- _gaq.push(['_setDomainName', '.northwestern.edu']);
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
- (function() {
- var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
- ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
- var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
- })();
+ ga('create', 'UA-56618932-1', 'auto');
+ ga('send', 'pageview');
 
 
 </script>
-<script src="/js/mti-tracking.js" type="text/javascript">
+<script type="text/javascript">
+
+ 
+
+ 
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ ga('create', 'UA-43397511-1', 'emory.edu');
+ ga('send', 'pageview');
+ 
+ 
+ 
 </script>
+<!-- end page js -->
+
+ 
 </body>
 </html>
  

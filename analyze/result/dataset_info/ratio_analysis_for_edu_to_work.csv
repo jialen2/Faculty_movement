@@ -1,0 +1,1265 @@
+school,ranking,indegree,outdegree,in_to_out_ratio
+"Massachusetts Institute of Technology",1,179.00,119.00,1.50
+"University of California, Berkeley",2,125.00,79.00,1.58
+"Stanford University",3,107.00,85.00,1.26
+"Carnegie Mellon University",4,90.00,79.00,1.14
+"University of Illinois Urbana-Champaign",5,87.00,70.00,1.24
+"Georgia Tech",6,52.00,40.00,1.30
+"Pennsylvania State University",7,24.00,9.00,2.67
+"University of Texas at Austin",8,45.00,32.00,1.41
+"University of Massachusetts Amherst",9,39.00,25.00,1.56
+"Cornell University",10,50.00,35.00,1.43
+"University of California, Los Angeles",11,38.00,29.00,1.31
+"University of Maryland, College Park",12,45.00,51.00,0.88
+"University of Wisconsin–Madison",13,36.00,23.00,1.57
+"University of Washington",14,39.00,33.00,1.18
+"University of California, Riverside",15,6.00,2.00,3.00
+"University of Michigan",16,33.00,19.00,1.74
+"University of Pennsylvania",17,49.00,52.00,0.94
+"Delft University of Technology",18,3.00,1.00,3.00
+"University of Southern California",19,39.00,36.00,1.08
+"Princeton University",20,36.00,33.00,1.09
+"Harvard University",21,33.00,32.00,1.03
+"Purdue University",22,49.00,46.00,1.07
+"College of William & Mary",23,6.00,1.00,6.00
+"McGill University",24,6.00,2.00,3.00
+"Brown University",25,33.00,31.00,1.06
+"National Technical University of Athens",26,6.00,2.00,3.00
+"Newcastle University",27,3.00,1.00,3.00
+"University of North Carolina at Chapel Hill",28,31.00,30.00,1.03
+"Stony Brook University",29,28.00,31.00,0.90
+"University of Texas at San Antonio",30,3.00,1.00,3.00
+"Rutgers University",31,20.00,18.00,1.11
+"North Carolina State University",32,30.00,29.00,1.03
+"Technical University of Kaiserslautern",33,3.00,1.00,3.00
+"Ohio State University",34,22.00,9.00,2.44
+"Columbia University",35,29.00,35.00,0.83
+"University of California, San Diego",36,22.00,17.00,1.29
+"University of Minnesota",37,24.00,31.00,0.77
+"University of Utah",38,15.00,16.00,0.94
+"Polytechnic University of Milan",39,3.00,1.00,3.00
+"University of California, Irvine",40,29.00,38.00,0.76
+"Rice University",41,17.00,12.00,1.42
+"California Institute of Technology",42,19.00,23.00,0.83
+"KU Leuven",43,5.00,3.00,1.67
+"Portland State University",44,4.00,3.00,1.33
+"University of Colorado Boulder",45,25.00,36.00,0.69
+"University of Virginia",46,17.00,10.00,1.70
+"Texas A&M University",47,13.00,9.00,1.44
+"University of Toronto",48,13.00,7.00,1.86
+"University of Waterloo",49,9.00,3.00,3.00
+"University of Florida",50,14.00,17.00,0.82
+"Northwestern University",51,17.00,20.00,0.85
+"Michigan State University",52,10.00,16.00,0.62
+"Seoul National University",53,2.00,1.00,2.00
+"New York University",54,18.00,24.00,0.75
+"Missouri University of Science and Technology",55,3.00,2.00,1.50
+"Colorado School of Mines",56,2.00,1.00,2.00
+"Johns Hopkins University",57,18.00,25.00,0.72
+"Virginia Tech",58,14.00,12.00,1.17
+"Kent State University",59,2.00,1.00,2.00
+"Syracuse University",60,10.00,9.00,1.11
+"Colgate University",61,2.00,1.00,2.00
+"University of Tulsa",62,2.00,1.00,2.00
+"Aalborg University",63,2.00,1.00,2.00
+"KAIST",64,2.00,1.00,2.00
+"Czech Technical University in Prague",65,2.00,1.00,2.00
+"University of California, Santa Barbara",66,20.00,23.00,0.87
+"Washington University in St. Louis",67,13.00,14.00,0.93
+"University of South Dakota",68,2.00,1.00,2.00
+"Simon Fraser University",69,3.00,2.00,1.50
+"Arizona State University",70,16.00,19.00,0.84
+"University of British Columbia",71,7.00,5.00,1.40
+"University of Texas at Arlington",72,11.00,11.00,1.00
+"University of Nebraska at Kearney",73,2.00,1.00,2.00
+"Yale University",74,14.00,13.00,1.08
+"Temple University",75,9.00,15.00,0.60
+"Wayne State University",76,6.00,13.00,0.46
+"Case Western Reserve University",77,8.00,11.00,0.73
+"Kansas State University",78,6.00,5.00,1.20
+"University of Pittsburgh",79,10.00,9.00,1.11
+"Rensselaer Polytechnic Institute",80,9.00,14.00,0.64
+"University of Illinois Chicago",81,10.00,18.00,0.56
+"Duke University",82,12.00,23.00,0.52
+"Air Force Institute of Technology",83,1.00,1.00,1.00
+"University of Ottawa",84,1.00,1.00,1.00
+"Binghamton University",85,1.00,1.00,1.00
+"Technical University of Denmark",86,1.00,1.00,1.00
+"Florida Atlantic University",87,1.00,1.00,1.00
+"Lancaster University",88,1.00,1.00,1.00
+"Ben-Gurion University of the Negev",89,1.00,1.00,1.00
+"Utrecht University",90,1.00,1.00,1.00
+"Flinders University",91,1.00,1.00,1.00
+"KTH Royal Institute of Technology",92,2.00,2.00,1.00
+"Chalmers University of Technology",93,1.00,1.00,1.00
+"Carleton University",94,1.00,1.00,1.00
+"University of Wollongong",95,1.00,1.00,1.00
+"University of Bari",96,1.00,1.00,1.00
+"Vienna University of Economics and Business",97,1.00,1.00,1.00
+"Oakland University",98,1.00,1.00,1.00
+"Savannah College of Art and Design",99,1.00,1.00,1.00
+"University of Naples Federico II",100,1.00,1.00,1.00
+"Brandeis University",101,5.00,5.00,1.00
+"Imperial College London",102,5.00,2.00,2.50
+"ETH Zurich",103,9.00,0.00,9.00
+"École Polytechnique Fédérale de Lausanne",104,8.00,11.00,0.73
+"University of Arizona",105,4.00,3.00,1.33
+"University of Rochester",106,9.00,3.00,3.00
+"University of Notre Dame",107,6.00,5.00,1.20
+"Lehigh University",108,5.00,6.00,0.83
+"George Washington University",109,5.00,5.00,1.00
+"Hebrew University of Jerusalem",110,7.00,4.00,1.75
+"Boston University",111,8.00,21.00,0.38
+"University of Chicago",112,8.00,14.00,0.57
+"Brigham Young University",113,7.00,12.00,0.58
+"Oregon State University",114,5.00,4.00,1.25
+"University of Nebraska–Lincoln",115,11.00,20.00,0.55
+"University of Kansas",116,5.00,5.00,1.00
+"Vanderbilt University",117,13.00,22.00,0.59
+"University of New Mexico",118,6.00,6.00,1.00
+"Colorado State University",119,10.00,16.00,0.62
+"Mississippi State University",120,6.00,6.00,1.00
+"University of California, Davis",121,7.00,5.00,1.40
+"University of Maryland, Baltimore County",122,10.00,13.00,0.77
+"Harvard Medical School",123,5.00,0.00,5.00
+"Weizmann Institute of Science",124,5.00,4.00,1.25
+"University at Buffalo",125,4.00,3.00,1.33
+"Birla Institute of Technology and Science, Pilani",126,1.00,0.00,1.00
+"University of North Texas",127,4.00,3.00,1.33
+"Peking University",128,2.00,1.00,2.00
+"West Virginia University",129,8.00,12.00,0.67
+"University of North Carolina at Charlotte",130,6.00,7.00,0.86
+"Tufts University",131,5.00,7.00,0.71
+"Stevens Institute of Technology",132,4.00,4.00,1.00
+"Indian Institute of Science",133,4.00,5.00,0.80
+"George Mason University",134,5.00,10.00,0.50
+"Indiana University Bloomington",135,6.00,4.00,1.50
+"Dublin City University",136,1.00,0.00,1.00
+"Stanford Graduate School of Business",137,3.00,0.00,3.00
+"Nanyang Technological University",138,5.00,4.00,1.25
+"Iowa State University",139,10.00,18.00,0.56
+"University of Oxford",140,5.00,3.00,1.67
+"University of California, Santa Cruz",141,4.00,4.00,1.00
+"American University",142,3.00,2.00,1.50
+"University of Central Florida",143,7.00,14.00,0.50
+"University of New Hampshire",144,3.00,4.00,0.75
+"Drexel University",145,5.00,7.00,0.71
+"Howard University",146,2.00,1.00,2.00
+"University of Delaware",147,5.00,8.00,0.62
+"Washington State University",148,6.00,9.00,0.67
+"University of Texas at Dallas",149,4.00,6.00,0.67
+"Technion – Israel Institute of Technology",150,4.00,4.00,1.00
+"Clemson University",151,5.00,5.00,1.00
+"Northeastern University",152,4.00,4.00,1.00
+"University College London",153,3.00,2.00,1.50
+"Southern Illinois University",154,3.00,1.00,3.00
+"Illinois Institute of Technology",155,5.00,5.00,1.00
+"University of Cambridge",156,4.00,5.00,0.80
+"Technische Universität Darmstadt",157,3.00,1.00,3.00
+"National University of Singapore",158,3.00,5.00,0.60
+"University of Alabama",159,2.00,2.00,1.00
+"University of South Carolina",160,7.00,15.00,0.47
+"Free University of Berlin",161,2.00,0.00,2.00
+"Louisiana State University",162,3.00,9.00,0.33
+"University of Kentucky",163,3.00,5.00,0.60
+"University of Science and Technology of China",164,2.00,1.00,2.00
+"University of Missouri",165,2.00,1.00,2.00
+"Wesleyan University",166,2.00,0.00,2.00
+"University of Cincinnati",167,4.00,0.00,4.00
+"University of Louisiana at Lafayette",168,3.00,2.00,1.50
+"University of Rhode Island",169,2.00,0.00,2.00
+"University of Iowa",170,3.00,4.00,0.75
+"Dartmouth College",171,6.00,15.00,0.40
+"Polytechnic University of Turin",172,2.00,2.00,1.00
+"UCLA Graduate School of Education and Information Studies",173,2.00,0.00,2.00
+"Texas Tech University",174,2.00,3.00,0.67
+"Duke University School of Medicine",175,1.00,0.00,1.00
+"University of Basel",176,2.00,0.00,2.00
+"Bates College",177,1.00,0.00,1.00
+"University of Edinburgh",178,3.00,3.00,1.00
+"University of Colorado Denver",179,2.00,1.00,2.00
+"Jadavpur University",180,2.00,0.00,2.00
+"Florida International University",181,2.00,4.00,0.50
+"University of Massachusetts Dartmouth",182,2.00,0.00,2.00
+"University of Warwick",183,2.00,3.00,0.67
+"Wharton School of the University of Pennsylvania",184,2.00,0.00,2.00
+"Karlsruhe Institute of Technology",185,2.00,0.00,2.00
+"University of Louisville",186,2.00,0.00,2.00
+"City University of New York",187,3.00,2.00,1.50
+"University of Paris",188,1.00,0.00,1.00
+"University of Houston",189,2.00,6.00,0.33
+"University of Pavia",190,1.00,0.00,1.00
+"IIT Kharagpur",191,2.00,1.00,2.00
+"Eli Broad College of Business",192,2.00,0.00,2.00
+"University at Albany, SUNY",193,2.00,0.00,2.00
+"Saint Joseph's University",194,3.00,1.00,3.00
+"Stanford University School of Medicine",195,2.00,0.00,2.00
+"University of Georgia",196,2.00,1.00,2.00
+"Max Planck Institute for Intelligent Systems",197,1.00,0.00,1.00
+"Technical University of Košice",198,1.00,0.00,1.00
+"Worcester Polytechnic Institute",199,2.00,8.00,0.25
+"Western New England University",200,1.00,0.00,1.00
+"Goethe University Frankfurt",201,1.00,0.00,1.00
+"Florida State University",202,3.00,5.00,0.60
+"University of Alberta",203,2.00,5.00,0.40
+"Rutgers University–Newark",204,1.00,0.00,1.00
+"University of Essex",205,1.00,1.00,1.00
+"Harvard–MIT Program in Health Sciences and Technology",206,1.00,0.00,1.00
+"U.S. Air Force Test Pilot School",207,1.00,0.00,1.00
+"University of Southampton",208,1.00,1.00,1.00
+"Louisiana State University Shreveport",209,1.00,0.00,1.00
+"Harvard Law School",210,1.00,0.00,1.00
+"Texas Christian University",211,1.00,1.00,1.00
+"Bar-Ilan University",212,1.00,0.00,1.00
+"Syracuse University College of Engineering and Computer Science",213,1.00,0.00,1.00
+"University of Helsinki",214,2.00,0.00,2.00
+"Northeastern University School of Law",215,1.00,0.00,1.00
+"Stephen Wolfram",216,1.00,0.00,1.00
+"Tulane University",217,1.00,1.00,1.00
+"Georgetown University",218,1.00,3.00,0.33
+"George Washington University College of Professional Studies",219,1.00,0.00,1.00
+"Aalto University",220,1.00,0.00,1.00
+"Rockefeller University",221,1.00,0.00,1.00
+"University of Colorado School of Medicine",222,1.00,0.00,1.00
+"French Institute for Research in Computer Science and Automation",223,1.00,0.00,1.00
+"Galvanize (software company)",224,1.00,0.00,1.00
+"University of Wisconsin–Milwaukee",225,1.00,0.00,1.00
+"Colorado State University–Global Campus",226,1.00,0.00,1.00
+"Harrisburg University of Science and Technology",227,1.00,0.00,1.00
+"Hamburg University of Applied Sciences",228,1.00,0.00,1.00
+"University of Texas at El Paso",229,1.00,1.00,1.00
+"New Mexico State University",230,1.00,0.00,1.00
+"Michigan Technological University",231,1.00,2.00,0.50
+"Louisiana Tech University",232,1.00,0.00,1.00
+"University of Amsterdam",233,1.00,0.00,1.00
+"University of New South Wales",234,1.00,0.00,1.00
+"University of Queensland",235,1.00,1.00,1.00
+"Emory University",236,1.00,1.00,1.00
+"Radboud University Nijmegen",237,1.00,0.00,1.00
+"Broward College",238,1.00,0.00,1.00
+"Carlson School of Management",239,1.00,0.00,1.00
+"University of Wyoming",240,1.00,1.00,1.00
+"Federal University of Rio Grande do Sul",241,1.00,0.00,1.00
+"University of Extremadura",242,1.00,0.00,1.00
+"University of South Florida",243,1.00,1.00,1.00
+"Northcentral University",244,1.00,0.00,1.00
+"Providence College",245,1.00,1.00,1.00
+"University of Gothenburg",246,1.00,0.00,1.00
+"Pace University",247,1.00,0.00,1.00
+"Umeå University",248,1.00,0.00,1.00
+"University of Victoria",249,1.00,3.00,0.33
+"IT University of Copenhagen",250,1.00,0.00,1.00
+"Fairmont State University",251,1.00,0.00,1.00
+"University of San Diego",252,1.00,0.00,1.00
+"University of Charleston",253,1.00,0.00,1.00
+"Colorado Technical University",254,1.00,0.00,1.00
+"Freiberg University of Mining and Technology",255,1.00,0.00,1.00
+"Eastern Mediterranean University",256,1.00,0.00,1.00
+"Bridgewater State University",257,1.00,0.00,1.00
+"Salt Lake Community College",258,1.00,0.00,1.00
+"Bocconi University",259,1.00,0.00,1.00
+"West Chester University",260,1.00,0.00,1.00
+"Washburn University School of Law",261,1.00,0.00,1.00
+"IIT Madras",262,1.00,0.00,1.00
+"Hong Kong University of Science and Technology",263,2.00,2.00,1.00
+"David Geffen School of Medicine at UCLA",264,1.00,0.00,1.00
+"Loyola Marymount University",265,1.00,0.00,1.00
+"Aarhus University",266,1.00,1.00,1.00
+"Max Planck Institute for Informatics",267,1.00,0.00,1.00
+"University of Erlangen–Nuremberg",268,1.00,0.00,1.00
+"Champlain College",269,1.00,0.00,1.00
+"McMaster University",270,1.00,0.00,1.00
+"Udacity",271,1.00,0.00,1.00
+"Brock University",272,1.00,0.00,1.00
+"Kellogg School of Management",273,2.00,0.00,2.00
+"Wuhan University",274,2.00,0.00,2.00
+"Chinese University of Hong Kong",275,1.00,0.00,1.00
+"IIT Bombay",276,1.00,0.00,1.00
+"University of Denver",277,2.00,0.00,2.00
+"Georgia State University",278,1.00,2.00,0.50
+"IIT Kanpur",279,1.00,2.00,0.50
+"University of Bologna",280,1.00,2.00,0.50
+"School of the Art Institute of Chicago",281,1.00,2.00,0.50
+"Towson University",282,1.00,0.00,1.00
+"National and Kapodistrian University of Athens",283,1.00,2.00,0.50
+"Fudan University",284,1.00,2.00,0.50
+"DePaul University",285,1.00,2.00,0.50
+"Marquette University",286,1.00,2.00,0.50
+"Auburn University",287,2.00,4.00,0.50
+"University of Bonn",288,1.00,2.00,0.50
+"University of Turin",289,1.00,0.00,1.00
+"Old Dominion University",290,2.00,4.00,0.50
+"Grand Canyon University",291,1.00,2.00,0.50
+"Woods Hole Oceanographic Institution",292,1.00,0.00,1.00
+"Technical University of Dortmund",293,1.00,0.00,1.00
+"Eötvös Loránd University",294,1.00,0.00,1.00
+"Shanghai Jiao Tong University",295,2.00,3.00,0.67
+"University of Oklahoma",296,2.00,1.00,2.00
+"Villanova University",297,2.00,1.00,2.00
+"Cardiff University",298,2.00,0.00,2.00
+"Sapienza University of Rome",299,1.00,1.00,1.00
+"Johannes Kepler University Linz",300,1.00,1.00,1.00
+"Beijing University of Posts and Telecommunications",301,1.00,1.00,1.00
+"Université Laval",302,1.00,0.00,1.00
+"Huazhong University of Science and Technology",303,2.00,0.00,2.00
+"University of Tennessee",304,2.00,3.00,0.67
+"University of Illinois College of Law",305,1.00,0.00,1.00
+"National Polytechnic Institute of Toulouse",306,1.00,0.00,1.00
+"Texas Woman's University",307,1.00,0.00,1.00
+"Emerson College",308,1.00,0.00,1.00
+"Embry–Riddle Aeronautical University",309,1.00,0.00,1.00
+"ArtCenter College of Design",310,1.00,0.00,1.00
+"Grenoble Institute of Technology",311,1.00,0.00,1.00
+"California State University, Long Beach",312,1.00,0.00,1.00
+"Swarthmore College",313,1.00,0.00,1.00
+"University of Technology Sydney",314,1.00,0.00,1.00
+"University of Redlands",315,1.00,0.00,1.00
+"Moscow State University",316,1.00,0.00,1.00
+"University of Kiel",317,1.00,0.00,1.00
+"University of Würzburg",318,1.00,0.00,1.00
+"Tishreen University",319,1.00,0.00,1.00
+"Bowling Green State University",320,1.00,0.00,1.00
+"Sharif University of Technology",321,1.00,0.00,1.00
+"FIU Herbert Wertheim College of Medicine",322,1.00,0.00,1.00
+"Indiana University–Purdue University Indianapolis",323,1.00,0.00,1.00
+"St. John's University (New York City)",324,1.00,1.00,1.00
+"Adelphi University",325,1.00,0.00,1.00
+"Tata Memorial Centre",326,1.00,0.00,1.00
+"University of Tehran",327,1.00,0.00,1.00
+"University of Genoa",328,1.00,0.00,1.00
+"Technical University of Munich",329,1.00,2.00,0.50
+"Western Michigan University",330,1.00,0.00,1.00
+"University of St Andrews",331,1.00,0.00,1.00
+"University of California, Berkeley School of Information",332,1.00,0.00,1.00
+"University of Freiburg",333,1.00,0.00,1.00
+"Polytechnique Montréal",334,1.00,0.00,1.00
+"École centrale de Lyon",335,1.00,0.00,1.00
+"Instituto Superior Técnico",336,1.00,0.00,1.00
+"A. James Clark School of Engineering",337,1.00,0.00,1.00
+"Poolesville High School",338,1.00,0.00,1.00
+"Eastern Michigan University",339,1.00,0.00,1.00
+"Warsaw University of Technology",340,1.00,0.00,1.00
+"Fordham Graduate School of Arts and Sciences",341,1.00,0.00,1.00
+"University of Calgary",342,1.00,1.00,1.00
+"Sun Yat-sen University",343,1.00,1.00,1.00
+"Valencia College",344,1.00,0.00,1.00
+"Arcadia University",345,1.00,0.00,1.00
+"East Tennessee State University",346,1.00,0.00,1.00
+"Atlantic Technical College",347,1.00,0.00,1.00
+"Toyota Technological Institute at Chicago",348,1.00,0.00,1.00
+"Saarland University",349,1.00,2.00,0.50
+"Roma Tre University",350,1.00,0.00,1.00
+"Bennett S. LeBow College of Business",351,1.00,0.00,1.00
+"HEC Montréal",352,1.00,0.00,1.00
+"Gwynedd Mercy University",353,1.00,0.00,1.00
+"Widener University",354,1.00,0.00,1.00
+"Lebanon Valley College",355,1.00,0.00,1.00
+"Tsinghua University",356,1.00,3.00,0.33
+"University of Tsukuba",357,1.00,0.00,1.00
+"University of North Dakota",358,1.00,0.00,1.00
+"École Polytechnique",359,1.00,1.00,1.00
+"Teachers College, Columbia University",360,1.00,0.00,1.00
+"Xidian University",361,1.00,1.00,1.00
+"Pierre and Marie Curie University",362,1.00,0.00,1.00
+"Hunter College",363,1.00,0.00,1.00
+"École normale supérieure (Paris)",364,1.00,0.00,1.00
+"Columbus College of Art and Design",365,1.00,0.00,1.00
+"Australian National University",366,1.00,0.00,1.00
+"Tilburg University",367,1.00,1.00,1.00
+"Johns Hopkins School of Medicine",368,1.00,0.00,1.00
+"Cairo University",369,1.00,1.00,1.00
+"TU Wien",370,1.00,0.00,1.00
+"Carroll School of Management",371,1.00,0.00,1.00
+"Victoria University of Wellington",372,1.00,0.00,1.00
+"Regent University",373,1.00,0.00,1.00
+"Polytechnic University of Catalonia",374,1.00,0.00,1.00
+"University of Patras",375,1.00,0.00,1.00
+"Harvard T.H. Chan School of Public Health",376,1.00,0.00,1.00
+"Weber State University",377,1.00,0.00,1.00
+"University of California, Merced",378,1.00,1.00,1.00
+"Xiamen University",379,1.00,0.00,1.00
+"Federal University of São Carlos",380,1.00,0.00,1.00
+"Southern Methodist University",381,1.00,4.00,0.25
+"Virginia Commonwealth University",382,1.00,0.00,1.00
+"East Carolina University",383,1.00,1.00,1.00
+"Alexandria University",384,1.00,0.00,1.00
+"University of Florence",385,1.00,0.00,1.00
+"University of Idaho",386,1.00,0.00,1.00
+"San Jose State University",387,1.00,1.00,1.00
+"University of Dayton",388,1.00,0.00,1.00
+"Horace H. Rackham School of Graduate Studies",389,1.00,0.00,1.00
+"Nova Southeastern University",390,1.00,0.00,1.00
+"Vrije Universiteit Amsterdam",391,1.00,0.00,1.00
+"Harvard Business School",392,1.00,0.00,1.00
+"Northwestern University Pritzker School of Law",393,1.00,0.00,1.00
+"Grenoble Alpes University",394,1.00,0.00,1.00
+"School of Visual Arts",395,1.00,0.00,1.00
+"Perelman School of Medicine at the University of Pennsylvania",396,1.00,0.00,1.00
+"California State Polytechnic University, Pomona",397,1.00,1.00,1.00
+"Nebraska Wesleyan University",398,1.00,0.00,1.00
+"University of Maryland Global Campus",399,0.00,0.00,0.00
+"Allegheny College",400,0.00,0.00,0.00
+"North Park University",401,0.00,0.00,0.00
+"University of St. Thomas (Minnesota)",402,0.00,0.00,0.00
+"IIT Delhi",403,0.00,1.00,0.00
+"Beihang University",404,0.00,2.00,0.00
+"University of the Chinese Academy of Sciences",405,0.00,0.00,0.00
+"University of the Western Cape",406,0.00,0.00,0.00
+"Middlebury College",407,0.00,0.00,0.00
+"University of Electronic Science and Technology of China",408,0.00,0.00,0.00
+"Tongji University",409,0.00,0.00,0.00
+"Monterrey Institute of Technology and Higher Education",410,0.00,0.00,0.00
+"MIT Sloan School of Management",411,0.00,0.00,0.00
+"Zhejiang University",412,0.00,0.00,0.00
+"Jagiellonian University",413,0.00,0.00,0.00
+"United States Navy Strike Fighter Tactics Instructor program",414,0.00,0.00,0.00
+"University of Ulm",415,0.00,0.00,0.00
+"Chennai Mathematical Institute",416,0.00,0.00,0.00
+"Wang Institute of Graduate Studies",417,0.00,0.00,0.00
+"London School of Economics",418,0.00,0.00,0.00
+"Olin College",419,0.00,1.00,0.00
+"Hofstra University",420,0.00,1.00,0.00
+"not found",421,0.00,0.00,0.00
+"Jawaharlal Nehru University",422,0.00,0.00,0.00
+"Eindhoven University of Technology",423,0.00,2.00,0.00
+"Pratt Institute",424,0.00,0.00,0.00
+"East China Normal University",425,0.00,0.00,0.00
+"Sabancı University",426,0.00,0.00,0.00
+"Middle East Technical University",427,0.00,2.00,0.00
+"Bilkent University",428,0.00,0.00,0.00
+"Waseda University",429,0.00,0.00,0.00
+"California State University, Northridge",430,0.00,0.00,0.00
+"Northeast Normal University",431,0.00,0.00,0.00
+"USC Gould School of Law",432,0.00,0.00,0.00
+"University of Wisconsin–Oshkosh",433,0.00,0.00,0.00
+"Singapore University of Technology and Design",434,0.00,0.00,0.00
+"Beijing Jiaotong University",435,0.00,0.00,0.00
+"Miami University",436,0.00,3.00,0.00
+"University of North Carolina at Greensboro",437,0.00,0.00,0.00
+"Houghton College",438,0.00,0.00,0.00
+"IIT Roorkee",439,0.00,0.00,0.00
+"Webster University",440,0.00,1.00,0.00
+"The College at Brockport, State University of New York",441,0.00,0.00,0.00
+"Ocean University of China",442,0.00,0.00,0.00
+"University of Oregon",443,0.00,2.00,0.00
+"Shandong University",444,0.00,0.00,0.00
+"Bangalore Institute of Technology",445,0.00,0.00,0.00
+"Beijing Forestry University",446,0.00,0.00,0.00
+"Istanbul Technical University",447,0.00,1.00,0.00
+"University of Vermont",448,0.00,1.00,0.00
+"University of Memphis",449,0.00,2.00,0.00
+"Hanyang University",450,0.00,0.00,0.00
+"Vistula University",451,0.00,0.00,0.00
+"PES University",452,0.00,0.00,0.00
+"Colvin Taluqdars' College",453,0.00,0.00,0.00
+"University of Padua",454,0.00,1.00,0.00
+"National Taiwan University",455,0.00,0.00,0.00
+"University of San Francisco",456,0.00,0.00,0.00
+"Southeast University",457,0.00,0.00,0.00
+"UCLA Anderson School of Management",458,0.00,0.00,0.00
+"California Institute of the Arts",459,0.00,0.00,0.00
+"Georgetown University Law Center",460,0.00,0.00,0.00
+"Santa Clara University",461,0.00,0.00,0.00
+"Florida Institute of Technology",462,0.00,0.00,0.00
+"Queens College, City University of New York",463,0.00,0.00,0.00
+"Fuqua School of Business",464,0.00,0.00,0.00
+"University of Miami",465,0.00,2.00,0.00
+"University of Central Florida College of Business Administration",466,0.00,0.00,0.00
+"Hebei Normal University",467,0.00,0.00,0.00
+"Sichuan University",468,0.00,0.00,0.00
+"Campion College",469,0.00,0.00,0.00
+"Dalian University of Technology",470,0.00,0.00,0.00
+"Osnabrück University",471,0.00,0.00,0.00
+"Athens University of Economics and Business",472,0.00,0.00,0.00
+"University of Orléans",473,0.00,1.00,0.00
+"Aristotle University of Thessaloniki",474,0.00,0.00,0.00
+"Evergreen State College",475,0.00,0.00,0.00
+"Boğaziçi University",476,0.00,1.00,0.00
+"High School Affiliated to Fudan University",477,0.00,0.00,0.00
+"Maret School",478,0.00,0.00,0.00
+"St. Columba's School, Delhi",479,0.00,0.00,0.00
+"Colby College",480,0.00,0.00,0.00
+"Macalester College",481,0.00,0.00,0.00
+"Odense University",482,0.00,0.00,0.00
+"University of Southern Denmark",483,0.00,1.00,0.00
+"University College Cork",484,0.00,0.00,0.00
+"Pomona College",485,0.00,0.00,0.00
+"Lexington High School (Massachusetts)",486,0.00,0.00,0.00
+"Tel Aviv University",487,0.00,1.00,0.00
+"The New School",488,0.00,0.00,0.00
+"Supélec",489,0.00,0.00,0.00
+"Nankai University",490,0.00,0.00,0.00
+"Institute of Software, Chinese Academy of Sciences",491,0.00,0.00,0.00
+"Williams College",492,0.00,0.00,0.00
+"Technical University of Valencia",493,0.00,0.00,0.00
+"National Institute of Technology Calicut",494,0.00,0.00,0.00
+"University of Richmond",495,0.00,0.00,0.00
+"Southwest Jiaotong University",496,0.00,0.00,0.00
+"Chestnut Hill College",497,0.00,0.00,0.00
+"Earlham College",498,0.00,0.00,0.00
+"National Chiao Tung University",499,0.00,0.00,0.00
+"Staffordshire University",500,0.00,0.00,0.00
+"University of Burgundy",501,0.00,0.00,0.00
+"Yeshiva University",502,0.00,0.00,0.00
+"Calvin University",503,0.00,0.00,0.00
+"Champlain Valley Union High School",504,0.00,0.00,0.00
+"Kendriya Vidyalaya Sangathan",505,0.00,0.00,0.00
+"SRM Institute of Science and Technology",506,0.00,2.00,0.00
+"University of Mary Washington",507,0.00,0.00,0.00
+"The College of New Jersey",508,0.00,2.00,0.00
+"Nanjing University of Information Science and Technology",509,0.00,0.00,0.00
+"Full Sail University",510,0.00,2.00,0.00
+"Regis University",511,0.00,1.00,0.00
+"Oklahoma State University–Stillwater",512,0.00,2.00,0.00
+"Claremont McKenna College",513,0.00,0.00,0.00
+"IIT Guwahati",514,0.00,1.00,0.00
+"Wake Forest University",515,0.00,0.00,0.00
+"Stephen F. Austin High School (Austin, Texas)",516,0.00,0.00,0.00
+"University of Arkansas",517,0.00,1.00,0.00
+"Arab Academy for Science, Technology and Maritime Transport",518,0.00,0.00,0.00
+"University of Rome Tor Vergata",519,0.00,0.00,0.00
+"Concordia University",520,0.00,0.00,0.00
+"Oberlin College",521,0.00,1.00,0.00
+"University of Warsaw",522,0.00,0.00,0.00
+"Delhi University",523,0.00,0.00,0.00
+"State University of New York at Purchase",524,0.00,0.00,0.00
+"University of Wisconsin–Eau Claire",525,0.00,0.00,0.00
+"Boston College",526,0.00,0.00,0.00
+"Visvesvaraya National Institute of Technology Nagpur",527,0.00,0.00,0.00
+"Hanoi University of Science and Technology",528,0.00,0.00,0.00
+"Harvey Mudd College",529,0.00,0.00,0.00
+"University of Hawaiʻi at Mānoa",530,0.00,0.00,0.00
+"South China University of Technology",531,0.00,0.00,0.00
+"Northeastern University (China)",532,0.00,0.00,0.00
+"University of Zagreb",533,0.00,0.00,0.00
+"State University of New York",534,0.00,0.00,0.00
+"Rani Durgavati Vishwavidyalaya",535,0.00,0.00,0.00
+"Guru Ghasidas Vishwavidyalaya",536,0.00,0.00,0.00
+"University of Crete",537,0.00,0.00,0.00
+"Rose–Hulman Institute of Technology",538,0.00,1.00,0.00
+"Smith College",539,0.00,1.00,0.00
+"New York Academy of Art",540,0.00,0.00,0.00
+"University of Hong Kong",541,0.00,0.00,0.00
+"University of Macedonia",542,0.00,0.00,0.00
+"University of Manchester",543,0.00,0.00,0.00
+"University of Oldenburg",544,0.00,0.00,0.00
+"Technical University of Berlin",545,0.00,1.00,0.00
+"FH Aachen",546,0.00,0.00,0.00
+"University of Auckland",547,0.00,0.00,0.00
+"Seaholm High School",548,0.00,0.00,0.00
+"University of Ioannina",549,0.00,0.00,0.00
+"Duquesne University",550,0.00,1.00,0.00
+"Bronx High School of Science",551,0.00,0.00,0.00
+"National Institute of Technology Karnataka",552,0.00,0.00,0.00
+"University of Adelaide",553,0.00,0.00,0.00
+"Watchung Hills Regional High School",554,0.00,0.00,0.00
+"United States Air Force Academy",555,0.00,2.00,0.00
+"List of universities in Austria",556,0.00,0.00,0.00
+"Ghent University",557,0.00,0.00,0.00
+"Bursa Technical University",558,0.00,0.00,0.00
+"Cooper Union",559,0.00,0.00,0.00
+"IIT (BHU) Varanasi",560,0.00,0.00,0.00
+"Savitribai Phule Pune University",561,0.00,0.00,0.00
+"University of Isfahan",562,0.00,0.00,0.00
+"Tarbiat Modares University",563,0.00,0.00,0.00
+"Western Illinois University",564,0.00,0.00,0.00
+"Nanjing University",565,0.00,1.00,0.00
+"EOI Business School",566,0.00,0.00,0.00
+"University of Deusto",567,0.00,1.00,0.00
+"California Polytechnic State University, San Luis Obispo",568,0.00,0.00,0.00
+"Saratoga High School (California)",569,0.00,0.00,0.00
+"Hefei University",570,0.00,0.00,0.00
+"University of Cape Town",571,0.00,0.00,0.00
+"American University of Beirut",572,0.00,1.00,0.00
+"California State University, Dominguez Hills",573,0.00,0.00,0.00
+"Politehnica University of Bucharest",574,0.00,1.00,0.00
+"École des ponts ParisTech",575,0.00,2.00,0.00
+"Technical University of Madrid",576,0.00,1.00,0.00
+"Cranfield University",577,0.00,0.00,0.00
+"Clarkson University",578,0.00,0.00,0.00
+"Ulrich von Hutten",579,0.00,0.00,0.00
+"Queen's University",580,0.00,0.00,0.00
+"University of Liège",581,0.00,0.00,0.00
+"College of Engineering, Pune",582,0.00,0.00,0.00
+"Slovak University of Technology in Bratislava",583,0.00,0.00,0.00
+"Wright State University",584,0.00,1.00,0.00
+"Netaji Subhas University of Technology",585,0.00,0.00,0.00
+"University of Pretoria",586,0.00,0.00,0.00
+"Utah State University",587,0.00,0.00,0.00
+"Gjøvik University College",588,0.00,0.00,0.00
+"Amador Valley High School",589,0.00,0.00,0.00
+"TU Dresden",590,0.00,0.00,0.00
+"University of Leeds",591,0.00,0.00,0.00
+"University of Ljubljana",592,0.00,0.00,0.00
+"St. Peter's College, Agra",593,0.00,0.00,0.00
+"Bauhaus University, Weimar",594,0.00,0.00,0.00
+"Western University",595,0.00,1.00,0.00
+"Northeastern State University",596,0.00,0.00,0.00
+"Bangladesh University of Engineering and Technology",597,0.00,1.00,0.00
+"Sungkyunkwan University",598,0.00,4.00,0.00
+"Fu Foundation School of Engineering and Applied Science",599,0.00,0.00,0.00
+"College of Staten Island",600,0.00,0.00,0.00
+"Staples High School",601,0.00,0.00,0.00
+"Ridgewood High School (New Jersey)",602,0.00,0.00,0.00
+"Charles University",603,0.00,0.00,0.00
+"Peter the Great St. Petersburg Polytechnic University",604,0.00,0.00,0.00
+"Junior college",605,0.00,0.00,0.00
+"Veermata Jijabai Technological Institute",606,0.00,0.00,0.00
+"Sonoma State University",607,0.00,0.00,0.00
+"Indian Institute of Technology (Indian School of Mines), Dhanbad",608,0.00,0.00,0.00
+"Olympic College",609,0.00,1.00,0.00
+"Tianjin University",610,0.00,0.00,0.00
+"Queensland University of Technology",611,0.00,0.00,0.00
+"University of the Witwatersrand",612,0.00,0.00,0.00
+"Central China Normal University",613,0.00,0.00,0.00
+"San Joaquin Delta College",614,0.00,0.00,0.00
+"Hangzhou Foreign Languages School",615,0.00,0.00,0.00
+"Johnson C. Smith University",616,0.00,0.00,0.00
+"University of Toledo",617,0.00,0.00,0.00
+"University of Belgrade",618,0.00,0.00,0.00
+"Albany State University",619,0.00,0.00,0.00
+"University of Vienna",620,0.00,0.00,0.00
+"University of Tübingen",621,0.00,0.00,0.00
+"University of Zurich",622,0.00,0.00,0.00
+"University of Regina",623,0.00,0.00,0.00
+"Emmaus High School",624,0.00,0.00,0.00
+"St. George's University",625,0.00,0.00,0.00
+"University of Michigan College of Engineering",626,0.00,0.00,0.00
+"Lincoln-Sudbury Regional High School",627,0.00,0.00,0.00
+"Belmont High School (Massachusetts)",628,0.00,0.00,0.00
+"University of Mainz",629,0.00,0.00,0.00
+"Punjab Engineering College",630,0.00,0.00,0.00
+"Catholic University of Córdoba",631,0.00,0.00,0.00
+"Konkuk University",632,0.00,0.00,0.00
+"Choate Rosemary Hall",633,0.00,0.00,0.00
+"National Institute of Technology, Warangal",634,0.00,0.00,0.00
+"Tennessee Technological University",635,0.00,1.00,0.00
+"Budapest University of Technology and Economics",636,0.00,0.00,0.00
+"Siena College",637,0.00,0.00,0.00
+"Alliance University",638,0.00,0.00,0.00
+"Florida A&M University",639,0.00,0.00,0.00
+"Moscow Institute of Physics and Technology",640,0.00,0.00,0.00
+"MIT World Peace University",641,0.00,0.00,0.00
+"Government College of Engineering & Textile Technology Serampore",642,0.00,0.00,0.00
+"United States Naval Academy",643,0.00,3.00,0.00
+"Truman State University",644,0.00,0.00,0.00
+"Shattuck-Saint Mary's",645,0.00,0.00,0.00
+"Carleton College",646,0.00,0.00,0.00
+"Luther College (Iowa)",647,0.00,0.00,0.00
+"Trinity University (Texas)",648,0.00,1.00,0.00
+"Birla High School",649,0.00,0.00,0.00
+"University of Moratuwa",650,0.00,1.00,0.00
+"National University of Computer and Emerging Sciences",651,0.00,1.00,0.00
+"Berklee College of Music",652,0.00,1.00,0.00
+"University of Sussex",653,0.00,0.00,0.00
+"Fordham University",654,0.00,2.00,0.00
+"University of Navarra",655,0.00,0.00,0.00
+"Aurora University",656,0.00,0.00,0.00
+"University of Nottingham",657,0.00,0.00,0.00
+"University of Stuttgart",658,0.00,1.00,0.00
+"Humboldt University of Berlin",659,0.00,0.00,0.00
+"University of Calicut",660,0.00,0.00,0.00
+"Banaras Hindu University",661,0.00,0.00,0.00
+"RMIT University",662,0.00,0.00,0.00
+"Chaparral High School (Arizona)",663,0.00,0.00,0.00
+"Haldia Institute of Technology",664,0.00,0.00,0.00
+"Grove City College",665,0.00,0.00,0.00
+"Union University",666,0.00,0.00,0.00
+"University of São Paulo",667,0.00,0.00,0.00
+"State University of New York at Plattsburgh",668,0.00,0.00,0.00
+"Baruch College",669,0.00,0.00,0.00
+"DePauw University",670,0.00,0.00,0.00
+"Lawrence University",671,0.00,0.00,0.00
+"China Medical University",672,0.00,0.00,0.00
+"Amirkabir University of Technology",673,0.00,0.00,0.00
+"Reed College",674,0.00,1.00,0.00
+"Bloomsburg University of Pennsylvania",675,0.00,0.00,0.00
+"Palo Alto High School",676,0.00,0.00,0.00
+"Federal University of Minas Gerais",677,0.00,0.00,0.00
+"Pontifical Catholic University of Rio de Janeiro",678,0.00,0.00,0.00
+"Ohio Wesleyan University",679,0.00,0.00,0.00
+"Ithaca College",680,0.00,0.00,0.00
+"University of Sydney",681,0.00,0.00,0.00
+"King's College London",682,0.00,0.00,0.00
+"Cardinal Newman High School (West Palm Beach, Florida)",683,0.00,0.00,0.00
+"Baltimore Polytechnic Institute",684,0.00,0.00,0.00
+"Pritzker School of Medicine",685,0.00,0.00,0.00
+"Albert Einstein College of Medicine",686,0.00,0.00,0.00
+"University of Hanover",687,0.00,0.00,0.00
+"University of Buenos Aires",688,0.00,0.00,0.00
+"Ain Shams University",689,0.00,0.00,0.00
+"College of Engineering, Guindy",690,0.00,0.00,0.00
+"Minnesota State University, Mankato",691,0.00,0.00,0.00
+"Bemidji State University",692,0.00,0.00,0.00
+"University of Tokyo",693,0.00,0.00,0.00
+"Jilin University",694,0.00,0.00,0.00
+"West Springfield High School (Virginia)",695,0.00,0.00,0.00
+"Lawrenceville School",696,0.00,0.00,0.00
+"Beijing University of Technology",697,0.00,0.00,0.00
+"West Virginia Wesleyan College",698,0.00,0.00,0.00
+"Saint Mary's College of California",699,0.00,0.00,0.00
+"Ball State University",700,0.00,0.00,0.00
+"Maulana Abul Kalam Azad University of Technology",701,0.00,0.00,0.00
+"St. Olaf College",702,0.00,0.00,0.00
+"St. Thomas' College of Engineering and Technology",703,0.00,0.00,0.00
+"University of Calcutta",704,0.00,0.00,0.00
+"Community College of the Air Force",705,0.00,0.00,0.00
+"Monash University",706,0.00,0.00,0.00
+"Cyprus College",707,0.00,0.00,0.00
+"Saint Mary's University of Minnesota",708,0.00,1.00,0.00
+"University of Minnesota Duluth",709,0.00,0.00,0.00
+"Southeast Community College",710,0.00,0.00,0.00
+"Abertay University",711,0.00,0.00,0.00
+"University of Otago",712,0.00,0.00,0.00
+"Goucher College",713,0.00,0.00,0.00
+"LNM Institute of Information Technology",714,0.00,0.00,0.00
+"Korea University",715,0.00,2.00,0.00
+"California State University, Chico",716,0.00,0.00,0.00
+"Northwestern Polytechnical University",717,0.00,0.00,0.00
+"Bucknell University",718,0.00,0.00,0.00
+"University of Haifa",719,0.00,1.00,0.00
+"University of Mumbai",720,0.00,0.00,0.00
+"Denison University",721,0.00,2.00,0.00
+"Kwangwoon University",722,0.00,0.00,0.00
+"Ohio University",723,0.00,2.00,0.00
+"American International University-Bangladesh",724,0.00,0.00,0.00
+"Renmin University of China",725,0.00,0.00,0.00
+"Universidad Ricardo Palma",726,0.00,1.00,0.00
+"Indonesia Open University",727,0.00,0.00,0.00
+"Ege University",728,0.00,0.00,0.00
+"Winona State University",729,0.00,1.00,0.00
+"Babeș-Bolyai University",730,0.00,1.00,0.00
+"University of Central Oklahoma",731,0.00,0.00,0.00
+"Valdosta State University",732,0.00,1.00,0.00
+"Technical University of Cluj-Napoca",733,0.00,0.00,0.00
+"University of Valencia",734,0.00,0.00,0.00
+"St. Stephen's College, Delhi",735,0.00,0.00,0.00
+"Hanover College",736,0.00,1.00,0.00
+"University of Northern Colorado",737,0.00,1.00,0.00
+"Vellore Institute of Technology",738,0.00,0.00,0.00
+"Pontifical Catholic University of Rio Grande do Sul",739,0.00,1.00,0.00
+"Lycée privé Sainte-Geneviève",740,0.00,0.00,0.00
+"AgroParisTech",741,0.00,0.00,0.00
+"IIEST, Shibpur",742,0.00,0.00,0.00
+"Bowdoin College",743,0.00,0.00,0.00
+"Bucharest Academy of Economic Studies",744,0.00,0.00,0.00
+"National Institute of Technology, Raipur",745,0.00,0.00,0.00
+"Northern State University",746,0.00,0.00,0.00
+"Barry University",747,0.00,0.00,0.00
+"Hendrix College",748,0.00,0.00,0.00
+"Dickinson College",749,0.00,1.00,0.00
+"University of Lübeck",750,0.00,0.00,0.00
+"The American University in Cairo",751,0.00,1.00,0.00
+"University of Milano-Bicocca",752,0.00,0.00,0.00
+"Al-Baath University",753,0.00,0.00,0.00
+"Télécom Paris",754,0.00,1.00,0.00
+"ESIEE Paris",755,0.00,0.00,0.00
+"University of Alaska Fairbanks",756,0.00,1.00,0.00
+"Haverford College",757,0.00,0.00,0.00
+"National Cheng Kung University",758,0.00,0.00,0.00
+"Park University",759,0.00,1.00,0.00
+"University of Tampa",760,0.00,0.00,0.00
+"Lycoming College",761,0.00,0.00,0.00
+"Brunswick School",762,0.00,0.00,0.00
+"United States Military Academy",763,0.00,0.00,0.00
+"University of Alaska Anchorage",764,0.00,0.00,0.00
+"Acadia University",765,0.00,0.00,0.00
+"TOBB University of Economics and Technology",766,0.00,1.00,0.00
+"Delaware Valley University",767,0.00,0.00,0.00
+"Bournemouth University",768,0.00,0.00,0.00
+"South Dakota State University",769,0.00,0.00,0.00
+"University of Mannheim",770,0.00,1.00,0.00
+"Trinity College Dublin",771,0.00,1.00,0.00
+"New York University Tandon School of Engineering",772,0.00,0.00,0.00
+"Middle Tennessee State University",773,0.00,0.00,0.00
+"Anna University",774,0.00,0.00,0.00
+"Kutztown University of Pennsylvania",775,0.00,0.00,0.00
+"Wellesley College",776,0.00,1.00,0.00
+"Dalhousie University",777,0.00,0.00,0.00
+"Tuskegee University",778,0.00,0.00,0.00
+"Ludwig Maximilian University of Munich",779,0.00,0.00,0.00
+"University of New Orleans",780,0.00,2.00,0.00
+"University of Wisconsin–Green Bay",781,0.00,0.00,0.00
+"Amherst College",782,0.00,0.00,0.00
+"Iran University of Science and Technology",783,0.00,0.00,0.00
+"Notre Dame Academy (Worcester, Massachusetts)",784,0.00,0.00,0.00
+"Wartburg College",785,0.00,0.00,0.00
+"Point Loma Nazarene University",786,0.00,0.00,0.00
+"Sogang University",787,0.00,0.00,0.00
+"École nationale de l'aviation civile",788,0.00,0.00,0.00
+"Anne Arundel Community College",789,0.00,0.00,0.00
+"Graz University of Technology",790,0.00,1.00,0.00
+"University of Bridgeport",791,0.00,1.00,0.00
+"École Supérieure de Chimie Physique Électronique de Lyon",792,0.00,0.00,0.00
+"Institut national des sciences appliquées de Lyon",793,0.00,0.00,0.00
+"Lund University",794,0.00,0.00,0.00
+"Paris-Saclay University",795,0.00,0.00,0.00
+"New Jersey Institute of Technology",796,0.00,2.00,0.00
+"Visvesvaraya Technological University",797,0.00,0.00,0.00
+"University of Novi Sad",798,0.00,0.00,0.00
+"Montclair State University",799,0.00,0.00,0.00
+"University of Engineering and Technology, Lahore",800,0.00,0.00,0.00
+"University of Tabriz",801,0.00,0.00,0.00
+"Kharazmi University",802,0.00,0.00,0.00
+"Islamic Azad University, Najafabad Branch",803,0.00,0.00,0.00
+"Fluminense Federal University",804,0.00,1.00,0.00
+"Trinity College (Connecticut)",805,0.00,0.00,0.00
+"Holyoke Community College",806,0.00,0.00,0.00
+"New Fairfield High School",807,0.00,0.00,0.00
+"University of Copenhagen",808,0.00,1.00,0.00
+"Lahore University of Management Sciences",809,0.00,0.00,0.00
+"Concord University",810,0.00,0.00,0.00
+"Morehead State University",811,0.00,1.00,0.00
+"Kettering University",812,0.00,2.00,0.00
+"Kalinga Institute of Industrial Technology",813,0.00,1.00,0.00
+"University of Canterbury",814,0.00,0.00,0.00
+"Winthrop University",815,0.00,0.00,0.00
+"University of Detroit Mercy",816,0.00,0.00,0.00
+"Yonsei University",817,0.00,3.00,0.00
+"University of Dar es Salaam",818,0.00,0.00,0.00
+"Lafayette College",819,0.00,0.00,0.00
+"National University of Sciences & Technology",820,0.00,0.00,0.00
+"Christopher Newport University",821,0.00,0.00,0.00
+"New England School of Photography",822,0.00,0.00,0.00
+"Paris Nanterre University",823,0.00,0.00,0.00
+"Igor Sikorsky Kyiv Polytechnic Institute",824,0.00,1.00,0.00
+"Thiagarajar College of Engineering",825,0.00,0.00,0.00
+"National Institute of Technology, Rourkela",826,0.00,0.00,0.00
+"Erasmus University Rotterdam",827,0.00,0.00,0.00
+"Shiraz University",828,0.00,0.00,0.00
+"National Autonomous University of Mexico",829,0.00,0.00,0.00
+"Shanghai University",830,0.00,0.00,0.00
+"Loyola University Chicago",831,0.00,0.00,0.00
+"Shepherd University",832,0.00,0.00,0.00
+"University of Puget Sound",833,0.00,1.00,0.00
+"Angelo State University",834,0.00,0.00,0.00
+"Fordson High School",835,0.00,0.00,0.00
+"Henry Ford College",836,0.00,0.00,0.00
+"Elon University",837,0.00,0.00,0.00
+"Süleyman Demirel University",838,0.00,0.00,0.00
+"University of Glasgow",839,0.00,1.00,0.00
+"Jaypee Institute of Information Technology",840,0.00,0.00,0.00
+"University of Michigan–Flint",841,0.00,0.00,0.00
+"York University",842,0.00,0.00,0.00
+"Bowie State University",843,0.00,0.00,0.00
+"Başkent University",844,0.00,0.00,0.00
+"Tamaulipas Institute of Higher Education",845,0.00,0.00,0.00
+"Gheorghe Asachi Technical University of Iași",846,0.00,0.00,0.00
+"Heidelberg University",847,0.00,0.00,0.00
+"National Chengchi University",848,0.00,0.00,0.00
+"Addis Ababa University",849,0.00,0.00,0.00
+"College of the Holy Cross",850,0.00,1.00,0.00
+"University of Evansville",851,0.00,0.00,0.00
+"State University of New York at Fredonia",852,0.00,0.00,0.00
+"Memorial University of Newfoundland",853,0.00,1.00,0.00
+"University of North Florida",854,0.00,0.00,0.00
+"Comenius University",855,0.00,0.00,0.00
+"Saint Anselm College",856,0.00,0.00,0.00
+"Emporia State University",857,0.00,0.00,0.00
+"University of Northern Iowa",858,0.00,0.00,0.00
+"Chittagong University of Engineering & Technology",859,0.00,0.00,0.00
+"University of Southern Mississippi",860,0.00,0.00,0.00
+"California State University, Sacramento",861,0.00,0.00,0.00
+"The Art Institutes",862,0.00,0.00,0.00
+"Antioch University",863,0.00,0.00,0.00
+"Daniel Boone Area High School",864,0.00,0.00,0.00
+"Imam Mohammad Ibn Saud Islamic University",865,0.00,0.00,0.00
+"Hacettepe University",866,0.00,0.00,0.00
+"Manhattan College",867,0.00,1.00,0.00
+"University of Montpellier",868,0.00,0.00,0.00
+"UCLA Extension",869,0.00,0.00,0.00
+"General Assembly (school)",870,0.00,0.00,0.00
+"San Diego State University",871,0.00,1.00,0.00
+"California State University, Los Angeles",872,0.00,0.00,0.00
+"Jawaharlal Nehru Technological University, Hyderabad",873,0.00,0.00,0.00
+"Western Kentucky University",874,0.00,0.00,0.00
+"University of Porto",875,0.00,1.00,0.00
+"Wuhan University of Technology",876,0.00,0.00,0.00
+"Francis Marion University",877,0.00,0.00,0.00
+"National Institute of Technology, Kurukshetra",878,0.00,0.00,0.00
+"University of Texas Southwestern Medical Center",879,0.00,0.00,0.00
+"Nanjing University of Posts and Telecommunications",880,0.00,0.00,0.00
+"Randolph–Macon College",881,0.00,0.00,0.00
+"Chulalongkorn University",882,0.00,0.00,0.00
+"American University of the Middle East",883,0.00,0.00,0.00
+"Lake Forest College",884,0.00,1.00,0.00
+"Argosy University",885,0.00,1.00,0.00
+"University",886,0.00,16.00,0.00
+"University of the Amazon",887,0.00,4.00,0.00
+"Rochester Institute of Technology",888,0.00,3.00,0.00
+"National Aviation University",889,0.00,0.00,0.00
+"Oregon Health & Science University",890,0.00,0.00,0.00
+"University of California",891,0.00,1.00,0.00
+"Bentley University",892,0.00,0.00,0.00
+"University of the Pacific (United States)",893,0.00,0.00,0.00
+"Vassar College",894,0.00,0.00,0.00
+"Leiden University",895,0.00,0.00,0.00
+"Chuo University",896,0.00,1.00,0.00
+"Northern Virginia Community College",897,0.00,1.00,0.00
+"Naval Postgraduate School",898,0.00,0.00,0.00
+"Georgia Southern University",899,0.00,1.00,0.00
+"Fairfield University",900,0.00,2.00,0.00
+"Montana State University",901,0.00,0.00,0.00
+"List of state and territorial universities in the United States",902,0.00,0.00,0.00
+"International university",903,0.00,4.00,0.00
+"Universidad Nacional del Sur",904,0.00,0.00,0.00
+"Muskingum University",905,0.00,1.00,0.00
+"Alexandru Ioan Cuza University",906,0.00,0.00,0.00
+"Bennington College",907,0.00,0.00,0.00
+"Northwestern Health Sciences University",908,0.00,0.00,0.00
+"Kennesaw State University",909,0.00,0.00,0.00
+"Toyota Technological Institute",910,0.00,0.00,0.00
+"Manhattan Christian College",911,0.00,0.00,0.00
+"Hokkaido University",912,0.00,0.00,0.00
+"Himachal Pradesh University",913,0.00,0.00,0.00
+"Holy Names University",914,0.00,0.00,0.00
+"University of Massachusetts Lowell",915,0.00,1.00,0.00
+"University of Bristol",916,0.00,1.00,0.00
+"Ismail Qemali University of Vlorë",917,0.00,0.00,0.00
+"University of Information Science and Technology St. Paul The Apostle""",918,0.00,0.00,0.00
+"Jordan University of Science and Technology",919,0.00,2.00,0.00
+"Jerash University",920,0.00,0.00,0.00
+"Mount Mercy University",921,0.00,0.00,0.00
+"University of Western Ontario",922,0.00,1.00,0.00
+"William Jewell College",923,0.00,1.00,0.00
+"ICT University",924,0.00,0.00,0.00
+"Harding University",925,0.00,0.00,0.00
+"New York Institute of Technology",926,0.00,0.00,0.00
+"University of Innsbruck",927,0.00,0.00,0.00
+"Vennard College",928,0.00,0.00,0.00
+"Air University (United States Air Force)",929,0.00,2.00,0.00
+"North Carolina A&T State University",930,0.00,6.00,0.00
+"Anglo-American University",931,0.00,0.00,0.00
+"University of Nebraska system",932,0.00,0.00,0.00
+"University of Tennessee at Chattanooga",933,0.00,0.00,0.00
+"Open University",934,0.00,0.00,0.00
+"Institute of technology",935,0.00,0.00,0.00
+"Linnaeus University",936,0.00,0.00,0.00
+"Chapman University",937,0.00,0.00,0.00
+"Portland Community College",938,0.00,0.00,0.00
+"City University",939,0.00,0.00,0.00
+"Lawrence Technological University",940,0.00,1.00,0.00
+"University of Advancing Technology",941,0.00,0.00,0.00
+"Yunnan University",942,0.00,0.00,0.00
+"Baylor College of Medicine",943,0.00,0.00,0.00
+"University of Bern",944,0.00,1.00,0.00
+"Arkansas State University",945,0.00,0.00,0.00
+"ITMO University",946,0.00,0.00,0.00
+"Capital University",947,0.00,0.00,0.00
+"Hachinohe Gakuin University",948,0.00,0.00,0.00
+"Keio University",949,0.00,1.00,0.00
+"Princess Sumaya University for Technology",950,0.00,0.00,0.00
+"Salus University",951,0.00,0.00,0.00
+"Cardinal Stritch University",952,0.00,0.00,0.00
+"List of aerospace engineering schools",953,0.00,0.00,0.00
+"University of Connecticut",954,0.00,2.00,0.00
+"Marian University (Indiana)",955,0.00,0.00,0.00
+"New College of Florida",956,0.00,1.00,0.00
+"Catholic University of America",957,0.00,0.00,0.00
+"Indiana University",958,0.00,2.00,0.00
+"Dowling College",959,0.00,0.00,0.00
+"Free University of Bozen-Bolzano",960,0.00,0.00,0.00
+"Illinois State University",961,0.00,0.00,0.00
+"Özyeğin University",962,0.00,0.00,0.00
+"Lone Star College System",963,0.00,0.00,0.00
+"St. Cloud State University",964,0.00,0.00,0.00
+"Singapore Management University",965,0.00,3.00,0.00
+"Daido University",966,0.00,1.00,0.00
+"University of Salerno",967,0.00,0.00,0.00
+"Freed–Hardeman University",968,0.00,0.00,0.00
+"Umm al-Qura University",969,0.00,0.00,0.00
+"University of Alabama at Birmingham",970,0.00,0.00,0.00
+"Thompson Rivers University",971,0.00,0.00,0.00
+"University of Missouri–St. Louis",972,0.00,1.00,0.00
+"Stockholm University",973,0.00,0.00,0.00
+"Pohang University of Science and Technology",974,0.00,0.00,0.00
+"Mälardalen University College",975,0.00,0.00,0.00
+"LAB University of Applied Sciences",976,0.00,0.00,0.00
+"University of Derby",977,0.00,0.00,0.00
+"Phillips University",978,0.00,1.00,0.00
+"MD Anderson Cancer Center",979,0.00,1.00,0.00
+"Hampshire College",980,0.00,1.00,0.00
+"Cheyney University of Pennsylvania",981,0.00,1.00,0.00
+"DeVry University",982,0.00,0.00,0.00
+"Southern Connecticut State University",983,0.00,0.00,0.00
+"Osaka University",984,0.00,1.00,0.00
+"Northern Arizona University",985,0.00,0.00,0.00
+"Ajou University",986,0.00,0.00,0.00
+"Lamar University",987,0.00,1.00,0.00
+"Colorado Mesa University",988,0.00,1.00,0.00
+"Southern New Hampshire University",989,0.00,0.00,0.00
+"Worcester State University",990,0.00,0.00,0.00
+"Yaşar University",991,0.00,0.00,0.00
+"LUT University",992,0.00,0.00,0.00
+"List of unaccredited institutions of higher education",993,0.00,0.00,0.00
+"King Abdullah University of Science and Technology",994,0.00,0.00,0.00
+"Fiji National University",995,0.00,0.00,0.00
+"Qatar University",996,0.00,0.00,0.00
+"Georgia Southern University–Armstrong Campus",997,0.00,0.00,0.00
+"University of Cyprus",998,0.00,0.00,0.00
+"Chatham University",999,0.00,0.00,0.00
+"Oglethorpe University",1000,0.00,1.00,0.00
+"Wilfrid Laurier University",1001,0.00,1.00,0.00
+"Marist College",1002,0.00,1.00,0.00
+"American Business and Technology University",1003,0.00,0.00,0.00
+"Jiwaji University",1004,0.00,0.00,0.00
+"Idaho State University",1005,0.00,0.00,0.00
+"Pepperdine University",1006,0.00,0.00,0.00
+"Sorbonne University",1007,0.00,0.00,0.00
+"Oakton Community College",1008,0.00,0.00,0.00
+"Saint Martin's University",1009,0.00,0.00,0.00
+"Azerbaijan State Oil and Industry University",1010,0.00,1.00,0.00
+"University of Dundee",1011,0.00,0.00,0.00
+"University of Silicon Valley",1012,0.00,0.00,0.00
+"Ryerson University",1013,0.00,0.00,0.00
+"Open University of Tanzania",1014,0.00,0.00,0.00
+"University of Arkansas at Little Rock",1015,0.00,1.00,0.00
+"Petra University",1016,0.00,0.00,0.00
+"De Montfort University",1017,0.00,1.00,0.00
+"Palm Beach State College",1018,0.00,0.00,0.00
+"Oral Roberts University",1019,0.00,0.00,0.00
+"Capitol Technology University",1020,0.00,0.00,0.00
+"University of Michigan–Dearborn",1021,0.00,1.00,0.00
+"Wageningen University & Research",1022,0.00,0.00,0.00
+"Sophia University",1023,0.00,0.00,0.00
+"University of Mississippi",1024,0.00,0.00,0.00
+"National University of Health Sciences",1025,0.00,1.00,0.00
+"Youngstown State University",1026,0.00,0.00,0.00
+"Paris Diderot University",1027,0.00,1.00,0.00
+"California State University San Marcos",1028,0.00,0.00,0.00
+"University of Bremen",1029,0.00,0.00,0.00
+"University of Agder",1030,0.00,0.00,0.00
+"University of Medicine and Dentistry of New Jersey",1031,0.00,0.00,0.00
+"American University of Armenia",1032,0.00,0.00,0.00
+"Coastal Carolina University",1033,0.00,1.00,0.00
+"Murray State University",1034,0.00,0.00,0.00
+"Tusculum University",1035,0.00,2.00,0.00
+"Surugadai University",1036,0.00,0.00,0.00
+"New York University Abu Dhabi",1037,0.00,0.00,0.00
+"Central European University",1038,0.00,0.00,0.00
+"List of university and college schools of music",1039,0.00,0.00,0.00
+"Columbia College Chicago",1040,0.00,0.00,0.00
+"Reichman University",1041,0.00,2.00,0.00
+"York College of Pennsylvania",1042,0.00,0.00,0.00
+"Kwantlen Polytechnic University",1043,0.00,0.00,0.00
+"Zhejiang University of Technology",1044,0.00,1.00,0.00
+"New World University",1045,0.00,0.00,0.00
+"Fırat University",1046,0.00,0.00,0.00
+"Wichita State University",1047,0.00,1.00,0.00
+"Elizabeth City State University",1048,0.00,0.00,0.00
+"Gandhi Institute of Technology and Management",1049,0.00,1.00,0.00
+"University of Colorado Colorado Springs",1050,0.00,0.00,0.00
+"ITT Technical Institute",1051,0.00,0.00,0.00
+"Pädagogische Hochschule Schwäbisch Gmünd",1052,0.00,0.00,0.00
+"National Defense University",1053,0.00,2.00,0.00
+"Jones International University",1054,0.00,0.00,0.00
+"Walden University",1055,0.00,0.00,0.00
+"Grand Valley State University",1056,0.00,0.00,0.00
+"Goddard College",1057,0.00,0.00,0.00
+"Muğla University",1058,0.00,0.00,0.00
+"University of Maine",1059,0.00,2.00,0.00
+"Mount Holyoke College",1060,0.00,0.00,0.00
+"Teikyo University",1061,0.00,0.00,0.00
+"Macquarie University",1062,0.00,0.00,0.00
+"University of Nevada, Las Vegas",1063,0.00,1.00,0.00
+"University of Maryland School of Medicine",1064,0.00,0.00,0.00
+"Warren Wilson College",1065,0.00,0.00,0.00
+"Chinese Culture University",1066,0.00,0.00,0.00
+"University of Alabama in Huntsville",1067,0.00,1.00,0.00
+"Monmouth University",1068,0.00,0.00,0.00
+"Seton Hall University",1069,0.00,0.00,0.00
+"Université libre de Bruxelles",1070,0.00,0.00,0.00
+"Mid-Continent University",1071,0.00,0.00,0.00
+"Medical University of South Carolina",1072,0.00,1.00,0.00
+"Sheridan College",1073,0.00,0.00,0.00
+"Botho University",1074,0.00,0.00,0.00
+"University of South Carolina Upstate",1075,0.00,0.00,0.00
+"Uniformed Services University of the Health Sciences",1076,0.00,1.00,0.00
+"RWTH Aachen University",1077,0.00,1.00,0.00
+"University of North Carolina Wilmington",1078,0.00,2.00,0.00
+"Ateneo de Manila University",1079,0.00,1.00,0.00
+"University of Liverpool",1080,0.00,0.00,0.00
+"University of the Arts (Philadelphia)",1081,0.00,0.00,0.00
+"Austin Community College District",1082,0.00,0.00,0.00
+"Johnson & Wales University",1083,0.00,0.00,0.00
+"St. Edward's University",1084,0.00,0.00,0.00
+"California Baptist University",1085,0.00,1.00,0.00
+"University of Nevada, Reno",1086,0.00,0.00,0.00
+"Soka University of America",1087,0.00,1.00,0.00
+"Brescia University",1088,0.00,1.00,0.00
+"Northeast Forestry University",1089,0.00,0.00,0.00
+"Keck Graduate Institute",1090,0.00,0.00,0.00
+"Information Technology University",1091,0.00,2.00,0.00
+"Bethel University (Minnesota)",1092,0.00,0.00,0.00
+"Tamil Nadu Veterinary and Animal Sciences University",1093,0.00,0.00,0.00
+"Université catholique de Louvain",1094,0.00,0.00,0.00
+"Ruhr University Bochum",1095,0.00,1.00,0.00
+"Thomas Jefferson University",1096,0.00,0.00,0.00
+"Islamic Azad University",1097,0.00,0.00,0.00
+"Leipzig University",1098,0.00,0.00,0.00
+"Private university",1099,0.00,1.00,0.00
+"Baldwin Wallace University",1100,0.00,1.00,0.00
+"Bu-Ali Sina University",1101,0.00,1.00,0.00
+"Westminster College (Pennsylvania)",1102,0.00,1.00,0.00
+"University of Zaragoza",1103,0.00,1.00,0.00
+"Lindenwood University",1104,0.00,2.00,0.00
+"Seattle University",1105,0.00,1.00,0.00
+"Troy University",1106,0.00,1.00,0.00
+"University of Wisconsin–Platteville",1107,0.00,0.00,0.00
+"University of Malaya",1108,0.00,1.00,0.00
+"Fort Valley State University",1109,0.00,1.00,0.00
+"Claflin University",1110,0.00,0.00,0.00
+"EAFIT University",1111,0.00,0.00,0.00
+"Kyushu University",1112,0.00,1.00,0.00
+"Johnson University",1113,0.00,1.00,0.00
+"Bridgewater College",1114,0.00,1.00,0.00
+"Linköping University",1115,0.00,1.00,0.00
+"Bangladesh University",1116,0.00,1.00,0.00
+"University of Toulouse",1117,0.00,0.00,0.00
+"Palo Alto University",1118,0.00,1.00,0.00
+"Newberry College",1119,0.00,1.00,0.00
+"Tennessee State University",1120,0.00,1.00,0.00
+"Bethel University (Indiana)",1121,0.00,0.00,0.00
+"Southeastern Louisiana University",1122,0.00,0.00,0.00
+"Abilene Christian University",1123,0.00,0.00,0.00
+"University of Akron",1124,0.00,0.00,0.00
+"University of Tripoli",1125,0.00,0.00,0.00
+"Post University",1126,0.00,0.00,0.00
+"King Fahd University of Petroleum and Minerals",1127,0.00,0.00,0.00
+"University of Houston–Clear Lake",1128,0.00,0.00,0.00
+"University of Texas Health Science Center at Houston",1129,0.00,1.00,0.00
+"Texas Southern University",1130,0.00,0.00,0.00
+"Baylor University",1131,0.00,1.00,0.00
+"OGI School of Science and Engineering",1132,0.00,0.00,0.00
+"Durham University",1133,0.00,3.00,0.00
+"University College Dublin",1134,0.00,1.00,0.00
+"Appalachian State University",1135,0.00,0.00,0.00
+"University of Hertfordshire",1136,0.00,0.00,0.00
+"Uppsala University",1137,0.00,0.00,0.00
+"BRAC University",1138,0.00,1.00,0.00
+"Friends University",1139,0.00,0.00,0.00
+"Simón Bolívar University (Venezuela)",1140,0.00,0.00,0.00
+"American Public University System",1141,0.00,2.00,0.00
+"Trine University",1142,0.00,1.00,0.00
+"Lagos State University",1143,0.00,0.00,0.00
+"Saxion University of Applied Sciences",1144,0.00,1.00,0.00
+"Biola University",1145,0.00,1.00,0.00
+"James Madison University",1146,0.00,0.00,0.00
+"Vanguard University",1147,0.00,1.00,0.00
+"Wilmington University",1148,0.00,0.00,0.00
+"International University of Japan",1149,0.00,1.00,0.00
+"Alderson Broaddus University",1150,0.00,2.00,0.00
+"International University for Science and Technology",1151,0.00,0.00,0.00
+"Waterford Institute of Technology",1152,0.00,1.00,0.00
+"Heritage University",1153,0.00,0.00,0.00
+"North South University",1154,0.00,1.00,0.00
+"Shahid Beheshti University",1155,0.00,0.00,0.00
+"American InterContinental University",1156,0.00,1.00,0.00
+"Indian Statistical Institute",1157,0.00,2.00,0.00
+"FPT University",1158,0.00,1.00,0.00
+"State University of New York at Oneonta",1159,0.00,1.00,0.00
+"An-Najah National University",1160,0.00,1.00,0.00
+"Emory and Henry College",1161,0.00,0.00,0.00
+"Belmont University",1162,0.00,0.00,0.00
+"University of Trento",1163,0.00,1.00,0.00
+"Distance education",1164,0.00,1.00,0.00
+"Kerala University of Digital Sciences, Innovation and Technology",1165,0.00,1.00,0.00
+"Northwest Missouri State University",1166,0.00,0.00,0.00
+"Tafila Technical University",1167,0.00,1.00,0.00
+"New Mexico Institute of Mining and Technology",1168,0.00,1.00,0.00
+"Panjab University",1169,0.00,1.00,0.00
+"List of agricultural universities and colleges",1170,0.00,1.00,0.00
+"Tunghai University",1171,0.00,0.00,0.00
+"Heriot-Watt University",1172,0.00,1.00,0.00
+"Gulf University for Science and Technology",1173,0.00,0.00,0.00
+"United Nations University",1174,0.00,1.00,0.00
+"A.T. Still University",1175,0.00,1.00,0.00
+"New Jersey City University",1176,0.00,2.00,0.00
+"Université de Montréal",1177,0.00,1.00,0.00
+"Rowan University",1178,0.00,0.00,0.00
+"Anschutz Medical Campus",1179,0.00,1.00,0.00
+"University of Phoenix",1180,0.00,1.00,0.00
+"Mount Washington College",1181,0.00,0.00,0.00
+"Davidson College",1182,0.00,1.00,0.00
+"Indiana State University",1183,0.00,1.00,0.00
+"De La Salle University",1184,0.00,1.00,0.00
+"Panamerican University",1185,0.00,1.00,0.00
+"Salve Regina University",1186,0.00,0.00,0.00
+"University of Cologne",1187,0.00,1.00,0.00
+"Bielefeld University",1188,0.00,0.00,0.00
+"Al-Hussein Bin Talal University",1189,0.00,1.00,0.00
+"Taif University",1190,0.00,0.00,0.00
+"Keimyung University",1191,0.00,1.00,0.00
+"Virginia Union University",1192,0.00,0.00,0.00
+"Bard College",1193,0.00,0.00,0.00
+"Shaw University",1194,0.00,0.00,0.00
+"Curry College",1195,0.00,1.00,0.00
+"Emmanuel College (Massachusetts)",1196,0.00,0.00,0.00
+"Wentworth Institute of Technology",1197,0.00,0.00,0.00
+"St Anne's College, Oxford",1198,0.00,1.00,0.00
+"Istanbul Commerce University",1199,0.00,1.00,0.00
+"University of Missouri–Kansas City",1200,0.00,1.00,0.00
+"University of Westminster",1201,0.00,1.00,0.00
+"Tatung University",1202,0.00,1.00,0.00
+"Drew University",1203,0.00,1.00,0.00
+"University of Texas Permian Basin",1204,0.00,0.00,0.00
+"University of the Virgin Islands",1205,0.00,0.00,0.00
+"University of Central Missouri",1206,0.00,0.00,0.00
+"Qazvin University of Medical Sciences",1207,0.00,1.00,0.00
+"University of Mobile",1208,0.00,1.00,0.00
+"South Asian University",1209,0.00,1.00,0.00
+"London South Bank University",1210,0.00,1.00,0.00
+"Southern Utah University",1211,0.00,1.00,0.00
+"Lebanese University",1212,0.00,1.00,0.00
+"La Trobe University",1213,0.00,1.00,0.00
+"Franklin Pierce University",1214,0.00,1.00,0.00
+"Mayo Clinic Alix School of Medicine",1215,0.00,1.00,0.00
+"Middlesex University",1216,0.00,1.00,0.00
+"Samford University",1217,0.00,0.00,0.00
+"University of Strathclyde",1218,0.00,1.00,0.00
+"National University of Engineering",1219,0.00,1.00,0.00
+"College of Saint Rose",1220,0.00,1.00,0.00
+"Jiangnan University",1221,0.00,1.00,0.00
+"Grambling State University",1222,0.00,1.00,0.00
+"Guangxi University",1223,0.00,0.00,0.00
+"Information and Communications University",1224,0.00,1.00,0.00
+"Columbia College (South Carolina)",1225,0.00,0.00,0.00
+"Harbin Institute of Technology",1226,0.00,0.00,0.00
+"Edgewood College",1227,0.00,1.00,0.00
+"Transilvania University of Brașov",1228,0.00,1.00,0.00
+"Al-Azhar University",1229,0.00,0.00,0.00
+"List of universities and colleges in Saudi Arabia",1230,0.00,0.00,0.00
+"Autonomous University of Tamaulipas",1231,0.00,0.00,0.00
+"University of Skövde",1232,0.00,0.00,0.00
+"Chamberlain University",1233,0.00,1.00,0.00
+"College and university rankings",1234,0.00,1.00,0.00
+"Transylvania University",1235,0.00,0.00,0.00
+"Fred Hutchinson Cancer Research Center",1236,0.00,1.00,0.00
+"Africa University",1237,0.00,1.00,0.00
+"University of the Azores",1238,0.00,1.00,0.00
+"Plymouth State University",1239,0.00,0.00,0.00
+"IntelliTec College",1240,0.00,1.00,0.00
+"University of Nebraska Omaha",1241,0.00,1.00,0.00
+"Sanyo Gakuen University",1242,0.00,1.00,0.00
+"University of Siena",1243,0.00,1.00,0.00
+"Chung-Ang University",1244,0.00,1.00,0.00
+"Al Yamamah University",1245,0.00,0.00,0.00
+"Chongqing University",1246,0.00,1.00,0.00
+"International School for Advanced Studies",1247,0.00,1.00,0.00
+"Montana Technological University",1248,0.00,1.00,0.00
+"California State University, Fullerton",1249,0.00,1.00,0.00
+"Mie University",1250,0.00,1.00,0.00
+"Suffolk University",1251,0.00,0.00,0.00
+"Pitzer College",1252,0.00,0.00,0.00
+"University of Mosul",1253,0.00,1.00,0.00
+"Mills College",1254,0.00,1.00,0.00
+"Bellevue University",1255,0.00,1.00,0.00
+"Naropa University",1256,0.00,1.00,0.00
+"King Mongkut's Institute of Technology Ladkrabang",1257,0.00,1.00,0.00
+"Oklahoma Christian University",1258,0.00,1.00,0.00
+"University of Modena and Reggio Emilia",1259,0.00,1.00,0.00
+"University of Massachusetts",1260,0.00,1.00,0.00
+"Wingate University",1261,0.00,1.00,0.00
+"Jan Długosz University",1262,0.00,1.00,0.00
+"University of Science and Technology",1263,0.00,1.00,0.00
+"West Coast University",1264,0.00,1.00,0.00

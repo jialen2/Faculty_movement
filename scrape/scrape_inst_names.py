@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 
-OUT_FILE = 'top_CS_univs.csv'
+OUT_FILE = 'top_Computer_Science_univs.csv'
 
 
 # Parse university names from raw html

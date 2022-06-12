@@ -1,0 +1,4339 @@
+{
+    "Nael Abu-Ghazaleh": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Cincinnati",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1997"
+                ]
+            ],
+            [
+                "Carnegie Mellon University - Tepper School of Business",
+                [
+                    "Degree Name",
+                    "Corporate Innovation and Enterpreneurship Program"
+                ],
+                [
+                    "Field Of Study",
+                    " Business"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2009"
+                ]
+            ],
+            [
+                "University of Cincinnati",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1994"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Riverside, CA"
+                ],
+                [
+                    "More Info",
+                    "Professor in the Computer Science and Engineering (CSE) Dept. and in the Electrical and Computer Engineering (ECE) Dept."
+                ]
+            ],
+            [
+                "Assistant Professor/Associate Professor/Professor",
+                [
+                    "Company Name",
+                    "Binghamton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1998 - May 2014"
+                ]
+            ],
+            [
+                "Visiting Associate Professor",
+                [
+                    "Company Name",
+                    "Carnegie Mellon University, Qatar"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2008 - Aug 2011"
+                ]
+            ],
+            [
+                "Post-Doctoral Research Associate",
+                [
+                    "Company Name",
+                    "University of Cincinnati"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 1996 - Jun 1998"
+                ],
+                [
+                    "Location",
+                    "High Assurance System Design Laboratory -- Prof. Perry Alexander"
+                ]
+            ]
+        ]
+    },
+    "Amey Bhangale": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Laxmi Bhuyan": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Philip L Brisk": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Riverside",
+                [
+                    "Degree Name",
+                    "Bachelor of Business Administration - BBA"
+                ],
+                [
+                    "Field Of Study",
+                    " Business Administration and Management, General"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2019 - 2023"
+                ]
+            ],
+            [
+                "Sierra Vista High School",
+                [
+                    "Degree Name",
+                    "High School Diploma"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2019"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Tennis Manager, Math Tutor, Head Math Tutor"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Outreach Committee Chair Member",
+                [
+                    "Company Name",
+                    "UCR Future Business Leaders of America | Phi Beta Lambda"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2020 - Jun 2021"
+                ]
+            ]
+        ]
+    },
+    "Jiasi Chen": {
+        "status": "success",
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical engineering"
+                ]
+            ],
+            [
+                "Columbia University in the City of New York",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Activities and societies: IEEE, Columbia University Lion Dance"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "- Research in mobile AR/VR, edge computing, mobile systems, wireless networks, and mathematical optimization."
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 - Jun 2015"
+                ],
+                [
+                    "Location",
+                    "Advisor: Mung Chiang"
+                ]
+            ],
+            [
+                "Summer Research Intern",
+                [
+                    "Company Name",
+                    "AT&amp;T Labs, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Sep 2013"
+                ],
+                [
+                    "Location",
+                    "Mentors: K. K. Ramakrishnan, Rakesh Sinha, Dahai Xu"
+                ]
+            ],
+            [
+                "Summer Research Intern",
+                [
+                    "Company Name",
+                    "NEC Laboratories America, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Sep 2012"
+                ],
+                [
+                    "Location",
+                    "Mentors: Rajesh Mahindra, Honghai Zhang"
+                ]
+            ],
+            [
+                "Undergraduate Research Assistant",
+                [
+                    "Company Name",
+                    "Columbia University in the City of New York"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2009 - Aug 2010"
+                ],
+                [
+                    "Location",
+                    "Advisors: Peter Kinget, Gil Zussman"
+                ]
+            ]
+        ]
+    },
+    "Zizhong Chen": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Tennessee, Knoxville",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ]
+            ],
+            [
+                "Renmin University of China",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Finance and Risk Management"
+                ]
+            ],
+            [
+                "Beijing Normal University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 - Apr 2022"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Colorado School of Mines"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2008 - Aug 2012"
+                ],
+                [
+                    "Location",
+                    "Denver, Colorado, USA"
+                ]
+            ]
+        ]
+    },
+    "Vagelis Hristidis Christidis": {
+        "status": "success",
+        "Education": [
+            [
+                "UC San Diego",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2004"
+                ]
+            ],
+            [
+                "UC San Diego",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2000"
+                ]
+            ],
+            [
+                "National Technical University of Athens",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 1999"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "President",
+                [
+                    "Company Name",
+                    "SmartBot360"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Riverside, CA"
+                ],
+                [
+                    "More Info",
+                    "SmartBot360™ is a platform to easily create, manage and share AI chatbots. It empowers customer agents to increase their user interactions by offloading routine tasks to the AI-powered chatbots."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 - Apr 2022"
+                ]
+            ],
+            [
+                "Founder",
+                [
+                    "Company Name",
+                    "PatentsSearcher.com"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2010 - Dec 2013"
+                ],
+                [
+                    "Location",
+                    "PatentsSearcher.com offers powerful interface and ranking techniques to search patents and applications."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Florida International University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2004 - Aug 2011"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "UCSD"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1999 - Jun 2004"
+                ],
+                [
+                    "Location",
+                    "Developed techniques for ranked queries and database search."
+                ]
+            ]
+        ]
+    },
+    "Marek Chrobak": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Ahmed Eldawy": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "Ph D"
+                ],
+                [
+                    "Field Of Study",
+                    " Database"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2015"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Research Assistant"
+                ]
+            ],
+            [
+                "Alexandria University",
+                [
+                    "Degree Name",
+                    "M Sc"
+                ],
+                [
+                    "Field Of Study",
+                    " Wireless sensor networks"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2010"
+                ]
+            ],
+            [
+                "Alexandria University",
+                [
+                    "Degree Name",
+                    "B.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2005"
+                ],
+                [
+                    "More Info",
+                    "Distinction with degree of honor"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Riverside, CA"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Minnesota"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 - Jun 2016"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Aug 2012"
+                ],
+                [
+                    "Location",
+                    "Redmond"
+                ]
+            ],
+            [
+                "Research intern at QCRI",
+                [
+                    "Company Name",
+                    "Qatar Foundation"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2012 - May 2012"
+                ],
+                [
+                    "Location",
+                    "Qatar"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Qatar Computing Research Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Apr 2022"
+                ]
+            ]
+        ]
+    },
+    "Michail Faloutsos": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Toronto",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science, Computer Networks"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 1998"
+                ],
+                [
+                    "More Info",
+                    "Ethniko Metsovio Polytechnico logo"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Riverside, California"
+                ],
+                [
+                    "More Info",
+                    "A distinct attraction for returning to UCR is the possibility to be part of the major entrepreneurial activity in which the school has engaged in the last two years."
+                ]
+            ],
+            [
+                "Co Founder",
+                [
+                    "Company Name",
+                    "Programize LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "President and Co-founder"
+                ]
+            ],
+            [
+                "Professor and Department Head",
+                [
+                    "Company Name",
+                    "U. New Mexico"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - Aug 2015"
+                ],
+                [
+                    "Location",
+                    "Albuquerque"
+                ],
+                [
+                    "More Info",
+                    "I got hired to be the chair of a wonderful Department. I believe we accomplished quite  a few things: hired well, retained our stars, added entrepreneurship in our mission and engaged with the community, and supported a superb outreach program CS4All. In the meantime, we saw the creation of two professor-led startups, instituted two research centers, and the Department continued its very active research activity."
+                ]
+            ],
+            [
+                "Co-Founder (acquired by Cloudflare)",
+                [
+                    "Company Name",
+                    "stopthehacker.com"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2008 - Oct 2013"
+                ],
+                [
+                    "Location",
+                    "It is great to have a successful exit from your first startup. I would like to thank everybody who helped us, gave advice, wished us well. Onwards to the next one..."
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "U. C. Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 1999 - Dec 2012"
+                ]
+            ]
+        ]
+    },
+    "Yan Gu": {
+        "status": "success",
+        "Education": [
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mechanical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.83"
+                ]
+            ],
+            [
+                "Zhejiang University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mechanical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.96"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Massachusetts Lowell"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2017 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Greater Boston Area"
+                ],
+                [
+                    "More Info",
+                    "My research centers on legged robotic locomotion and nonlinear controls."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Purdue University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 - Aug 2017"
+                ]
+            ]
+        ]
+    },
+    "Rajiv Gupta": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Pittsburgh",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 - 1987"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2007 - Apr 2022"
+                ]
+            ]
+        ]
+    },
+    "Tao Jiang": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ]
+            ]
+        ]
+    },
+    "Eamonn Keogh": {
+        "status": "success",
+        "Education": [
+            [
+                "UC Irvine",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 2001"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2001 - Apr 2022"
+                ]
+            ]
+        ]
+    },
+    "Allan Knight": {
+        "status": "success",
+        "Education": [
+            [
+                "UC Santa Barbara",
+                [
+                    "Degree Name",
+                    "PhD."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2009"
+                ]
+            ],
+            [
+                "California State University-San Bernardino",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2000"
+                ]
+            ],
+            [
+                "Riverside City College",
+                [
+                    "Degree Name",
+                    "Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1994"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor of Teaching",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Riverside, California, United States"
+                ],
+                [
+                    "More Info",
+                    "Department of Computer Science and Engineering"
+                ]
+            ],
+            [
+                "Adjunct Faculty",
+                [
+                    "Company Name",
+                    "Santa Barbara City College"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Jul 2020"
+                ],
+                [
+                    "Location",
+                    "I'm coming back to teaching after 10 years. For now I'll be teaching the beginning Computer Science course CS 105 Theory &amp; Practice I. Hopefully this will become a regular gig and I'll continue teaching this and other courses in the future."
+                ]
+            ],
+            [
+                "Full-Time Computer Science Tenure-track Instructor",
+                [
+                    "Company Name",
+                    "Ventura College"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - May 2020"
+                ],
+                [
+                    "Location",
+                    "Ventura, CA"
+                ],
+                [
+                    "More Info",
+                    "For now, I'm it at Ventura college. I'm the lone instructor for Computer Science, and loving it. It's hard work and a lot of teaching, but incredibly rewarding."
+                ]
+            ],
+            [
+                "Adjunct Faculty",
+                [
+                    "Company Name",
+                    "Ventura County Community College District"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2018 - Jan 2019"
+                ],
+                [
+                    "Location",
+                    "Ventura, CA"
+                ]
+            ],
+            [
+                "Software Development Engineer",
+                [
+                    "Company Name",
+                    "Amazon"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2018 - Jun 2018"
+                ],
+                [
+                    "Location",
+                    "Santa Barbara, California Area"
+                ]
+            ]
+        ]
+    },
+    "Srikanth Krishnamurthy": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Author",
+                [
+                    "Company Name",
+                    "QuantUniversity"
+                ]
+            ]
+        ]
+    },
+    "Paea LePendu": {
+        "status": "success",
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Postdoc"
+                ],
+                [
+                    "Field Of Study",
+                    " Biomedical Informatics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Stanford Center for Biomedical Informatics Research, National Center for Biomedical Ontology"
+                ]
+            ],
+            [
+                "University of Oregon",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2010"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Zebrafish Information Network Research Assistantship, Advanced Integration and Mining Lab Graduate Research Assistantship, Graduate Teaching Assistantship, National Physical Science Consortium Fellowship, Upsilon Pi Epsilon"
+                ]
+            ],
+            [
+                "University of Oregon",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2004 - 2006"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Zebrafish Information Network Research Assistantship, Advanced Integration and Mining Lab Graduate Research Assistantship, Graduate Teaching Assistantship, National Physical Science Consortium Fellowship, Upsilon Pi Epsilon"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Teaching",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2018 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Riverside, CA"
+                ],
+                [
+                    "More Info",
+                    "Teach courses, provide service, mentor students, and conduct research in Computer Science."
+                ]
+            ],
+            [
+                "Co-founder",
+                [
+                    "Company Name",
+                    "Lexigram"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2015 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "California"
+                ],
+                [
+                    "More Info",
+                    "APIs for clinical natural language processing."
+                ]
+            ],
+            [
+                "Research Affiliate",
+                [
+                    "Company Name",
+                    "Mayo Clinic"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2017 - May 2018"
+                ],
+                [
+                    "Location",
+                    "Conduct research in Biomedical Informatics."
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "Arizona State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2017 - May 2018"
+                ],
+                [
+                    "Location",
+                    "Tempe, AZ"
+                ],
+                [
+                    "More Info",
+                    "Conduct research, mentor students and teach courses in Biomedical Informatics."
+                ]
+            ],
+            [
+                "Associate Research Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2017 - Aug 2017"
+                ],
+                [
+                    "Location",
+                    "Riverside, California"
+                ],
+                [
+                    "More Info",
+                    "As part of the Computer Science department, give lectures and conduct research in Biomedical Informatics."
+                ]
+            ]
+        ]
+    },
+    "Mohsen Lesani": {
+        "status": "success",
+        "Education": [
+            [
+                "Ferdowsi University of Mashhad",
+                [
+                    "Degree Name",
+                    "2011 - 2015"
+                ]
+            ]
+        ],
+        "Experience": []
+    },
+    "Stefano Lonardi": {
+        "status": "success",
+        "Education": [
+            [
+                "Purdue University",
+                [
+                    "Degree Name",
+                    "Computer Sciences"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2001"
+                ],
+                [
+                    "More Info",
+                    "Cesare Battisti"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2001 - Apr 2022"
+                ]
+            ],
+            [
+                "Graduate Assistant",
+                [
+                    "Company Name",
+                    "Purdue University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1996 - Jun 2001"
+                ]
+            ]
+        ]
+    },
+    "Amr Magdy Ahmed": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2017"
+                ],
+                [
+                    "More Info",
+                    "Learning the process of research, to identify and tackle problems in Computer Systems, from an academic point of view. Mixing this with experience of applied research by working for Microsoft Research and Google."
+                ]
+            ],
+            [
+                "University of Minnesota",
+                [
+                    "Degree Name",
+                    "Master's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2013"
+                ],
+                [
+                    "More Info",
+                    "Grade: Distinction"
+                ]
+            ],
+            [
+                "Alexandria University",
+                [
+                    "Degree Name",
+                    "Master's Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer and Systems Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2008 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Grade: Distinction"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2017 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Greater Los Angeles Area"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of Minnesota"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 - Jun 2017"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 - Sep 2014"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ],
+                [
+                    "More Info",
+                    "Conducting research in distributed database systems, developing code as proof of concept, documenting the research output in research papers, and giving presentations for demonstration purposes."
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "KACST GIS Technology Innovation Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2013 - Jun 2014"
+                ],
+                [
+                    "Location",
+                    "Saudi Arabia"
+                ],
+                [
+                    "More Info",
+                    "Conducting research in Microblogs data management, developing Java code for systems backend, web-based applications for business demonstration purposes, documenting the research output in technical publications and reports, and giving presentations for demonstration purposes."
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2012 - Aug 2012"
+                ],
+                [
+                    "Location",
+                    "Greater Seattle Area"
+                ],
+                [
+                    "More Info",
+                    "Conducting research in spatio-temporal indexing for geospatial data with high arrival rates, developing code for demonstration purposes and proof of concept, documenting the research output in research papers, and giving presentations for business demonstration purposes."
+                ]
+            ]
+        ]
+    },
+    "Walid Najjar": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Southern California",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 - 1988"
+                ]
+            ],
+            [
+                "University of Southern California",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 - 1985"
+                ]
+            ],
+            [
+                "American University of Beirut",
+                [
+                    "Degree Name",
+                    "BE"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1975 - 1979"
+                ],
+                [
+                    "More Info",
+                    "Show all 4 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2000 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Professor, Computer Science &amp;  Engineering"
+                ]
+            ],
+            [
+                "Founder/Senior Consultant",
+                [
+                    "Company Name",
+                    "Jacquard Computing Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2007 - Sep 2014"
+                ],
+                [
+                    "Location",
+                    "Part-time consultant."
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Colorado State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1989 - Jul 2000"
+                ]
+            ],
+            [
+                "GRA/Computer Scientist",
+                [
+                    "Company Name",
+                    "USC/Information Sciences Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1986 - Jun 1989"
+                ]
+            ]
+        ]
+    },
+    "Evangelos Papalexakis": {
+        "status": "success",
+        "Education": [
+            [
+                "Carnegie Mellon University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Technical University of Crete"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Apr 2022"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Carnegie Mellon University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 - Aug 2016"
+                ],
+                [
+                    "Location",
+                    "Greater Pittsburgh Area"
+                ],
+                [
+                    "More Info",
+                    "Mining large Multi-Aspect Data, with specific emphasis on Tensor Decompositions and applications on bridging Knowledge from the Web (found in web-pages or social media/networks) and information processing in the human brain, as well as community and anomaly detection in multi-aspect data (e.g. social networks with multiple views, evolving over time)"
+                ]
+            ],
+            [
+                "Software Engineering Intern",
+                [
+                    "Company Name",
+                    "Google"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2015 - Aug 2015"
+                ],
+                [
+                    "Location",
+                    "Mountain View, CA"
+                ],
+                [
+                    "More Info",
+                    "Working as an intern at Google Research, at the Structured Data Group."
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2014 - Aug 2014"
+                ],
+                [
+                    "Location",
+                    "Mountain View, CA"
+                ],
+                [
+                    "More Info",
+                    "Working at the Search Labs at MSR - Silicon Valley, on developing algorithms for advancing the state of the art on modern search systems, and specifically on applications on electronic education and social media web search."
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2013 - Aug 2013"
+                ],
+                [
+                    "Location",
+                    "Mountain View, CA"
+                ],
+                [
+                    "More Info",
+                    "Working at the Interaction &amp; Intent group at MSR - Silicon Valley on Contextual Search."
+                ]
+            ]
+        ]
+    },
+    "Zhiyun Qian": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2012"
+                ]
+            ],
+            [
+                "University of Michigan",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2009"
+                ]
+            ],
+            [
+                "Shanghai Jiao Tong University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Software Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2007"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Apr 2022"
+                ]
+            ],
+            [
+                "Research Staff Member",
+                [
+                    "Company Name",
+                    "NEC Laboratories America, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 - Jul 2014"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Microsoft Research"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2010 - Aug 2010"
+                ],
+                [
+                    "Location",
+                    "Redmond"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Cisco"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2008 - Aug 2008"
+                ],
+                [
+                    "Location",
+                    "San Jose"
+                ]
+            ],
+            [
+                "Intern",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2006 - Apr 2007"
+                ],
+                [
+                    "Location",
+                    "Shanghai"
+                ]
+            ]
+        ]
+    },
+    "Kadangode K Ramakrishnan": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Maryland",
+                [
+                    "Degree Name",
+                    "Ph. D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1978 - 1983"
+                ]
+            ],
+            [
+                "Indian Institute of Science (IISc)",
+                [
+                    "Degree Name",
+                    "Master of Engineering (MEng)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Automation"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1976 - 1978"
+                ],
+                [
+                    "More Info",
+                    "University Visveswaraya College of Engineering"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Department of Computer Science and Engineering"
+                ],
+                [
+                    "More Info",
+                    "My current research is on Software-Based Networks and Information-Centric Networking, particularly for Disaster Management applications. My web site at UCR has additional information: http://www.cs.ucr.edu/~kk/"
+                ]
+            ],
+            [
+                "CoAdjutant",
+                [
+                    "Company Name",
+                    "Rutgers University–New Brunswick"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2013 - Jun 2014"
+                ],
+                [
+                    "Location",
+                    "WinLab"
+                ],
+                [
+                    "More Info",
+                    "Research on Information-Centric Networking and Network Function Virtualization"
+                ]
+            ],
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "EY"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 - Apr 2022"
+                ]
+            ],
+            [
+                "Distinguished Member of Technical Staff",
+                [
+                    "Company Name",
+                    "AT&amp;T Labs Research"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 1994 - Nov 2013"
+                ],
+                [
+                    "Location",
+                    "Florham Park"
+                ],
+                [
+                    "More Info",
+                    "Emphasis in integrating Cloud Computing and Networks, Disaster Recovery, Information Centric Networks, especially for Disaster Management, Network Function Virtualization,  Recent work on Content Delivery (IP based TV and VoD services, Mobile Video) and Virtual Private Network Services. Also worked on Voice over IP protocols and architecture."
+                ]
+            ],
+            [
+                "Founder and Vice President of Technology",
+                [
+                    "Company Name",
+                    "TeraOptic Networks Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "May 2000 - May 2002"
+                ],
+                [
+                    "Location",
+                    "Sunnyvale, CA"
+                ]
+            ]
+        ]
+    },
+    "Ravi Ravishankar": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Sciences"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Bombay",
+                [
+                    "Degree Name",
+                    "B. Tech."
+                ],
+                [
+                    "Field Of Study",
+                    " Chemical Engineering"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1999 - Apr 2022"
+                ]
+            ],
+            [
+                "Research Professor",
+                [
+                    "Company Name",
+                    "University of Michigan, Ann Arbor"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1986 - Jul 1999"
+                ]
+            ],
+            [
+                "Faculty",
+                [
+                    "Company Name",
+                    "University of Michigan"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1986 - Jun 1999"
+                ]
+            ]
+        ]
+    },
+    "Silas Richelson": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Grad Student",
+                [
+                    "Company Name",
+                    "UCLA"
+                ]
+            ]
+        ]
+    },
+    "Elaheh Sadredini": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Virginia",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2019"
+                ],
+                [
+                    "More Info",
+                    "Grade: GPA: 3.98"
+                ]
+            ],
+            [
+                "Iran University of Science and Technology",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Grade: GPA: 4.00"
+                ]
+            ],
+            [
+                "Iran University of Science and Technology",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2010"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2020 - Apr 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of Virginia"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Jul 2020"
+                ]
+            ],
+            [
+                "PhD Research Scientist Intern",
+                [
+                    "Company Name",
+                    "eBay"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2018 - Aug 2018"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ],
+                [
+                    "More Info",
+                    "Accelerating image search inference using low-arithmetic precision on GPU and FPGA."
+                ]
+            ],
+            [
+                "Internship",
+                [
+                    "Company Name",
+                    "Apple"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2017 - Aug 2017"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ],
+                [
+                    "More Info",
+                    "Developed high-throughout solutions for sparse-matrix multiplication in iOS and MacOS GPUs, using Metal"
+                ]
+            ],
+            [
+                "PhD Research Internship",
+                [
+                    "Company Name",
+                    "Friedrich-Alexander-University of Erlangen-Nürnberg"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2014 - Jul 2014"
+                ],
+                [
+                    "Location",
+                    "Germany"
+                ],
+                [
+                    "More Info",
+                    "Designing and simulating a novel cache system for a PLC (Programmable Logic Controller) processor,  supported by Profichip GmbH."
+                ]
+            ]
+        ]
+    },
+    "Mariam Salloum": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Riverside",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2011"
+                ]
+            ],
+            [
+                "California State Polytechnic University-Pomona",
+                [
+                    "Degree Name",
+                    "Bachelor's degree (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2004"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Teaching Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2018 - Apr 2022"
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "Claremont McKenna College"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Claremont, CA"
+                ]
+            ],
+            [
+                "Visting Assistant Professor",
+                [
+                    "Company Name",
+                    "Boston College"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Jun 2016"
+                ]
+            ],
+            [
+                "Data Scientist",
+                [
+                    "Company Name",
+                    "YP"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2013 - Aug 2015"
+                ],
+                [
+                    "Location",
+                    "Glendale, CA"
+                ]
+            ],
+            [
+                "Software Engineer",
+                [
+                    "Company Name",
+                    "Northrop Grumman Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2012 - Mar 2013"
+                ],
+                [
+                    "Location",
+                    "Azusa, CA"
+                ]
+            ]
+        ]
+    },
+    "Craig Schroeder": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Substance Abuse Counselor",
+                [
+                    "Company Name",
+                    "Riverside Recovery Resources"
+                ]
+            ]
+        ]
+    },
+    "Christian Shelton": {
+        "status": "success",
+        "Education": [
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2001"
+                ]
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "SM"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 2001"
+                ]
+            ],
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1993 - 1996"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2004 - Apr 2022"
+                ]
+            ],
+            [
+                "Visiting Researcher",
+                [
+                    "Company Name",
+                    "Children's Hospital Los Angeles CHLA"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 - Sep 2013"
+                ],
+                [
+                    "Location",
+                    "Sabbatical in Department of Anesthesiology &amp; Critical Care Medicine"
+                ]
+            ],
+            [
+                "Visiting Faculty Member",
+                [
+                    "Company Name",
+                    "Intel Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2003 - Jun 2004"
+                ],
+                [
+                    "Location",
+                    "applications of machine learning to silicon manufacturing"
+                ]
+            ],
+            [
+                "Postdoctoral scholar",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2001 - Jun 2003"
+                ],
+                [
+                    "Location",
+                    "Research in graphical models"
+                ]
+            ]
+        ]
+    },
+    "Tamar T Shinar": {
+        "status": "success",
+        "Education": [
+            [
+                "Stanford University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Scientific Computing"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2008"
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics, minor in Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1998"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Additional studies in art, art history, computer graphics"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2011 - Apr 2022"
+                ]
+            ],
+            [
+                "Mentor for Project Lead The Way",
+                [
+                    "Company Name",
+                    "Martin Luther King High School"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 - May 2012"
+                ],
+                [
+                    "Location",
+                    "Riverside, CA"
+                ]
+            ],
+            [
+                "Mentor for Technovation Challenge",
+                [
+                    "Company Name",
+                    "Iridescent Learning"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2011 - May 2011"
+                ],
+                [
+                    "Location",
+                    "New York, NY"
+                ]
+            ],
+            [
+                "Postdoctoral Scholar",
+                [
+                    "Company Name",
+                    "Courant Institute of Mathematical Sciences, NYU"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2008 - Jun 2011"
+                ]
+            ],
+            [
+                "Academic Mentor",
+                [
+                    "Company Name",
+                    "Institute for Pure and Applied Mathematics (IPAM), UCLA"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2008 - Aug 2008"
+                ],
+                [
+                    "Location",
+                    "led a diverse group of four undergraduate students from around the world in developing a numerical method for skin deformation of animated characters"
+                ]
+            ]
+        ]
+    },
+    "Chengyu Song": {
+        "status": "success",
+        "Education": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " System &amp; Network Security"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2016"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Graduate Research Assistant working with Professor Wenke Lee and Taesoo Kim"
+                ]
+            ],
+            [
+                "Peking University",
+                [
+                    "Degree Name",
+                    "Master"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer &amp; Network Security"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2010"
+                ]
+            ],
+            [
+                "Peking University",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2007"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - Apr 2022"
+                ]
+            ],
+            [
+                "Full Member",
+                [
+                    "Company Name",
+                    "The Honeynet Project"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2007 - Apr 2022"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "Georgia Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2010 - Jul 2016"
+                ],
+                [
+                    "Location",
+                    "Focusing on system security"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Samsung Research America"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2014 - Aug 2014"
+                ],
+                [
+                    "Location",
+                    "Santa Clara, CA"
+                ]
+            ],
+            [
+                "Engineering Intern",
+                [
+                    "Company Name",
+                    "Samsung Telecommunications America"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2013 - Aug 2013"
+                ],
+                [
+                    "Location",
+                    "Santa Clara"
+                ]
+            ]
+        ]
+    },
+    "Yihan Sun": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Florida - Warrington College of Business",
+                [
+                    "Degree Name",
+                    "Master of Science - MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Information Systems and Operations Management"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2019 - 2020"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.5"
+                ]
+            ],
+            [
+                "University of Florida - Warrington College of Business",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " International Business"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2018 - 2019"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.4"
+                ]
+            ],
+            [
+                "Oklahoma State University",
+                [
+                    "Degree Name",
+                    "Bachelor's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Finance, General"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2018"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.4"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "International Marketing Intern",
+                [
+                    "Company Name",
+                    "Transtech Engineering Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2018 - Aug 2018"
+                ],
+                [
+                    "Location",
+                    "•\tTranslated tender document negotiated between Managers and international client executives."
+                ]
+            ],
+            [
+                "Insurance consultant/Front desk Receptionist",
+                [
+                    "Company Name",
+                    "Oklahoma State University Medical Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - May 2018"
+                ],
+                [
+                    "Location",
+                    "Stillwater, Oklahoma, United States"
+                ],
+                [
+                    "More Info",
+                    "•\tManaged Patients to Check-in the System and helped clients clear up their questions and concerns."
+                ]
+            ],
+            [
+                "Study-Abroad Program Consultant",
+                [
+                    "Company Name",
+                    "Southwestern University of Finance and Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2016 - Jun 2017"
+                ],
+                [
+                    "Location",
+                    "Chengdu, Sichuan, China"
+                ],
+                [
+                    "More Info",
+                    "•\tDelivered multiple presentations to a total of 200+ students to facilitate a personal study abroad experience."
+                ]
+            ],
+            [
+                "Bank Clerk",
+                [
+                    "Company Name",
+                    "Industrial Bank Co., Ltd."
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2016 - Aug 2016"
+                ],
+                [
+                    "Location",
+                    "Chengdu, Sichuan, China"
+                ],
+                [
+                    "More Info",
+                    "•\tResearched 200 prospective customers per day through cold outreach via phone and email and documented customers insights to identify new markets for business."
+                ]
+            ]
+        ]
+    },
+    "Manu Sridharan": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Vassilis Tsotras": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Frank Vahid": {
+        "status": "success",
+        "Education": [
+            [
+                "UC Irvine",
+                [
+                    "Degree Name",
+                    "M.S. / Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1988 - 1994"
+                ]
+            ],
+            [
+                "University of Illinois Urbana-Champaign",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 - 1988"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "Univ. of California at Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1994 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Research interests: College-level CS/STEM education and online education, especially core 1st/2nd year classes like CS1. Also embedded computing systems."
+                ]
+            ],
+            [
+                "Co-founder &amp; Chief Learning Officer",
+                [
+                    "Company Name",
+                    "zyBooks"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Development of interactive animated online university-level learning content and technology. Acquired 2019 by Wiley."
+                ]
+            ]
+        ]
+    },
+    "Heng Yin": {
+        "status": "success",
+        "Education": [
+            [
+                "William &amp; Mary",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2009"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "CEO and Founder",
+                [
+                    "Company Name",
+                    "DeepBits Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2017 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Riverside, California"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Apr 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Syracuse University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2009 - Jun 2016"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "UC Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2008 - Aug 2009"
+                ],
+                [
+                    "Location",
+                    "Berkeley, CA"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Carnegie Mellon University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2006 - Aug 2008"
+                ],
+                [
+                    "Location",
+                    "Greater Pittsburgh Area"
+                ]
+            ]
+        ]
+    },
+    "Zhijia Zhao": {
+        "status": "success",
+        "Education": [
+            [
+                "William &amp; Mary",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2015"
+                ]
+            ],
+            [
+                "Harbin Institute of Technology",
+                [
+                    "Degree Name",
+                    "Master"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2009"
+                ]
+            ],
+            [
+                "Harbin Institute of Technology",
+                [
+                    "Degree Name",
+                    "Bachelor"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2007"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 - Apr 2022"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Pacific Northwest National Laboratory - PNNL"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2015 - Jun 2015"
+                ]
+            ],
+            [
+                "Research Associate",
+                [
+                    "Company Name",
+                    "NC State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2014 - May 2015"
+                ],
+                [
+                    "Location",
+                    "Raleigh"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "The College of William and Mary"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2011 - Oct 2014"
+                ],
+                [
+                    "Location",
+                    "McGlothlin Hall"
+                ],
+                [
+                    "More Info",
+                    "Programming Systems and Runtime for Parallel Computing, Mobile Computing"
+                ]
+            ],
+            [
+                "Research Engineering Intern",
+                [
+                    "Company Name",
+                    "Mozilla Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 - Sep 2012"
+                ],
+                [
+                    "Location",
+                    "Mountain View, CA"
+                ],
+                [
+                    "More Info",
+                    "Parallel HTML5 Parsing"
+                ]
+            ]
+        ]
+    },
+    "Salman Asif": {
+        "status": "success",
+        "Education": [
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2013"
+                ],
+                [
+                    "More Info",
+                    "Doctoral thesis title: Dynamic compressive sensing: Sparse recovery algorithms for streaming signals and video"
+                ]
+            ],
+            [
+                "Georgia Institute of Technology",
+                [
+                    "Degree Name",
+                    "Master’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2008"
+                ],
+                [
+                    "More Info",
+                    "MS thesis title: Primal Dual pursuit: A homotopy based algorithm for the Dantzig selector"
+                ]
+            ],
+            [
+                "University of Engineering and Technology, Lahore",
+                [
+                    "Degree Name",
+                    "Bachelor’s Degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2004"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Greater Los Angeles Area"
+                ]
+            ],
+            [
+                "Postdoctoral Research Associate",
+                [
+                    "Company Name",
+                    "Rice University"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2014 - Jun 2016"
+                ],
+                [
+                    "Location",
+                    "Houston, Texas"
+                ],
+                [
+                    "More Info",
+                    "My research interests include machine learning, data representation, computational and medical imaging, compressive sensing, and signal estimation from noisy, incomplete data."
+                ]
+            ],
+            [
+                "Sr. Research Engineer",
+                [
+                    "Company Name",
+                    "Samsung Telecommunications America"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Jan 2014"
+                ],
+                [
+                    "Location",
+                    "Richardson, TX"
+                ],
+                [
+                    "More Info",
+                    "Worked on next-generation medical and computational imaging technologies at Samsung by developing novel and innovative techniques in compressive sensing and sparse approximation to tackle key research problems of computational and medical imaging."
+                ]
+            ],
+            [
+                "Graduate student",
+                [
+                    "Company Name",
+                    "Georgia Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2006 - Jun 2013"
+                ],
+                [
+                    "Location",
+                    "Greater Atlanta Area"
+                ],
+                [
+                    "More Info",
+                    "Worked on dynamic updating algorithms for various structured sparse signal recovery problems. For instance, an L1 norm-regularized Kalman filter, sparse streaming signals with overlapping measurements, dictionary learning and updating, and reweighted L1-norm minimization."
+                ]
+            ],
+            [
+                "Research intern",
+                [
+                    "Company Name",
+                    "Samsung Telecommunications America"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2010 - Aug 2010"
+                ],
+                [
+                    "Location",
+                    "Dallas/Fort Worth Area"
+                ],
+                [
+                    "More Info",
+                    "Developed a low-complexity video compression framework using compressive sensing principles. The proposed encoder compresses each frame in a video by taking its linear measurements (in a non-uniform fashion that mimics I and P frames in conventional coding). The decoder exploits temporal dependencies using inter-frame motion and spatial sparsity using complex wavelets."
+                ]
+            ]
+        ]
+    },
+    "Bir Bhanu": {
+        "status": "success",
+        "Education": [
+            [
+                "UC Irvine",
+                [
+                    "Degree Name",
+                    "Master of Business Administration (MBA)"
+                ],
+                [
+                    "Field Of Study",
+                    " Business Administration"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984"
+                ]
+            ],
+            [
+                "University of Southern California",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981"
+                ]
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "Degree Name",
+                    "E. E."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineer"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1977"
+                ],
+                [
+                    "More Info",
+                    "Show all 7 education"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Bourns Presidential Chair, Distinguished Professor Elect. &amp; Comp. Engg; Director, CRIS Center",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 1991 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Riverside, California"
+                ],
+                [
+                    "More Info",
+                    "Distinguished Professor (since 7/2010), Professor of Electrical and Computer Engineering (since 1/1991). Interim Chair, Bioengineering (7/1/14 - 6/30/2016). Cooperative Professor of Computer Science and Engineering (since 1/1991) and Mechanical Engineering (since 2008). Participating faculty Bioengineering (since 2006), and Director of Visualization and Intelligent Systems Laboratory. Founding first faculty of Bourns College of Engineering, Founding Professor of Electrical Engineering at UCR and served its first Chair from 1/1991 to 6/1994. Founding Director (since 1998), Center for Research in Intelligent Systems (CRIS), University of California at Riverside (UCR). CRIS is an interdisciplinary campus-wide research center at the department level.  It includes faculty members from several departments, including Computer Science and Engineering, Electrical Engineering, Mechanical Engineering, Bioengineering, Various Departments in Life Sciences (Biological Sciences, Biology and Neuroscience, Botany and Plant Sciences, Entomology and others), Psychology, Mathematics, Statistics, Economics and Management."
+                ]
+            ],
+            [
+                "Senior Honeywell Fellow",
+                [
+                    "Company Name",
+                    "Honeywell Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1986 - Jan 1991"
+                ],
+                [
+                    "Location",
+                    "Started out as Research Staff Scientist, subsequently promoted to Honeywell Fellow and then to Senior Honeywell Fellow."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Department of Computer Science, University of Utah"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 1984 - Sep 1990"
+                ]
+            ],
+            [
+                "Engineering Specialist in Digital Systems",
+                [
+                    "Company Name",
+                    "Ford Aerospace and Communications Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1981 - Mar 1984"
+                ],
+                [
+                    "Location",
+                    "Newport Beach, California"
+                ],
+                [
+                    "More Info",
+                    "Responsible for R&amp;D work and providing a leadership role for the Aeronutronic Division in the areas of Computer Vision, Artificial Intelligence and Pattern Recognition as applied to defense problems."
+                ]
+            ],
+            [
+                "Lecturer",
+                [
+                    "Company Name",
+                    "The Department of Electrical and Electronics Engineering, Birla Institute of Technology &amp; Science"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1974 - Jan 1975"
+                ],
+                [
+                    "Location",
+                    "Pilani, India"
+                ]
+            ]
+        ]
+    },
+    "Thomas Girke": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Konstantinos Karydis": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Delaware",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mechanical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2015"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.75/4.00"
+                ]
+            ],
+            [
+                "University of Delaware",
+                [
+                    "Degree Name",
+                    "Graduate Certificate in Entrepreneurship and Technology Innovation"
+                ],
+                [
+                    "Field Of Study",
+                    " Entrepreneurship/Entrepreneurial Studies"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2015"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.00/4.00"
+                ]
+            ],
+            [
+                "University of Delaware",
+                [
+                    "Degree Name",
+                    "Graduate Certificate in Cognitive Science"
+                ],
+                [
+                    "Field Of Study",
+                    " Cognitive Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2015"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.00/4.00"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2017 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Riverside, CA"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher in Robotics",
+                [
+                    "Company Name",
+                    "University of Pennsylvania"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2015 - May 2017"
+                ],
+                [
+                    "Location",
+                    "Greater Philadelphia Area"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of Delaware"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2010 - Sep 2015"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "NTUA"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2008 - Jun 2010"
+                ]
+            ]
+        ]
+    },
+    "Hyoseung Kim": {
+        "status": "success",
+        "Education": [
+            [
+                "Carnegie Mellon University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical and Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2011 - 2016"
+                ],
+                [
+                    "More Info",
+                    "- Thesis: Towards predictable real-time performance on multi-core platforms"
+                ]
+            ],
+            [
+                "Yonsei University",
+                [
+                    "Degree Name",
+                    "M.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2007"
+                ],
+                [
+                    "More Info",
+                    "- Thesis: System safety and multithreading optimization for sensor network operating systems"
+                ]
+            ],
+            [
+                "Yonsei University",
+                [
+                    "Degree Name",
+                    "B.Sc."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2005"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: YUTAR"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2016 - Apr 2022"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "Carnegie Mellon University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 - Jul 2016"
+                ],
+                [
+                    "Location",
+                    "Pittsburgh, PA"
+                ]
+            ],
+            [
+                "Research Engineer",
+                [
+                    "Company Name",
+                    "LIG Nex1"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2007 - May 2011"
+                ],
+                [
+                    "Location",
+                    "South Korea"
+                ],
+                [
+                    "More Info",
+                    "Research and development of safety-critical defense computer systems"
+                ]
+            ]
+        ]
+    },
+    "Wenxiu Ma": {
+        "status": "success",
+        "Education": [
+            [
+                "Adelphi University",
+                [
+                    "Degree Name",
+                    "Master's degree"
+                ],
+                [
+                    "Field Of Study",
+                    " Bilingual and Multilingual Education"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2014"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.8"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Chinese Teacher",
+                [
+                    "Company Name",
+                    "WeiBo Learning Organization"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2013 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Brooklyn"
+                ]
+            ],
+            [
+                "Classroom Lead Teacher",
+                [
+                    "Company Name",
+                    "Bumblebee R Us"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2014 - May 2015"
+                ],
+                [
+                    "Location",
+                    "Brooklyn"
+                ]
+            ],
+            [
+                "Assisstant Director",
+                [
+                    "Company Name",
+                    "Little Scholars Child Care"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2014 - Dec 2014"
+                ],
+                [
+                    "Location",
+                    "Brooklyn"
+                ]
+            ]
+        ]
+    },
+    "Samet Oymak": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2018 - Apr 2022"
+                ]
+            ],
+            [
+                "Researcher",
+                [
+                    "Company Name",
+                    "The Voleon Group"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2016 - Feb 2018"
+                ],
+                [
+                    "Location",
+                    "Berkeley"
+                ]
+            ],
+            [
+                "Software Engineer",
+                [
+                    "Company Name",
+                    "Google"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 - Jan 2017"
+                ],
+                [
+                    "Location",
+                    "Mountain View"
+                ]
+            ],
+            [
+                "Postdoc",
+                [
+                    "Company Name",
+                    "UC Berkeley"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Jun 2015"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "California Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2009 - Aug 2014"
+                ]
+            ]
+        ]
+    },
+    "Shaolei Ren": {
+        "status": "success",
+        "Education": [
+            [
+                "Tsinghua University",
+                [
+                    "Degree Name",
+                    "1911 - 2027"
+                ]
+            ]
+        ],
+        "Experience": []
+    },
+    "Sergio J Rey": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ]
+            ]
+        ]
+    },
+    "Amit K Roy Chowdhury": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2004 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Chair, Electrical and Computer Engineering"
+                ]
+            ]
+        ]
+    },
+    "Thomas Stahovich": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Sheldon Xiangdong Tan": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Iowa",
+                [
+                    "Degree Name",
+                    "Ph.D."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1996 - 1999"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Research on my phd thesis"
+                ]
+            ],
+            [
+                "Fudan University",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1992 - 1995"
+                ],
+                [
+                    "More Info",
+                    "I did my BS and MS at Fudan Univ."
+                ]
+            ],
+            [
+                "Fudan University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1988 - 1992"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "UC Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2006 - Apr 2022"
+                ]
+            ],
+            [
+                "Editor in Chief",
+                [
+                    "Company Name",
+                    "Integration, the VLSI Jounal"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2016 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "http://www.journals.elsevier.com/integration-the-vlsi-journal/"
+                ],
+                [
+                    "More Info",
+                    "Integration, the VLSI Journal is a primary journal, which covers every aspect of the VLSI area, with an emphasis on cross-fertilization between various fields of science, and the design, verification, test and applications of integrated circuits and systems, as well as closely related topics in process and device technologies. Individual issues will feature peer-reviewed tutorials and articles as well as reviews of recent publications."
+                ]
+            ],
+            [
+                "Japan Socity For the Promotion of Science (JSPS) Short-Term Fellow",
+                [
+                    "Company Name",
+                    "Kyoto University"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2017 - Jan 2018"
+                ],
+                [
+                    "Location",
+                    "Kyoto, Japan"
+                ],
+                [
+                    "More Info",
+                    "Visit Kyoto University, Japan as a JSPS Fellow for research and eduction collaboration."
+                ]
+            ],
+            [
+                "Guest Professor",
+                [
+                    "Company Name",
+                    "Shanghai Jiao Tong University"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2011 - Jan 2016"
+                ],
+                [
+                    "Location",
+                    "Collaborating with the faculty and students in SJTU for some collaborative projects and student mentoring."
+                ]
+            ],
+            [
+                "Visiting Professor",
+                [
+                    "Company Name",
+                    "Fudan University"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2008 - Mar 2010"
+                ],
+                [
+                    "Location",
+                    "Worked as a visiting professor at Fudan."
+                ]
+            ]
+        ]
+    },
+    "Hung-Wei Tseng": {
+        "status": "success",
+        "Education": [
+            [
+                "UC San Diego",
+                [
+                    "Degree Name",
+                    "Ph. D."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2014"
+                ]
+            ],
+            [
+                "National Taiwan University",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1999 - 2005"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2019 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Riverside, CA"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "NC State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2016 - May 2019"
+                ],
+                [
+                    "Location",
+                    "Raleigh-Durham, North Carolina Area"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of California, San Diego"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2007 - Jul 2016"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Intel Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Sep 2013"
+                ],
+                [
+                    "Location",
+                    "Santa Clara, CA"
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Academia Sinica"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2007 - Aug 2007"
+                ]
+            ]
+        ]
+    },
+    "Daniel Wong": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Southern California",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2015"
+                ],
+                [
+                    "More Info",
+                    "Concentration in Computer Architecture"
+                ]
+            ],
+            [
+                "University of Southern California",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2011"
+                ]
+            ],
+            [
+                "University of Southern California",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering/Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2009"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: USC Robotics Society, Eta Kappa Nu, Tau Beta Pi"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2015 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Riverside, CA"
+                ],
+                [
+                    "More Info",
+                    "Department of Electrical and Computer Engineering"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of Southern California"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2009 - Jun 2015"
+                ]
+            ],
+            [
+                "Engineering Intern",
+                [
+                    "Company Name",
+                    "Samsung Semiconductor, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2014 - Aug 2014"
+                ],
+                [
+                    "Location",
+                    "Memory System Architecture Lab"
+                ]
+            ],
+            [
+                "Computation Student Intern",
+                [
+                    "Company Name",
+                    "Lawrence Livermore National Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2011 - Jul 2011"
+                ],
+                [
+                    "Location",
+                    "Livermore, CA"
+                ],
+                [
+                    "More Info",
+                    "Persistent Memory Architecture"
+                ]
+            ],
+            [
+                "Computation Student Intern",
+                [
+                    "Company Name",
+                    "Lawrence Livermore National Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2010 - Aug 2010"
+                ],
+                [
+                    "Location",
+                    "Real-World Performance of Document Similarity Web Attack Classifier on Embedded Hardware"
+                ]
+            ]
+        ]
+    },
+    "Nanpeng Yu": {
+        "status": "success",
+        "Education": [
+            [
+                "Iowa State University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2010"
+                ]
+            ],
+            [
+                "Iowa State University",
+                [
+                    "Degree Name",
+                    "Master of Science in Electrical Engineering"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2006 - 2007"
+                ]
+            ],
+            [
+                "Tsinghua University",
+                [
+                    "Degree Name",
+                    "Bachelor of Electrical Engineering"
+                ],
+                [
+                    "Field Of Study",
+                    " Electrical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2002 - 2006"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Apr 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Southern California Edison (SCE)"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2010 - Aug 2014"
+                ]
+            ],
+            [
+                "Financial Consultant",
+                [
+                    "Company Name",
+                    "Midwest ISO"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2009 - Feb 2010"
+                ],
+                [
+                    "Location",
+                    "Contracted to develop risk analysis models for financial products such as financial transmission rights."
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "Iowa State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2006 - Jun 2010"
+                ]
+            ]
+        ]
+    },
+    "Mart L Molle": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Riverside",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Biology"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2018 - 2022"
+                ]
+            ]
+        ],
+        "Experience": []
+    },
+    "Thomas H Payne": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Notre Dame",
+                [
+                    "Degree Name",
+                    "1964 - 1967"
+                ]
+            ]
+        ],
+        "Experience": []
+    },
+    "Michael Pazzani": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Los Angeles",
+                [
+                    "Degree Name",
+                    "Ph.D"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 - 1988"
+                ]
+            ],
+            [
+                "University of Connecticut",
+                [
+                    "Degree Name",
+                    "Master of Science (MS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1980 - 1981"
+                ]
+            ],
+            [
+                "University of Connecticut",
+                [
+                    "Degree Name",
+                    "Bachelor of Engineering (BE)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1976 - 1980"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Principal Scientist",
+                [
+                    "Company Name",
+                    "USC Information Sciences Institute"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2021 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Marina del Rey, California, United States"
+                ],
+                [
+                    "More Info",
+                    "Research on Machine Learning and Explainable AI"
+                ]
+            ],
+            [
+                "Distinguished Scientist",
+                [
+                    "Company Name",
+                    "University of California San Diego"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2019 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Halıcıoğlu Data Science Institute"
+                ],
+                [
+                    "More Info",
+                    "Research on Machine Learning and Explainable AI"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of California, Riverside"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2012 - Mar 2019"
+                ]
+            ],
+            [
+                "Vice President of Research and Economic Development and Distinguished Professor, Computer Science",
+                [
+                    "Company Name",
+                    "Rutgers"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2005 - Jun 2012"
+                ],
+                [
+                    "Location",
+                    "New Brunswick, NJ"
+                ],
+                [
+                    "More Info",
+                    "Entrepreneurship Day - Innovation at Rutgers -Michael Pazzani"
+                ]
+            ],
+            [
+                "Division Director, Information and Intelligent Systems",
+                [
+                    "Company Name",
+                    "National Science Foundation"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2002 - Jan 2006"
+                ],
+                [
+                    "Location",
+                    "Arlington, VA"
+                ],
+                [
+                    "More Info",
+                    "Managed division with programs in Machine Learning, Internet Search, Artificial Intelliegence, Human-Computer Interaction, Databases, Robotics, Computer Vision, Speech and Natural Language Understanding, and Computational Science."
+                ]
+            ]
+        ]
+    },
+    "Teodor Przymusinski": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Neal E Young Dr": {
+        "status": "success",
+        "Education": [
+            [
+                "Metropolitan State University of Denver",
+                [
+                    "Degree Name",
+                    "Mechanical Engineering Technology"
+                ],
+                [
+                    "Field Of Study",
+                    " Mechanical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 2000"
+                ],
+                [
+                    "More Info",
+                    "Activities and societies: Mini Baja Design Group"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Director of Aviation",
+                [
+                    "Company Name",
+                    "ZC Aviation"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2011 - Apr 2022"
+                ]
+            ],
+            [
+                "Captain",
+                [
+                    "Company Name",
+                    "Avalon Capital Group"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2005 - Dec 2010"
+                ],
+                [
+                    "Location",
+                    "Greater San Diego Area"
+                ],
+                [
+                    "More Info",
+                    "Captian GV / BBD700 World Wide Operations"
+                ]
+            ]
+        ]
+    },
+    "Tel: (951) 827-5639": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Fax: (951) 827-9345": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    }
+}

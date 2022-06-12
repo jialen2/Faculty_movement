@@ -11,6 +11,7 @@ University of Pittsburgh,University of Illinois Urbana-Champaign,1
 University of Pittsburgh,New York University,1
 University of Pittsburgh,Oregon State University,1
 University of Pittsburgh,University of Tulsa,1
+University of Pittsburgh,Clarkson University,1
 University of Illinois Chicago,University of Illinois Chicago,5
 University of Illinois Chicago,University of Pennsylvania,1
 University of Illinois Chicago,Lehigh University,1
@@ -21,6 +22,7 @@ University of Illinois Chicago,University of Illinois Urbana-Champaign,1
 University of Illinois Chicago,New York University,1
 University of Illinois Chicago,Aurora University,1
 University of Illinois Chicago,American University of the Middle East,1
+University of Illinois Chicago,University of Houston,1
 Lake Forest College,"University of California, Irvine",1
 "University of California, Irvine",Loyola University Chicago,1
 "University of California, Irvine","University of California, Irvine",12
@@ -44,6 +46,11 @@ Lake Forest College,"University of California, Irvine",1
 "University of California, Irvine",Oregon Health & Science University,1
 "University of California, Irvine","University of California, Riverside",1
 "University of California, Irvine",University of California,1
+"University of California, Irvine",George Mason University,1
+"University of California, Irvine",University College London,1
+"University of California, Irvine",Bentley University,1
+"University of California, Irvine",University of the Pacific (United States),1
+"University of California, Irvine",University of South Carolina,1
 Loyola University Chicago,University of Illinois Chicago,1
 University of North Texas,University of North Texas,1
 University of North Texas,University of Illinois Chicago,1
@@ -81,17 +88,28 @@ University of North Texas,Kansas State University,2
 "University of Maryland, College Park",Illinois Institute of Technology,1
 "University of Maryland, College Park",North Carolina State University,1
 "University of Maryland, College Park",Syracuse University,1
+"University of Maryland, College Park","University of Maryland, Baltimore County",1
+"University of Maryland, College Park",Rice University,1
+"University of Maryland, College Park",Brigham Young University,1
 Imperial College London,George Mason University,1
 Imperial College London,Imperial College London,1
 Imperial College London,Clemson University,1
 Imperial College London,University of Michigan,1
+Imperial College London,California Institute of Technology,1
+Imperial College London,Carnegie Mellon University,1
 George Mason University,University of Illinois Chicago,1
 George Mason University,Chuo University,1
 George Mason University,Boston College,1
-George Mason University,George Mason University,1
+George Mason University,George Mason University,2
 George Mason University,University of Virginia,1
 George Mason University,"University of California, Irvine",1
 George Mason University,University,1
+George Mason University,"University of Maryland, Baltimore County",2
+George Mason University,Northern Virginia Community College,1
+George Mason University,Naval Postgraduate School,1
+George Mason University,Virginia Tech,1
+George Mason University,University of the Amazon,1
+George Mason University,Temple University,1
 University of Wisconsin–Madison,University of Wisconsin–Madison,4
 University of Wisconsin–Madison,University of the Amazon,2
 University of Wisconsin–Madison,"University of California, Berkeley",3
@@ -109,6 +127,9 @@ University of Wisconsin–Madison,"University of California, Irvine",2
 University of Wisconsin–Madison,Oregon Health & Science University,1
 University of Wisconsin–Madison,Michigan State University,1
 University of Wisconsin–Madison,"University of Maryland, College Park",1
+University of Wisconsin–Madison,University of Kentucky,1
+University of Wisconsin–Madison,University of South Carolina,1
+University of Wisconsin–Madison,Georgia Southern University,1
 University of the Amazon,University of Illinois Chicago,1
 University of the Amazon,University of Iowa,1
 University of the Amazon,Columbia University,1
@@ -121,6 +142,9 @@ University of the Amazon,"University of California, Irvine",1
 University of the Amazon,University of Texas at Austin,1
 University of the Amazon,Michigan State University,1
 University of the Amazon,"University of California, San Diego",1
+University of the Amazon,"University of California, Davis",1
+University of the Amazon,Auburn University,1
+University of the Amazon,Brigham Young University,1
 Fairfield University,Brown University,1
 Fairfield University,Montana State University,1
 Brown University,Montana State University,1
@@ -149,8 +173,10 @@ Brown University,Georgia Tech,1
 Brown University,Alexandru Ioan Cuza University,1
 Brown University,Bennington College,1
 Brown University,Charles University,1
+Brown University,Boston University,1
 Montana State University,Saint Mary's College of California,1
 Montana State University,Stanford University,1
+Montana State University,University of South Carolina,1
 Saint Mary's College of California,University of Illinois Chicago,1
 Beihang University,Northwestern University,1
 Beihang University,Northeastern University,1
@@ -177,6 +203,8 @@ Northwestern University,University of Florida,1
 Northwestern University,University of Colorado Boulder,1
 Northwestern University,Michigan State University,1
 Northwestern University,"University of Maryland, College Park",1
+Northwestern University,University of Illinois Urbana-Champaign,1
+Northwestern University,University of Chicago,1
 University of Chicago,University of Illinois Chicago,2
 University of Chicago,Northwestern University,2
 University of Chicago,School of the Art Institute of Chicago,1
@@ -189,6 +217,8 @@ University of Chicago,University of Illinois Urbana-Champaign,1
 University of Chicago,University of Toronto,1
 University of Chicago,Clemson University,1
 University of Chicago,Brandeis University,1
+University of Chicago,University of Chicago,1
+University of Chicago,University of Southern California,1
 Kansas State University,University of Illinois Chicago,2
 Kansas State University,Kansas State University,3
 Kansas State University,Kennesaw State University,1
@@ -198,12 +228,14 @@ Kansas State University,Toyota Technological Institute,1
 Kansas State University,Stony Brook University,1
 Kansas State University,Manhattan Christian College,1
 Kansas State University,University of Colorado Boulder,1
+Kansas State University,Albert Einstein College of Medicine,1
 University of Rochester,École Polytechnique Fédérale de Lausanne,1
 University of Rochester,University of Utah,1
 University of Rochester,Duke University,1
 University of Rochester,Hokkaido University,1
 University of Rochester,Pennsylvania State University,1
 University of Rochester,Lehigh University,1
+University of Rochester,"University of Maryland, Baltimore County",1
 École Polytechnique Fédérale de Lausanne,University of Rochester,1
 École Polytechnique Fédérale de Lausanne,University of Cambridge,1
 École Polytechnique Fédérale de Lausanne,Columbia University,1
@@ -219,6 +251,7 @@ University of Rochester,Lehigh University,1
 École Polytechnique Fédérale de Lausanne,Tufts University,2
 École Polytechnique Fédérale de Lausanne,New York University,1
 École Polytechnique Fédérale de Lausanne,University of Utah,1
+École Polytechnique Fédérale de Lausanne,McGill University,1
 Texas A&M University,Harvard University,1
 Texas A&M University,University of Nebraska–Lincoln,2
 Texas A&M University,University of Iowa,1
@@ -232,6 +265,7 @@ Texas A&M University,Georgia Tech,1
 Texas A&M University,University of the Amazon,1
 Texas A&M University,University of Edinburgh,1
 Texas A&M University,Utah State University,1
+Texas A&M University,Iowa State University,1
 Harvard University,SRM Institute of Science and Technology,1
 Harvard University,Harvard University,3
 Harvard University,Holy Names University,1
@@ -262,6 +296,8 @@ Harvard University,Washington University in St. Louis,1
 Harvard University,"University of California, Irvine",1
 Harvard University,Rensselaer Polytechnic Institute,1
 Harvard University,University of Texas at Austin,1
+Harvard University,University of New Hampshire,1
+Harvard University,University of Bristol,1
 SRM Institute of Science and Technology,University of Rochester,1
 SRM Institute of Science and Technology,University of Texas at Austin,2
 SRM Institute of Science and Technology,University of Illinois Urbana-Champaign,2
@@ -290,9 +326,14 @@ Iowa State University,Colorado State University,2
 Iowa State University,University of Western Ontario,1
 Iowa State University,University of Texas at Austin,1
 Iowa State University,North Carolina State University,1
+Iowa State University,"University of California, Santa Barbara",1
+Iowa State University,Beijing Jiaotong University,1
+Iowa State University,Harvard University,1
+Iowa State University,Iowa State University,1
 William Jewell College,University of Nebraska–Lincoln,1
 Shanghai Jiao Tong University,University of Nebraska–Lincoln,1
 Shanghai Jiao Tong University,Dartmouth College,1
+Shanghai Jiao Tong University,Washington State University,1
 Georgia Tech,Texas A&M University,1
 Georgia Tech,"University of California, San Diego",1
 Georgia Tech,Stony Brook University,2
@@ -331,6 +372,9 @@ Georgia Tech,North Carolina State University,1
 Georgia Tech,Winthrop University,1
 Georgia Tech,West Virginia University,1
 Georgia Tech,Northwestern University,1
+Georgia Tech,Istanbul Technical University,1
+Georgia Tech,Louisiana State University,4
+Georgia Tech,University of Kentucky,1
 University of North Carolina at Charlotte,Toyota Technological Institute,1
 University of North Carolina at Charlotte,University of Florida,1
 University of North Carolina at Charlotte,University of North Carolina at Charlotte,2
@@ -340,6 +384,9 @@ University of North Carolina at Charlotte,University of Central Florida,1
 University of North Carolina at Charlotte,University of Notre Dame,1
 University of North Carolina at Charlotte,Tufts University,1
 University of North Carolina at Charlotte,North Carolina State University,1
+University of North Carolina at Charlotte,Temple University,2
+University of North Carolina at Charlotte,New York Institute of Technology,1
+University of North Carolina at Charlotte,Tsinghua University,1
 Toyota Technological Institute,University of Nebraska–Lincoln,1
 Toyota Technological Institute,Indian Institute of Science,1
 University of Toronto,University of Nebraska–Lincoln,1
@@ -375,10 +422,11 @@ Vanderbilt University,"University of Maryland, College Park",1
 Vanderbilt University,University of Pennsylvania,1
 Vanderbilt University,Oregon State University,1
 Vanderbilt University,Free University of Berlin,1
-Vanderbilt University,"University of California, Berkeley",1
+Vanderbilt University,"University of California, Berkeley",2
 Vanderbilt University,Virginia Tech,1
 Vanderbilt University,University of Tennessee at Chattanooga,1
 Vanderbilt University,Washington University in St. Louis,1
+Vanderbilt University,University of Houston,1
 Massachusetts Institute of Technology,University of Nebraska–Lincoln,1
 Massachusetts Institute of Technology,Arizona State University,1
 Massachusetts Institute of Technology,Purdue University,2
@@ -390,7 +438,7 @@ Massachusetts Institute of Technology,Harvard University,6
 Massachusetts Institute of Technology,Columbia University,1
 Massachusetts Institute of Technology,North Carolina A&T State University,1
 Massachusetts Institute of Technology,Northwestern University,4
-Massachusetts Institute of Technology,University of Southern California,1
+Massachusetts Institute of Technology,University of Southern California,3
 Massachusetts Institute of Technology,"University of California, Berkeley",14
 Massachusetts Institute of Technology,University of Sussex,1
 Massachusetts Institute of Technology,Cornell University,3
@@ -398,8 +446,8 @@ Massachusetts Institute of Technology,University of Edinburgh,1
 Massachusetts Institute of Technology,New York University,1
 Massachusetts Institute of Technology,University of Colorado Boulder,5
 Massachusetts Institute of Technology,Yale University,2
-Massachusetts Institute of Technology,University of Texas at Austin,3
-Massachusetts Institute of Technology,Carnegie Mellon University,4
+Massachusetts Institute of Technology,University of Texas at Austin,4
+Massachusetts Institute of Technology,Carnegie Mellon University,5
 Massachusetts Institute of Technology,University of Chicago,2
 Massachusetts Institute of Technology,Ohio University,1
 Massachusetts Institute of Technology,"University of Maryland, College Park",2
@@ -429,7 +477,7 @@ Massachusetts Institute of Technology,"University of California, San Diego",1
 Massachusetts Institute of Technology,"University of California, Santa Barbara",1
 Massachusetts Institute of Technology,University of Illinois Chicago,1
 Massachusetts Institute of Technology,Portland Community College,1
-Massachusetts Institute of Technology,Iowa State University,1
+Massachusetts Institute of Technology,Iowa State University,2
 Massachusetts Institute of Technology,University of North Carolina at Chapel Hill,1
 Massachusetts Institute of Technology,Boston University,2
 Massachusetts Institute of Technology,University of Texas at Dallas,1
@@ -439,6 +487,10 @@ Massachusetts Institute of Technology,Michigan State University,1
 Massachusetts Institute of Technology,University of Massachusetts Amherst,1
 Massachusetts Institute of Technology,Southern Methodist University,1
 Massachusetts Institute of Technology,"University of California, Davis",1
+Massachusetts Institute of Technology,"University of Maryland, Baltimore County",1
+Massachusetts Institute of Technology,George Mason University,1
+Massachusetts Institute of Technology,United States Air Force Academy,1
+Massachusetts Institute of Technology,College of William & Mary,1
 City University,University of Nebraska–Lincoln,1
 Lawrence Technological University,Kansas State University,1
 Kennesaw State University,Kansas State University,1
@@ -462,6 +514,7 @@ Kennesaw State University,Kansas State University,1
 "University of California, Santa Barbara",West Virginia University,1
 "University of California, Santa Barbara",Rensselaer Polytechnic Institute,1
 "University of California, Santa Barbara",TU Wien,1
+"University of California, Santa Barbara",Brigham Young University,1
 University of Otago,Georgia Tech,1
 Swarthmore College,"University of California, San Diego",1
 Swarthmore College,Michigan State University,1
@@ -486,18 +539,21 @@ Swarthmore College,Michigan State University,1
 "University of California, San Diego",Georgia Tech,1
 "University of California, San Diego",Northwestern University,1
 "University of California, San Diego",West Virginia University,1
-University of Southern California,Stanford University,3
+"University of California, San Diego",Rensselaer Polytechnic Institute,1
+"University of California, San Diego",Brigham Young University,1
+"University of California, San Diego",University of Kentucky,1
+University of Southern California,Stanford University,4
 University of Southern California,University of Arizona,1
 University of Southern California,Northeastern University,1
 University of Southern California,Northwestern University,1
-University of Southern California,Cornell University,1
+University of Southern California,Cornell University,2
 University of Southern California,"University of California, Berkeley",1
 University of Southern California,University of Utah,1
 University of Southern California,Georgia Tech,1
 University of Southern California,University of Texas at Arlington,1
 University of Southern California,University of Illinois Urbana-Champaign,2
-University of Southern California,California Institute of Technology,1
-University of Southern California,Massachusetts Institute of Technology,1
+University of Southern California,California Institute of Technology,3
+University of Southern California,Massachusetts Institute of Technology,3
 University of Southern California,Harvard University,1
 University of Southern California,University of Central Florida,1
 University of Southern California,University of Texas at Austin,1
@@ -505,6 +561,18 @@ University of Southern California,University of Notre Dame,1
 University of Southern California,George Mason University,1
 University of Southern California,KTH Royal Institute of Technology,1
 University of Southern California,"University of California, Irvine",1
+University of Southern California,University of Oregon,1
+University of Southern California,Johns Hopkins University,1
+University of Southern California,University of Southern California,3
+University of Southern California,University of California,1
+University of Southern California,University of Dayton,1
+University of Southern California,University of the Amazon,1
+University of Southern California,Brown University,1
+University of Southern California,Arkansas State University,1
+University of Southern California,University of Auckland,1
+University of Southern California,Federal University of São Carlos,1
+University of Southern California,Technical University of Berlin,1
+University of Southern California,University of South Carolina,1
 Stanford University,California Institute of Technology,3
 Stanford University,Purdue University,4
 Stanford University,University at Buffalo,1
@@ -512,7 +580,7 @@ Stanford University,Harvard University,5
 Stanford University,Columbia University,5
 Stanford University,London School of Economics,1
 Stanford University,Cornell University,4
-Stanford University,Stanford University,4
+Stanford University,Stanford University,5
 Stanford University,Washington University in St. Louis,1
 Stanford University,George Mason University,1
 Stanford University,Case Western Reserve University,1
@@ -555,9 +623,12 @@ Stanford University,Princess Sumaya University for Technology,1
 Stanford University,University of North Carolina at Chapel Hill,1
 Stanford University,University College London,1
 Stanford University,University of Virginia,1
-Stanford University,"University of Maryland, Baltimore County",1
+Stanford University,"University of Maryland, Baltimore County",2
 Stanford University,"University of California, Irvine",1
 Stanford University,Salus University,1
+Stanford University,"University of California, Los Angeles",1
+Stanford University,Cardinal Stritch University,1
+Stanford University,Michigan State University,1
 California Institute of Technology,Northeastern University,1
 California Institute of Technology,Cornell University,1
 California Institute of Technology,California Institute of Technology,4
@@ -586,6 +657,7 @@ California Institute of Technology,University of Waterloo,1
 California Institute of Technology,University of Copenhagen,1
 California Institute of Technology,Harvard University,1
 California Institute of Technology,National University of Singapore,1
+California Institute of Technology,University of Michigan,1
 Northeastern University,"University of California, San Diego",1
 Northeastern University,"University of California, Los Angeles",1
 Northeastern University,University at Buffalo,2
@@ -606,6 +678,7 @@ Northeastern University,Florida International University,1
 Old Dominion University,Stony Brook University,1
 Old Dominion University,West Virginia University,1
 Old Dominion University,North Carolina State University,1
+Old Dominion University,Georgia Southern University,1
 University of Warwick,"University of California, Berkeley",1
 University of Warwick,University of Oxford,1
 University of Warwick,University of Nebraska–Lincoln,1
@@ -656,6 +729,12 @@ University of Warwick,University of Nebraska–Lincoln,1
 "University of California, Berkeley",University of Texas at Arlington,1
 "University of California, Berkeley",North Carolina State University,1
 "University of California, Berkeley",Washington University in St. Louis,1
+"University of California, Berkeley",Vanderbilt University,1
+"University of California, Berkeley",George Mason University,1
+"University of California, Berkeley",University of Kansas,1
+"University of California, Berkeley",Chapman University,1
+"University of California, Berkeley",University of Southern California,1
+"University of California, Berkeley",Iowa State University,1
 Johns Hopkins University,Stony Brook University,1
 Johns Hopkins University,Brown University,2
 Johns Hopkins University,Johns Hopkins University,3
@@ -673,6 +752,9 @@ Johns Hopkins University,University of Colorado Boulder,1
 Johns Hopkins University,California Institute of Technology,1
 Johns Hopkins University,"University of California, Irvine",1
 Johns Hopkins University,University of Massachusetts Amherst,1
+Johns Hopkins University,"University of Maryland, Baltimore County",3
+Johns Hopkins University,Stevens Institute of Technology,1
+Johns Hopkins University,Catholic University of America,1
 Stony Brook University,University of Toronto,1
 Stony Brook University,University of Texas at Arlington,1
 Stony Brook University,Stony Brook University,3
@@ -685,13 +767,15 @@ Stony Brook University,Dowling College,1
 Stony Brook University,"University of Maryland, College Park",5
 Stony Brook University,University of North Carolina at Chapel Hill,2
 Stony Brook University,New York University,1
+Stony Brook University,Louisiana State University,1
+Stony Brook University,Iowa State University,1
 University of Innsbruck,Free University of Bozen-Bolzano,1
 University of Michigan,Virginia Tech,1
 University of Michigan,Sungkyunkwan University,1
 University of Michigan,Yale University,1
 University of Michigan,University of Delaware,1
 University of Michigan,Carnegie Mellon University,1
-University of Michigan,Stanford University,2
+University of Michigan,Stanford University,3
 University of Michigan,University of Virginia,1
 University of Michigan,University of Michigan,1
 University of Michigan,Vanderbilt University,1
@@ -711,6 +795,10 @@ University of Michigan,University of Utah,1
 University of Michigan,Illinois State University,1
 University of Michigan,West Virginia University,1
 University of Michigan,Indiana University Bloomington,1
+University of Michigan,Özyeğin University,1
+University of Michigan,Miami University,1
+University of Michigan,Florida State University,1
+University of Michigan,University of South Carolina,1
 Virginia Tech,Stony Brook University,1
 Virginia Tech,Purdue University,1
 Virginia Tech,University of the Amazon,1
@@ -723,8 +811,11 @@ Virginia Tech,Lehigh University,2
 Virginia Tech,"University of Maryland, College Park",2
 Virginia Tech,University of Virginia,1
 Virginia Tech,Stanford University,1
-Virginia Tech,Washington University in St. Louis,1
+Virginia Tech,Washington University in St. Louis,2
 Virginia Tech,West Virginia University,1
+Virginia Tech,Southern Illinois University,1
+Virginia Tech,George Mason University,2
+Virginia Tech,Virginia Tech,3
 University of Texas at Austin,University of Ottawa,1
 University of Texas at Austin,"University of California, Berkeley",4
 University of Texas at Austin,University of Iowa,2
@@ -757,6 +848,8 @@ University of Texas at Austin,"University of Maryland, College Park",1
 University of Texas at Austin,"University of California, Irvine",1
 University of Texas at Austin,"University of California, Santa Barbara",1
 University of Texas at Austin,KTH Royal Institute of Technology,1
+University of Texas at Austin,University of Washington,1
+University of Texas at Austin,Iowa State University,1
 University of Ottawa,Stony Brook University,1
 University of Ottawa,Arizona State University,1
 University of Massachusetts Amherst,University of Michigan,1
@@ -773,16 +866,20 @@ University of Massachusetts Amherst,University of Central Florida,1
 University of Massachusetts Amherst,University of Arizona,1
 University of Massachusetts Amherst,Santa Clara University,1
 University of Massachusetts Amherst,University of Texas at Austin,2
-University of Massachusetts Amherst,University of Massachusetts Amherst,3
+University of Massachusetts Amherst,University of Massachusetts Amherst,4
 University of Massachusetts Amherst,Harvard University,1
 University of Massachusetts Amherst,University of Amsterdam,1
 University of Massachusetts Amherst,University of Minnesota,2
 University of Massachusetts Amherst,Regent University,1
-University of Massachusetts Amherst,University of the Amazon,1
+University of Massachusetts Amherst,University of the Amazon,2
 University of Massachusetts Amherst,Yale University,1
 University of Massachusetts Amherst,Singapore Management University,1
 University of Massachusetts Amherst,University of Washington,1
 University of Massachusetts Amherst,Syracuse University,1
+University of Massachusetts Amherst,"University of Maryland, Baltimore County",1
+University of Massachusetts Amherst,George Mason University,1
+University of Massachusetts Amherst,University of Mannheim,1
+University of Massachusetts Amherst,University of New Hampshire,1
 Sungkyunkwan University,Stony Brook University,1
 Sungkyunkwan University,Daido University,1
 Sungkyunkwan University,University of Pittsburgh,1
@@ -801,7 +898,7 @@ University of Minnesota,University of Florida,2
 University of Minnesota,University of Alabama,1
 University of Minnesota,Clemson University,1
 University of Minnesota,Worcester Polytechnic Institute,1
-University of Minnesota,University of Southern California,1
+University of Minnesota,University of Southern California,2
 University of Minnesota,University of Salerno,1
 University of Minnesota,Freed–Hardeman University,1
 University of Minnesota,Syracuse University,1
@@ -817,6 +914,9 @@ University of Minnesota,North Carolina State University,1
 University of Minnesota,West Virginia University,1
 University of Minnesota,Umm al-Qura University,1
 University of Minnesota,University of Minnesota,2
+University of Minnesota,George Mason University,1
+University of Minnesota,Pennsylvania State University,1
+University of Minnesota,Louisiana State University,1
 Boston University,University of Alabama at Birmingham,1
 Boston University,Northwestern University,1
 Boston University,Case Western Reserve University,1
@@ -841,7 +941,10 @@ Boston University,University of the Amazon,1
 Boston University,Cornell University,1
 Boston University,Rutgers University,1
 Boston University,Northeastern University,1
+Boston University,George Mason University,1
+Boston University,Wayne State University,1
 University of Alabama at Birmingham,Stony Brook University,1
+University of Alabama at Birmingham,University of Houston,1
 Hofstra University,University of Virginia,1
 University of Virginia,Stony Brook University,1
 University of Virginia,"University of California, Los Angeles",2
@@ -850,6 +953,7 @@ University of Virginia,Carnegie Mellon University,1
 University of Virginia,Washington University in St. Louis,1
 University of Virginia,University of Texas at Austin,1
 University of Virginia,School of the Art Institute of Chicago,1
+University of Virginia,Iowa State University,1
 University of Texas at Arlington,Stony Brook University,1
 University of Texas at Arlington,University of Texas at Arlington,6
 University of Texas at Arlington,Pohang University of Science and Technology,1
@@ -883,13 +987,15 @@ Rutgers University,University of Derby,1
 Rutgers University,Northwestern University,1
 Rutgers University,Nanyang Technological University,1
 Rutgers University,University of Texas at Arlington,1
+Rutgers University,"University of Maryland, Baltimore County",1
+Rutgers University,Stevens Institute of Technology,1
 City University of New York,Stony Brook University,1
 City University of New York,Arizona State University,1
 City University of New York,New York University,2
 City University of New York,"University of Maryland, College Park",1
 University of Illinois Urbana-Champaign,Georgia Tech,2
 University of Illinois Urbana-Champaign,Purdue University,3
-University of Illinois Urbana-Champaign,Stanford University,2
+University of Illinois Urbana-Champaign,Stanford University,3
 University of Illinois Urbana-Champaign,Northwestern University,1
 University of Illinois Urbana-Champaign,"University of California, Berkeley",2
 University of Illinois Urbana-Champaign,University of Connecticut,1
@@ -925,6 +1031,8 @@ University of Illinois Urbana-Champaign,University of Colorado Boulder,1
 University of Illinois Urbana-Champaign,University of Texas at Arlington,1
 University of Illinois Urbana-Champaign,Carnegie Mellon University,1
 University of Illinois Urbana-Champaign,University of New Mexico,1
+University of Illinois Urbana-Champaign,Emory University,1
+University of Illinois Urbana-Champaign,Brigham Young University,1
 Cornell University,Stony Brook University,1
 Cornell University,Purdue University,1
 Cornell University,University of Iowa,1
@@ -956,6 +1064,7 @@ Cornell University,Oregon State University,1
 Cornell University,Tulane University,1
 Cornell University,MD Anderson Cancer Center,1
 Cornell University,Pennsylvania State University,1
+Cornell University,University of Southern California,1
 University of Pennsylvania,Hampshire College,1
 University of Pennsylvania,Columbia University,3
 University of Pennsylvania,Cornell University,1
@@ -968,7 +1077,7 @@ University of Pennsylvania,University of Pennsylvania,6
 University of Pennsylvania,"University of Maryland, College Park",2
 University of Pennsylvania,"University of California, Santa Barbara",1
 University of Pennsylvania,Chapman University,1
-University of Pennsylvania,Massachusetts Institute of Technology,1
+University of Pennsylvania,Massachusetts Institute of Technology,2
 University of Pennsylvania,Singapore Management University,1
 University of Pennsylvania,"University of California, Los Angeles",1
 University of Pennsylvania,University of Utah,2
@@ -994,6 +1103,11 @@ University of Pennsylvania,Case Western Reserve University,1
 University of Pennsylvania,University of Texas at Austin,1
 University of Pennsylvania,Virginia Tech,1
 University of Pennsylvania,University of Victoria,1
+University of Pennsylvania,George Mason University,1
+University of Pennsylvania,"University of California, Berkeley",1
+University of Pennsylvania,DeVry University,1
+University of Pennsylvania,Temple University,1
+University of Pennsylvania,University of Southern California,1
 Hampshire College,Stony Brook University,1
 Hampshire College,University of Massachusetts Amherst,1
 University at Buffalo,Stony Brook University,1
@@ -1002,6 +1116,7 @@ University at Buffalo,Stanford University,1
 University at Buffalo,University of Illinois Urbana-Champaign,1
 University at Buffalo,Boston University,1
 University at Buffalo,West Virginia University,2
+University at Buffalo,University of New Hampshire,1
 University of Connecticut,Technical University of Munich,1
 University of Connecticut,University of North Carolina at Chapel Hill,1
 University of Connecticut,University of Waterloo,1
@@ -1015,14 +1130,17 @@ Technical University of Munich,University of Colorado Boulder,1
 Technical University of Munich,Massachusetts Institute of Technology,1
 Duquesne University,Stony Brook University,1
 University of Texas at El Paso,Arizona State University,1
+University of Texas at El Paso,University of Texas at Dallas,1
 Osaka University,Technische Universität Darmstadt,1
 Technische Universität Darmstadt,Georgia Tech,1
 Technische Universität Darmstadt,Purdue University,1
 Technische Universität Darmstadt,Lancaster University,1
+Technische Universität Darmstadt,"University of California, Berkeley",1
 Tsinghua University,Arizona State University,3
 Tsinghua University,International university,1
 Tsinghua University,Zhejiang University,1
 Tsinghua University,Michigan State University,1
+Tsinghua University,Temple University,1
 Technion – Israel Institute of Technology,Massachusetts Institute of Technology,2
 Technion – Israel Institute of Technology,Stanford University,1
 Technion – Israel Institute of Technology,Tel Aviv University,1
@@ -1048,6 +1166,8 @@ Arizona State University,Sungkyunkwan University,1
 Arizona State University,University of Utah,1
 Arizona State University,University of Virginia,1
 Arizona State University,North Carolina State University,1
+Arizona State University,Carnegie Mellon University,1
+Arizona State University,Florida State University,1
 University of Advancing Technology,Arizona State University,2
 University of Advancing Technology,Lamar University,1
 University of Arizona,Arizona State University,2
@@ -1061,6 +1181,10 @@ Southern New Hampshire University,Southern Illinois University,1
 Southern New Hampshire University,Worcester State University,1
 Southern Illinois University,Arizona State University,1
 Southern Illinois University,Colorado State University,1
+Southern Illinois University,Wayne State University,1
+Southern Illinois University,Southern Illinois University,1
+Southern Illinois University,George Mason University,1
+Southern Illinois University,University of Kentucky,1
 University of Vermont,Arizona State University,1
 Princeton University,Purdue University,2
 Princeton University,University of Virginia,1
@@ -1120,14 +1244,17 @@ Purdue University,Worcester Polytechnic Institute,1
 Purdue University,University of Houston,1
 Purdue University,Johns Hopkins University,1
 Purdue University,Northeastern University,1
-Carnegie Mellon University,Princeton University,3
+Purdue University,Georgia Southern University–Armstrong Campus,1
+Purdue University,Louisiana State University,1
+Purdue University,University of Southern California,1
+Carnegie Mellon University,Princeton University,4
 Carnegie Mellon University,Northeastern University,1
 Carnegie Mellon University,Columbia University,3
 Carnegie Mellon University,"University of California, Davis",1
 Carnegie Mellon University,École Polytechnique Fédérale de Lausanne,1
 Carnegie Mellon University,Northwestern University,1
 Carnegie Mellon University,Cornell University,4
-Carnegie Mellon University,Carnegie Mellon University,10
+Carnegie Mellon University,Carnegie Mellon University,11
 Carnegie Mellon University,University of North Carolina at Chapel Hill,3
 Carnegie Mellon University,Boston University,2
 Carnegie Mellon University,University of Colorado Boulder,1
@@ -1143,7 +1270,7 @@ Carnegie Mellon University,"University of Maryland, College Park",3
 Carnegie Mellon University,"University of California, Berkeley",5
 Carnegie Mellon University,École normale supérieure (Paris),1
 Carnegie Mellon University,University of the Amazon,1
-Carnegie Mellon University,University of Utah,1
+Carnegie Mellon University,University of Utah,2
 Carnegie Mellon University,Stanford University,3
 Carnegie Mellon University,University of Sydney,1
 Carnegie Mellon University,University of Pennsylvania,1
@@ -1171,6 +1298,12 @@ Carnegie Mellon University,North Carolina State University,1
 Carnegie Mellon University,Monash University,1
 Carnegie Mellon University,Georgia Tech,1
 Carnegie Mellon University,"University of California, San Diego",1
+Carnegie Mellon University,George Mason University,2
+Carnegie Mellon University,"University of California, Irvine",1
+Carnegie Mellon University,Arizona State University,1
+Carnegie Mellon University,University of Southern California,3
+Carnegie Mellon University,University of South Carolina,1
+Carnegie Mellon University,McGill University,1
 Ohio State University,Purdue University,1
 Ohio State University,"University of California, Irvine",1
 Ohio State University,University at Buffalo,1
@@ -1179,6 +1312,12 @@ Ohio State University,University of North Carolina at Chapel Hill,1
 Ohio State University,Boston University,1
 Ohio State University,Worcester Polytechnic Institute,1
 Ohio State University,Denison University,1
+Ohio State University,Ohio State University,2
+Ohio State University,Wayne State University,1
+Ohio State University,University of Cambridge,1
+Ohio State University,Carnegie Mellon University,1
+Ohio State University,Temple University,1
+Ohio State University,University of Kentucky,1
 University of Waterloo,Purdue University,1
 University of Waterloo,Wilfrid Laurier University,1
 University of Waterloo,Iowa State University,1
@@ -1188,20 +1327,28 @@ University of Waterloo,"University of Maryland, College Park",1
 University of Waterloo,California Institute of Technology,1
 University of Waterloo,"University of California, Berkeley",1
 Daido University,Purdue University,1
+Daido University,Johns Hopkins University,1
 Marist College,Purdue University,1
 Pennsylvania State University,Purdue University,1
 Pennsylvania State University,University of Tennessee,1
-Pennsylvania State University,Pennsylvania State University,1
+Pennsylvania State University,Pennsylvania State University,2
 Pennsylvania State University,Sungkyunkwan University,1
 Pennsylvania State University,Boston University,1
 Pennsylvania State University,University of Texas at Arlington,1
 Pennsylvania State University,University of Pennsylvania,2
-Pennsylvania State University,Vanderbilt University,1
+Pennsylvania State University,Vanderbilt University,2
 Pennsylvania State University,Texas A&M University,1
 Pennsylvania State University,Harvard University,1
 Pennsylvania State University,North Carolina A&T State University,1
 Pennsylvania State University,Rensselaer Polytechnic Institute,1
 Pennsylvania State University,Syracuse University,1
+Pennsylvania State University,Carnegie Mellon University,1
+Pennsylvania State University,Mississippi State University,1
+Pennsylvania State University,Brigham Young University,1
+Pennsylvania State University,Arizona State University,1
+Pennsylvania State University,Missouri University of Science and Technology,1
+Pennsylvania State University,University of Kentucky,1
+Pennsylvania State University,Temple University,1
 Washington University in St. Louis,University of Iowa,1
 Washington University in St. Louis,University of Wisconsin–Milwaukee,1
 Washington University in St. Louis,Cornell University,2
@@ -1212,6 +1359,11 @@ Washington University in St. Louis,DePauw University,1
 Washington University in St. Louis,University,1
 Washington University in St. Louis,Massachusetts Institute of Technology,1
 Washington University in St. Louis,University of Georgia,1
+Washington University in St. Louis,George Mason University,1
+Washington University in St. Louis,Open University,1
+Washington University in St. Louis,University of Kentucky,1
+Washington University in St. Louis,University of South Carolina,1
+Washington University in St. Louis,Wayne State University,1
 University of Iowa,Open University,1
 University of Iowa,Washington State University,1
 University of Iowa,University of Iowa,1
@@ -1245,13 +1397,14 @@ University of Washington,Pennsylvania State University,1
 University of Washington,Idaho State University,1
 University of Washington,Rensselaer Polytechnic Institute,1
 University of Washington,"University of California, Santa Barbara",1
+University of Washington,"University of Maryland, Baltimore County",1
 Indian Institute of Science,SRM Institute of Science and Technology,2
 Indian Institute of Science,University of Southern California,1
 Indian Institute of Science,"University of California, Berkeley",1
 Indian Institute of Science,Indian Institute of Science,1
 Indian Institute of Science,Northeastern University,1
 Indian Institute of Science,Carnegie Mellon University,1
-"University of California, Los Angeles",University,1
+"University of California, Los Angeles",University,2
 "University of California, Los Angeles","University of California, Los Angeles",5
 "University of California, Los Angeles",Pepperdine University,2
 "University of California, Los Angeles",Massachusetts Institute of Technology,1
@@ -1262,17 +1415,20 @@ Indian Institute of Science,Carnegie Mellon University,1
 "University of California, Los Angeles",University of San Francisco,1
 "University of California, Los Angeles","University of Maryland, College Park",1
 "University of California, Los Angeles","University of California, Berkeley",2
-"University of California, Los Angeles",University of Pennsylvania,1
+"University of California, Los Angeles",University of Pennsylvania,2
 "University of California, Los Angeles",University of Illinois Urbana-Champaign,1
 "University of California, Los Angeles","University of California, Irvine",1
 "University of California, Los Angeles",Chinese University of Hong Kong,1
-"University of California, Los Angeles",Temple University,1
+"University of California, Los Angeles",Temple University,2
 "University of California, Los Angeles",Emory University,1
 "University of California, Los Angeles",Peking University,1
 "University of California, Los Angeles",Case Western Reserve University,1
 "University of California, Los Angeles",Delft University of Technology,1
 "University of California, Los Angeles",Oakton Community College,1
 "University of California, Los Angeles",Indiana University Bloomington,1
+"University of California, Los Angeles",George Mason University,1
+"University of California, Los Angeles",Florida State University,1
+"University of California, Los Angeles",University of Southern California,1
 University of North Carolina at Chapel Hill,"University of California, Los Angeles",2
 University of North Carolina at Chapel Hill,University of Central Florida,2
 University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill,18
@@ -1286,6 +1442,7 @@ University of North Carolina at Chapel Hill,University of the Amazon,2
 University of North Carolina at Chapel Hill,University of Charleston,1
 University of North Carolina at Chapel Hill,Stanford University,1
 University of North Carolina at Chapel Hill,"University of California, Irvine",1
+University of North Carolina at Chapel Hill,Massachusetts Institute of Technology,1
 Hebrew University of Jerusalem,"University of California, San Diego",1
 Hebrew University of Jerusalem,Tel Aviv University,1
 Hebrew University of Jerusalem,"University of California, Berkeley",2
@@ -1298,7 +1455,7 @@ KU Leuven,"University of California, Los Angeles",1
 KU Leuven,University of Illinois Urbana-Champaign,1
 KU Leuven,Brandeis University,1
 KU Leuven,"University of California, Santa Barbara",1
-Open University,"University of California, Los Angeles",1
+Open University,"University of California, Los Angeles",2
 University of Bologna,"University of California, Los Angeles",1
 University of Bologna,University of Dundee,1
 Sorbonne University,University of Bologna,1
@@ -1313,11 +1470,13 @@ University of Utah,Colorado State University,1
 University of Utah,Johannes Kepler University Linz,1
 University of Utah,University of Silicon Valley,1
 University of Utah,Sabancı University,1
+University of Utah,"University of Maryland, Baltimore County",1
 Fiji National University,Purdue University,1
 University of Cambridge,Harvard University,2
 University of Cambridge,Stanford University,1
 University of Cambridge,Massachusetts Institute of Technology,2
 University of Cambridge,Brandeis University,1
+University of Cambridge,Lund University,1
 Tel Aviv University,Harvard University,1
 Tel Aviv University,University of Toronto,1
 Nanjing University,Vienna University of Economics and Business,1
@@ -1334,6 +1493,7 @@ McGill University,Stanford University,2
 McGill University,University of British Columbia,1
 McGill University,West Virginia University,1
 McGill University,University of Pennsylvania,1
+McGill University,University of South Carolina,2
 North Carolina State University,University of Central Florida,1
 North Carolina State University,University of North Carolina at Chapel Hill,3
 North Carolina State University,University of Utah,2
@@ -1349,6 +1509,9 @@ North Carolina State University,Northwestern University,1
 North Carolina State University,Open University of Tanzania,1
 North Carolina State University,Institute of technology,1
 North Carolina State University,Princeton University,1
+North Carolina State University,University of Massachusetts Amherst,1
+North Carolina State University,Florida State University,1
+North Carolina State University,Georgia Tech,1
 University of Arkansas at Little Rock,University of Central Florida,1
 University of Arkansas at Little Rock,United States Military Academy,1
 University of Central Florida,Princeton University,1
@@ -1363,13 +1526,18 @@ University of Central Florida,University of North Carolina at Charlotte,1
 University of Central Florida,Full Sail University,1
 University of Central Florida,Park University,1
 University of Central Florida,University of Delaware,1
+University of Central Florida,Wayne State University,1
+University of Central Florida,LAB University of Applied Sciences,1
 University of Tennessee,University of Central Florida,1
 University of Tennessee,University of Utah,1
 University of Tennessee,Pennsylvania State University,1
+University of Tennessee,Auburn University,1
+University of Tennessee,Georgia Southern University,1
 De Montfort University,University of Central Florida,1
 Florida Atlantic University,Palm Beach State College,1
 Florida Atlantic University,Massachusetts Institute of Technology,1
 Florida Atlantic University,University of Virginia,1
+Florida Atlantic University,Temple University,1
 Palm Beach State College,University of Central Florida,1
 University of Wyoming,University of Wyoming,1
 University of Wyoming,University of Central Florida,1
@@ -1403,6 +1571,7 @@ Columbia University,Stony Brook University,2
 Columbia University,New York University,1
 Columbia University,North Carolina A&T State University,1
 Columbia University,Georgia Tech,1
+Columbia University,George Mason University,1
 University,Massachusetts Institute of Technology,1
 University,Columbia University,1
 University,Dartmouth College,2
@@ -1415,7 +1584,7 @@ University,University of Texas at Austin,1
 University,Stanford University,2
 University,"University of California, Berkeley",1
 University,King Abdullah University of Science and Technology,1
-University,University of Pennsylvania,1
+University,University of Pennsylvania,2
 University,Duke University,1
 University,Washington University in St. Louis,1
 University,Hebrew University of Jerusalem,1
@@ -1428,6 +1597,10 @@ University,Wageningen University & Research,1
 University,University of Connecticut,1
 University,North Carolina State University,1
 University,University of the Amazon,1
+University,Wayne State University,1
+University,Florida State University,1
+University,Sophia University,1
+University,Open University,1
 North Carolina A&T State University,Columbia University,3
 North Carolina A&T State University,Northwestern University,1
 North Carolina A&T State University,University of Texas at Arlington,1
@@ -1439,6 +1612,7 @@ North Carolina A&T State University,Pepperdine University,1
 North Carolina A&T State University,University of Mississippi,1
 North Carolina A&T State University,Rutgers University,1
 North Carolina A&T State University,North Carolina State University,2
+North Carolina A&T State University,George Mason University,1
 National University of Health Sciences,Columbia University,1
 Ohio University,Columbia University,1
 Ohio University,Youngstown State University,1
@@ -1450,6 +1624,8 @@ Ohio University,Purdue University,1
 "University of California, Davis",University of Utah,1
 "University of California, Davis",Arizona State University,1
 "University of California, Davis","University of California, Davis",1
+"University of California, Davis","University of Maryland, Baltimore County",1
+"University of California, Davis","University of California, Riverside",1
 London School of Economics,Northeastern University,1
 London School of Economics,Clemson University,1
 Weizmann Institute of Science,Massachusetts Institute of Technology,2
@@ -1476,6 +1652,9 @@ Chinese University of Hong Kong,Princeton University,1
 "University of California, Riverside",California State University San Marcos,1
 "University of California, Riverside","University of California, Riverside",1
 "University of California, Riverside",University of New Mexico,1
+"University of California, Riverside",North Carolina A&T State University,1
+"University of California, Riverside",University of Michigan,1
+"University of California, Riverside",Iowa State University,1
 Indiana University Bloomington,Duke University,1
 Indiana University Bloomington,University of Utah,1
 Indiana University Bloomington,Stony Brook University,1
@@ -1499,6 +1678,7 @@ Duke University,University of Illinois Urbana-Champaign,2
 Duke University,Rutgers University,1
 Duke University,University of Texas at Dallas,1
 Duke University,University of North Carolina at Chapel Hill,4
+Duke University,New York University,1
 Yale University,Tufts University,1
 Yale University,Johns Hopkins University,1
 Yale University,"University of California, Davis",1
@@ -1513,6 +1693,8 @@ Yale University,University of Washington,1
 Yale University,University of Florida,1
 Yale University,University of Colorado Boulder,1
 Yale University,University of British Columbia,1
+Yale University,Duke University,1
+Yale University,University of Medicine and Dentistry of New Jersey,1
 Tufts University,Northwestern University,1
 Tufts University,Tufts University,3
 Tufts University,New York University,1
@@ -1523,8 +1705,10 @@ Tufts University,Worcester Polytechnic Institute,1
 Tufts University,Carnegie Mellon University,1
 Tufts University,Rensselaer Polytechnic Institute,1
 Tufts University,Boston University,1
+Tufts University,University of New Hampshire,1
 Coastal Carolina University,Harvard University,1
 University of Mannheim,Harvard University,1
+University of Mannheim,University of New Hampshire,1
 University of British Columbia,Northwestern University,1
 University of British Columbia,Johns Hopkins University,1
 University of British Columbia,Carnegie Mellon University,1
@@ -1535,6 +1719,7 @@ University of British Columbia,University of Texas at Austin,1
 University of British Columbia,University of Utah,1
 University of British Columbia,"University of California, San Diego",1
 University of British Columbia,University of Massachusetts Amherst,1
+University of British Columbia,University of Calgary,1
 Dartmouth College,Northwestern University,1
 Dartmouth College,Cornell University,2
 Dartmouth College,University of Pennsylvania,1
@@ -1584,6 +1769,9 @@ New York University,University of Colorado Boulder,1
 New York University,London School of Economics,1
 New York University,North Carolina State University,1
 New York University,California Institute of Technology,1
+New York University,Rutgers University,1
+New York University,Wayne State University,1
+New York University,Old Dominion University,1
 University of Southern Denmark,Harvard University,1
 University of Sussex,Korea University,1
 Chuo University,California Institute of Technology,1
@@ -1602,6 +1790,7 @@ Case Western Reserve University,Purdue University,1
 Case Western Reserve University,McGill University,1
 Case Western Reserve University,University of Kansas,1
 Case Western Reserve University,Imperial College London,1
+Case Western Reserve University,"University of California, Riverside",1
 Oberlin College,Case Western Reserve University,1
 University of Edinburgh,Johns Hopkins University,1
 University of Edinburgh,Carnegie Mellon University,1
@@ -1641,8 +1830,10 @@ Colorado State University,New World University,1
 "University of California, Santa Cruz","University of California, Irvine",1
 "University of California, Santa Cruz",University of Washington,1
 "University of California, Santa Cruz",New York University,1
+"University of California, Santa Cruz",University of Michigan–Dearborn,1
 University of Alabama,University of Florida,1
 University of Alabama,Washington State University,1
+University of Alabama,Virginia Tech,1
 Syracuse University,University of Florida,1
 Syracuse University,Cornell University,1
 Syracuse University,Harvard University,1
@@ -1656,6 +1847,8 @@ Auburn University,Virginia Tech,1
 Auburn University,Clemson University,1
 Auburn University,Elizabeth City State University,1
 Auburn University,Sonoma State University,1
+Auburn University,Florida State University,1
+Auburn University,North Carolina State University,1
 Gandhi Institute of Technology and Management,New Mexico State University,1
 New Mexico State University,Colorado State University,1
 New Mexico State University,Washington University in St. Louis,1
@@ -1664,6 +1857,9 @@ Wayne State University,University of Texas at Arlington,1
 Wayne State University,University of Texas at Dallas,1
 Wayne State University,Thompson Rivers University,1
 Wayne State University,University of Colorado Colorado Springs,1
+Wayne State University,ITT Technical Institute,1
+Wayne State University,Florida State University,1
+Wayne State University,Iowa State University,1
 University of Colorado Boulder,University of North Carolina at Chapel Hill,4
 University of Colorado Boulder,Chapman University,1
 University of Colorado Boulder,Yale University,1
@@ -1690,6 +1886,7 @@ University of Colorado Boulder,University of New Mexico,1
 Bar-Ilan University,Boston University,1
 Thompson Rivers University,Grand Valley State University,1
 Thompson Rivers University,University of Delaware,1
+Thompson Rivers University,Temple University,1
 Grand Valley State University,Grand Valley State University,1
 University of Western Ontario,Ryerson University,1
 University of Western Ontario,California Institute of Technology,1
@@ -1705,6 +1902,7 @@ George Washington University,Brown University,1
 George Washington University,University of Central Florida,2
 George Washington University,Goddard College,1
 George Washington University,University of Colorado Boulder,1
+George Washington University,University of Southern California,1
 Yaşar University,Muğla University,1
 Muğla University,University,1
 University of Maine,University of Colorado Boulder,1
@@ -1722,18 +1920,26 @@ Eindhoven University of Technology,Carnegie Mellon University,1
 Eindhoven University of Technology,Teikyo University,1
 Chapman University,Macquarie University,1
 Chapman University,University of Pennsylvania,1
+Chapman University,Brigham Young University,1
 "University of Maryland, Baltimore County",University of Colorado Boulder,1
 "University of Maryland, Baltimore County","University of Nevada, Las Vegas",1
 "University of Maryland, Baltimore County",University of Florida,1
 "University of Maryland, Baltimore County",University of Maryland School of Medicine,1
 "University of Maryland, Baltimore County","University of California, Berkeley",1
 "University of Maryland, Baltimore County","University of California, Irvine",1
+"University of Maryland, Baltimore County",Carnegie Mellon University,1
+"University of Maryland, Baltimore County","California Polytechnic State University, San Luis Obispo",1
+"University of Maryland, Baltimore County",Princeton University,1
+"University of Maryland, Baltimore County",University of the Amazon,1
+"University of Maryland, Baltimore County",Warren Wilson College,1
+"University of Maryland, Baltimore County",Brigham Young University,1
 International university,University of Colorado Boulder,1
 International university,Bentley University,1
 International university,West Virginia University,1
 International university,University,1
 International university,University of Washington,1
 International university,Nova Southeastern University,1
+International university,Temple University,1
 Webster University,University of Colorado Boulder,1
 University of Oxford,University of Pennsylvania,1
 University of Oxford,Carnegie Mellon University,1
@@ -1744,6 +1950,7 @@ University of Oxford,University of Massachusetts Amherst,1
 IIT Bombay,University of Colorado Boulder,1
 University of Colorado Denver,University of Colorado Boulder,1
 University of Calgary,"University of California, Irvine",1
+University of Calgary,University of the Amazon,1
 Indiana University–Purdue University Indianapolis,University of Colorado Boulder,1
 University of Notre Dame,University of Utah,1
 University of Notre Dame,"University of California, Berkeley",1
@@ -1754,6 +1961,7 @@ University of Notre Dame,University of Essex,1
 University of Notre Dame,Missouri University of Science and Technology,1
 University of Notre Dame,Cornell University,1
 University of Notre Dame,California Institute of Technology,1
+University of Notre Dame,George Mason University,1
 University of Southampton,Cornell University,1
 Sun Yat-sen University,University of Illinois Chicago,1
 Tongji University,Chinese Culture University,1
@@ -1795,12 +2003,14 @@ Washington State University,Uniformed Services University of the Health Sciences
 Washington State University,Washington State University,1
 Washington State University,Drexel University,1
 Washington State University,RWTH Aachen University,1
+Washington State University,Texas A&M University,1
 Utrecht University,University of Minnesota,1
 Teikyo University,"University of California, Irvine",1
 Savannah College of Art and Design,Clemson University,1
 University of North Carolina Wilmington,Clemson University,2
 Manhattan College,Georgia State University,1
 Georgia State University,Clemson University,1
+Georgia State University,Temple University,1
 Ateneo de Manila University,Clemson University,1
 University of Florida,University of Liverpool,1
 University of Florida,Cornell University,1
@@ -1814,16 +2024,19 @@ University of Florida,Boğaziçi University,1
 University of Florida,Rice University,1
 University of Florida,Clemson University,2
 University of Florida,University of Texas at Arlington,1
+University of Florida,Institute of technology,1
 University of Liverpool,University of Manchester,1
 University of Manchester,University of Delaware,1
 University of the Arts (Philadelphia),University of Delaware,1
 Northern Virginia Community College,Austin Community College District,1
+Northern Virginia Community College,George Mason University,1
 Austin Community College District,University of Texas at Austin,1
 Fordham University,Johnson & Wales University,1
 Fordham University,University of Florida,1
 Johnson & Wales University,St. Edward's University,1
 St. Edward's University,University of Texas at Austin,1
 National and Kapodistrian University of Athens,University of Texas at Austin,1
+National and Kapodistrian University of Athens,International university,1
 California Baptist University,University of Texas at Austin,1
 Ben-Gurion University of the Negev,University of Texas at Austin,1
 Technical University of Berlin,Free University of Berlin,1
@@ -1841,6 +2054,10 @@ Rice University,Lancaster University,1
 Rice University,Columbia University,1
 Rice University,"University of Maryland, College Park",1
 Rice University,Georgia Tech,1
+Rice University,Carnegie Mellon University,1
+Rice University,"University of California, Davis",1
+Rice University,George Mason University,1
+Rice University,Florida State University,1
 University of South Florida,University of Texas at Austin,1
 University of South Florida,University of Notre Dame,1
 Olin College,Olin College,1
@@ -1869,6 +2086,7 @@ Michigan State University,West Virginia University,2
 Michigan State University,Information Technology University,1
 Michigan State University,University,1
 Michigan State University,North Carolina State University,1
+Michigan State University,University of Kentucky,1
 Keck Graduate Institute,Michigan State University,1
 Northeast Forestry University,Michigan State University,1
 Fudan University,Virginia Tech,2
@@ -1883,6 +2101,8 @@ DePaul University,Lone Star College System,1
 University of Deusto,University of Chicago,1
 School of the Art Institute of Chicago,Tamil Nadu Veterinary and Animal Sciences University,1
 School of the Art Institute of Chicago,Boston University,1
+School of the Art Institute of Chicago,"University of Maryland, Baltimore County",1
+School of the Art Institute of Chicago,University of Southern California,1
 KTH Royal Institute of Technology,University of Chicago,1
 KTH Royal Institute of Technology,University of Southern California,1
 KTH Royal Institute of Technology,Université catholique de Louvain,1
@@ -1892,6 +2112,8 @@ Ruhr University Bochum,Rutgers University,1
 University of San Francisco,University of San Francisco,1
 University of San Francisco,University of Chicago,1
 National Defense University,"University of Maryland, College Park",1
+National Defense University,United States Naval Academy,1
+National Defense University,University of New Hampshire,1
 University of Genoa,"University of Maryland, College Park",1
 University of Zurich,"University of Maryland, College Park",1
 Thomas Jefferson University,"University of California, Berkeley",1
@@ -1900,7 +2122,7 @@ Park University,Brown University,1
 Park University,Islamic Azad University,1
 Park University,University of Florida,1
 École normale supérieure (Paris),"University of California, Berkeley",1
-École normale supérieure (Paris),Vanderbilt University,1
+École normale supérieure (Paris),Vanderbilt University,2
 Leipzig University,"University of California, Berkeley",1
 Private university,"University of California, Berkeley",1
 Baldwin Wallace University,"University of California, Berkeley",1
@@ -1910,11 +2132,15 @@ University of Zaragoza,Lehigh University,1
 College of William & Mary,University of Utah,1
 College of William & Mary,North Carolina State University,1
 College of William & Mary,University of Delaware,1
+College of William & Mary,George Mason University,1
+College of William & Mary,Case Western Reserve University,1
 Lindenwood University,Air Force Institute of Technology,1
+Lindenwood University,Brigham Young University,1
 Air Force Institute of Technology,University of Utah,1
 Air Force Institute of Technology,United States Air Force Academy,1
 "University of Nevada, Reno",Rutgers University,1
 "University of Nevada, Reno",North Carolina A&T State University,1
+"University of Nevada, Reno",University of Southern California,1
 Phillips University,"University of Maryland, College Park",1
 Phillips University,Phillips University,1
 Phillips University,"University of California, Berkeley",1
@@ -1928,6 +2154,8 @@ National University of Singapore,Arizona State University,1
 National University of Singapore,University of Colorado Boulder,1
 National University of Singapore,"University of Maryland, College Park",1
 National University of Singapore,University of Minnesota,1
+National University of Singapore,George Mason University,1
+National University of Singapore,Stanford University,1
 Capital University,Seattle University,1
 Capital University,University,1
 Troy University,Stanford University,1
@@ -1939,6 +2167,7 @@ University of Oregon,University of Rochester,1
 University of Oregon,Georgia Tech,1
 University of Oregon,University of Florida,1
 University of Oregon,"University of Maryland, College Park",1
+University of Oregon,Brigham Young University,1
 Florida International University,"University of California, Riverside",1
 Florida International University,Syracuse University,1
 Florida International University,Arizona State University,1
@@ -1956,18 +2185,24 @@ University of Georgia,Clemson University,1
 IIT Delhi,University of Pennsylvania,1
 Institute of technology,University of Pennsylvania,1
 Institute of technology,North Carolina State University,1
+Institute of technology,"University of California, San Diego",1
 "Teachers College, Columbia University",University of Pennsylvania,1
 University of Essex,KU Leuven,1
 University of Essex,University of Bristol,1
 Olympic College,Olympic College,2
 Olympic College,Washington State University,1
 Bentley University,Washington State University,1
+Bentley University,Brigham Young University,1
 Mississippi State University,Kansas State University,1
 Mississippi State University,West Virginia University,1
 Mississippi State University,Arizona State University,1
 Mississippi State University,University of Texas at Dallas,1
 Mississippi State University,Mississippi State University,1
 Mississippi State University,University of Florida,1
+Mississippi State University,University of Kansas,1
+Mississippi State University,Brigham Young University,1
+Mississippi State University,Louisiana State University,1
+Mississippi State University,University of Southern Mississippi,1
 Southern Methodist University,University of Texas at Arlington,1
 Southern Methodist University,University of the Amazon,1
 Illinois Institute of Technology,Washington State University,1
@@ -1980,6 +2215,9 @@ Stevens Institute of Technology,Arizona State University,1
 Stevens Institute of Technology,Syracuse University,1
 Stevens Institute of Technology,Drexel University,1
 Stevens Institute of Technology,Brandeis University,1
+Stevens Institute of Technology,"University of Maryland, Baltimore County",1
+Stevens Institute of Technology,University of Massachusetts Amherst,1
+Stevens Institute of Technology,Binghamton University,1
 Winthrop University,University of Washington,1
 Winthrop University,University,1
 Winthrop University,New York University Abu Dhabi,1
@@ -2002,6 +2240,7 @@ Rensselaer Polytechnic Institute,University of Wisconsin–Madison,1
 Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,4
 Rensselaer Polytechnic Institute,Stanford University,1
 Rensselaer Polytechnic Institute,University of Minnesota,1
+Rensselaer Polytechnic Institute,Virginia Tech,1
 Kyushu University,Massachusetts Institute of Technology,1
 Cranfield University,Harvard University,1
 École des ponts ParisTech,University of Texas at Austin,1
@@ -2016,12 +2255,12 @@ ESIEE Paris,Dartmouth College,1
 Dalhousie University,Dartmouth College,1
 Bangladesh University of Engineering and Technology,University of Virginia,1
 Bangladesh University of Engineering and Technology,Bangladesh University,1
-Nanyang Technological University,University of Toulouse,1
+Nanyang Technological University,University of Toulouse,2
 Nanyang Technological University,Georgia Tech,1
 Nanyang Technological University,"University of California, Berkeley",1
 Nanyang Technological University,Massachusetts Institute of Technology,1
 Nanyang Technological University,University of North Carolina at Chapel Hill,1
-University of Toulouse,École normale supérieure (Paris),1
+University of Toulouse,École normale supérieure (Paris),2
 Palo Alto University,University of Illinois Urbana-Champaign,1
 Radboud University Nijmegen,Western University,1
 Western University,York University,1
@@ -2030,6 +2269,8 @@ Newberry College,Vanderbilt University,1
 Tennessee State University,Vanderbilt University,1
 United States Naval Academy,Bethel University (Indiana),1
 United States Naval Academy,Claflin University,1
+United States Naval Academy,"University of Maryland, Baltimore County",1
+United States Naval Academy,University of Southern California,1
 Bethel University (Indiana),Vanderbilt University,1
 Hokkaido University,Vanderbilt University,1
 University of Moratuwa,Massachusetts Institute of Technology,1
@@ -2038,6 +2279,11 @@ Lancaster University,University of Massachusetts Amherst,1
 Newcastle University,University of Illinois Urbana-Champaign,1
 Seattle University,University of Illinois Urbana-Champaign,1
 Louisiana State University,University of Illinois Urbana-Champaign,2
+Louisiana State University,George Mason University,1
+Louisiana State University,Louisiana State University,2
+Louisiana State University,Massachusetts Institute of Technology,1
+Louisiana State University,Southeastern Louisiana University,1
+Louisiana State University,University of Southern California,1
 Harvey Mudd College,University of Illinois Urbana-Champaign,1
 New Jersey Institute of Technology,University of Illinois Urbana-Champaign,1
 New Jersey Institute of Technology,New York University,1
@@ -2047,6 +2293,7 @@ Texas Tech University,University of Illinois Urbana-Champaign,1
 Texas Tech University,University of Pennsylvania,2
 Texas Tech University,University of Texas at Austin,1
 Texas Tech University,Abilene Christian University,1
+Texas Tech University,University of Akron,1
 Oklahoma State University–Stillwater,Oklahoma State University–Stillwater,1
 Oklahoma State University–Stillwater,University of Illinois Urbana-Champaign,1
 Oklahoma State University–Stillwater,University of Central Florida,1
@@ -2058,11 +2305,14 @@ Portland State University,Texas A&M University,1
 Portland State University,West Virginia University,1
 Wright State University,Post University,1
 Wright State University,University of Central Florida,1
+Wright State University,University of Kentucky,1
 Post University,University of Illinois Urbana-Champaign,1
 University of Houston,King Fahd University of Petroleum and Minerals,1
 University of Houston,University of Houston–Clear Lake,1
 University of Houston,University of Texas Health Science Center at Houston,1
-University of Houston,University of Houston,1
+University of Houston,University of Houston,2
+University of Houston,Rice University,2
+University of Houston,Texas Southern University,1
 King Fahd University of Petroleum and Minerals,College of William & Mary,1
 Baylor University,University of North Carolina at Greensboro,1
 University of North Carolina at Greensboro,North Carolina State University,1
@@ -2070,6 +2320,7 @@ University of Alberta,Northwestern University,1
 University of Alberta,University of Illinois Chicago,1
 University of Alberta,Arizona State University,1
 University of Alberta,OGI School of Science and Engineering,1
+University of Alberta,Mississippi State University,1
 Durham University,Georgia Tech,1
 Durham University,Princeton University,1
 Durham University,University of Virginia,1
@@ -2080,6 +2331,8 @@ Baylor College of Medicine,Washington University in St. Louis,1
 Baylor College of Medicine,University of Central Florida,1
 DePauw University,Washington University in St. Louis,1
 "University of Nevada, Las Vegas","University of California, Irvine",1
+"University of Nevada, Las Vegas",Grand Canyon University,1
+"University of Nevada, Las Vegas",University of Louisville,1
 National Technical University of Athens,Georgia Tech,1
 National Technical University of Athens,Massachusetts Institute of Technology,1
 University College Dublin,University,1
@@ -2103,9 +2356,11 @@ University College London,Harvard University,1
 University College London,Purdue University,1
 University College London,Boston University,1
 University College London,University of Texas at Austin,1
+University College London,National University of Singapore,1
 "University at Albany, SUNY",Rensselaer Polytechnic Institute,1
 Uppsala University,Brown University,1
 Sapienza University of Rome,Brown University,1
+Sapienza University of Rome,Pennsylvania State University,1
 Central European University,New York University,1
 Central European University,University of Georgia,1
 University of Padua,Brown University,1
@@ -2114,12 +2369,14 @@ Georgetown University,University of Rhode Island,1
 Georgetown University,University of Delaware,1
 Georgetown University,Georgia Tech,1
 Georgetown University,University of Minnesota,1
+Georgetown University,University of Michigan,1
 Delft University of Technology,Harvard University,1
 Delft University of Technology,Technical University of Munich,1
 Muskingum University,Ohio University,1
 Muskingum University,University of Georgia,1
 Bennington College,Brown University,1
 University of Auckland,Truman State University,1
+University of Auckland,University of Southern California,1
 Truman State University,University of Missouri,1
 University of Missouri,University of Missouri–St. Louis,1
 University of Missouri,Boston University,1
@@ -2129,12 +2386,14 @@ Polytechnic University of Milan,Georgia Tech,1
 University of Salerno,Stanford University,1
 BRAC University,McGill University,1
 Clarkson University,University of Minnesota,1
+Clarkson University,"University of Maryland, Baltimore County",1
 LUT University,Friends University,1
 Simón Bolívar University (Venezuela),University of New Mexico,1
 University of New Mexico,University of New Mexico,7
 University of New Mexico,University of Utah,1
 University of New Mexico,Vanderbilt University,1
 University of New Mexico,MD Anderson Cancer Center,1
+University of New Mexico,University of South Carolina,1
 American Public University System,University of New Mexico,1
 Trine University,University of Washington,1
 Oregon Health & Science University,University of Washington,1
@@ -2143,6 +2402,7 @@ Oregon Health & Science University,Lagos State University,1
 Oregon Health & Science University,University,1
 Grand Canyon University,University,1
 Grand Canyon University,Argosy University,1
+Grand Canyon University,University of Southern California,1
 Saxion University of Applied Sciences,Massachusetts Institute of Technology,1
 Biola University,University of Washington,1
 Jiwaji University,Michigan State University,1
@@ -2152,34 +2412,53 @@ James Madison University,Florida International University,1
 Temple University,University of Delaware,1
 Temple University,Stony Brook University,1
 Temple University,Arizona State University,1
-Temple University,Temple University,1
+Temple University,Temple University,6
+Temple University,Southern New Hampshire University,1
+Temple University,Vanguard University,3
+Temple University,Michigan Technological University,1
+Temple University,Sharif University of Technology,1
+Temple University,Wilmington University,1
+Temple University,University of South Carolina,1
 Peking University,Fudan University,1
 Peking University,Stony Brook University,1
+Peking University,Thompson Rivers University,1
 International University of Japan,University of Illinois Chicago,1
 Alderson Broaddus University,Massachusetts Institute of Technology,1
 Alderson Broaddus University,International University for Science and Technology,1
 Bethel University (Minnesota),Princeton University,1
 Polytechnic University of Turin,University of Illinois Chicago,1
+Polytechnic University of Turin,University of Southern California,1
 Indiana University,University of Illinois Chicago,1
 Indiana University,University of Colorado Boulder,1
 Indiana University,Indiana University,1
 Indiana University,"University of California, Santa Barbara",1
+Indiana University,George Mason University,1
 University of Texas at Dallas,University of Illinois Chicago,1
 University of Texas at Dallas,University of Central Florida,2
 University of Texas at Dallas,University of Florida,2
 University of Texas at Dallas,Stony Brook University,1
 University of Texas at Dallas,University of Texas at Arlington,1
 University of Texas at Dallas,University of Michigan,1
+University of Texas at Dallas,University of Alabama at Birmingham,1
+University of Texas at Dallas,University of Texas at Dallas,1
+University of Texas at Dallas,University of Wisconsin–Madison,1
 Portland Community College,Oregon Health & Science University,1
 Waterford Institute of Technology,University of Nebraska–Lincoln,1
 United States Air Force Academy,Air University (United States Air Force),1
 United States Air Force Academy,University of Nebraska–Lincoln,1
 United States Air Force Academy,University of Colorado Boulder,1
+United States Air Force Academy,Massachusetts Institute of Technology,1
 Air University (United States Air Force),University of Nebraska–Lincoln,2
 Air University (United States Air Force),Kansas State University,1
 Air University (United States Air Force),University of Rochester,1
 Air University (United States Air Force),"University of Maryland, College Park",1
 Brigham Young University,University of Michigan,1
+Brigham Young University,"University of California, San Diego",1
+Brigham Young University,Brigham Young University,3
+Brigham Young University,Heritage University,1
+Brigham Young University,"University of California, Santa Barbara",1
+Brigham Young University,Goddard College,1
+Brigham Young University,Idaho State University,1
 Bowling Green State University,University of Nebraska–Lincoln,1
 North South University,University of North Carolina at Charlotte,1
 National University of Computer and Emerging Sciences,National University of Singapore,1
@@ -2198,6 +2477,7 @@ Naval Postgraduate School,"University of California, Los Angeles",1
 Southeast University,"University of California, San Diego",1
 American InterContinental University,Stony Brook University,1
 Indian Statistical Institute,University of Texas at San Antonio,1
+Indian Statistical Institute,Stony Brook University,1
 University of Texas at San Antonio,University of Cincinnati,1
 University of Texas at San Antonio,Carnegie Mellon University,1
 University of Texas at San Antonio,École Polytechnique Fédérale de Lausanne,1
@@ -2207,19 +2487,25 @@ FPT University,University of Oxford,1
 Emory University,Emory University,1
 Emory University,Stony Brook University,1
 Emory University,Georgia Tech,1
+Emory University,Wayne State University,1
 Korea University,Stony Brook University,1
+Korea University,Yonsei University,1
 State University of New York at Oneonta,Mississippi State University,1
 An-Najah National University,Islamic Azad University,1
 Islamic Azad University,Park University,1
 Islamic Azad University,Arizona State University,1
 Missouri University of Science and Technology,University of Advancing Technology,1
 Missouri University of Science and Technology,University of Central Florida,1
+Missouri University of Science and Technology,University of Kentucky,1
+Missouri University of Science and Technology,Washington University in St. Louis,1
 University of Wollongong,Arizona State University,1
 Technical University of Kaiserslautern,Arizona State University,1
 San Jose State University,Arizona State University,1
 University of Louisiana at Lafayette,University of Miami,1
 University of Louisiana at Lafayette,University of Arkansas at Little Rock,1
+University of Louisiana at Lafayette,"University of Maryland, Baltimore County",1
 University of Miami,Arizona State University,1
+University of Miami,Syracuse University,1
 Florida Institute of Technology,Florida International University,1
 Florida Institute of Technology,Winthrop University,1
 Czech Technical University in Prague,Monterrey Institute of Technology and Higher Education,1
@@ -2228,8 +2514,13 @@ University of Tripoli,Portland State University,1
 University of Haifa,University of Pittsburgh,1
 Lamar University,Technische Universität Darmstadt,1
 University of Kansas,University of Iowa,1
+University of Kansas,Kansas State University,1
+University of Kansas,University of Kansas,1
+University of Kansas,Emory and Henry College,1
 Belmont University,Harvard University,1
 Aalborg University,Université libre de Bruxelles,1
+Aalborg University,Aalborg University,1
+Aalborg University,Pennsylvania State University,1
 Mid-Continent University,University of Central Florida,1
 Petra University,Stanford University,1
 University of Trento,École Polytechnique Fédérale de Lausanne,1
@@ -2242,8 +2533,10 @@ Winona State University,University of Minnesota,1
 University of Bridgeport,Case Western Reserve University,1
 "Kerala University of Digital Sciences, Innovation and Technology",Case Western Reserve University,1
 Goddard College,University of Florida,1
+Goddard College,Loyola Marymount University,1
 Valdosta State University,North Carolina State University,1
 Boğaziçi University,Pierre and Marie Curie University,1
+Boğaziçi University,University of Rochester,1
 Pierre and Marie Curie University,Technical University of Munich,1
 San Diego State University,Rutgers University,1
 University of San Diego,University of Pittsburgh,1
@@ -2254,9 +2547,11 @@ Michigan Technological University,University of Pittsburgh,1
 Michigan Technological University,Cornell University,1
 Michigan Technological University,Northwest Missouri State University,1
 Michigan Technological University,Oregon State University,1
+Michigan Technological University,List of aerospace engineering schools,1
 Cairo University,University of Pittsburgh,1
 Tafila Technical University,New Mexico Institute of Mining and Technology,1
 New Mexico Institute of Mining and Technology,Auburn University,1
+New Mexico Institute of Mining and Technology,"University of Maryland, College Park",1
 Hanover College,Moscow State University,1
 Moscow State University,University of North Carolina at Charlotte,1
 University of Northern Colorado,University of Northern Colorado,1
@@ -2267,6 +2562,7 @@ Brandeis University,Boston University,1
 Pontifical Catholic University of Rio Grande do Sul,Colorado State University,1
 IIT Kharagpur,University of Utah,1
 University of Michigan–Dearborn,Colorado State University,2
+University of Michigan–Dearborn,"University of Maryland, Baltimore County",1
 University of South Dakota,Colorado State University,1
 List of agricultural universities and colleges,Tunghai University,1
 Tunghai University,Waseda University,1
@@ -2282,12 +2578,15 @@ University of Dundee,University at Buffalo,1
 Université catholique de Louvain,Denison University,1
 Denison University,Boston University,1
 Denison University,Clemson University,1
+Denison University,"University of Maryland, Baltimore County",1
 United Nations University,International university,1
 A.T. Still University,Boston University,1
 University of Bristol,Keio University,1
+University of Bristol,Brigham Young University,1
 Keio University,University College London,1
 Keio University,University of Connecticut,1
 New Jersey City University,Montclair State University,1
+New Jersey City University,New Jersey City University,1
 Montclair State University,Montclair State University,1
 Montclair State University,New York University,1
 Université de Montréal,New York University,1
@@ -2309,6 +2608,10 @@ Jones International University,University of Colorado Boulder,1
 Manhattan Christian College,Kansas State University,1
 University of Nebraska at Kearney,University of Colorado Boulder,1
 University of Kentucky,Utah State University,1
+University of Kentucky,Georgia Tech,1
+University of Kentucky,University of Kentucky,1
+University of Kentucky,University College Cork,1
+University of Kentucky,IIT Kanpur,1
 Utah State University,Northwestern University,1
 Utah State University,Worcester Polytechnic Institute,1
 Walden University,Stanford University,1
@@ -2321,10 +2624,12 @@ De La Salle University,Stevens Institute of Technology,1
 Panamerican University,University of Delaware,1
 TOBB University of Economics and Technology,Drexel University,1
 Indiana State University,Salve Regina University,1
+Indiana State University,University of North Florida,1
 Kettering University,University of North Carolina at Charlotte,1
 University of Cologne,Bielefeld University,1
 Bielefeld University,Tufts University,1
 Information Technology University,Worcester Polytechnic Institute,1
+Information Technology University,"University of Maryland, Baltimore County",1
 University of Arkansas,Clemson University,1
 East Carolina University,Clemson University,1
 Trinity College Dublin,Carnegie Mellon University,1
@@ -2344,8 +2649,13 @@ Elizabeth City State University,Virginia Union University,1
 Virginia Union University,Michigan State University,1
 Memorial University of Newfoundland,Michigan State University,1
 University of New Orleans,Purdue University,1
+University of New Orleans,Wayne State University,1
+University of New Orleans,Bard College,1
 University of New Hampshire,University of Michigan,1
 University of New Hampshire,Amherst College,1
+University of New Hampshire,Tufts University,1
+University of New Hampshire,University of New Hampshire,3
+University of New Hampshire,Shaw University,1
 Curry College,Emmanuel College (Massachusetts),1
 Emmanuel College (Massachusetts),Wentworth Institute of Technology,1
 Wentworth Institute of Technology,Worcester Polytechnic Institute,1
@@ -2353,6 +2663,7 @@ Sonoma State University,Worcester Polytechnic Institute,1
 "St Anne's College, Oxford",Worcester Polytechnic Institute,1
 Worcester State University,Worcester Polytechnic Institute,1
 Eastern Michigan University,University of Notre Dame,1
+Eastern Michigan University,Georgia Southern University,1
 Istanbul Commerce University,University of Notre Dame,1
 New World University,"University of Maryland, College Park",1
 University of Missouri–Kansas City,Shandong University,1
@@ -2361,6 +2672,7 @@ University of Copenhagen,Dartmouth College,1
 University of Mississippi,"University of Maryland, College Park",1
 RWTH Aachen University,University of Washington,1
 RWTH Aachen University,West Virginia University,1
+RWTH Aachen University,Technische Universität Darmstadt,1
 Providence College,"University of Maryland, College Park",1
 Texas Christian University,Texas Christian University,1
 Texas Christian University,University of Minnesota,1
@@ -2386,14 +2698,19 @@ South Asian University,University of Texas at Arlington,1
 Mount Holyoke College,University of Massachusetts Amherst,2
 University of Houston–Clear Lake,University of Southern Mississippi,1
 University of Southern Mississippi,University of Massachusetts Amherst,1
+University of Southern Mississippi,New Jersey City University,1
 Fluminense Federal University,Umeå University,1
 Umeå University,University of Massachusetts Amherst,1
 Amherst College,Smith College,1
 London South Bank University,Illinois State University,1
 Istanbul Technical University,Texas Tech University,1
+Istanbul Technical University,University of Houston,1
 Abilene Christian University,Embry–Riddle Aeronautical University,1
 Embry–Riddle Aeronautical University,University of Virginia,1
 Miami University,Southern Methodist University,1
+Miami University,Oakland University,1
+Miami University,Ohio State University,1
+Miami University,Iowa State University,1
 Vienna University of Economics and Business,Southern Methodist University,1
 Southern Utah University,University of Minnesota,1
 Morehead State University,Syracuse University,1
@@ -2405,6 +2722,8 @@ La Trobe University,West Virginia University,1
 Open University of Tanzania,North Carolina State University,1
 Colgate University,North Carolina State University,1
 University of Tulsa,Southern Methodist University,1
+University of Tulsa,University of Tulsa,1
+University of Tulsa,Temple University,1
 Beijing University of Posts and Telecommunications,Tsinghua University,1
 University of Maryland School of Medicine,Georgia Tech,1
 University of Naples Federico II,"University of California, San Diego",1
@@ -2423,6 +2742,7 @@ Illinois State University,"University of California, Irvine",1
 Mayo Clinic Alix School of Medicine,"University of California, Irvine",1
 Middlesex University,Samford University,1
 Uniformed Services University of the Health Sciences,West Virginia University,1
+Uniformed Services University of the Health Sciences,Yale University,1
 American University of the Middle East,University of Idaho,1
 University of Strathclyde,University of Minnesota,1
 International University for Science and Technology,University of Illinois Chicago,1
@@ -2436,8 +2756,97 @@ Fırat University,Syracuse University,1
 Seoul National University,Syracuse University,1
 Carleton University,Syracuse University,1
 Binghamton University,Syracuse University,1
+Binghamton University,"University of Maryland, Baltimore County",1
+Binghamton University,Binghamton University,1
+Binghamton University,Johns Hopkins University,1
+Binghamton University,Temple University,1
 Grambling State University,Syracuse University,1
 University of Glasgow,SRM Institute of Science and Technology,1
 TU Wien,"University of California, Santa Barbara",1
 Guangxi University,Oregon State University,1
 University of Texas Health Science Center at Houston,University of Houston,2
+University of Texas Health Science Center at Houston,University of Texas Health Science Center at Houston,1
+Information and Communications University,University of Houston,1
+Texas Southern University,University of Houston,1
+University of South Carolina,University of Illinois Urbana-Champaign,1
+University of South Carolina,University of South Carolina,5
+University of South Carolina,Columbia College (South Carolina),1
+University of South Carolina,Francis Marion University,1
+University of South Carolina,Montana State University,1
+University of South Carolina,Harbin Institute of Technology,1
+Edgewood College,Pennsylvania State University,1
+Warren Wilson College,Bowie State University,1
+Oakland University,University of Michigan,1
+Oakland University,Wayne State University,1
+Özyeğin University,Wayne State University,1
+Transilvania University of Brașov,Wayne State University,1
+ITT Technical Institute,Lawrence Technological University,1
+Al-Azhar University,List of universities and colleges in Saudi Arabia,1
+List of universities and colleges in Saudi Arabia,Private university,1
+Autonomous University of Tamaulipas,University of Skövde,1
+University of Skövde,George Mason University,1
+Chamberlain University,George Mason University,1
+College and university rankings,Transylvania University,1
+Dickinson College,George Mason University,1
+Fred Hutchinson Cancer Research Center,George Mason University,1
+American University of Beirut,George Mason University,1
+Africa University,Southern Illinois University,1
+College of the Holy Cross,College of William & Mary,1
+Catholic University of America,George Mason University,1
+University of North Florida,University at Buffalo,1
+University of North Florida,Florida State University,1
+University of the Azores,Plymouth State University,1
+Plymouth State University,University of New Hampshire,1
+Oglethorpe University,University of Massachusetts Amherst,1
+IntelliTec College,University of New Hampshire,1
+Shaw University,Northeastern University,1
+University of Nebraska Omaha,University of Kansas,1
+Emory and Henry College,University of Kansas,1
+Florida State University,University of Georgia,1
+Florida State University,Florida State University,1
+Florida State University,University of Delaware,1
+Florida State University,University,1
+Florida State University,University of North Florida,1
+Babeș-Bolyai University,Boston University,1
+Georgia Southern University–Armstrong Campus,Georgia Southern University,1
+Georgia Southern University,Eastern Michigan University,1
+Sanyo Gakuen University,Brigham Young University,1
+University of Siena,Brigham Young University,1
+Tennessee Technological University,Virginia Commonwealth University,1
+Virginia Commonwealth University,Temple University,1
+Vanguard University,Temple University,2
+Vanguard University,Yonsei University,1
+DeVry University,Temple University,1
+DeVry University,Bowling Green State University,1
+Yonsei University,Vanguard University,1
+Chung-Ang University,Temple University,1
+Saint Joseph's University,Saint Joseph's University,1
+Saint Joseph's University,Al Yamamah University,1
+Al Yamamah University,Temple University,1
+New York Institute of Technology,Temple University,1
+Bard College,Louisiana State University,1
+Chongqing University,Louisiana State University,1
+International School for Advanced Studies,University of Minnesota,1
+Montana Technological University,University of Southern California,1
+"University of California, Merced","University of Nevada, Las Vegas",1
+"California State University, Fullerton","University of California, Irvine",1
+Politehnica University of Bucharest,Carnegie Mellon University,1
+Federal University of São Carlos,University of Southern California,1
+Mie University,George Washington University,1
+Cardinal Stritch University,University of Minnesota,1
+Suffolk University,Texas A&M University,1
+Pitzer College,University of Florida,1
+University of Porto,Aalborg University,1
+University of Mosul,University of South Carolina,1
+Francis Marion University,University of South Carolina,1
+Mills College,Air University (United States Air Force),1
+Bellevue University,Winthrop University,1
+Naropa University,University of South Carolina,1
+University of Louisville,University of South Carolina,1
+LAB University of Applied Sciences,University of South Carolina,1
+Medical University of South Carolina,University of Texas Health Science Center at Houston,1
+University of Akron,Iowa State University,1
+University of Medicine and Dentistry of New Jersey,University of Wisconsin–Milwaukee,1
+King Mongkut's Institute of Technology Ladkrabang,Iowa State University,1
+University of Queensland,University of Adelaide,1
+University of Adelaide,University of Wisconsin–Madison,1

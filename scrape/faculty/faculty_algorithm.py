@@ -35,8 +35,8 @@ def find(university, department):
             possibleURLs.append(link)
     print(possibleURLs)
 
-    # for i in possibleURLs:
-    #     print(i)
+    for i in possibleURLs:
+        print(i)
 
     res_data = {}
     res_url = ''

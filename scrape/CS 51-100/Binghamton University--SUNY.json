@@ -1,0 +1,247 @@
+[
+    {
+        "Research Interest": "measurements data science social media social network analysis",
+        "Email": "jblackbu@binghamton.edu",
+        "Phone number": "607-777-4830",
+        "Position": "Assistant Professor",
+        "Name": "Jeremy Blackburn"
+    },
+    {
+        "Research Interest": "High-performance computing big data bioinformatics",
+        "Email": "kchiu@cs.binghamton.edu",
+        "Phone number": "607-777-7320",
+        "Position": "Associate Professor",
+        "Name": "Kenneth Chiu"
+    },
+    {
+        "Research Interest": "Brain Mapping Biomedical Image Processing Pulse Sequence Design Neuroimaging Blood flow imaging Diffusion imaging Functional magnetic resonance imaging (MRI) Vessel-selective imaging Angiography Clinical applications of imaging techniques (such as",
+        "Email": "wdai@binghamton.edu",
+        "Phone number": "607-777-4859",
+        "Position": "Assistant Professor",
+        "Name": "Weiying Dai"
+    },
+    {
+        "Research Interest": "Computer architecture and parallel processing power-aware systems high-performance computing and communication systems",
+        "Email": "ghose@cs.binghamton.edu",
+        "Phone number": "607-777-4608",
+        "Position": "Distinguished Professor",
+        "Name": "Kanad Ghose"
+    },
+    {
+        "Research Interest": "cloud computing virtualization cybersecurity operating systems distributed systems computer networks",
+        "Email": "kartik@binghamton.edu",
+        "Phone number": "607-777-3751",
+        "Position": "Professor",
+        "Name": "Kartik Gopalan"
+    },
+    {
+        "Research Interest": "Cloud computing Big Data computing Distributed systems High performance computing Web services Component-based technologies Problem-solving environments",
+        "Email": "mgovinda@binghamton.edu",
+        "Phone number": "607-777-4904",
+        "Position": "Professor, Computer Science; Vice Provost for International Education and Global Affairs",
+        "Name": "Madhusudhan Govindaraju"
+    },
+    {
+        "Research Interest": "Programming Languages",
+        "Email": "head@binghamton.edu",
+        "Phone number": "607-777-4730",
+        "Position": "Undergraduate Director",
+        "Name": "Eileen F. Head"
+    },
+    {
+        "Research Interest": "Real-Time Embedded Systems Cyber-Physical Systems Internet of Things Security",
+        "Email": "kang@binghamton.edu",
+        "Phone number": "607-777-4368",
+        "Position": "Professor",
+        "Name": "Kyoung-Don Kang"
+    },
+    {
+        "Research Interest": "Programming languages programming paradigms formal aspects of software engineering",
+        "Email": "lander@binghamton.edu",
+        "Phone number": "607-777-2309",
+        "Position": "Graduate Director",
+        "Name": "Leslie C. Lander"
+    },
+    {
+        "Research Interest": "Grid computing cloud computing distributed systems web services",
+        "Email": "mlewis@cs.binghamton.edu",
+        "Phone number": "607-777-4927",
+        "Position": "Associate Professor",
+        "Name": "Michael J. Lewis"
+    },
+    {
+        "Research Interest": "Programming languages and compilers software engineering energy-aware and energy-efficient software parallel and concurrent languages",
+        "Email": "davidl@cs.binghamton.edu",
+        "Phone number": "607-777-4662",
+        "Position": "Professor",
+        "Name": "Yu (David) Liu"
+    },
+    {
+        "Research Interest": "Mobile systems multimedia systems Internet content delivery distributed systems and cloud computing",
+        "Email": "yaoliu@binghamton.edu",
+        "Phone number": "607-777-4365",
+        "Position": "Associate Professor",
+        "Name": "Yao Liu"
+    },
+    {
+        "Research Interest": "Virtualization Operating Systems Storage and File Systems Cloud Computing",
+        "Email": "huilu@binghamton.edu",
+        "Phone number": "607-777-3807",
+        "Position": "Assistant Professor",
+        "Name": "Hui Lu"
+    },
+    {
+        "Research Interest": "Combinatorial optimization algorithms and VLSI design automation",
+        "Email": "pmadden@cs.binghamton.edu",
+        "Phone number": "607-777-2943",
+        "Position": "Associate Professor",
+        "Name": "Patrick H. Madden"
+    },
+    {
+        "Research Interest": "Metasearch Engines Web Database Integration Internet-based Information Retrieval Information Trustworthiness Analysis Web Data Quality Web Information Extraction Topic Sentiment Analysis Database Management Systems",
+        "Email": "meng@binghamton.edu",
+        "Phone number": "607-777-4311",
+        "Position": "Chair; Professor",
+        "Name": "Weiyi Meng"
+    },
+    {
+        "Research Interest": "Web Programming and Development Mobile Programming Networking",
+        "Email": "samoore@binghamton.edu",
+        "Phone number": "607-777-4894",
+        "Position": "Lecturer",
+        "Name": "Steven A. Moore"
+    },
+    {
+        "Research Interest": "Computer Architecture Security Heterogeneous Computing",
+        "Email": "hnaghibi@binghamton.edu",
+        "Phone number": "607-777-4884",
+        "Position": "Assistant Professor",
+        "Name": "Hoda Naghibijouybari"
+    },
+    {
+        "Research Interest": "Computer Architecture Security Energy-aware Systems Parallel Discrete Event Simulation",
+        "Email": "dima@cs.binghamton.edu",
+        "Phone number": "607-777-4023",
+        "Position": "Professor and Associate Chair",
+        "Name": "Dmitry V. Ponomarev"
+    },
+    {
+        "Research Interest": "memory forensics software security virtualization-based security binary reverse engineering",
+        "Email": "aprakash@binghamton.edu",
+        "Phone number": "607-777-4708",
+        "Position": "Assistant Professor",
+        "Name": "Aravind Prakash"
+    },
+    {
+        "Research Interest": "Machine Learning Data Mining Data Analytics Natural Language Processing Learning Analytics and Social Network Analysis",
+        "Email": "artir@binghamton.edu",
+        "Phone number": "607-777-4829",
+        "Position": "Assistant Professor",
+        "Name": "Arti Ramesh"
+    },
+    {
+        "Research Interest": "Wireless Networks Information-centric Networks Mobile Computing Internet of Things and Multimedia Streaming",
+        "Email": "aseethar@binghamton.edu",
+        "Phone number": "607-777-4722",
+        "Position": "Assistant Professor",
+        "Name": "Anand Seetharam"
+    },
+    {
+        "Research Interest": "Wireless Networks Internet of Things Embedded and Real-Time Systems and Cyber-Physical Systems",
+        "Email": "msha@binghamton.edu",
+        "Phone number": "607-777-3507",
+        "Position": "Assistant Professor",
+        "Name": "Mo Sha"
+    },
+    {
+        "Research Interest": "Computer architecture and systems",
+        "Email": "sshin@binghamton.edu",
+        "Phone number": "607-777-4815",
+        "Position": "Assistant Professor",
+        "Name": "Seunghee Shin"
+    },
+    {
+        "Research Interest": "Artificial Intelligence Computational Social Choice Mechanism Design Algorithm Design - Machine Learning  Computational Social Science Trust and Credibility on Social Networks",
+        "Email": "ssikdar@binghamton.edu",
+        "Phone number": "607-777-4880",
+        "Position": "Assistant Professor",
+        "Name": "Sujoy Sikdar"
+    },
+    {
+        "Research Interest": "Technical writing instruction",
+        "Email": "weinscgg@binghamton.edu",
+        "Phone number": "607-777-2162",
+        "Position": "Lecturer",
+        "Name": "George Weinschenk"
+    },
+    {
+        "Research Interest": "Introductory Programming SaaS",
+        "Email": "rosew@binghamton.edu",
+        "Phone number": "607-777-7702",
+        "Position": "Lecturer",
+        "Name": "Rose M. Williams"
+    },
+    {
+        "Research Interest": "Cyber Security Big Data",
+        "Email": "ghyan@binghamton.edu",
+        "Phone number": "607-777-4328",
+        "Position": "Associate Professor",
+        "Name": "Guanhua Yan"
+    },
+    {
+        "Research Interest": "Information and Systems security Security in Virtualized Computing Infrastructures Access Control Privacy Policy Analysis Formal Methods",
+        "Email": "pyang@cs.binghamton.edu",
+        "Phone number": "607-777-5697",
+        "Position": "Associate Professor",
+        "Name": "Ping Yang"
+    },
+    {
+        "Research Interest": "Computer Vision Graphics Human Computer Interaction Multimedia Biometrics 3D Object Modeling Analysis Tracking",
+        "Email": "lijun@cs.binghamton.edu",
+        "Phone number": "607-777-5484",
+        "Position": "Professor",
+        "Name": "Lijun Yin"
+    },
+    {
+        "Research Interest": "Machine learning data mining bioinformatics",
+        "Email": "lyu@binghamton.edu",
+        "Phone number": "607-777-6250",
+        "Position": "Associate Professor",
+        "Name": "Lei Yu"
+    },
+    {
+        "Research Interest": "Automating courseware development Programming languages Systems programming",
+        "Email": "umrigar@binghamton.edu",
+        "Phone number": "Missing",
+        "Position": "Lecturer",
+        "Name": "Zerksis D. Umrigar"
+    },
+    {
+        "Research Interest": "Artificial Intelligence Robotics Human-robot interaction Machine Learning",
+        "Email": "zhangs@binghamton.edu",
+        "Phone number": "607-777-4355",
+        "Position": "Assistant Professor",
+        "Name": "Shiqi Zhang"
+    },
+    {
+        "Research Interest": "Mobile computing operating systems embedded systems and wireless networking",
+        "Email": "zhangy@binghamton.edu",
+        "Phone number": "607-777-4332",
+        "Position": "Associate Professor",
+        "Name": "Yifan Zhang"
+    },
+    {
+        "Research Interest": "Machine learning Data mining and knowledge discovery Artificial intelligence Computer vision Pattern recognition",
+        "Email": "zhongfei@cs.binghamton.edu",
+        "Phone number": "607-777-2935",
+        "Position": "Professor",
+        "Name": "Zhongfei (Mark) Zhang"
+    },
+    {
+        "Research Interest": "Engineering management effective communication in engineering and science student centered experiential/active/co-op/internship learning",
+        "Email": "ziegler@binghamton.edu ",
+        "Phone number": "607-777-3583",
+        "Position": "Executive Director-University Scholars",
+        "Name": "William L. Ziegler"
+    }
+]

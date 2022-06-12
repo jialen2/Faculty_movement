@@ -1,0 +1,1257 @@
+[
+    {
+        "Name": "George Adams",
+        "Position": "Professor of Practice",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Daniel Aliaga",
+        "Position": "Associate Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Walid Aref",
+        "Position": "Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Mikhail Atallah",
+        "Position": "Distinguished Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Kamyar Azizzadenesheli",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Saugata Basu",
+        "Position": "Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Bedrich Benes",
+        "Position": "George W. McNelly Professor of Technology and Professor of Computer Science",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Hisham Benotman",
+        "Position": "Assistant Professor of Practice",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Tony Bergstrom",
+        "Position": "Assistant Professor of Practice",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Elisa Bertino",
+        "Position": "Samuel D. Conte Professor of Computer Science",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Bharat Bhargava",
+        "Position": "Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Antonio Bianchi",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Jeremiah Blocki",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Simina Branzei",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Berkay Celik",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Chris Clifton",
+        "Position": "Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Douglas Comer",
+        "Position": "Distinguished Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Benjamin Delaware",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Tamal Dey",
+        "Position": "Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Petros Drineas",
+        "Position": "Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Buster Dunsmore",
+        "Position": "Associate Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Sonia Fahmy",
+        "Position": "Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Pedro Fonseca",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Christina Garman",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "David Gleich",
+        "Position": "Jyoti and Aditya Mathur Associate Professor of Computer Science",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Dan Goldwasser",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Ananth Grama",
+        "Position": "Samuel D. Conte Professor of Computer Science",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Elena Grigorescu",
+        "Position": "Associate Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Susanne Hambrusch",
+        "Position": "Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Chris Hoffmann",
+        "Position": "Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Jean Honorio",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Suresh Jagannathan",
+        "Position": "Samuel D. Conte Professor of Computer Science",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Changhee Jung",
+        "Position": "Associate Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Aniket Kate",
+        "Position": "Associate Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Majid Kazemian",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Daisuke Kihara",
+        "Position": "Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Ninghui Li",
+        "Position": "Samuel D. Conte Professor of Computer Science",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Pan Li",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Zhiyuan Li",
+        "Position": "Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Jianzhu Ma",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Hemanta Maji",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Hatef Monajemi",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Jennifer Neville",
+        "Position": "Samuel D. Conte Professor of Computer Science",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Kihong Park",
+        "Position": "Associate Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Chunyi Peng",
+        "Position": "Associate Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Voicu Popescu",
+        "Position": "Associate Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Alex Pothen",
+        "Position": "Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Sunil Prabhakar",
+        "Position": "Department Head and Professor of Computer Science",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Alex Psomas",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Kent Quanrud",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Vernon Rego",
+        "Position": "Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Bruno Ribeiro",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Gustavo Rodriguez-Rivera",
+        "Position": "Associate Professor of Practice",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Tiark Rompf",
+        "Position": "Associate Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Elisha Sacks",
+        "Position": "Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Roopsha Samanta",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Muhammad Shahbaz",
+        "Position": "Assistant Professor (Spring 2021)",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Eugene Spafford",
+        "Position": "Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Wojciech Szpankowski",
+        "Position": "Saul Rosen Distinguished Professor of Computer Science",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Lin Tan",
+        "Position": "Mary J. Elmore New Frontiers Associate Professor of Data Science and Associate Professor of Computer Science",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Dave Tian",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Xavier Tricoche",
+        "Position": "Associate Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Jeffrey A. Turkstra",
+        "Position": "Assistant Professor of Practice",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Jianguo Wang",
+        "Position": "Assistant Professor (Spring 2021)",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Patrick Wolfe",
+        "Position": "Frederick L. Hovde Dean of Science; Miller Family Professor of Statistics and Computer Science",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Dongyan Xu",
+        "Position": "Samuel D. Conte Professor of Computer Science",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Yexiang Xue",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Ming Yin",
+        "Position": "Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Xiangyu Zhang",
+        "Position": "Samuel D. Conte Professor of Computer Science",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Yongle Zhang",
+        "Position": "Assistant Professor (Spring 2021)",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Vassilis Zikas",
+        "Position": "Associate Professor (Spring 2021)",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "  Name  ",
+        "Position": "  Title  ",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Jan Allebach",
+        "Position": "Professor (Electrical and Computer Engineering)",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Saurabh Bagchi",
+        "Position": "Professor (Electrical and Computer Engineering)",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Elias Bareinboim",
+        "Position": "Adjunct Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "William Cleveland",
+        "Position": "Distinguished Professor (Statistics)",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Patrick Eugster",
+        "Position": "Adjunct Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Y Charlie Hu",
+        "Position": "Professor (Electrical and Computer Engineering)",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Sabre Kais",
+        "Position": "Professor (Chemistry)",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Milind Kulkarni",
+        "Position": "Associate Professor (Electrical and Computer Engineering)",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Yung-Hsiang Lu",
+        "Position": "Professor (Electrical and Computer Engineering)",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Sanjay Rao",
+        "Position": "Professor (Electrical and Computer Engineering)",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Vinayak Rao",
+        "Position": "Assistant Professor (Statistics)",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Victor Raskin",
+        "Position": "Distinguished Professor (English and Linguistics)",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Jeffrey Siskind",
+        "Position": "Associate Professor (Electrical and Computer Engineering)",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "T N Vijaykumar",
+        "Position": "Professor (Electrical and Computer Engineering)",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Jianlin Xia",
+        "Position": "Professor (Mathematics)",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "  Name  ",
+        "Position": "  Title  ",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Ahmed Elmagarmid",
+        "Position": "Professor Emeritus",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Greg Frederickson",
+        "Position": "Professor Emeritus",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Walter Gautschi",
+        "Position": "Professor Emeritus",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Elias Houstis",
+        "Position": "Professor Emeritus",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Brad Lucier",
+        "Position": "Professor Emeritus",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Robert Lynch",
+        "Position": "Professor Emeritus",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Aditya Mathur",
+        "Position": "Professor Emeritus",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "John Rice",
+        "Position": "Distinguished Professor Emeritus",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Ahmed Sameh",
+        "Position": "Samuel D. Conte Professor Emeritus",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Robert D. Skeel",
+        "Position": "Professor Emeritus",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Samuel Wagstaff",
+        "Position": "Professor Emeritus",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "  Name  ",
+        "Position": "  Title  ",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Mohammad Adibuzzaman",
+        "Position": "Research Collaborator",
+        "Research Interest": ""
+    },
+    {
+        "Name": "Ammar Ahmad Dakhllah Al Rousan",
+        "Position": "Visiting Scholar",
+        "Research Interest": ""
+    },
+    {
+        "Name": "Yayan Bao",
+        "Position": "Post Doctoral Research Associate",
+        "Research Interest": ""
+    },
+    {
+        "Name": "Oliver Bracevac",
+        "Position": "Post Doctoral Research Associate",
+        "Research Interest": ""
+    },
+    {
+        "Name": "Chulhee Cho",
+        "Position": "Visiting Scholar",
+        "Research Interest": ""
+    },
+    {
+        "Name": "Sriharsha Etigowni",
+        "Position": "Post Doctoral Research Associate",
+        "Research Interest": ""
+    },
+    {
+        "Name": "Guilherme Gomes",
+        "Position": "Post Doctoral Research Associate",
+        "Research Interest": ""
+    },
+    {
+        "Name": "Youngkwang Han",
+        "Position": "Visiting Scholar",
+        "Research Interest": ""
+    },
+    {
+        "Name": "Jungi Jeong",
+        "Position": "Post Doctoral Research Associate",
+        "Research Interest": ""
+    },
+    {
+        "Name": "Hirofumi Kai",
+        "Position": "Visiting Scholar",
+        "Research Interest": ""
+    },
+    {
+        "Name": "Hongjune Kim",
+        "Position": "Visiting Scholar",
+        "Research Interest": ""
+    },
+    {
+        "Name": "Mi Jung Kim",
+        "Position": "Visiting Scholar",
+        "Research Interest": ""
+    },
+    {
+        "Name": "Xuansong Li",
+        "Position": "Visiting Scholar",
+        "Research Interest": ""
+    },
+    {
+        "Name": "Hongyu Liu",
+        "Position": "Post Doctoral Research Associate",
+        "Research Interest": ""
+    },
+    {
+        "Name": "Ashish Mishra",
+        "Position": "Post Doctoral Research Associate",
+        "Research Interest": ""
+    },
+    {
+        "Name": "Yuhong Nan",
+        "Position": "Post Doctoral Research Associate",
+        "Research Interest": ""
+    },
+    {
+        "Name": "Ruby Tahboub",
+        "Position": "Visiting Assistant Professor",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Jing (Joy) Wen",
+        "Position": "Visiting Scholar",
+        "Research Interest": ""
+    },
+    {
+        "Name": "Jianyu Yang",
+        "Position": "Visiting Scholar",
+        "Research Interest": ""
+    },
+    {
+        "Name": "Yuan Zhuang",
+        "Position": "Visiting Scholar",
+        "Research Interest": ""
+    },
+    {
+        "Name": "  Name  ",
+        "Position": "  Title  ",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Marta Crowe",
+        "Position": "Lecturer",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Bill Crum",
+        "Position": "Senior Lecturer",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Xiaojin Liu",
+        "Position": "Lecturer",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Gary Mcfall",
+        "Position": "Senior Lecturer",
+        "Research Interest": "Bio"
+    },
+    {
+        "Name": "Name Title",
+        "Position": "  Title  ",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "George Adams",
+        "Position": "Professor of Practice",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Daniel Aliaga",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Walid Aref",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Mikhail Atallah",
+        "Position": "Distinguished Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Kamyar Azizzadenesheli",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Saugata Basu",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Bedrich Benes",
+        "Position": "George W. McNelly Professor of Technology and Professor of Computer Science",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Hisham Benotman",
+        "Position": "Assistant Professor of Practice",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Tony Bergstrom",
+        "Position": "Assistant Professor of Practice",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Elisa Bertino",
+        "Position": "Samuel D. Conte Professor of Computer Science",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Bharat Bhargava",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Antonio Bianchi",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Jeremiah Blocki",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Simina Branzei",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Berkay Celik",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Chris Clifton",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Douglas Comer",
+        "Position": "Distinguished Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Benjamin Delaware",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Tamal Dey",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Petros Drineas",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Buster Dunsmore",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Sonia Fahmy",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Pedro Fonseca",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Christina Garman",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "David Gleich",
+        "Position": "Jyoti and Aditya Mathur Associate Professor of Computer Science",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Dan Goldwasser",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Ananth Grama",
+        "Position": "Samuel D. Conte Professor of Computer Science",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Elena Grigorescu",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Susanne Hambrusch",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Chris Hoffmann",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Jean Honorio",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Suresh Jagannathan",
+        "Position": "Samuel D. Conte Professor of Computer Science",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Changhee Jung",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Aniket Kate",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Majid Kazemian",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Daisuke Kihara",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Ninghui Li",
+        "Position": "Samuel D. Conte Professor of Computer Science",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Pan Li",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Zhiyuan Li",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Jianzhu Ma",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Hemanta Maji",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Hatef Monajemi",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Jennifer Neville",
+        "Position": "Samuel D. Conte Professor of Computer Science",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Kihong Park",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Chunyi Peng",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Voicu Popescu",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Alex Pothen",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Sunil Prabhakar",
+        "Position": "Department Head and Professor of Computer Science",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Alex Psomas",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Kent Quanrud",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Vernon Rego",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Bruno Ribeiro",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Gustavo Rodriguez-Rivera",
+        "Position": "Associate Professor of Practice",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Tiark Rompf",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Elisha Sacks",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Roopsha Samanta",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Muhammad Shahbaz",
+        "Position": "Assistant Professor (Spring 2021)",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Eugene Spafford",
+        "Position": "Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Wojciech Szpankowski",
+        "Position": "Saul Rosen Distinguished Professor of Computer Science",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Lin Tan",
+        "Position": "Mary J. Elmore New Frontiers Associate Professor of Data Science and Associate Professor of Computer Science",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Dave Tian",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Xavier Tricoche",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Jeffrey A. Turkstra",
+        "Position": "Assistant Professor of Practice",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Jianguo Wang",
+        "Position": "Assistant Professor (Spring 2021)",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Patrick Wolfe",
+        "Position": "Frederick L. Hovde Dean of Science; Miller Family Professor of Statistics and Computer Science",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Dongyan Xu",
+        "Position": "Samuel D. Conte Professor of Computer Science",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Yexiang Xue",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Ming Yin",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Xiangyu Zhang",
+        "Position": "Samuel D. Conte Professor of Computer Science",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Yongle Zhang",
+        "Position": "Assistant Professor (Spring 2021)",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Vassilis Zikas",
+        "Position": "Associate Professor (Spring 2021)",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Name Title",
+        "Position": "  Title  ",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Jan Allebach",
+        "Position": "Professor (Electrical and Computer Engineering)",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Saurabh Bagchi",
+        "Position": "Professor (Electrical and Computer Engineering)",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Elias Bareinboim",
+        "Position": "Adjunct Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "William Cleveland",
+        "Position": "Distinguished Professor (Statistics)",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Patrick Eugster",
+        "Position": "Adjunct Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Y Charlie Hu",
+        "Position": "Professor (Electrical and Computer Engineering)",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Sabre Kais",
+        "Position": "Professor (Chemistry)",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Milind Kulkarni",
+        "Position": "Associate Professor (Electrical and Computer Engineering)",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Yung-Hsiang Lu",
+        "Position": "Professor (Electrical and Computer Engineering)",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Sanjay Rao",
+        "Position": "Professor (Electrical and Computer Engineering)",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Vinayak Rao",
+        "Position": "Assistant Professor (Statistics)",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Victor Raskin",
+        "Position": "Distinguished Professor (English and Linguistics)",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Jeffrey Siskind",
+        "Position": "Associate Professor (Electrical and Computer Engineering)",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "T N Vijaykumar",
+        "Position": "Professor (Electrical and Computer Engineering)",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Jianlin Xia",
+        "Position": "Professor (Mathematics)",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Name Title",
+        "Position": "  Title  ",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Ahmed Elmagarmid",
+        "Position": "Professor Emeritus",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Greg Frederickson",
+        "Position": "Professor Emeritus",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Walter Gautschi",
+        "Position": "Professor Emeritus",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Elias Houstis",
+        "Position": "Professor Emeritus",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Brad Lucier",
+        "Position": "Professor Emeritus",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Robert Lynch",
+        "Position": "Professor Emeritus",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Aditya Mathur",
+        "Position": "Professor Emeritus",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "John Rice",
+        "Position": "Distinguished Professor Emeritus",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Ahmed Sameh",
+        "Position": "Samuel D. Conte Professor Emeritus",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Robert D. Skeel",
+        "Position": "Professor Emeritus",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Samuel Wagstaff",
+        "Position": "Professor Emeritus",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Name Title",
+        "Position": "  Title  ",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Mohammad Adibuzzaman",
+        "Position": "Research Collaborator",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Visiting Scholar",
+        "Position": "Visiting Scholar",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Yayan Bao",
+        "Position": "Post Doctoral Research Associate",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Oliver Bracevac",
+        "Position": "Post Doctoral Research Associate",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Chulhee Cho",
+        "Position": "Visiting Scholar",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Sriharsha Etigowni",
+        "Position": "Post Doctoral Research Associate",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Guilherme Gomes",
+        "Position": "Post Doctoral Research Associate",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Youngkwang Han",
+        "Position": "Visiting Scholar",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Jungi Jeong",
+        "Position": "Post Doctoral Research Associate",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Hirofumi Kai",
+        "Position": "Visiting Scholar",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Hongjune Kim",
+        "Position": "Visiting Scholar",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Mi Jung Kim",
+        "Position": "Visiting Scholar",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Xuansong Li",
+        "Position": "Visiting Scholar",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Hongyu Liu",
+        "Position": "Post Doctoral Research Associate",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Ashish Mishra",
+        "Position": "Post Doctoral Research Associate",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Yuhong Nan",
+        "Position": "Post Doctoral Research Associate",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Ruby Tahboub",
+        "Position": "Visiting Assistant Professor",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Jing (Joy) Wen",
+        "Position": "Visiting Scholar",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Jianyu Yang",
+        "Position": "Visiting Scholar",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Yuan Zhuang",
+        "Position": "Visiting Scholar",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Name Title",
+        "Position": "  Title  ",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Marta Crowe",
+        "Position": "Lecturer",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Bill Crum",
+        "Position": "Senior Lecturer",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Xiaojin Liu",
+        "Position": "Lecturer",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Gary Mcfall",
+        "Position": "Senior Lecturer",
+        "Research Interest": "Missing"
+    }
+]

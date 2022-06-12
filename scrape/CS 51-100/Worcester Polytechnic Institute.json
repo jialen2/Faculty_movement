@@ -1,0 +1,324 @@
+[
+    {
+        "Email": "emmanuel@wpi.edu",
+        "Name": "Emmanuel O. Agu",
+        "Research Interest": " Emmanuel Agu is currently an associate professor in the computer science department at WPI having received his Masters and PhD in electrical and computer engineering at the University of Massachusetts at Amherst. His research interests are in the areas of computer graphics, mobile computing, and wireless networks. He is especially interested in research into how to use a smartphone as a platform to deliver better healthcare. ... ",
+        "Phone number": " +1 (508) 8315000 x5568",
+        "Position": "Professor-Computer Science"
+    },
+    {
+        "Email": "josephbeck@wpi.edu",
+        "Name": "Joseph E. Beck",
+        "Research Interest": " Joseph Beck, assistant professor of Computer Science, has been at WPI since 2007. His research focuses on educational data mining, a new discipline that develops techniques for analyzing large educational data sets to make discoveries that will improve teaching and learning. His work centers on estimating how computer tutors impact learning. He established the first workshop in the field and in 2008 was program co-chair of the first International Conference on Educational Data Mining. ... ",
+        "Phone number": " +1 (508) 8315000 x6156",
+        "Position": "Associate Professor"
+    },
+    {
+        "Email": "dcb@wpi.edu",
+        "Name": "David C. Brown",
+        "Research Interest": " Both teaching and research are interesting challenges. Good interface design is becoming increasingly important; there are way too many bad interfaces out there. I enjoy the challenge of trying to get students to learn and appreciate the subtle concepts that support the design of good interfaces. I often get very creative solutions from the group projects that they do in the HCI class, which is exciting and rewarding. One alum recently told me that what he learned in my class has been the most useful in the long term of what he learned at WPI. Wow! ... ",
+        "Phone number": " +1 (508) 8315000 x5618",
+        "Position": "Adjunct Instructor/Lecturer"
+    },
+    {
+        "Email": "bcalli@wpi.edu",
+        "Name": "Berk Calli",
+        "Research Interest": " Berk\\'s research primarily focuses on problems related to robotic manipulation, which is a key functionality largely missing from the current state of the art in robotics for unstructured environments, including homes, modern warehouses, and collaborative manufacturing stations. He develops multi-modal robotic manipulation strategies mainly focusing on the role of vision feedback for coping with uncertainties of unstructured environments. ... ",
+        "Phone number": "Missing",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Email": "claypool@wpi.edu",
+        "Name": "Mark L. Claypool",
+        "Research Interest": " Mark Claypool has been a professor of Computer Science and Interactive Media Game Development at WPI since 1997. Mark has a B.A. in Mathematics from Colorado College and M.S. and Ph.D. degrees in Computer Science from the University of Minnesota. He has published over 100 peer-reviewed conference and journal papers and written two books on computer games. He has chaired several ACM conferences on networks, games and multimedia and served on the technical program committee for over 40 of them. ... ",
+        "Phone number": " +1 (508) 8315000 x5409",
+        "Position": "Professor"
+    },
+    {
+        "Email": "jmcuneo@wpi.edu",
+        "Name": "Joshua M Cuneo",
+        "Research Interest": " I\\'m a transplanted San Francisco hippie who\\'s found his way to New England through Georgia. My interests are in digital media, programming, scientific computing, space exploration, green technology, and the interdisciplinary uses of computing. When not teaching, I enjoy computer programming, reading, creative writing, video production, astronomy, hiking, traveling, and science fiction, among other interests. I also volunteer with FIRST Lego League and with the videography staff at DragonCon in Atlanta. I\\'m an avid Star Trek fan, but I usually leave my Vulcan ears at home. ... ",
+        "Phone number": "Missing",
+        "Position": "Instructor"
+    },
+    {
+        "Email": "ldecarli@wpi.edu",
+        "Name": "Lorenzo DeCarli",
+        "Research Interest": " My research interests focus on networking and security, including deep packet inspection and packet processing. My contributions include analysis of malware communications, parallelization strategies for network traffic analysis, and hardware accelerators for packet inspection and forwarding. I have also worked on optimized signature matching and instruction scheduling for novel processor architectures. ",
+        "Phone number": "Missing",
+        "Position": "Assistant Professor-Computer Science"
+    },
+    {
+        "Email": "dd@wpi.edu",
+        "Name": "Daniel J. Dougherty",
+        "Research Interest": " The common thread running through my teaching and research is the use of mathematical methods---especially methods based on logic---in designing and building systems. Interesting systems are too complex to be understood by informal intuitions, and it can be very powerful to use formal tools to help understand whether the system we are actually building really fulfills our ideas about what it is supposed to do. Tools based on logic can help people build things in a way guided by specification, and indeed they can help people arrive at the right formal specification in the first place. ... ",
+        "Phone number": " +1 (508) 8315000 x5621",
+        "Position": "Professor"
+    },
+    {
+        "Email": "meltabakh@wpi.edu",
+        "Name": "Mohamed Y. Eltabakh",
+        "Research Interest": " Professor Eltabakh\\xe2\\x80\\x99s research is in the broad area of Database Management Systems and Information Management. In particular, his work is in the areas of query processing and optimization, indexing techniques, scientific data management, and large-scale data analytics. Prof. Eltabakh is currently exploring possible extensions to both database management systems and Hadoop framework to support scientific applications and health-care systems. He is a member of the Database Systems Research Group (DSRG) and a faculty member of the Bioinformatics and Computational Biology (BCB) program. ... ",
+        "Phone number": " +1 (508) 8315000 x6421",
+        "Position": "Associate Professor"
+    },
+    {
+        "Email": "mengling@wpi.edu",
+        "Name": "Michael Engling",
+        "Research Interest": " I was most recently Associate Director for Graduate Programs in Computer Science at Stevens Institute of Technology in Hoboken, New Jersey. While there I also served as supervisor of Curricular Practical Training and lectured on Algorithms, Computational Complexity, Discrete Structures, and the Theory of Computation, among other topics. I previously taught Mathematics at Hillsborough Community College in Tampa, Florida. My research interests include Computer Science Education, Security and Privacy, Cryptography, and Combinatorial Games. ... ",
+        "Phone number": "Missing",
+        "Position": "Assistant Teaching Professor-Computer Science"
+    },
+    {
+        "Email": "lfichera@wpi.edu",
+        "Name": "Loris Fichera",
+        "Research Interest": " My research interests are in the application of robotics and computer science to enhance medicine, and particularly surgery. What gets me out of bed in the morning is the prospect of helping doctors save lives and improve the quality of life of their patients. My students and I work side-to-side with clinical collaborators to create technology that presents a tangible clinical value \\xe2\\x80\\x93 for instance, making an existing surgical procedure more accurate or enabling new procedures that are not feasible with current instrumentation. ... ",
+        "Phone number": "Missing",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Email": "michaelg@wpi.edu",
+        "Name": "Michael A. Gennert",
+        "Research Interest": " I teach and conduct research to solve problems that will make the world better: safer, healthier, and happier. Working with undergraduates, graduate students, post-docs, and other faculty, we develop humanoid robots for disaster recovery, robots to inspect trees for invasive insect pests, and autonomous boats for monitoring lakes. In the past I have worked on medical imaging to improve cancer and heart disease diagnoses and treatment, and spatio-temporal databases for global change research. In my spare time I like to hike, bike, ski, canoe, and play frisbee. ",
+        "Phone number": " +1 (508) 8315000 x5476",
+        "Position": "Professor"
+    },
+    {
+        "Email": "tian@wpi.edu",
+        "Name": "Tian Guo",
+        "Research Interest": " I am an Assistant Professor in the Computer Science Department at the Worcester Polytechnic Institute. I completed my Ph.D. at the University of Massachusetts Amherst advised by Prof. Prashant Shenoy in 2016. I am a system builder. My research is about modeling system behaviors, especially these of large scale systems, and to build prototypes that help to empirically evaluate system\\'s behaviors. Broadly, I am interested in designing systems to handle new trade-offs in cost, performance and efficiency. ... ",
+        "Phone number": "Missing",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Email": "ltharrison@wpi.edu",
+        "Name": "Lane T. Harrison",
+        "Research Interest": " Information visualization is a powerful means for understanding data and informing human minds. As people begin to rely on visualizations to make high-impact and even life-critical decisions, there is a growing need to ensure that information can be perceived accurately and precisely. My research addresses these challenges by leveraging cognitive and perceptual principles to quantify and model user performance with visualizations. ... ",
+        "Phone number": "Missing",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Email": "nth@wpi.edu",
+        "Name": "Neil Heffernan",
+        "Research Interest": " Neil T. Heffernan enjoys doing educational data mining and running the ASSISTments system. ASSISTments helps schools teach better. It\\xe2\\x80\\x99s a web service hosted at WPI that allows teachers to assign nightly homework or daily class work. Students get instant feedback while teachers get live reports. Professor Heffernan enjoys supervising WPI students in creating ASSISTments content and features. He has 6 dozens paper in educational data mining, and 20+ papers in comparing different ways to optimize student learning. ... ",
+        "Phone number": " +1 (508) 8315000 x5569",
+        "Position": "Professor"
+    },
+    {
+        "Email": "heineman@wpi.edu",
+        "Name": "George T. Heineman",
+        "Research Interest": " Computer programming makes it possible to solve problems that otherwise could never be attempted. You can create worlds that could never be possible and help make this world a better place. Most of my professional and personal accomplishments were possible directly because of my understanding and practice of computer programming. For me, programming led me to appreciate fundamental concepts in computer science and directed me to major in CS. I\\'ve always been passionate about the possibilities of computer programming; this forms the basis for all of my teaching. ... ",
+        "Phone number": " +1 (508) 8315000 x5502",
+        "Position": "Associate Professor"
+    },
+    {
+        "Email": "hofri@wpi.edu",
+        "Name": "Micha Hofri",
+        "Research Interest": " Although my title is professor of computer science, and I have been doing this for a long time now, my education started with physics, and for the doctorate was in industrial engineering. To this day I view computer science as a wonderful blend of math and engineering; mathematical engineering should be my job description. I came to WPI more than 10 years ago and have found a home here. I have been teaching a variety of courses that mix software and mathematics, from discrete math to several flavors of courses on algorithms and their analysis. ... ",
+        "Phone number": " +1 (508) 8315000 x6911",
+        "Position": "Adjunct Teaching Professor"
+    },
+    {
+        "Email": "rek@wpi.edu",
+        "Name": "Robert Kinicki",
+        "Research Interest": " Bob Kinicki has been a computer science faculty member since 1978. He enjoys the project-oriented nature that is at the heart of the WPI Plan. Serving as an advisor for MQPs, IQPs, and graduate research activity enables him to educate students via small-team interactions. His teaching is focused on computer networking, and he finds it rewarding to prepare students to handle the complexities of modern computer networking in their future careers. ... ",
+        "Phone number": " +1 (508) 8316116 x6116",
+        "Position": "Adjunct Instructor/Lecturer"
+    },
+    {
+        "Email": "xkong@wpi.edu",
+        "Name": "Xiangnan Kong",
+        "Research Interest": " Professor Kong\\xe2\\x80\\x99s research interests focus on data mining and machine learning, with emphasis on addressing the data science problems in biomedical and social applications. Data today involves an increasing number of data types that need to be handled differently from conventional data records, and an increasing number of data sources that need to be fused together. Dr. Kong is particularly interested in designing algorithms to tame data variety issues in various research fields, such as biomedical research, social computing, neuroscience, and business intelligence. ... ",
+        "Phone number": "Missing",
+        "Position": "Associate Professor-Computer Science"
+    },
+    {
+        "Email": "dkorkin@wpi.edu",
+        "Name": "Dmitry Korkin",
+        "Research Interest": " My research is interdisciplinary and spans the fields of bioinformatics of complex disease, computational genomics, systems biology, and biomedical data analytics. We bring expertise in machine learning, data mining and massive data analytics to study molecular mechanisms underlying genetic disorders, such as cancer, diabetes, and autism, and deadly infections, such as pandemic flu. Our approaches benefit from integrating Next Generation Sequencing, high-throughput interactomics, and structural biology data. ... ",
+        "Phone number": "Missing",
+        "Position": "Professor-Computer Science"
+    },
+    {
+        "Email": "kmlee@wpi.edu",
+        "Name": "Kyumin Lee",
+        "Research Interest": " Dr. Lee\\xe2\\x80\\x99s research interests are in social computing, information retrieval, data science, and cybersecurity over large-scale networked information systems like the Web, social media, crowdfunding, and crowd-based systems. My research focus has both positive and negative dimensions. On one hand, I focus on threats to these systems and design methods to mitigate negative behaviors; on the other, I look for positive opportunities to mine and analyze these systems for developing next generation algorithms and architectures that can empower decision makers. ",
+        "Phone number": "Missing",
+        "Position": "Associate Professor"
+    },
+    {
+        "Email": "yli15@wpi.edu",
+        "Name": "Yanhua Li",
+        "Research Interest": " My broad research interests are in analyzing, understanding, and making sense of big data generated from various complex networks in many contexts, including urban network analysis, large-scale network data sampling, measurement, online social behavior modeling. My recent research focuses on exploring the challenges in managing and analyzing big data from urban networks, with an ultimate goal of improving human life quality and designing smarter cities. ... ",
+        "Phone number": "Missing",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Email": "rneamtu@wpi.edu",
+        "Name": "Rodica Neamtu",
+        "Research Interest": " I am a data mining researcher who investigates how to develop and leverage ground-breaking techniques to explore time series datasets at the confluence of theoretical computer science and application domains like medicine, neuroscience, economics, transportation, and complex decision making. With more than fifteen years of teaching experience in various academic institutions, I am committed to use my love and talent for teaching and research to empower others through education to make a difference in the world. ... ",
+        "Phone number": "Missing",
+        "Position": "Associate Teaching Professor"
+    },
+    {
+        "Email": "cpinciroli@wpi.edu",
+        "Name": "Carlo Pinciroli",
+        "Research Interest": " The focus of my research is designing innovative tools for swarm robotics. I am developing Buzz, a programming language specifically designed for real-world robot swarms. During my Ph.D., I have designed ARGoS, which is currently the fastest general-purpose robot simulator in the literature. Recent work focuses on human-swarm interaction and multi-robot learning. I am also working on swarm robotics solutions for disaster response scenarios, such as search-and-rescue and firefighting. ",
+        "Phone number": " +1 (508) 8316853",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Email": "dreichman@wpi.edu",
+        "Name": "Daniel Reichman",
+        "Research Interest": " I have completed my PhD at the Weizmann Institute of Science in 2014. Afterwards, I have been a postdoc at Cornell, UC Berkeley and Princeton. I am interested in how theoretical insights from computer science, discrete mathematics and probability theory can lead to better algorithms in the domains of artificial intelligence and machine learning. Intractability results such as NP hardness arise in numerous AI applications. Devising ``beyond worst case\" approaches that can bypass intractability results is one of my main research interests. ... ",
+        "Phone number": "Missing",
+        "Position": "Assistant Professor-Computer Science"
+    },
+    {
+        "Email": "cdroberts@wpi.edu",
+        "Name": "Charles Davis Roberts",
+        "Research Interest": " My research examines human-centered computing in digital arts practice. I designed and developed a creative coding environment for the browser, Gibber (http://gibber.cc), that I use both for educational research and audiovisual performances. Gibber is used to teach computational media to middle school, high school and university students in locations around the world, and I\\'ve performed with it throughout the US, UK and Asia in the experimental performance genre known as live coding. ",
+        "Phone number": "Missing",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Email": "ruiz@wpi.edu",
+        "Name": "Carolina Ruiz",
+        "Research Interest": " Carolina Ruiz\\'s research interests are in machine learning, artificial intelligence and data mining. Together with her graduate and undergraduate students, Dr. Ruiz has worked on numerous interdisciplinary research projects with clinicians from the University of Massachusetts Medical School on developing and using machine learning algorithms over clinical and behavioral patient data. ... ",
+        "Phone number": " +1 (508) 8315000 x5640",
+        "Position": "Professor-Computer Science"
+    },
+    {
+        "Email": "rundenst@wpi.edu",
+        "Name": "Elke A. Rundensteiner",
+        "Research Interest": " As founding Director of the interdisciplinary Data Science program here at WPI, I take great pleasure in doing all in my power to support the Data Science community in all its facets from research collaborations, new educational initiatives to our innovative Graduate Qualifying projects at the graduate level. Having served as primary advisor and mentor of over 35 PhD students who have secured successful professional careers in computing, I\\'m proud of all the great accomplishments of students I have had the opportunity to collaborate with. ... ",
+        "Phone number": " +1 (508) 8315000 x5815",
+        "Position": "Professor"
+    },
+    {
+        "Email": "gsarkozy@wpi.edu",
+        "Name": "Gabor N Sarkozy",
+        "Research Interest": " My research interests are in graph theory, discrete mathematics, and theoretical computer science. I am especially interested in studying the structure of very large graphs,; an area that is getting more and more important these days. I enjoy teaching at WPI; in particular, I enjoy the project experience. I am the founder and director of the Budapest Project Center, the first and only WPI Project Center in Eastern Europe. I love sports, especially tennis and soccer. ",
+        "Phone number": " +1 (508) 8315408",
+        "Position": "Professor"
+    },
+    {
+        "Email": "cshue@wpi.edu",
+        "Name": "Craig A. Shue",
+        "Research Interest": " I am interested in computer networking and security. Given the significance of the Internet in our economy and society, I am interested in improvements and studies that can have a real-world impact. My recent work has focused on how to make both enterprise and residential networks more secure. In my research work, I am exploring ways to change the traditional computer network communication model using techniques such as software-defined networking and network function virtualization. ... ",
+        "Phone number": " +1 (508) 8315000 x4933",
+        "Position": "Associate Professor"
+    },
+    {
+        "Email": "sidner@wpi.edu",
+        "Name": "Candace Sidner",
+        "Research Interest": "Missing",
+        "Phone number": " ",
+        "Position": "Research Professor"
+    },
+    {
+        "Email": "gmsmith@wpi.edu",
+        "Name": "Gillian Margaret Smith",
+        "Research Interest": " Dr. Smith\\'s research interests are in computational creativity, game design, computer science education, and the intersection of traditional crafts and computation. Her interdisciplinary work merges technical research in AI and HCI with creative practice in textiles and games, with a view towards addressing social issues and broadening participation and perspectives on computing. ... ",
+        "Phone number": "Missing",
+        "Position": "Associate Professor-Computer Science"
+    },
+    {
+        "Email": "tmsmith@wpi.edu",
+        "Name": "Therese Mary Smith",
+        "Research Interest": " Dr. Smith\\'s research interests are in computational medicine and computer science education. Her interest in data flow and other massively parallel computer architectures led to an application of Petri nets in biological networks. She is interested in finding biomarkers in datasets of relatively invasive tests such as a biopsy or blood test, and seeking a version of the biological signal in less invasive tests, such as a breath test or cheek swab. Dr. Smith wishes to use her background as a CEO and entrepreneur\\xc2\\xa0to strengthen students\\xe2\\x80\\x99 self-confidence. Dr. ... ",
+        "Phone number": "Missing",
+        "Position": "Assistant Teaching Professor"
+    },
+    {
+        "Email": "esolovey@wpi.edu",
+        "Name": "Erin Solovey",
+        "Research Interest": " My research is in human-computer interaction. One focus of my research is on next-generation interaction techniques, such as brain-computer interfaces, physiological computing, and reality-based interaction. I design, build and evaluate interactive computing systems that use machine learning approaches to adapt and support the user\\xe2\\x80\\x99s changing cognitive state and context. I also investigate novel paradigms for designing with accessibility in mind, particularly for the Deaf community. Much of my work also explores effective human interaction with complex and autonomous systems and vehicles. ... ",
+        "Phone number": " +1 (508) 8315000 x6936",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Email": "rjwalls@wpi.edu",
+        "Name": "Robert Joseph Walls",
+        "Research Interest": " My research focuses on systems security and performance. Consequently, my projects often lie at the intersection of software and hardware. Some of my projects include developing compiler-based defenses for embedded microcontrollers, providing security and privacy for deep learning, and reverse-engineering the behavior of proprietary GPU microarchitectures to improve system performance. ",
+        "Phone number": "Missing",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Email": "jweinstock@wpi.edu",
+        "Name": "Jonathan Weinstock",
+        "Research Interest": " I am a practical and highly analytical problem solver, having worked in corporate R&D for 35 years at Bell Labs/Bellcore/Telcordia/Ericsson, Netapp, Motorola and Cisco Systems, and in academia as an Assistant Professor and as Adjunct Faculty. ... ",
+        "Phone number": "Missing",
+        "Position": "Assistant Teaching Professor-Computer Science"
+    },
+    {
+        "Email": "jrwhitehill@wpi.edu",
+        "Name": "Jacob Richard Whitehill",
+        "Research Interest": " My research interests are in applied machine learning, computer vision, data science and their applications to education, affective computing, and human behavior recognition. My work is highly interdisciplinary and frequently intersects cognitive science, psychology, and education. Before joining WPI, I was a research scientist at the Office of the Vice Provost for Advances in Learning at Harvard University. In 2012, I co-founded Emotient, a San Diego-based startup company for automatic emotion and facial expression recognition. ... ",
+        "Phone number": "Missing",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Email": "wwong2@wpi.edu",
+        "Name": "Wilson Wong",
+        "Research Interest": " Prior to entering academia, I worked as Chief Technologist, Director of Information Systems, and Director of Technical Operations at various corporations in the information systems and software field. For the past 16 years teaching in university courses, I have aimed to impart this industry experience in my software engineering and databases courses by incorporating real life projects, examples, and whenever possible, collaborations with business organizations such as Brigham & Women\\'s Hospital, the US Treasury, Dartmouth-Hitchcock Medical Center and Massachusetts General Hospital. ... ",
+        "Phone number": " +1 (508) 8315000 x5706",
+        "Position": "Assistant Teaching Professor"
+    },
+    {
+        "Email": "jxiao2@wpi.edu",
+        "Name": "Jing Xiao",
+        "Research Interest": " My research spans robotics, haptics, multi-modal perception, and artificial intelligence, at the intersection of computer science and engineering. There are two highly related themes in my robotics research: one is the focus on \\xe2\\x80\\x9ccontact sport\\xe2\\x80\\x9d, i.e., the contact and interaction between a robot or a part/tool it holds and the environment, and the other is real-time adaptiveness of robots to uncertainty and uncertain changes in an environment based on perception. ... ",
+        "Phone number": "Missing",
+        "Position": "Professor and Head ad interim"
+    },
+    {
+        "Email": "ayousefi@wpi.edu",
+        "Name": "Ali Yousefi",
+        "Research Interest": " My research focuses on developing methodological solutions to problems concerning neuroscience data analysis. ... ",
+        "Phone number": "Missing",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Email": "nkcaligiuri@wpi.edu",
+        "Name": "Nicole Karen Caligiuri",
+        "Research Interest": "Missing",
+        "Phone number": " ",
+        "Position": "Grants Specialist II"
+    },
+    {
+        "Email": "rcane@wpi.edu",
+        "Name": "Refie Cane",
+        "Research Interest": "Missing",
+        "Phone number": " +1 (508) 8315000 x5357",
+        "Position": "Graduate Admin Coordinator"
+    },
+    {
+        "Email": "mcourtemanche@wpi.edu",
+        "Name": "Mary Katharine Courtemanche",
+        "Research Interest": "Missing",
+        "Phone number": " +1 (508) 8315357",
+        "Position": "Administrative Assistant V"
+    },
+    {
+        "Email": "dmagid@wpi.edu",
+        "Name": "David Magid",
+        "Research Interest": "Missing",
+        "Phone number": " +1 (508) 8315000 x6189",
+        "Position": "ASSISTments Systems Staff"
+    },
+    {
+        "Email": "bwschowalter@wpi.edu",
+        "Name": "Beckley Wooster Schowalter",
+        "Research Interest": "Missing",
+        "Phone number": " ",
+        "Position": "Scholarship for Service Program Manager"
+    },
+    {
+        "Email": "mvoorhis@wpi.edu",
+        "Name": "Michael C. Voorhis",
+        "Research Interest": "Missing",
+        "Phone number": " +1 (508) 8315000 x5674",
+        "Position": "Lab Manager II"
+    }
+]

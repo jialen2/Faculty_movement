@@ -1,0 +1,1931 @@
+{
+    "Kobus Barnard": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Faculty advisor",
+                [
+                    "Company Name",
+                    "iPlant Collaborative"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2007 - Apr 2022"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2002 - Apr 2022"
+                ]
+            ]
+        ]
+    },
+    "Christian Collberg": {
+        "status": "success",
+        "Education": [
+            [
+                "Lund University",
+                [
+                    "Degree Name",
+                    "phd"
+                ],
+                [
+                    "Field Of Study",
+                    " computer science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1982 - 1992"
+                ],
+                [
+                    "More Info",
+                    "Gullstrandskolan"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "University of Arizona"
+                ]
+            ],
+            [
+                "Graduate Student",
+                [
+                    "Company Name",
+                    "Lund University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1992 - Jun 1994"
+                ]
+            ]
+        ]
+    },
+    "Tyler Conklin": {
+        "status": "success",
+        "Education": [
+            [
+                "SUNY New Paltz",
+                [
+                    "Degree Name",
+                    "Bachelor of Science - BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Aug 2015 - Jun 2018"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Cook",
+                [
+                    "Company Name",
+                    "United States Military Academy at West Point"
+                ]
+            ]
+        ]
+    },
+    "Saumya Debray": {
+        "status": "success",
+        "Education": [
+            [
+                "Stony Brook University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1986"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Kharagpur",
+                [
+                    "Degree Name",
+                    "B. Tech. (Hons)"
+                ],
+                [
+                    "Field Of Study",
+                    " Electronics and Electrical Communications Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1976 - 1981"
+                ],
+                [
+                    "More Info",
+                    "St. Edmund's School, Shillong"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "-",
+                [
+                    "Company Name",
+                    "University of Arizona"
+                ]
+            ],
+            [
+                "Co-Founder",
+                [
+                    "Company Name",
+                    "Dataware Ventures"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2012 - Apr 2022"
+                ]
+            ]
+        ]
+    },
+    "Benjamin Dicken": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Arizona",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2013 - 2015"
+                ],
+                [
+                    "More Info",
+                    "Grade: 4.00"
+                ]
+            ],
+            [
+                "University of Arizona",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2010 - 2013"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.68"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Lecturer, Computer Science",
+                [
+                    "Company Name",
+                    "Department of Computer Science at The University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2017 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Responsible for both teaching and developing a variety of courses in the department of computer science at the University of Arizona. Experience both developing curriculum for new courses and revamping and creating materials for existing courses. Subject matter taught includes introductory programming (Python), web development (HTML, CSS, Js, Node, MongoDB), mobile app development (Java / Android), systems programming (C)."
+                ]
+            ],
+            [
+                "Research Software Engineer",
+                [
+                    "Company Name",
+                    "Dataware Ventures"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - Dec 2016"
+                ],
+                [
+                    "Location",
+                    "Responsible for the development of static and dynamic program analysis tools designed to assist with automatic micro-specialization. The ultimate goal of these tools was to reveal locations within DBMS source code that micro-specialization could be applied to improve performance.  Python, C, C++, Java."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "The University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2009 - Jan 2013"
+                ]
+            ]
+        ]
+    },
+    "Alon Efrat": {
+        "status": "success",
+        "Education": [
+            [
+                "Tel Aviv University"
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "U of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2001 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Tucson Arizona"
+                ]
+            ]
+        ]
+    },
+    "Chris Gniady": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "John H. Hartman": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1987 - 1994"
+                ],
+                [
+                    "More Info",
+                    "Brown University"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "The University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 1995 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "My research interests include distributed systems, operating systems, storage systems, cloud computing, and networks."
+                ]
+            ],
+            [
+                "Consultant",
+                [
+                    "Company Name",
+                    "Akamai Technologies"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2012 - Dec 2019"
+                ]
+            ],
+            [
+                "Distinguished Engineer",
+                [
+                    "Company Name",
+                    "Verivue, Inc."
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2010 - Dec 2012"
+                ],
+                [
+                    "Location",
+                    "Westford, MA"
+                ],
+                [
+                    "More Info",
+                    "Design and implementation of DNS-based CDN request routing."
+                ]
+            ],
+            [
+                "Cofounder, CTO, Chief Scientist",
+                [
+                    "Company Name",
+                    "Progeny"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2000 - Jun 2005"
+                ]
+            ]
+        ]
+    },
+    "Kate Isaacs": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Administrative Executive Officer, Human Resources",
+                [
+                    "Company Name",
+                    "The City University of New York"
+                ]
+            ]
+        ]
+    },
+    "Kwang-Sung Jun": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2015"
+                ],
+                [
+                    "More Info",
+                    "- Advisor: Xiaojin (Jerry) Zhu"
+                ]
+            ],
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "M.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2009 - 2011"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.9/4.0"
+                ]
+            ],
+            [
+                "Soongsil University",
+                [
+                    "Degree Name",
+                    "B.E."
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science, Mathematics (Minor)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2003 - 2009"
+                ],
+                [
+                    "More Info",
+                    "- GPA Ranked 1st out of 269 at graduation."
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Tucson, Arizona"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "Boston University"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2018 - Jul 2019"
+                ],
+                [
+                    "Location",
+                    "Greater Boston Area"
+                ],
+                [
+                    "More Info",
+                    "with Dr. Francesco Orabona."
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of Wisconsin-Madison"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2010 - Jul 2018"
+                ]
+            ],
+            [
+                "Fellow",
+                [
+                    "Company Name",
+                    "Data Science for Social Good at University of Chicago"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2013 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Greater Chicago Area"
+                ],
+                [
+                    "More Info",
+                    "Project: Smarter Crisis Crowdsourcing."
+                ]
+            ],
+            [
+                "Internship - Member of Technical Staff",
+                [
+                    "Company Name",
+                    "@WalmartLabs"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2012 - Aug 2012"
+                ],
+                [
+                    "Location",
+                    "San Bruno, CA"
+                ],
+                [
+                    "More Info",
+                    "Personal event detection in Twitter."
+                ]
+            ]
+        ]
+    },
+    "John Kececioglu": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Arizona",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Sience"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1991"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2000 - Apr 2022"
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of Georgia"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 1995 - May 2000"
+                ]
+            ]
+        ]
+    },
+    "Stephen Kobourov": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Josh Levine": {
+        "status": "success",
+        "Education": [
+            [
+                "Scottsdale Community College",
+                [
+                    "Degree Name",
+                    "Programming and Systems Analysis"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2016"
+                ]
+            ],
+            [
+                "Paradise Valley Community College",
+                [
+                    "Degree Name",
+                    "Computer and Information Sciences"
+                ],
+                [
+                    "Field Of Study",
+                    " General"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2014 - 2014"
+                ]
+            ],
+            [
+                "University of California, Berkeley",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Bioengineering and Biomedical Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1994"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Junior Web Application Developer",
+                [
+                    "Company Name",
+                    "Arizona State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Tempe, AZ"
+                ],
+                [
+                    "More Info",
+                    ".NET Web Applications development.  MS SQL Server"
+                ]
+            ],
+            [
+                "Temp Worker",
+                [
+                    "Company Name",
+                    "Runbeck Election Services"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 - Apr 2022"
+                ]
+            ],
+            [
+                "Lighting Artist",
+                [
+                    "Company Name",
+                    "Weta Digital"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2011 - Sep 2011"
+                ]
+            ],
+            [
+                "Technical Director",
+                [
+                    "Company Name",
+                    "Industrial Light &amp; Magic"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2002 - Jun 2007"
+                ],
+                [
+                    "Location",
+                    "San Francisco Bay Area"
+                ]
+            ]
+        ]
+    },
+    "Russell Lewis": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Delaware",
+                [
+                    "Degree Name",
+                    "BS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2001 - 2005"
+                ],
+                [
+                    "More Info",
+                    "Related Coursework"
+                ]
+            ],
+            [
+                "Alfred Lerner College of Business &amp; Economics at University of Delaware",
+                [
+                    "Degree Name",
+                    "MBA"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2005 - 2007"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Principal Financial Services Compliance Specialist",
+                [
+                    "Company Name",
+                    "Amazon Web Services"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2019 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "New York, New York"
+                ]
+            ],
+            [
+                "Head of IT Risk &amp; Control Assessment &amp; Treatment",
+                [
+                    "Company Name",
+                    "AIG"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2015 - Jan 2019"
+                ],
+                [
+                    "Location",
+                    "New York, NY"
+                ],
+                [
+                    "More Info",
+                    "• Leader of a multi-disciplinary international team responsible for technology risk"
+                ]
+            ],
+            [
+                "Director, Information Security Management &amp; Transformation",
+                [
+                    "Company Name",
+                    "MUFG Americas"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2014 - Nov 2015"
+                ],
+                [
+                    "Location",
+                    "Jersey City, NJ"
+                ],
+                [
+                    "More Info",
+                    "• Served as leader of the Enterprise Information Security (EIS) Program Management"
+                ]
+            ],
+            [
+                "Co-founder",
+                [
+                    "Company Name",
+                    "tinylabs"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2013 - Jul 2014"
+                ],
+                [
+                    "Location",
+                    "Brooklyn, New York"
+                ],
+                [
+                    "More Info",
+                    "• Co-founder and business strategy lead of Tinylabs, a NYC-based software company."
+                ]
+            ],
+            [
+                "Special Projects Group - Manager",
+                [
+                    "Company Name",
+                    "American International Group"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2010 - Aug 2013"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ],
+                [
+                    "More Info",
+                    "• Served as Information Security business architect for company-wide upgrade of SAP"
+                ]
+            ]
+        ]
+    },
+    "Melanie Lotz": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "CSC - IT Center for Science"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2011 - Apr 2022"
+                ]
+            ],
+            [
+                "Planning Officer / Project Manager",
+                [
+                    "Company Name",
+                    "Helsinki School of Economics"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2000 - Jul 2011"
+                ],
+                [
+                    "Location",
+                    "Helsinki Area, Finland"
+                ],
+                [
+                    "More Info",
+                    "Student administration, process development for study and teaching services, teaching, degree and curriculum development, Oodi student administration system development and support, personal study plan processes and tools, student counselling."
+                ]
+            ]
+        ]
+    },
+    "Eric Anson": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Arizona",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1994 - 2000"
+                ]
+            ],
+            [
+                "University of Arizona",
+                [
+                    "Degree Name",
+                    "Master of Science (M.S.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1988 - 1993"
+                ]
+            ],
+            [
+                "Pepperdine University",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (BS)"
+                ],
+                [
+                    "Field Of Study",
+                    " Mathematics and Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1981 - 1985"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.97"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Department of Computer Science at The University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Apr 2022"
+                ]
+            ],
+            [
+                "Contract Information Systems Consultant",
+                [
+                    "Company Name",
+                    "Saris Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2006 - Aug 2015"
+                ],
+                [
+                    "Location",
+                    "I'm an on call consultant working on occasional programming projects and giving general computer advice and help."
+                ]
+            ],
+            [
+                "Contract Programmer",
+                [
+                    "Company Name",
+                    "Pima County Justice Courts"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 - May 2015"
+                ],
+                [
+                    "Location",
+                    "Tucson, Arizona Area"
+                ],
+                [
+                    "More Info",
+                    "I worked as a contractor for the Pima County Justice court working on their conversion to a new data base. I first did the new web interface, and later came back to work on fixing bad data, improving/fixing some of the code for processing data, and calculating statistics. The web work involved HTML, JavaScript, Visual Basic, and SQL. Almost all the other work was done in SQL."
+                ]
+            ],
+            [
+                "IT Specialist",
+                [
+                    "Company Name",
+                    "USDA-ARS"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2007 - May 2013"
+                ],
+                [
+                    "Location",
+                    "Tucson, Arizona Area"
+                ],
+                [
+                    "More Info",
+                    "Do computer work in support of the scientific mission of Southwest Watershed Research center. This mostly involves programming, but also participation in writing papers and data analysis. I've done a lot of work on the acquisition, checking, and storing data as well as making it available for download. I've done some work with simulation, particularly statistical weather simulation. I've done some image processing and a good amount of web programming."
+                ]
+            ],
+            [
+                "Owner",
+                [
+                    "Company Name",
+                    "Zardick Consulting, LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2005 - Nov 2010"
+                ],
+                [
+                    "Location",
+                    "Ran a computer consulting company which did work in setting up networks for small companies, trouble shooting home and business computers, freelance programming, and giving general computer help, advice, and suggestions."
+                ]
+            ]
+        ]
+    },
+    "David Lowenthal": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Arizona",
+                [
+                    "Degree Name",
+                    "1990 - 1996"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2009 - Apr 2022"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "The University of Georgia - Computer Science Department"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1996 - Dec 2008"
+                ]
+            ],
+            [
+                "Graduate Student",
+                [
+                    "Company Name",
+                    "University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1990 - Jun 1996"
+                ]
+            ]
+        ]
+    },
+    "Lester I. McCann": {
+        "status": "success",
+        "Education": [
+            [
+                "Moorpark College",
+                [
+                    "Degree Name",
+                    "AAS"
+                ],
+                [
+                    "Field Of Study",
+                    " electrical Eng"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1976 - 1978"
+                ],
+                [
+                    "More Info",
+                    "Grade: 3.8"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "Meyn Food Processing Technology B.V."
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2005 - Apr 2022"
+                ]
+            ],
+            [
+                "Maintenance Technician",
+                [
+                    "Company Name",
+                    "Tyson Foods"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2000 - Aug 2005"
+                ],
+                [
+                    "Location",
+                    "Bentonville AR"
+                ]
+            ],
+            [
+                "Design Engineer",
+                [
+                    "Company Name",
+                    "Superior Industries"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1998 - Aug 2000"
+                ],
+                [
+                    "Location",
+                    "Fayetteville, Arkansas"
+                ]
+            ],
+            [
+                "Plant Engineer, electrial engineer",
+                [
+                    "Company Name",
+                    "FMC Corporation"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 1993 - Aug 1998"
+                ],
+                [
+                    "Location",
+                    "Rogers, Arkansas"
+                ]
+            ],
+            [
+                "Electronic Technician",
+                [
+                    "Company Name",
+                    "Superior Wheels"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1992 - Jul 1993"
+                ],
+                [
+                    "Location",
+                    "Rogers, Arkansas"
+                ]
+            ]
+        ]
+    },
+    "Rick Mercer": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Phoenix",
+                [
+                    "Degree Name",
+                    "Bachelor of Business Administration - BBA"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Quality Assurance Engineer",
+                [
+                    "Company Name",
+                    "FM Industries"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2019 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Greater Phoenix Area"
+                ]
+            ]
+        ]
+    },
+    "Jon Misurda": {
+        "status": "fail",
+        "Education": [],
+        "Experience": []
+    },
+    "Jason Pacheco": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Principal Sales Representative- Interventional Senior TM",
+                [
+                    "Company Name",
+                    "Medtronic"
+                ],
+                [
+                    "Dates Employed",
+                    "Mar 2019 - Jul 2021"
+                ],
+                [
+                    "Location",
+                    "Phoenix, Arizona"
+                ],
+                [
+                    "More Info",
+                    "Senior level Territory Manager role promoting interventional products for the peripheral vascular system which included  embolization devices/plugs, venous stents as well as delivery catheters. Arizona and Las Vegas, NV were primary geography."
+                ]
+            ],
+            [
+                "Territory Manager - Bard Access Systems",
+                [
+                    "Company Name",
+                    "Bard Access Systems"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2013 - Dec 2018"
+                ],
+                [
+                    "Location",
+                    "Phoenix, Arizona Area"
+                ],
+                [
+                    "More Info",
+                    "Sell and support the use of peripheral catheters, midlines, micro introducers, ultrasound machines and acute dialysis catheters to the southwest marketplace.  A $5.5M territory in the Greater Phoenix, Southern Arizona geographical area: to include central Arizona’s largest healthcare providers, academic institutions, outpatient surgery centers, &amp; infusion centers"
+                ]
+            ],
+            [
+                "Endovascular Sales Representative",
+                [
+                    "Company Name",
+                    "W. L. Gore &amp; Associates"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2002 - Jun 2013"
+                ],
+                [
+                    "Location",
+                    "arizona"
+                ],
+                [
+                    "More Info",
+                    "Directly responsible for driving sales, product marketing and intraoperative clinical support for the   Endovascular product line at W.L Gore. These products include the Abdominal Aortic Aneurysm (AAA) stent grafts as well as the Thoracic stent grafts  (TAA) in the Arizona marketplace. The procedural areas these interventions take place are Operating Room and Cath Lab. Beyond the stents, I also sell introducer sheaths and large diameter balloons.  Previous sales experience and success in both the peripheral and surgical vascular space in the Desert Southwest region, including NM, TX and Las Vegas, NV."
+                ]
+            ],
+            [
+                "Account Executive",
+                [
+                    "Company Name",
+                    "Allscripts"
+                ],
+                [
+                    "Dates Employed",
+                    "Nov 2000 - Oct 2001"
+                ],
+                [
+                    "Location",
+                    "Arizona"
+                ],
+                [
+                    "More Info",
+                    "Selling EMR and e-prescribing software to primary care physicians for Allscripts Healthcare."
+                ]
+            ]
+        ]
+    },
+    "Todd Proebsting": {
+        "status": "success",
+        "Education": [
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1988 - 1992"
+                ]
+            ],
+            [
+                "University of Wisconsin-Madison",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1984 - 1986"
+                ]
+            ],
+            [
+                "Carleton College",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Math"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1980 - 1984"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor of Computer Science",
+                [
+                    "Company Name",
+                    "The University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2012 - Apr 2022"
+                ]
+            ],
+            [
+                "Founder",
+                [
+                    "Company Name",
+                    "Planet Rational"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2012 - Apr 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2006 - Dec 2011"
+                ]
+            ],
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "The University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1992 - Aug 1997"
+                ],
+                [
+                    "Location",
+                    "Tucson, Arizona Area"
+                ],
+                [
+                    "More Info",
+                    "Programming language, compiler, virtual machine research."
+                ]
+            ],
+            [
+                "Research Assistant",
+                [
+                    "Company Name",
+                    "University of Wisconsin-Madison"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1988 - Jun 1992"
+                ]
+            ]
+        ]
+    },
+    "Sazzadur Rahaman": {
+        "status": "success",
+        "Education": [
+            [
+                "Virginia Tech",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2015 - 2020"
+                ],
+                [
+                    "More Info",
+                    "Advisor: Danfeng (Daphne) Yao"
+                ]
+            ],
+            [
+                "Bangladesh University of Engineering and Technology",
+                [
+                    "Degree Name",
+                    "Bachelor of Science (B.Sc.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science and Engineering"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2007 - 2012"
+                ],
+                [
+                    "More Info",
+                    "Government Science College"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2020 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Tucson, Arizona, United States"
+                ]
+            ],
+            [
+                "Graduate Research Assistant",
+                [
+                    "Company Name",
+                    "Virginia Tech"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Aug 2020"
+                ],
+                [
+                    "Location",
+                    "Blacksburg, Virginia"
+                ],
+                [
+                    "More Info",
+                    "Advisor: Danfeng (Daphne) Yao"
+                ]
+            ],
+            [
+                "Software Engineer",
+                [
+                    "Company Name",
+                    "Kona Software Lab Ltd."
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2014 - Aug 2015"
+                ],
+                [
+                    "Location",
+                    "Dhaka, Bangladesh"
+                ],
+                [
+                    "More Info",
+                    "Job responsibilities:"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Therap Services, LLC"
+                ],
+                [
+                    "Dates Employed",
+                    "Apr 2012 - Jan 2014"
+                ]
+            ]
+        ]
+    },
+    "Carlos Scheidegger": {
+        "status": "success",
+        "Education": [],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2014 - Apr 2022"
+                ]
+            ]
+        ]
+    },
+    "Ravi Sethi": {
+        "status": "success",
+        "Education": [
+            [
+                "Princeton University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (PhD)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1968 - 1972"
+                ]
+            ],
+            [
+                "Indian Institute of Technology, Kanpur",
+                [
+                    "Degree Name",
+                    "Bachelor of Technology (B.Tech.)"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1963 - 1968"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Professor, Department of Computer Science",
+                [
+                    "Company Name",
+                    "The University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Jul 2014 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Tucson, Arizona Area"
+                ],
+                [
+                    "More Info",
+                    "Teaching Software Engineering, Fall 2014"
+                ]
+            ],
+            [
+                "Member, College of Computing Sciences Board of Visitors",
+                [
+                    "Company Name",
+                    "New Jersey Institute of Technology"
+                ],
+                [
+                    "Dates Employed",
+                    "Feb 2014 - Dec 2014"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Avaya"
+                ],
+                [
+                    "Dates Employed",
+                    "May 2000 - Jan 2014"
+                ]
+            ],
+            [
+                "Member, Graduate School Leadership Council",
+                [
+                    "Company Name",
+                    "Princeton University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - Jun 2013"
+                ],
+                [
+                    "Location",
+                    "Princeton, NJ"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "Bell Labs"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 1991 - May 2000"
+                ]
+            ]
+        ]
+    },
+    "Richard T. Snodgrass": {
+        "status": "success",
+        "Education": [
+            [
+                "Carnegie Mellon University",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1977 - 1982"
+                ]
+            ],
+            [
+                "Carleton College",
+                [
+                    "Degree Name",
+                    "BA"
+                ],
+                [
+                    "Field Of Study",
+                    " Physics"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1973 - 1977"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "CEO",
+                [
+                    "Company Name",
+                    "Dataware Ventures"
+                ],
+                [
+                    "Dates Employed",
+                    "Oct 2012 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Tucson, Arizona"
+                ],
+                [
+                    "More Info",
+                    "White Paper"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 1989 - Apr 2022"
+                ]
+            ],
+            [
+                [
+                    "Company Name",
+                    "University of North Carolina at Chapel Hill"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 1982 - Apr 2022"
+                ]
+            ]
+        ]
+    },
+    "Michelle Strout": {
+        "status": "success",
+        "Education": [
+            [
+                "UC San Diego",
+                [
+                    "Degree Name",
+                    "1994 - 2003"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "Bryan High School"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Chapel Group Manager",
+                [
+                    "Company Name",
+                    "Hewlett Packard Enterprise"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2021 - Apr 2022"
+                ]
+            ],
+            [
+                "Professor",
+                [
+                    "Company Name",
+                    "University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2015 - Apr 2022"
+                ]
+            ],
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "Colorado State University"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2005 - Aug 2015"
+                ]
+            ],
+            [
+                "Enricho Fermi Postdoctoral Scholar",
+                [
+                    "Company Name",
+                    "Argonne National Laboratory"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2003 - Jun 2005"
+                ]
+            ]
+        ]
+    },
+    "Mihai Surdeanu": {
+        "status": "success",
+        "Education": [
+            [
+                "Southern Methodist University",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy - PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1997 - 2001"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Associate Professor",
+                [
+                    "Company Name",
+                    "University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Jan 2013 - Apr 2022"
+                ]
+            ],
+            [
+                "Chief Scientist",
+                [
+                    "Company Name",
+                    "lum.ai"
+                ],
+                [
+                    "Dates Employed",
+                    "Dec 2017 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Tucson, Arizona Area"
+                ]
+            ],
+            [
+                "Chief Technology Officer",
+                [
+                    "Company Name",
+                    "Lex Machina"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2010 - Jun 2012"
+                ]
+            ],
+            [
+                "Senior Research Scientist",
+                [
+                    "Company Name",
+                    "Stanford University"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2008 - Jun 2012"
+                ]
+            ],
+            [
+                "Research Scientist",
+                [
+                    "Company Name",
+                    "Yahoo! Research Barcelona/Barcelona Media Innovation Center"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2007 - Jun 2008"
+                ]
+            ]
+        ]
+    },
+    "Beichuan Zhang": {
+        "status": "success",
+        "Education": [
+            [
+                "University of California, Los Angeles",
+                [
+                    "Degree Name",
+                    "PhD"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1998 - 2003"
+                ]
+            ],
+            [
+                "University of California, Los Angeles",
+                [
+                    "Degree Name",
+                    "MS"
+                ],
+                [
+                    "Field Of Study",
+                    " Biochemistry"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1995 - 1998"
+                ]
+            ],
+            [
+                "Peking University",
+                [
+                    "Degree Name",
+                    "B.S."
+                ],
+                [
+                    "Field Of Study",
+                    " Chemistry"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "1990 - 1995"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                [
+                    "Company Name",
+                    "The University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2005 - Apr 2022"
+                ]
+            ],
+            [
+                "Postdoc Researcher",
+                [
+                    "Company Name",
+                    "ISI"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2003 - Jun 2004"
+                ]
+            ]
+        ]
+    },
+    "Chicheng Zhang": {
+        "status": "success",
+        "Education": [
+            [
+                "UC San Diego",
+                [
+                    "Degree Name",
+                    "Doctor of Philosophy (Ph.D.)"
+                ],
+                [
+                    "Field Of Study",
+                    " Computer Science"
+                ],
+                [
+                    "Dates attended or expected graduation",
+                    "2012 - 2017"
+                ],
+                [
+                    "More Info",
+                    "Microsoft Research"
+                ]
+            ]
+        ],
+        "Experience": [
+            [
+                "Assistant Professor",
+                [
+                    "Company Name",
+                    "University of Arizona"
+                ],
+                [
+                    "Dates Employed",
+                    "Aug 2019 - Apr 2022"
+                ],
+                [
+                    "Location",
+                    "Tucson, Arizona Area"
+                ]
+            ],
+            [
+                "Postdoctoral Researcher",
+                [
+                    "Company Name",
+                    "Microsoft"
+                ],
+                [
+                    "Dates Employed",
+                    "Sep 2017 - Jun 2019"
+                ],
+                [
+                    "Location",
+                    "Greater New York City Area"
+                ]
+            ],
+            [
+                "Research Intern",
+                [
+                    "Company Name",
+                    "Yahoo"
+                ],
+                [
+                    "Dates Employed",
+                    "Jun 2015 - Apr 2022"
+                ]
+            ]
+        ]
+    }
+}
