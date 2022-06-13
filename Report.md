@@ -1,5 +1,5 @@
 # The Problem
-The project aims at discovering professor moving trends between different academic institutions, and provide ranking for institutions based on faculty movement statistics.
+The project aims at discovering professor moving trends between different academic institutions, and find useful information for institutions based on faculty movement statistics.
 
 # Approaches
 The project can be summarized into 3 steps: scraping, analyzing and ranking. I will discuss each step in detail later.
